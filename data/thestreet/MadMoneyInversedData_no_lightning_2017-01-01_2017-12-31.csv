@@ -1,0 +1,2472 @@
+Company,Symbol,Date,Segment,Call,Price
+Allergan (AGN),AGN,2017-01-03,D,1,$216.19
+Applied Materials (AMAT),AMAT,2017-01-03,D,1,$31.94
+Caterpillar (CAT),CAT,2017-01-03,F,4,$93.99
+Comerica (CMA),CMA,2017-01-03,D,1,$68.96
+Chevron (CVX),CVX,2017-01-03,F,4,$117.85
+Endo Pharmaceuticals (ENDP),ENDP,2017-01-03,D,5,$17.47
+First Solar (FSLR),FSLR,2017-01-03,D,5,$33.54
+Goldman Sachs (GS),GS,2017-01-03,F,1,$241.57
+Halliburton (HAL),HAL,2017-01-03,D,1,$55.68
+JPMorgan Chase (JPM),JPM,2017-01-03,F,1,$87.23
+NVIDIA (NVDA),NVDA,2017-01-03,F,1,$102.01
+Oneok (OKE),OKE,2017-01-03,D,1,$58.75
+Perrigo (PRGO),PRGO,2017-01-03,D,5,$86.50
+Quanta Services (PWR),PWR,2017-01-03,D,1,$34.91
+Regeneron Pharmaceuticals (REGN),REGN,2017-01-03,D,2,$379.70
+TripAdvisor (TRIP),TRIP,2017-01-03,D,4,$47.51
+UnitedHealth Group (UNH),UNH,2017-01-03,F,1,$161.45
+Vertex Pharmaceuticals (VRTX),VRTX,2017-01-03,D,2,$74.89
+Boeing (BA),BA,2017-01-04,D,1,$158.62
+Dominion Energy (D),D,2017-01-04,I,1,$76.18
+General Motors (GM),GM,2017-01-04,D,1,$37.09
+Lockheed Martin (LMT),LMT,2017-01-04,D,1,$253.99
+MindBody (MB),MB,2017-01-04,I,1,$23.30
+United Technologies (UTX),UTX,2017-01-04,D,1,$110.90
+Apple (AAPL),AAPL,2017-01-05,D,1,$116.61
+Amazon (AMZN),AMZN,2017-01-05,D,2,$780.45
+Box (BOX),BOX,2017-01-05,I,1,$14.56
+Meta (FB),FB,2017-01-05,D,1,$120.67
+Halozyme Therapeutics (HALO),HALO,2017-01-05,I,2,$12.61
+Kohl's (KSS),KSS,2017-01-05,D,5,$42.01
+L Brands (LB),LB,2017-01-05,D,5,$62.04
+Macy's (M),M,2017-01-05,D,5,$30.86
+Constellation Brands (STZ),STZ,2017-01-05,I,1,$146.75
+Target (TGT),TGT,2017-01-05,D,4,$72.56
+Walmart (WMT),WMT,2017-01-05,D,4,$69.21
+Allergan (AGN),AGN,2017-01-06,D,1,$219.08
+Alkermes (ALKS),ALKS,2017-01-06,D,2,$59.64
+Amgen (AMGN),AMGN,2017-01-06,D,1,$156.78
+Bank of America (BAC),BAC,2017-01-06,D,2,$22.68
+Celgene (CELG),CELG,2017-01-06,D,2,$119.64
+Delta Air Lines (DAL),DAL,2017-01-06,D,2,$49.68
+Hudson Technologies (HDSN),HDSN,2017-01-06,M,5,$7.76
+JPMorgan Chase (JPM),JPM,2017-01-06,D,2,$86.12
+KB Home (KBH),KBH,2017-01-06,D,2,$16.21
+Carmax (KMX),KMX,2017-01-06,D,4,$65.40
+Southwest Airlines (LUV),LUV,2017-01-06,D,1,$49.93
+Regeneron Pharmaceuticals (REGN),REGN,2017-01-06,D,2,$358.68
+Shenandoah Telecommunicat (SHEN),SHEN,2017-01-06,M,5,$29.15
+Splunk (SPLK),SPLK,2017-01-06,D,4,$56.17
+Constellation Brands (STZ),STZ,2017-01-06,F,1,$149.44
+Molson Coors (TAP),TAP,2017-01-06,D,4,$99.79
+Toro (TTC),TTC,2017-01-06,M,5,$57.13
+United Continental (UAL),UAL,2017-01-06,F,1,$71.37
+Valeant Pharmaceuticals (VRX),VRX,2017-01-06,D,2,$15.29
+Wells Fargo (WFC),WFC,2017-01-06,D,1,$55.04
+Apple (AAPL),AAPL,2017-01-09,D,2,$118.99
+Adient (ADNT),ADNT,2017-01-09,F,1,$55.88
+American Express (AXP),AXP,2017-01-09,D,2,$75.86
+Blue Buffalo Pet Products (BUFF),BUFF,2017-01-09,D,4,$25.33
+Caterpillar (CAT),CAT,2017-01-09,D,4,$92.37
+Cisco Systems (CSCO),CSCO,2017-01-09,D,2,$30.18
+Chevron (CVX),CVX,2017-01-09,D,4,$115.84
+Walt Disney (DIS),DIS,2017-01-09,D,1,$108.36
+Freshpet (FRPT),FRPT,2017-01-09,D,4,$10.00
+Henry Schein (HSIC),HSIC,2017-01-09,D,1,$157.25
+IBM (IBM),IBM,2017-01-09,D,4,$167.65
+Idexx Laboratories (IDXX),IDXX,2017-01-09,D,1,$119.02
+Johnson Controls (JCI),JCI,2017-01-09,I,1,$42.60
+Coca-Cola (KO),KO,2017-01-09,D,2,$41.32
+Procter & Gamble (PG),PG,2017-01-09,D,2,$84.40
+United Technologies (UTX),UTX,2017-01-09,D,4,$111.50
+Petco Health & Wellness (WOOF),WOOF,2017-01-09,D,2,$90.79
+Exxon Mobil (XOM),XOM,2017-01-09,D,4,$87.04
+Zoetis (ZTS),ZTS,2017-01-09,D,1,$53.95
+Analog Devices (ADI),ADI,2017-01-10,D,1,$72.35
+Advanced Micro Devices (AMD),AMD,2017-01-10,D,1,$11.44
+Broadcom (AVGO),AVGO,2017-01-10,D,1,$180.57
+BHP Billiton (BHP),BHP,2017-01-10,D,1,$38.56
+Caterpillar (CAT),CAT,2017-01-10,D,1,$93.83
+Chipotle Mexican Grill (CMG),CMG,2017-01-10,D,1,$414.48
+Cummins (CMI),CMI,2017-01-10,D,1,$139.56
+Edwards Lifesciences (EW),EW,2017-01-10,I,1,$99.14
+Micron Technology (MU),MU,2017-01-10,D,1,$22.48
+NVIDIA (NVDA),NVDA,2017-01-10,D,4,$106.47
+Texas Instruments (TXN),TXN,2017-01-10,D,1,$74.60
+Western Digital (WDC),WDC,2017-01-10,D,1,$70.84
+AdvanSix (ASIX),ASIX,2017-01-11,F,1,$21.57
+Pegasystems (PEGA),PEGA,2017-01-11,I,1,$36.85
+UnitedHealth Group (UNH),UNH,2017-01-11,F,1,$161.89
+Advance Auto Parts (AAP),AAP,2017-01-12,F,1,$174.47
+Amazon (AMZN),AMZN,2017-01-12,D,1,$813.64
+AutoZone (AZO),AZO,2017-01-12,D,2,$790.27
+Delta Air Lines (DAL),DAL,2017-01-12,D,2,$50.89
+Helmerich & Payne (HP),HP,2017-01-12,F,1,$79.01
+KB Home (KBH),KBH,2017-01-12,D,2,$16.65
+O'Reilly Automotive (ORLY),ORLY,2017-01-12,D,2,$281.58
+American Express (AXP),AXP,2017-01-13,D,1,$76.62
+Bank of America (BAC),BAC,2017-01-13,D,1,$23.01
+Citigroup (C),C,2017-01-13,D,1,$59.63
+CSX (CSX),CSX,2017-01-13,D,4,$38.80
+Dexcom (DXCM),DXCM,2017-01-13,F,2,$85.13
+First Horizon National (FHN),FHN,2017-01-13,I,1,$19.89
+Federal Realty Investment (FRT),FRT,2017-01-13,I,1,$140.18
+General Electric (GE),GE,2017-01-13,D,2,$31.36
+Goldman Sachs (GS),GS,2017-01-13,D,1,$244.30
+IBM (IBM),IBM,2017-01-13,D,4,$167.34
+JPMorgan Chase (JPM),JPM,2017-01-13,D,1,$86.70
+KeyCorp (KEY),KEY,2017-01-13,D,1,$18.58
+Morgan Stanley (MS),MS,2017-01-13,D,1,$43.81
+Netflix (NFLX),NFLX,2017-01-13,D,4,$133.70
+Schlumberger (SLB),SLB,2017-01-13,D,2,$84.82
+UnitedHealth Group (UNH),UNH,2017-01-13,D,1,$161.80
+Union Pacific (UNP),UNP,2017-01-13,D,5,$105.25
+Wells Fargo (WFC),WFC,2017-01-13,D,2,$55.31
+Apple (AAPL),AAPL,2017-01-17,D,1,$120.00
+Bank of America (BAC),BAC,2017-01-17,D,1,$22.05
+Cheesecake Factory (CAKE),CAKE,2017-01-17,D,1,$59.59
+Jack in the Box (JACK),JACK,2017-01-17,D,1,$107.57
+JPMorgan Chase (JPM),JPM,2017-01-17,D,1,$83.55
+Altria (MO),MO,2017-01-17,F,1,$68.48
+Morgan Stanley (MS),MS,2017-01-17,D,2,$42.15
+Popeyes Louisiana Kitchen (PLKI),PLKI,2017-01-17,F,1,$61.50
+Philip Morris Internation (PM),PM,2017-01-17,D,2,$92.36
+Panera Bread (PNRA),PNRA,2017-01-17,D,2,$211.51
+PVH Corp (PVH),PVH,2017-01-17,D,2,$94.83
+Constellation Brands (STZ),STZ,2017-01-17,D,2,$153.73
+UnitedHealth Group (UNH),UNH,2017-01-17,D,1,$160.66
+Wells Fargo (WFC),WFC,2017-01-17,D,1,$53.78
+ASML Holdings (ASML),ASML,2017-01-18,D,2,$122.97
+Broadcom (AVGO),AVGO,2017-01-18,D,2,$185.02
+Bank of America (BAC),BAC,2017-01-18,F,1,$22.63
+CSX (CSX),CSX,2017-01-18,D,2,$36.88
+FMC Corp (FMC),FMC,2017-01-18,F,1,$58.55
+Macy's (M),M,2017-01-18,D,4,$29.44
+Netflix (NFLX),NFLX,2017-01-18,D,2,$133.26
+Splunk (SPLK),SPLK,2017-01-18,I,1,$54.30
+Skyworks Solutions (SWKS),SWKS,2017-01-18,D,2,$79.27
+Target (TGT),TGT,2017-01-18,D,4,$66.85
+Whirlpool (WHR),WHR,2017-01-18,F,1,$186.01
+Walmart (WMT),WMT,2017-01-18,D,4,$68.11
+Amazon (AMZN),AMZN,2017-01-19,F,1,$809.04
+CSX (CSX),CSX,2017-01-19,D,2,$45.51
+Dexcom (DXCM),DXCM,2017-01-19,I,1,$81.59
+Morgan Stanley (MS),MS,2017-01-19,D,2,$42.45
+Netflix (NFLX),NFLX,2017-01-19,F,1,$138.41
+PPG Industries (PPG),PPG,2017-01-19,I,1,$97.50
+SentinelOne (S),S,2017-01-19,D,1,$8.97
+T-Mobile US (TMUS),TMUS,2017-01-19,D,1,$60.07
+Tesla (TSLA),TSLA,2017-01-19,F,1,$243.76
+Alcoa (AA),AA,2017-01-20,D,4,$35.66
+Apple (AAPL),AAPL,2017-01-20,D,1,$120.00
+Automatic Data Processing (ADP),ADP,2017-01-20,D,1,$103.24
+Amazon (AMZN),AMZN,2017-01-20,D,2,$808.33
+American Outdoor Brands (AOBC),AOBC,2017-01-20,D,2,$20.13
+Boeing (BA),BA,2017-01-20,D,4,$159.53
+Bank of America (BAC),BAC,2017-01-20,D,1,$22.64
+Bristol-Myers Squibb (BMY),BMY,2017-01-20,D,5,$49.23
+Caterpillar (CAT),CAT,2017-01-20,D,4,$94.58
+Cintas (CTAS),CTAS,2017-01-20,D,1,$113.88
+Chevron (CVX),CVX,2017-01-20,D,2,$115.60
+Freeport-McMoRan (FCX),FCX,2017-01-20,D,1,$15.51
+First Solar (FSLR),FSLR,2017-01-20,D,4,$34.75
+General Electric (GE),GE,2017-01-20,D,1,$30.53
+Alphabet (GOOGL),GOOGL,2017-01-20,D,1,$828.17
+Goldman Sachs (GS),GS,2017-01-20,D,1,$232.20
+Halliburton (HAL),HAL,2017-01-20,D,1,$56.45
+Honeywell (HON),HON,2017-01-20,D,2,$117.82
+JPMorgan Chase (JPM),JPM,2017-01-20,D,1,$83.67
+Kimberly-Clark (KMB),KMB,2017-01-20,D,4,$116.22
+Lockheed Martin (LMT),LMT,2017-01-20,D,4,$257.73
+Lam Research (LRCX),LRCX,2017-01-20,D,1,$112.35
+McDonald's (MCD),MCD,2017-01-20,D,2,$122.26
+3M (MMM),MMM,2017-01-20,D,1,$178.49
+Magellan Midstream Partne (MMP),MMP,2017-01-20,D,1,$74.64
+Microsoft (MSFT),MSFT,2017-01-20,D,1,$62.74
+National Oilwell Varco (NOV),NOV,2017-01-20,D,1,$39.08
+Norfolk Southern (NSC),NSC,2017-01-20,D,4,$113.59
+Paychex (PAYX),PAYX,2017-01-20,D,1,$61.47
+Starbucks (SBUX),SBUX,2017-01-20,D,4,$57.66
+Schlumberger (SLB),SLB,2017-01-20,D,1,$86.49
+Skyworks Solutions (SWKS),SWKS,2017-01-20,F,1,$88.67
+UnitedHealth Group (UNH),UNH,2017-01-20,D,1,$158.66
+United Rentals (URI),URI,2017-01-20,D,4,$111.19
+Western Digital (WDC),WDC,2017-01-20,D,1,$72.63
+Wells Fargo (WFC),WFC,2017-01-20,D,1,$55.07
+Comcast (CMCSA),CMCSA,2017-01-23,D,1,$73.26
+JC Penney (JCP),JCP,2017-01-23,D,4,$6.85
+Kohl's (KSS),KSS,2017-01-23,D,4,$40.11
+Macy's (M),M,2017-01-23,D,4,$29.63
+Procter & Gamble (PG),PG,2017-01-23,F,1,$86.96
+Skyworks Solutions (SWKS),SWKS,2017-01-23,I,1,$90.17
+Target (TGT),TGT,2017-01-23,F,4,$63.85
+Allegheny Technologies (ATI),ATI,2017-01-24,D,1,$22.28
+Citigroup (C),C,2017-01-24,D,1,$56.74
+D R Horton (DHI),DHI,2017-01-24,D,1,$30.64
+Deluxe (DLX),DLX,2017-01-24,F,1,$73.63
+Freeport-McMoRan (FCX),FCX,2017-01-24,D,1,$17.02
+IBM (IBM),IBM,2017-01-24,D,1,$175.90
+Martin Marietta Materials (MLM),MLM,2017-01-24,D,1,$234.50
+Magellan Midstream Partne (MMP),MMP,2017-01-24,D,1,$77.01
+Micron Technology (MU),MU,2017-01-24,D,1,$22.85
+Quanta Services (PWR),PWR,2017-01-24,D,1,$37.41
+ResMed (RMD),RMD,2017-01-24,I,2,$69.72
+United Rentals (URI),URI,2017-01-24,D,1,$113.61
+Western Digital (WDC),WDC,2017-01-24,D,1,$76.01
+American Express (AXP),AXP,2017-01-25,D,1,$76.89
+Boeing (BA),BA,2017-01-25,D,1,$167.36
+Core Labs (CLB),CLB,2017-01-25,I,1,$124.18
+DuPont (DD),DD,2017-01-25,D,1,$76.67
+Walt Disney (DIS),DIS,2017-01-25,F,1,$108.04
+General Electric (GE),GE,2017-01-25,D,4,$30.37
+Goldman Sachs (GS),GS,2017-01-25,D,1,$237.25
+IBM (IBM),IBM,2017-01-25,D,1,$178.29
+Johnson & Johnson (JNJ),JNJ,2017-01-25,D,1,$112.80
+JPMorgan Chase (JPM),JPM,2017-01-25,D,1,$86.03
+McDonald's (MCD),MCD,2017-01-25,D,1,$121.79
+3M (MMM),MMM,2017-01-25,D,1,$176.73
+Micron Technology (MU),MU,2017-01-25,F,1,$23.56
+Procter & Gamble (PG),PG,2017-01-25,D,1,$87.16
+Seagate Technology (STX),STX,2017-01-25,F,1,$42.67
+Travelers Companies (TRV),TRV,2017-01-25,D,1,$117.67
+UnitedHealth Group (UNH),UNH,2017-01-25,D,1,$161.24
+United Technologies (UTX),UTX,2017-01-25,D,1,$110.96
+Verizon (VZ),VZ,2017-01-25,D,4,$49.77
+Western Digital (WDC),WDC,2017-01-25,F,1,$80.02
+Apple (AAPL),AAPL,2017-01-26,D,1,$121.94
+American Electric Power (AEP),AEP,2017-01-26,I,1,$62.64
+Walt Disney (DIS),DIS,2017-01-26,D,1,$108.06
+Home Depot (HD),HD,2017-01-26,D,1,$138.46
+Lam Research (LRCX),LRCX,2017-01-26,I,1,$114.33
+ServiceNow (NOW),NOW,2017-01-26,I,1,$89.48
+UnitedHealth Group (UNH),UNH,2017-01-26,D,1,$162.75
+Visa (V),V,2017-01-26,D,1,$83.24
+Apple (AAPL),AAPL,2017-01-27,D,1,$121.95
+Advanced Micro Devices (AMD),AMD,2017-01-27,D,1,$10.67
+Amazon (AMZN),AMZN,2017-01-27,D,1,$835.77
+AutoNation (AN),AN,2017-01-27,D,2,$52.18
+Carnival (CCL),CCL,2017-01-27,I,1,$56.29
+Clorox (CLX),CLX,2017-01-27,D,1,$120.49
+Chipotle Mexican Grill (CMG),CMG,2017-01-27,D,2,$416.60
+Enterprise Products Partn (EPD),EPD,2017-01-27,D,2,$29.09
+Meta (FB),FB,2017-01-27,D,1,$132.18
+Merck (MRK),MRK,2017-01-27,D,4,$61.75
+Micron Technology (MU),MU,2017-01-27,D,1,$23.97
+Packaging Corp of America (PKG),PKG,2017-01-27,D,2,$93.58
+Under Armour (UA),UA,2017-01-27,D,4,$25.52
+United Rentals (URI),URI,2017-01-27,F,1,$128.26
+Marriott Vacations Worldw (VAC),VAC,2017-01-27,F,1,$86.44
+Exxon Mobil (XOM),XOM,2017-01-27,D,2,$85.51
+Ethan Allen Interiors (ETH),ETH,2017-01-30,I,2,$28.85
+REV Group (REVG),REVG,2017-01-30,F,4,$25.65
+Thor Industries (THO),THO,2017-01-30,D,1,$104.24
+United Rentals (URI),URI,2017-01-30,I,1,$128.77
+Apple (AAPL),AAPL,2017-01-31,D,1,$121.35
+Arconic (ARNC),ARNC,2017-01-31,I,1,$22.79
+Illinois Tool Works (ITW),ITW,2017-01-31,F,1,$127.20
+Coca-Cola (KO),KO,2017-01-31,F,1,$41.57
+Under Armour (UA),UA,2017-01-31,D,5,$19.22
+Apple (AAPL),AAPL,2017-02-01,F,1,$128.75
+Amazon (AMZN),AMZN,2017-02-01,D,1,$832.35
+Meta (FB),FB,2017-02-01,D,1,$133.23
+Alphabet (GOOGL),GOOGL,2017-02-01,D,1,$815.24
+H&R Block (HRB),HRB,2017-02-01,I,2,$21.10
+Maxim Integrated Products (MXIM),MXIM,2017-02-01,F,1,$44.76
+Netflix (NFLX),NFLX,2017-02-01,D,1,$140.78
+Nexstar Media Group (NXST),NXST,2017-02-01,I,1,$67.40
+Take-Two Interactive (TTWO),TTWO,2017-02-01,D,1,$54.36
+Amazon (AMZN),AMZN,2017-02-02,D,1,$839.95
+Meta (FB),FB,2017-02-02,D,1,$130.84
+International Paper (IP),IP,2017-02-02,I,1,$53.35
+Snap-on (SNA),SNA,2017-02-02,I,1,$166.98
+Wingstop (WING),WING,2017-02-02,I,1,$28.40
+Acadia Healthcare (ACHC),ACHC,2017-02-03,M,5,$38.80
+Autodesk (ADSK),ADSK,2017-02-03,F,1,$84.41
+Allergan (AGN),AGN,2017-02-03,D,2,$230.87
+Amazon (AMZN),AMZN,2017-02-03,F,4,$810.20
+Clorox (CLX),CLX,2017-02-03,I,1,$125.14
+Cummins (CMI),CMI,2017-02-03,D,1,$146.86
+CVS Health (CVS),CVS,2017-02-03,D,4,$75.46
+Walt Disney (DIS),DIS,2017-02-03,D,1,$110.30
+General Motors (GM),GM,2017-02-03,D,2,$36.33
+Hasbro (HAS),HAS,2017-02-03,D,1,$82.63
+ILG (ILG),ILG,2017-02-03,M,5,$19.05
+Coca-Cola (KO),KO,2017-02-03,D,1,$41.54
+Mattel (MAT),MAT,2017-02-03,D,4,$25.82
+National Oilwell Varco (NOV),NOV,2017-02-03,D,1,$38.57
+NVIDIA (NVDA),NVDA,2017-02-03,D,1,$114.38
+NXP Semiconductors (NXPI),NXPI,2017-02-03,M,1,$99.46
+Pioneer Natural Resources (PXD),PXD,2017-02-03,D,1,$183.84
+Twitter (TWTR),TWTR,2017-02-03,D,5,$17.61
+Time Warner (TWX),TWX,2017-02-03,D,5,$95.87
+Marriott Vacations Worldw (VAC),VAC,2017-02-03,M,1,$86.72
+Apple (AAPL),AAPL,2017-02-06,D,1,$130.29
+Alaska Air Group (ALK),ALK,2017-02-06,F,1,$95.12
+Advanced Micro Devices (AMD),AMD,2017-02-06,F,1,$13.63
+Estee Lauder (EL),EL,2017-02-06,D,4,$82.82
+Meta (FB),FB,2017-02-06,D,1,$132.06
+Fossil (FOSL),FOSL,2017-02-06,D,4,$25.61
+Hasbro (HAS),HAS,2017-02-06,I,1,$94.31
+Kohl's (KSS),KSS,2017-02-06,D,4,$39.22
+Southwest Airlines (LUV),LUV,2017-02-06,D,1,$53.07
+Macy's (M),M,2017-02-06,D,4,$31.79
+Newell Brands (NWL),NWL,2017-02-06,D,4,$44.23
+PVH Corp (PVH),PVH,2017-02-06,D,4,$88.43
+Buffalo Wild Wings (BWLD),BWLD,2017-02-07,D,4,$149.80
+Check Point Software (CHKP),CHKP,2017-02-07,D,1,$100.27
+Centene (CNC),CNC,2017-02-07,I,1,$67.00
+Cisco Systems (CSCO),CSCO,2017-02-07,D,2,$31.45
+CyberArk Software (CYBR),CYBR,2017-02-07,D,1,$53.91
+Fortinet (FTNT),FTNT,2017-02-07,D,4,$37.76
+Hasbro (HAS),HAS,2017-02-07,D,1,$94.98
+Hanesbrands (HBI),HBI,2017-02-07,D,4,$19.30
+Jabil (JBL),JBL,2017-02-07,D,2,$24.35
+Michael Kors (KORS),KORS,2017-02-07,D,4,$36.82
+Newell Brands (NWL),NWL,2017-02-07,D,4,$45.52
+Oracle (ORCL),ORCL,2017-02-07,D,2,$40.07
+Palo Alto Networks (PANW),PANW,2017-02-07,D,2,$150.15
+Sears Holdings (SHLD),SHLD,2017-02-07,D,5,$5.66
+Target (TGT),TGT,2017-02-07,D,4,$63.57
+United Parcel Service (UPS),UPS,2017-02-07,D,4,$105.69
+Apple (AAPL),AAPL,2017-02-08,D,2,$132.04
+Allergan (AGN),AGN,2017-02-08,I,1,$241.17
+Amazon (AMZN),AMZN,2017-02-08,D,2,$819.71
+Walt Disney (DIS),DIS,2017-02-08,F,1,$109.00
+General Electric (GE),GE,2017-02-08,I,1,$29.43
+Alphabet (GOOGL),GOOGL,2017-02-08,D,2,$829.88
+Take-Two Interactive (TTWO),TTWO,2017-02-08,I,1,$53.71
+Allergan (AGN),AGN,2017-02-09,D,2,$245.68
+Alaska Air Group (ALK),ALK,2017-02-09,D,1,$98.41
+Cummins (CMI),CMI,2017-02-09,D,2,$150.14
+Costco (COST),COST,2017-02-09,D,2,$170.96
+Emerson Electric (EMR),EMR,2017-02-09,D,4,$62.71
+Meta (FB),FB,2017-02-09,D,2,$134.14
+Alphabet (GOOGL),GOOGL,2017-02-09,D,2,$830.06
+Honeywell (HON),HON,2017-02-09,D,2,$120.66
+JPMorgan Chase (JPM),JPM,2017-02-09,D,2,$87.20
+Coca-Cola (KO),KO,2017-02-09,D,4,$41.25
+Southwest Airlines (LUV),LUV,2017-02-09,D,1,$54.52
+3M (MMM),MMM,2017-02-09,D,2,$178.18
+Pepsico (PEP),PEP,2017-02-09,D,2,$105.97
+SAP AG (SAP),SAP,2017-02-09,I,1,$91.71
+Treehouse Foods (THS),THS,2017-02-09,I,1,$84.99
+Twitter (TWTR),TWTR,2017-02-09,D,5,$16.41
+Analog Devices (ADI),ADI,2017-02-10,D,1,$76.53
+American International Gr (AIG),AIG,2017-02-10,D,1,$65.61
+Applied Materials (AMAT),AMAT,2017-02-10,D,1,$35.32
+Amazon (AMZN),AMZN,2017-02-10,D,2,$827.46
+Activision Blizzard (ATVI),ATVI,2017-02-10,D,2,$47.23
+CBS Corp (CBS),CBS,2017-02-10,D,2,$64.40
+Campbell Soup (CPB),CPB,2017-02-10,D,4,$63.27
+Cisco Systems (CSCO),CSCO,2017-02-10,D,4,$31.51
+Deere & Company (DE),DE,2017-02-10,D,1,$110.24
+Diamondback Energy (FANG),FANG,2017-02-10,D,2,$104.79
+Harley Davidson (HOG),HOG,2017-02-10,F,4,$57.34
+Kratos Defense & Security (KTOS),KTOS,2017-02-10,F,1,$8.45
+MGM Resorts (MGM),MGM,2017-02-10,D,1,$28.53
+Noble Energy (NBL),NBL,2017-02-10,D,2,$38.87
+Netflix (NFLX),NFLX,2017-02-10,D,2,$144.82
+Pepsico (PEP),PEP,2017-02-10,D,1,$106.10
+Polaris Industries (PII),PII,2017-02-10,F,4,$88.04
+JM Smucker (SJM),SJM,2017-02-10,D,2,$138.02
+Taser International (TASR),TASR,2017-02-10,I,1,$27.34
+Teva Pharmaceuticals (TEVA),TEVA,2017-02-10,D,4,$32.19
+T-Mobile US (TMUS),TMUS,2017-02-10,D,1,$62.39
+VF Corp (VFC),VFC,2017-02-10,D,4,$50.32
+Zoetis (ZTS),ZTS,2017-02-10,D,1,$55.73
+Apple (AAPL),AAPL,2017-02-13,D,1,$133.29
+Intel (INTC),INTC,2017-02-13,I,1,$35.80
+New Relic (NEWR),NEWR,2017-02-13,I,1,$35.57
+VMware (VMW),VMW,2017-02-13,I,1,$90.37
+Chipotle Mexican Grill (CMG),CMG,2017-02-16,D,2,$424.76
+Cisco Systems (CSCO),CSCO,2017-02-16,I,1,$33.60
+Alphabet (GOOGL),GOOGL,2017-02-16,F,2,$842.17
+McDonald's (MCD),MCD,2017-02-16,D,2,$126.70
+3M (MMM),MMM,2017-02-16,D,1,$183.41
+Pepsico (PEP),PEP,2017-02-16,D,1,$108.12
+Twilio (TWLO),TWLO,2017-02-16,I,1,$33.17
+Twitter (TWTR),TWTR,2017-02-16,I,3,$16.35
+Apple (AAPL),AAPL,2017-02-17,D,2,$135.72
+Amazon (AMZN),AMZN,2017-02-17,D,1,$845.07
+Chesapeake Energy (CHK),CHK,2017-02-17,D,1,$6.10
+e.l.f. Beauty (ELF),ELF,2017-02-17,I,1,$26.94
+Foot Locker (FL),FL,2017-02-17,D,1,$71.00
+Alphabet (GOOGL),GOOGL,2017-02-17,D,2,$846.55
+Gap (GPS),GPS,2017-02-17,D,4,$24.47
+Home Depot (HD),HD,2017-02-17,D,2,$143.00
+JC Penney (JCP),JCP,2017-02-17,D,4,$7.03
+Nordstrom (JWN),JWN,2017-02-17,D,4,$45.69
+Kohl's (KSS),KSS,2017-02-17,D,4,$41.97
+Macy's (M),M,2017-02-17,D,4,$32.30
+Proofpoint (PFPT),PFPT,2017-02-17,I,1,$81.84
+Scotts Miracle-Gro (SMG),SMG,2017-02-17,D,2,$93.91
+Block (SQ),SQ,2017-02-17,D,2,$14.47
+Tesla (TSLA),TSLA,2017-02-17,D,2,$272.23
+Walmart (WMT),WMT,2017-02-17,D,4,$69.37
+Apple (AAPL),AAPL,2017-02-22,D,1,$137.11
+Adobe Systems (ADBE),ADBE,2017-02-22,D,2,$119.47
+Amazon (AMZN),AMZN,2017-02-22,D,1,$855.61
+Cisco Systems (CSCO),CSCO,2017-02-22,D,1,$34.09
+Meta (FB),FB,2017-02-22,D,4,$136.12
+Home Depot (HD),HD,2017-02-22,F,1,$145.25
+Intel (INTC),INTC,2017-02-22,D,2,$36.07
+3M (MMM),MMM,2017-02-22,D,1,$186.04
+Procter & Gamble (PG),PG,2017-02-22,D,1,$91.44
+Six Flags (SIX),SIX,2017-02-22,I,1,$59.08
+Tellurian (TELL),TELL,2017-02-22,I,1,$14.91
+Twitter (TWTR),TWTR,2017-02-22,D,4,$16.08
+Visa (V),V,2017-02-22,D,1,$87.80
+Workday (WDAY),WDAY,2017-02-22,D,2,$88.22
+Walmart (WMT),WMT,2017-02-22,D,1,$71.71
+Amazon (AMZN),AMZN,2017-02-23,D,2,$852.19
+Avis Budget Group (CAR),CAR,2017-02-23,F,5,$33.40
+Fitbit (FIT),FIT,2017-02-23,F,5,$6.07
+Garmin (GRMN),GRMN,2017-02-23,F,1,$52.31
+Hertz Global Holdings (HTZ),HTZ,2017-02-23,F,5,$20.09
+Tesla (TSLA),TSLA,2017-02-23,D,2,$255.99
+Waste Management (WM),WM,2017-02-23,I,1,$72.91
+Autodesk (ADSK),ADSK,2017-02-24,D,1,$87.55
+Best Buy (BBY),BBY,2017-02-24,D,4,$45.56
+Burlington Stores (BURL),BURL,2017-02-24,D,1,$87.59
+CBRE Group (CBRE),CBRE,2017-02-24,I,1,$35.27
+Dollar Tree (DLTR),DLTR,2017-02-24,D,2,$79.41
+Domino's Pizza (DPZ),DPZ,2017-02-24,D,1,$186.28
+GNC Holdings (GNC),GNC,2017-02-24,F,5,$8.63
+Kroger (KR),KR,2017-02-24,D,4,$33.29
+Live Nation (LYV),LYV,2017-02-24,I,1,$28.84
+Marvell Technology (MRVL),MRVL,2017-02-24,D,2,$16.01
+Target (TGT),TGT,2017-02-24,D,2,$66.51
+Valeant Pharmaceuticals (VRX),VRX,2017-02-24,D,2,$16.18
+Vitamin Shoppe (VSI),VSI,2017-02-24,F,5,$22.30
+Apple (AAPL),AAPL,2017-02-27,D,1,$136.93
+CBRE Group (CBRE),CBRE,2017-02-27,D,2,$35.72
+Meta (FB),FB,2017-02-27,D,2,$136.41
+Honeywell (HON),HON,2017-02-27,D,2,$124.89
+Martin Marietta Materials (MLM),MLM,2017-02-27,I,1,$215.26
+PVH Corp (PVH),PVH,2017-02-27,D,2,$92.33
+United Technologies (UTX),UTX,2017-02-27,D,2,$112.81
+Marriott Vacations Worldw (VAC),VAC,2017-02-27,I,1,$96.62
+Workday (WDAY),WDAY,2017-02-27,I,1,$90.19
+Activision Blizzard (ATVI),ATVI,2017-02-28,D,2,$45.13
+Salesforce (CRM),CRM,2017-02-28,I,1,$81.35
+Domino's Pizza (DPZ),DPZ,2017-02-28,D,1,$189.81
+Home Depot (HD),HD,2017-02-28,D,2,$144.91
+Netflix (NFLX),NFLX,2017-02-28,D,2,$142.13
+NVIDIA (NVDA),NVDA,2017-02-28,D,2,$101.48
+Target (TGT),TGT,2017-02-28,D,5,$58.77
+TJX Companies (TJX),TJX,2017-02-28,D,2,$78.45
+Allergan (AGN),AGN,2017-03-01,D,1,$245.29
+Salesforce (CRM),CRM,2017-03-01,D,1,$83.81
+EMCOR Group (EME),EME,2017-03-01,F,1,$63.67
+Eli Lilly (LLY),LLY,2017-03-01,D,2,$83.85
+Lowe's (LOW),LOW,2017-03-01,D,2,$81.45
+Merck (MRK),MRK,2017-03-01,D,2,$66.21
+MasTec (MTZ),MTZ,2017-03-01,F,1,$40.50
+Pfizer (PFE),PFE,2017-03-01,D,1,$34.42
+Target (TGT),TGT,2017-03-01,D,4,$57.83
+Veeva Systems (VEEV),VEEV,2017-03-01,I,1,$44.90
+Broadcom (AVGO),AVGO,2017-03-02,D,1,$217.29
+Box (BOX),BOX,2017-03-02,I,1,$16.79
+Burlington Stores (BURL),BURL,2017-03-02,D,1,$94.59
+Caterpillar (CAT),CAT,2017-03-02,D,4,$94.36
+Domino's Pizza (DPZ),DPZ,2017-03-02,F,1,$189.37
+Platform Specialty Produc (PAH),PAH,2017-03-02,I,1,$13.18
+Papa Johns Pizza (PZZA),PZZA,2017-03-02,F,4,$78.34
+Snap (SNAP),SNAP,2017-03-02,D,4,$24.48
+Dicks Sporting Goods (DKS),DKS,2017-03-03,D,4,$52.34
+Expedia (EXPE),EXPE,2017-03-03,F,2,$120.12
+H&R Block (HRB),HRB,2017-03-03,D,4,$20.98
+Live Nation (LYV),LYV,2017-03-03,F,1,$28.41
+Vail Resorts (MTN),MTN,2017-03-03,D,1,$184.16
+Signet Jewelers (SIG),SIG,2017-03-03,D,4,$64.58
+Snap (SNAP),SNAP,2017-03-03,D,2,$27.09
+Tech Data (TECD),TECD,2017-03-03,D,1,$92.52
+Thor Industries (THO),THO,2017-03-03,D,1,$113.94
+TripAdvisor (TRIP),TRIP,2017-03-03,F,5,$41.74
+Ulta Beauty (ULTA),ULTA,2017-03-03,D,1,$278.15
+Urban Outfitters (URBN),URBN,2017-03-03,D,4,$26.06
+United Technologies (UTX),UTX,2017-03-03,D,2,$112.34
+Bank of America (BAC),BAC,2017-03-06,F,1,$25.25
+Domino's Pizza (DPZ),DPZ,2017-03-06,I,1,$188.89
+Frontier Communications (FTR),FTR,2017-03-06,F,5,$2.76
+Manitowoc Foodservice (MFS),MFS,2017-03-06,I,1,$19.27
+Allergan (AGN),AGN,2017-03-07,D,1,$239.60
+Boeing (BA),BA,2017-03-07,D,2,$182.02
+Ford Motor (F),F,2017-03-07,D,2,$12.46
+General Motors (GM),GM,2017-03-07,D,1,$37.52
+Eli Lilly (LLY),LLY,2017-03-07,D,1,$82.74
+Lockheed Martin (LMT),LMT,2017-03-07,D,2,$269.04
+Logitech International (LOGI),LOGI,2017-03-07,I,1,$29.30
+Merck (MRK),MRK,2017-03-07,D,1,$65.96
+Pfizer (PFE),PFE,2017-03-07,D,1,$33.99
+Snap (SNAP),SNAP,2017-03-07,F,5,$21.44
+Thor Industries (THO),THO,2017-03-07,I,2,$104.01
+Tesla (TSLA),TSLA,2017-03-07,D,5,$248.59
+Avangrid (AGR),AGR,2017-03-08,I,1,$41.79
+Albemarle (ALB),ALB,2017-03-08,F,1,$102.74
+Arconic (ARNC),ARNC,2017-03-08,D,2,$26.85
+TopBuild (BLD),BLD,2017-03-08,F,1,$43.62
+Citigroup (C),C,2017-03-08,D,2,$61.11
+Dow (DOW),DOW,2017-03-08,D,2,$63.28
+EOG Resources (EOG),EOG,2017-03-08,D,1,$94.83
+FMC Corp (FMC),FMC,2017-03-08,F,1,$58.31
+H&R Block (HRB),HRB,2017-03-08,D,2,$23.94
+Children's Place (PLCE),PLCE,2017-03-08,D,2,$118.15
+PPG Industries (PPG),PPG,2017-03-08,D,2,$106.83
+Alaska Air Group (ALK),ALK,2017-03-09,D,2,$94.78
+Columbia Sportswear (COLM),COLM,2017-03-09,I,1,$55.16
+Netflix (NFLX),NFLX,2017-03-09,D,2,$140.53
+Regeneron Pharmaceuticals (REGN),REGN,2017-03-09,D,2,$390.14
+Tech Data (TECD),TECD,2017-03-09,I,1,$93.65
+United Rentals (URI),URI,2017-03-09,D,2,$121.98
+Wyndham Worldwide (WYN),WYN,2017-03-09,D,2,$82.09
+Adobe Systems (ADBE),ADBE,2017-03-10,D,1,$121.09
+Amgen (AMGN),AMGN,2017-03-10,D,1,$181.44
+Caterpillar (CAT),CAT,2017-03-10,F,1,$92.31
+Dollar General (DG),DG,2017-03-10,D,4,$72.89
+Foot Locker (FL),FL,2017-03-10,D,2,$76.99
+HD Supply (HDS),HDS,2017-03-10,D,1,$41.99
+JC Penney (JCP),JCP,2017-03-10,D,4,$6.36
+Macy's (M),M,2017-03-10,D,4,$31.73
+Oracle (ORCL),ORCL,2017-03-10,D,2,$42.68
+Children's Place (PLCE),PLCE,2017-03-10,D,2,$117.80
+Sears Holdings (SHLD),SHLD,2017-03-10,D,4,$9.23
+Del Taco Restaurants (TACO),TACO,2017-03-10,D,4,$12.59
+Tiffany & Co (TIF),TIF,2017-03-10,D,2,$88.71
+LendingTree (TREE),TREE,2017-03-10,I,1,$118.90
+United Technologies (UTX),UTX,2017-03-10,I,1,$112.14
+Foot Locker (FL),FL,2017-03-13,F,1,$75.97
+Alphabet (GOOGL),GOOGL,2017-03-13,D,1,$864.58
+Intel (INTC),INTC,2017-03-13,F,1,$35.16
+J. Jill (JILL),JILL,2017-03-13,F,4,$13.10
+NXP Semiconductors (NXPI),NXPI,2017-03-13,D,1,$103.99
+Children's Place (PLCE),PLCE,2017-03-13,F,1,$116.20
+Ulta Beauty (ULTA),ULTA,2017-03-13,D,2,$286.91
+U.S. Concrete (USCR),USCR,2017-03-13,I,1,$69.80
+Apple (AAPL),AAPL,2017-03-14,D,1,$138.99
+Meta (FB),FB,2017-03-14,D,2,$139.32
+Nucor (NUE),NUE,2017-03-14,I,1,$60.73
+ProLogis (PLD),PLD,2017-03-14,I,1,$49.36
+Tesla (TSLA),TSLA,2017-03-14,D,2,$258.00
+Allergan (AGN),AGN,2017-03-15,D,2,$240.67
+Amazon (AMZN),AMZN,2017-03-15,D,1,$852.97
+Cullen Frost Bankers (CFR),CFR,2017-03-15,I,1,$90.54
+Dexcom (DXCM),DXCM,2017-03-15,F,1,$77.21
+Meta (FB),FB,2017-03-15,D,1,$139.72
+Alphabet (GOOGL),GOOGL,2017-03-15,D,1,$868.39
+JPMorgan Chase (JPM),JPM,2017-03-15,D,2,$91.73
+Eli Lilly (LLY),LLY,2017-03-15,F,1,$85.88
+Netflix (NFLX),NFLX,2017-03-15,D,1,$145.25
+Insulet (PODD),PODD,2017-03-15,F,1,$44.84
+Tesla (TSLA),TSLA,2017-03-15,D,2,$255.73
+Twitter (TWTR),TWTR,2017-03-15,D,2,$15.03
+Wynn Resorts (WYNN),WYNN,2017-03-15,D,2,$104.75
+Apple (AAPL),AAPL,2017-03-16,D,1,$140.69
+Carnival (CCL),CCL,2017-03-16,D,1,$57.54
+Cisco Systems (CSCO),CSCO,2017-03-16,D,1,$34.23
+Dollar General (DG),DG,2017-03-16,D,1,$73.20
+Walt Disney (DIS),DIS,2017-03-16,D,1,$111.71
+Domino's Pizza (DPZ),DPZ,2017-03-16,D,1,$185.62
+Fastenal (FAST),FAST,2017-03-16,F,1,$51.25
+Canada Goose (GOOS),GOOS,2017-03-16,F,1,$16.08
+Home Depot (HD),HD,2017-03-16,D,1,$148.73
+Intel (INTC),INTC,2017-03-16,D,1,$35.14
+Microsoft (MSFT),MSFT,2017-03-16,D,1,$64.64
+Netflix (NFLX),NFLX,2017-03-16,D,1,$144.39
+Oracle (ORCL),ORCL,2017-03-16,F,1,$45.73
+Six Flags (SIX),SIX,2017-03-16,D,1,$58.94
+TJX Companies (TJX),TJX,2017-03-16,D,1,$79.22
+Ulta Beauty (ULTA),ULTA,2017-03-16,D,1,$286.32
+Walmart (WMT),WMT,2017-03-16,D,1,$70.44
+Accenture (ACN),ACN,2017-03-17,D,1,$125.22
+Adobe Systems (ADBE),ADBE,2017-03-17,D,1,$127.01
+Advanced Disposal Service (ADSW),ADSW,2017-03-17,M,5,$23.70
+Advanced Micro Devices (AMD),AMD,2017-03-17,D,1,$13.49
+Activision Blizzard (ATVI),ATVI,2017-03-17,D,1,$49.13
+Brookfield Infrastructure (BIP),BIP,2017-03-17,M,4,$36.75
+Electronic Arts (EA),EA,2017-03-17,D,1,$89.59
+FedEx (FDX),FDX,2017-03-17,D,1,$194.59
+Finish Line (FINL),FINL,2017-03-17,D,4,$17.22
+Foot Locker (FL),FL,2017-03-17,D,1,$75.67
+General Mills (GIS),GIS,2017-03-17,D,2,$60.66
+GameStop (GME),GME,2017-03-17,D,4,$24.64
+Canada Goose (GOOS),GOOS,2017-03-17,D,1,$17.23
+KB Home (KBH),KBH,2017-03-17,D,4,$19.47
+Lennar (LEN),LEN,2017-03-17,D,4,$52.83
+Logitech International (LOGI),LOGI,2017-03-17,D,1,$31.47
+Macquarie Infrastructure (MIC),MIC,2017-03-17,M,4,$79.80
+Micron Technology (MU),MU,2017-03-17,D,4,$25.80
+Mulesoft (MULE),MULE,2017-03-17,D,2,$24.75
+Nike (NKE),NKE,2017-03-17,D,2,$57.80
+NVIDIA (NVDA),NVDA,2017-03-17,D,1,$106.07
+Penumbra (PEN),PEN,2017-03-17,M,2,$82.45
+PVH Corp (PVH),PVH,2017-03-17,D,2,$94.65
+Tiffany & Co (TIF),TIF,2017-03-17,D,1,$92.42
+Take-Two Interactive (TTWO),TTWO,2017-03-17,D,1,$58.01
+Waste Management (WM),WM,2017-03-17,M,1,$73.54
+Adobe Systems (ADBE),ADBE,2017-03-22,D,1,$126.21
+Diageo (DEO),DEO,2017-03-22,D,1,$116.37
+Digital Realty Trust (DLR),DLR,2017-03-22,D,1,$104.63
+Equinix (EQIX),EQIX,2017-03-22,D,1,$387.47
+Federal Realty Investment (FRT),FRT,2017-03-22,D,5,$133.11
+Kimco Realty (KIM),KIM,2017-03-22,D,5,$22.13
+PPG Industries (PPG),PPG,2017-03-22,D,1,$104.25
+PVH Corp (PVH),PVH,2017-03-22,I,1,$90.85
+Banco Santander (SAN),SAN,2017-03-22,D,1,$6.11
+Starbucks (SBUX),SBUX,2017-03-22,I,1,$55.89
+Sears Holdings (SHLD),SHLD,2017-03-22,D,5,$7.98
+Simon Property Group (SPG),SPG,2017-03-22,D,5,$165.40
+Agilent Technologies (A),A,2017-03-23,F,1,$53.18
+Apple (AAPL),AAPL,2017-03-23,D,2,$140.92
+Citigroup (C),C,2017-03-23,D,2,$58.05
+Cisco Systems (CSCO),CSCO,2017-03-23,D,2,$33.96
+FedEx (FDX),FDX,2017-03-23,D,2,$189.19
+Five Below (FIVE),FIVE,2017-03-23,F,1,$42.25
+Ionis Pharmaceuticals (IONS),IONS,2017-03-23,I,4,$37.93
+JPMorgan Chase (JPM),JPM,2017-03-23,D,2,$87.39
+3M (MMM),MMM,2017-03-23,D,2,$192.14
+Akamai Technologies (AKAM),AKAM,2017-03-24,D,2,$63.63
+Align Technology (ALGN),ALGN,2017-03-24,F,1,$113.87
+Apple Hospitality REIT (APLE),APLE,2017-03-24,I,1,$18.63
+Blackberry (BBRY),BBRY,2017-03-24,D,5,$7.07
+Carnival (CCL),CCL,2017-03-24,D,1,$58.60
+Darden Restaurants (DRI),DRI,2017-03-24,D,1,$76.71
+Henry Schein (HSIC),HSIC,2017-03-24,F,1,$171.25
+Lam Research (LRCX),LRCX,2017-03-24,D,1,$127.47
+Lululemon Athletica (LULU),LULU,2017-03-24,D,1,$63.69
+Micron Technology (MU),MU,2017-03-24,F,1,$28.43
+Ollie's Bargain Outlet (OLLI),OLLI,2017-03-24,D,1,$32.45
+Paychex (PAYX),PAYX,2017-03-24,D,1,$61.62
+Dave and Busters (PLAY),PLAY,2017-03-24,D,1,$60.94
+Red Hat (RHT),RHT,2017-03-24,D,1,$82.96
+Dentsply International (XRAY),XRAY,2017-03-24,F,1,$62.44
+Accenture (ACN),ACN,2017-03-27,F,1,$119.39
+Darden Restaurants (DRI),DRI,2017-03-27,D,1,$75.58
+Occidental Petroleum (OXY),OXY,2017-03-27,F,1,$62.87
+Red Hat (RHT),RHT,2017-03-27,D,1,$82.20
+Snap (SNAP),SNAP,2017-03-27,F,5,$23.83
+Apple (AAPL),AAPL,2017-03-28,D,1,$143.80
+Carnival (CCL),CCL,2017-03-28,D,1,$59.26
+Darden Restaurants (DRI),DRI,2017-03-28,D,1,$82.62
+Estee Lauder (EL),EL,2017-03-28,F,1,$85.61
+Flowers Foods (FLO),FLO,2017-03-28,D,1,$19.41
+General Mills (GIS),GIS,2017-03-28,F,2,$59.01
+General Motors (GM),GM,2017-03-28,D,2,$35.56
+Pepsico (PEP),PEP,2017-03-28,D,1,$112.45
+Panera Bread (PNRA),PNRA,2017-03-28,D,2,$256.97
+Red Hat (RHT),RHT,2017-03-28,D,1,$86.48
+Tesla (TSLA),TSLA,2017-03-28,D,2,$277.45
+Hostess Brands (TWNK),TWNK,2017-03-28,F,5,$16.05
+Anheuser-Busch InBev (BUD),BUD,2017-04-10,D,4,$110.67
+Burlington Stores (BURL),BURL,2017-04-10,D,1,$92.92
+Caterpillar (CAT),CAT,2017-04-10,D,1,$97.14
+Rockwell Collins (COL),COL,2017-04-10,D,1,$99.04
+Costco (COST),COST,2017-04-10,D,2,$171.22
+Eaton (ETN),ETN,2017-04-10,D,1,$75.60
+Ingersoll-Rand (IR),IR,2017-04-10,D,1,$83.25
+JC Penney (JCP),JCP,2017-04-10,D,4,$6.03
+Nordstrom (JWN),JWN,2017-04-10,D,4,$45.40
+Kohl's (KSS),KSS,2017-04-10,D,2,$39.83
+L Brands (LB),LB,2017-04-10,D,2,$47.50
+Macy's (M),M,2017-04-10,D,4,$29.52
+NextEra Energy (NEE),NEE,2017-04-10,F,4,$129.43
+Parker Hannifin (PH),PH,2017-04-10,D,1,$160.35
+Boston Beer (SAM),SAM,2017-04-10,D,4,$142.30
+Constellation Brands (STZ),STZ,2017-04-10,F,1,$171.27
+Molson Coors (TAP),TAP,2017-04-10,D,4,$95.89
+TJX Companies (TJX),TJX,2017-04-10,D,1,$76.02
+Walmart (WMT),WMT,2017-04-10,D,1,$73.06
+Allergan (AGN),AGN,2017-04-11,D,1,$239.11
+Celgene (CELG),CELG,2017-04-11,D,1,$125.06
+Kite Pharma (KITE),KITE,2017-04-11,D,1,$78.29
+Mazor Robotics (MZOR),MZOR,2017-04-11,F,1,$28.63
+Sage Therapeutics (SAGE),SAGE,2017-04-11,D,1,$69.93
+Whole Foods Markets (WFM),WFM,2017-04-11,F,5,$33.55
+Advanced Micro Devices (AMD),AMD,2017-04-12,D,4,$12.76
+Broadcom (AVGO),AVGO,2017-04-12,D,1,$209.20
+International Flavors and (IFF),IFF,2017-04-12,I,1,$132.56
+Incyte (INCY),INCY,2017-04-12,F,1,$138.27
+Intel (INTC),INTC,2017-04-12,D,1,$35.63
+KLA Corp (KLAC),KLAC,2017-04-12,D,1,$95.21
+Lam Research (LRCX),LRCX,2017-04-12,D,1,$126.16
+Magellan Midstream Partne (MMP),MMP,2017-04-12,D,1,$77.31
+NVIDIA (NVDA),NVDA,2017-04-12,D,4,$97.31
+Apple (AAPL),AAPL,2017-04-13,D,2,$141.05
+Citigroup (C),C,2017-04-13,D,2,$58.04
+Coupa Software (COUP),COUP,2017-04-13,I,1,$28.98
+Walt Disney (DIS),DIS,2017-04-13,D,2,$113.20
+First Horizon National (FHN),FHN,2017-04-13,I,1,$17.61
+Five Below (FIVE),FIVE,2017-04-13,F,1,$45.12
+JPMorgan Chase (JPM),JPM,2017-04-13,D,2,$84.40
+PNC Financial (PNC),PNC,2017-04-13,D,2,$115.80
+Advanced Micro Devices (AMD),AMD,2017-04-19,D,1,$12.84
+IBM (IBM),IBM,2017-04-19,F,1,$161.69
+Incyte (INCY),INCY,2017-04-19,F,1,$124.54
+Coca-Cola (KO),KO,2017-04-19,D,1,$43.23
+Eli Lilly (LLY),LLY,2017-04-19,F,1,$80.89
+Lam Research (LRCX),LRCX,2017-04-19,D,2,$136.17
+McDonald's (MCD),MCD,2017-04-19,D,1,$132.64
+Microchip Technology (MCHP),MCHP,2017-04-19,D,1,$74.86
+Micron Technology (MU),MU,2017-04-19,D,1,$27.26
+Mazor Robotics (MZOR),MZOR,2017-04-19,I,1,$32.74
+Walmart (WMT),WMT,2017-04-19,D,1,$74.07
+American Express (AXP),AXP,2017-04-20,D,1,$80.02
+Axalta Coating Systems (AXTA),AXTA,2017-04-20,F,1,$31.68
+Burlington Stores (BURL),BURL,2017-04-20,D,2,$97.05
+CSX (CSX),CSX,2017-04-20,D,2,$49.56
+Dollar Tree (DLTR),DLTR,2017-04-20,D,2,$79.57
+Meta (FB),FB,2017-04-20,D,1,$143.80
+Foot Locker (FL),FL,2017-04-20,D,1,$76.55
+Alphabet (GOOGL),GOOGL,2017-04-20,D,1,$860.08
+Gap (GPS),GPS,2017-04-20,D,2,$25.42
+KeyCorp (KEY),KEY,2017-04-20,D,1,$18.21
+Ollie's Bargain Outlet (OLLI),OLLI,2017-04-20,D,2,$36.70
+Sherwin-Williams (SHW),SHW,2017-04-20,F,1,$324.02
+Snap-on (SNA),SNA,2017-04-20,I,1,$173.13
+TJX Companies (TJX),TJX,2017-04-20,D,2,$78.17
+Unilever (UL),UL,2017-04-20,D,2,$50.44
+Amazon (AMZN),AMZN,2017-04-21,D,2,$898.53
+Broadcom (AVGO),AVGO,2017-04-21,D,1,$217.66
+Boeing (BA),BA,2017-04-21,D,2,$180.38
+Briggs & Stratton (BGG),BGG,2017-04-21,M,1,$23.50
+Bristol-Myers Squibb (BMY),BMY,2017-04-21,D,4,$53.48
+Caterpillar (CAT),CAT,2017-04-21,D,2,$94.32
+Chipotle Mexican Grill (CMG),CMG,2017-04-21,D,2,$479.09
+Chevron (CVX),CVX,2017-04-21,D,2,$104.89
+Domino's Pizza (DPZ),DPZ,2017-04-21,D,1,$179.30
+General Mills (GIS),GIS,2017-04-21,M,4,$57.73
+General Motors (GM),GM,2017-04-21,D,4,$33.75
+Alphabet (GOOGL),GOOGL,2017-04-21,D,1,$858.95
+Hasbro (HAS),HAS,2017-04-21,D,1,$96.03
+Idexx Laboratories (IDXX),IDXX,2017-04-21,M,1,$159.12
+Kimberly-Clark (KMB),KMB,2017-04-21,D,1,$129.96
+Coca-Cola (KO),KO,2017-04-21,D,1,$43.07
+Eli Lilly (LLY),LLY,2017-04-21,D,1,$81.89
+Southwest Airlines (LUV),LUV,2017-04-21,D,1,$55.63
+Las Vegas Sands (LVS),LVS,2017-04-21,M,4,$57.38
+McDonald's (MCD),MCD,2017-04-21,D,1,$133.41
+3M (MMM),MMM,2017-04-21,D,1,$191.50
+Microsoft (MSFT),MSFT,2017-04-21,D,2,$66.40
+Pepsico (PEP),PEP,2017-04-21,D,1,$113.43
+Proofpoint (PFPT),PFPT,2017-04-21,I,1,$77.65
+Starbucks (SBUX),SBUX,2017-04-21,D,4,$60.61
+Sherwin-Williams (SHW),SHW,2017-04-21,M,1,$324.60
+Stanley Black & Decker (SWK),SWK,2017-04-21,M,1,$137.56
+Twitter (TWTR),TWTR,2017-04-21,D,4,$14.63
+Under Armour (UA),UA,2017-04-21,D,4,$17.53
+United Technologies (UTX),UTX,2017-04-21,D,1,$114.99
+Waste Management (WM),WM,2017-04-21,M,1,$73.38
+Wynn Resorts (WYNN),WYNN,2017-04-21,M,1,$115.90
+Xilinx (XLNX),XLNX,2017-04-21,F,1,$57.69
+Exxon Mobil (XOM),XOM,2017-04-21,D,2,$80.69
+CSX (CSX),CSX,2017-04-24,D,1,$50.13
+Hasbro (HAS),HAS,2017-04-24,I,1,$101.70
+Honeywell (HON),HON,2017-04-24,D,1,$129.79
+Illinois Tool Works (ITW),ITW,2017-04-24,I,1,$139.76
+KeyCorp (KEY),KEY,2017-04-24,D,1,$18.55
+Lam Research (LRCX),LRCX,2017-04-24,D,1,$142.51
+Stanley Black & Decker (SWK),SWK,2017-04-24,D,1,$137.41
+T-Mobile US (TMUS),TMUS,2017-04-24,I,1,$65.93
+Apple (AAPL),AAPL,2017-04-25,D,2,$144.53
+Amazon (AMZN),AMZN,2017-04-25,D,2,$907.62
+Briggs & Stratton (BGG),BGG,2017-04-25,I,1,$25.05
+Cardinal Health (CAH),CAH,2017-04-25,F,1,$72.36
+Caterpillar (CAT),CAT,2017-04-25,D,1,$104.42
+Cisco Systems (CSCO),CSCO,2017-04-25,D,2,$33.42
+DuPont (DD),DD,2017-04-25,D,1,$82.21
+Intel (INTC),INTC,2017-04-25,D,2,$36.87
+McDonald's (MCD),MCD,2017-04-25,D,1,$141.70
+Microsoft (MSFT),MSFT,2017-04-25,D,2,$67.92
+Netflix (NFLX),NFLX,2017-04-25,D,2,$152.16
+Oracle (ORCL),ORCL,2017-04-25,D,2,$44.72
+Post Holdings (POST),POST,2017-04-25,F,1,$84.48
+Boeing (BA),BA,2017-04-26,D,1,$181.71
+Enbridge (ENB),ENB,2017-04-26,F,1,$41.65
+Pepsico (PEP),PEP,2017-04-26,D,1,$113.33
+Procter & Gamble (PG),PG,2017-04-26,D,1,$87.74
+Texas Instruments (TXN),TXN,2017-04-26,D,1,$81.11
+Waste Management (WM),WM,2017-04-26,I,1,$72.30
+AbbVie (ABBV),ABBV,2017-04-27,D,2,$66.07
+American Electric Power (AEP),AEP,2017-04-27,I,1,$68.10
+Amazon (AMZN),AMZN,2017-04-27,D,1,$918.38
+Comcast (CMCSA),CMCSA,2017-04-27,D,2,$39.59
+Domino's Pizza (DPZ),DPZ,2017-04-27,I,1,$185.55
+Alphabet (GOOGL),GOOGL,2017-04-27,D,1,$891.44
+ServiceNow (NOW),NOW,2017-04-27,I,1,$94.33
+PayPal (PYPL),PYPL,2017-04-27,D,1,$47.15
+Xilinx (XLNX),XLNX,2017-04-27,D,2,$64.40
+Apple (AAPL),AAPL,2017-04-28,D,1,$143.65
+AGCO (AGCO),AGCO,2017-04-28,I,1,$63.99
+Advanced Micro Devices (AMD),AMD,2017-04-28,D,4,$13.30
+Amazon (AMZN),AMZN,2017-04-28,F,1,$924.99
+Activision Blizzard (ATVI),ATVI,2017-04-28,D,1,$52.25
+BioMarin (BMRN),BMRN,2017-04-28,I,1,$95.84
+Cardinal Health (CAH),CAH,2017-04-28,D,2,$72.59
+CVS Health (CVS),CVS,2017-04-28,D,4,$82.44
+Dunkin Brands (DNKN),DNKN,2017-04-28,D,1,$55.86
+Meta (FB),FB,2017-04-28,D,1,$150.25
+Alphabet (GOOGL),GOOGL,2017-04-28,F,1,$924.52
+Kraft Heinz (KHC),KHC,2017-04-28,D,2,$90.39
+Mastercard (MA),MA,2017-04-28,D,1,$116.32
+Mondelez International (MDLZ),MDLZ,2017-04-28,D,4,$45.03
+SentinelOne (S),S,2017-04-28,D,5,$9.03
+Starbucks (SBUX),SBUX,2017-04-28,D,4,$60.06
+T-Mobile US (TMUS),TMUS,2017-04-28,D,1,$67.27
+Western Digital (WDC),WDC,2017-04-28,I,1,$89.07
+Apple (AAPL),AAPL,2017-05-01,D,1,$146.58
+Amazon (AMZN),AMZN,2017-05-01,D,1,$948.23
+Meta (FB),FB,2017-05-01,D,1,$152.46
+Fortinet (FTNT),FTNT,2017-05-01,I,1,$39.15
+Alphabet (GOOGL),GOOGL,2017-05-01,D,1,$932.82
+Grubhub (GRUB),GRUB,2017-05-01,F,5,$42.89
+Netflix (NFLX),NFLX,2017-05-01,D,1,$155.35
+Yext (YEXT),YEXT,2017-05-01,F,4,$14.63
+Apple (AAPL),AAPL,2017-05-02,D,1,$147.51
+Adobe Systems (ADBE),ADBE,2017-05-02,D,1,$135.00
+Cummins (CMI),CMI,2017-05-02,D,1,$160.56
+Salesforce (CRM),CRM,2017-05-02,D,1,$87.09
+Expedia (EXPE),EXPE,2017-05-02,I,1,$138.99
+Ford Motor (F),F,2017-05-02,D,4,$10.92
+IAC Interactive (IAC),IAC,2017-05-02,D,1,$96.24
+Kohl's (KSS),KSS,2017-05-02,D,1,$39.16
+Macy's (M),M,2017-05-02,D,4,$29.50
+Martin Marietta Materials (MLM),MLM,2017-05-02,D,1,$239.85
+Microsoft (MSFT),MSFT,2017-05-02,D,1,$69.30
+PayPal (PYPL),PYPL,2017-05-02,I,1,$49.05
+AT&T (T),T,2017-05-02,D,4,$38.95
+Verizon (VZ),VZ,2017-05-02,D,4,$45.91
+Apple (AAPL),AAPL,2017-05-03,I,1,$147.06
+Align Technology (ALGN),ALGN,2017-05-03,D,1,$131.97
+Clorox (CLX),CLX,2017-05-03,I,1,$131.20
+Estee Lauder (EL),EL,2017-05-03,D,1,$91.30
+Apple (AAPL),AAPL,2017-05-04,D,1,$146.53
+Alliance Data (ADS),ADS,2017-05-04,F,1,$253.68
+American International Gr (AIG),AIG,2017-05-04,D,1,$62.67
+Amazon (AMZN),AMZN,2017-05-04,D,1,$937.53
+Chevron (CVX),CVX,2017-05-04,D,4,$104.81
+Meta (FB),FB,2017-05-04,D,1,$150.85
+Alphabet (GOOGL),GOOGL,2017-05-04,D,1,$954.72
+Intel (INTC),INTC,2017-05-04,I,1,$36.85
+Netflix (NFLX),NFLX,2017-05-04,D,1,$157.25
+Occidental Petroleum (OXY),OXY,2017-05-04,D,4,$58.02
+Pioneer Natural Resources (PXD),PXD,2017-05-04,D,4,$165.63
+Regeneron Pharmaceuticals (REGN),REGN,2017-05-04,D,1,$434.31
+Tesla (TSLA),TSLA,2017-05-04,F,4,$295.46
+Twilio (TWLO),TWLO,2017-05-04,I,1,$24.96
+Zoetis (ZTS),ZTS,2017-05-04,D,1,$58.87
+AK Steel Holding (AKS),AKS,2017-05-05,F,5,$5.83
+Activision Blizzard (ATVI),ATVI,2017-05-05,D,1,$53.83
+Walt Disney (DIS),DIS,2017-05-05,D,1,$111.99
+Electronic Arts (EA),EA,2017-05-05,D,1,$95.74
+Twenty-First Century Fox (FOX),FOX,2017-05-05,D,2,$28.58
+IBM (IBM),IBM,2017-05-05,F,2,$155.05
+International Flavors and (IFF),IFF,2017-05-05,D,1,$139.27
+JC Penney (JCP),JCP,2017-05-05,D,4,$5.49
+Kohl's (KSS),KSS,2017-05-05,D,1,$40.12
+Macy's (M),M,2017-05-05,D,2,$28.97
+Mazor Robotics (MZOR),MZOR,2017-05-05,D,1,$35.77
+Norwegian Cruise Line (NCLH),NCLH,2017-05-05,D,1,$55.49
+Nucor (NUE),NUE,2017-05-05,F,1,$60.47
+NVIDIA (NVDA),NVDA,2017-05-05,D,4,$103.86
+Newell Brands (NWL),NWL,2017-05-05,D,4,$46.39
+Snap (SNAP),SNAP,2017-05-05,D,2,$23.19
+Steel Dynamics (STLD),STLD,2017-05-05,F,2,$35.82
+Take-Two Interactive (TTWO),TTWO,2017-05-05,D,1,$65.42
+Whole Foods Markets (WFM),WFM,2017-05-05,D,4,$36.87
+United States Steel (X),X,2017-05-05,F,5,$21.49
+Apple (AAPL),AAPL,2017-05-08,D,1,$153.01
+Advanced Energy Industrie (AEIS),AEIS,2017-05-08,M,2,$74.73
+Alphabet (GOOGL),GOOGL,2017-05-08,D,1,$958.69
+IBM (IBM),IBM,2017-05-08,D,4,$153.03
+Lam Research (LRCX),LRCX,2017-05-08,M,2,$149.12
+Las Vegas Sands (LVS),LVS,2017-05-08,F,1,$57.20
+MGM Resorts (MGM),MGM,2017-05-08,F,1,$30.42
+Nektar Therapeutics (NKTR),NKTR,2017-05-08,M,2,$17.93
+Newell Brands (NWL),NWL,2017-05-08,I,1,$51.93
+Nexstar Media Group (NXST),NXST,2017-05-08,D,1,$61.20
+Proto Labs (PRLB),PRLB,2017-05-08,M,1,$61.15
+PVH Corp (PVH),PVH,2017-05-08,D,2,$102.39
+VF Corp (VFC),VFC,2017-05-08,D,2,$54.96
+Wynn Resorts (WYNN),WYNN,2017-05-08,F,1,$120.20
+Allergan (AGN),AGN,2017-05-09,I,1,$238.51
+Expedia (EXPE),EXPE,2017-05-09,D,1,$139.40
+IBM (IBM),IBM,2017-05-09,D,4,$152.11
+Marriott International (MAR),MAR,2017-05-09,D,2,$102.50
+United Continental (UAL),UAL,2017-05-09,D,2,$78.55
+XPO Logistics (XPO),XPO,2017-05-09,I,1,$55.30
+Yelp (YELP),YELP,2017-05-09,D,4,$34.70
+Allergan (AGN),AGN,2017-05-10,D,1,$229.72
+Citigroup (C),C,2017-05-10,D,1,$60.37
+CBRE Group (CBRE),CBRE,2017-05-10,I,1,$36.27
+Walt Disney (DIS),DIS,2017-05-10,D,1,$109.66
+Electronic Arts (EA),EA,2017-05-10,D,1,$108.16
+Meta (FB),FB,2017-05-10,D,1,$150.29
+Intel (INTC),INTC,2017-05-10,D,2,$36.01
+Coca-Cola (KO),KO,2017-05-10,D,1,$43.57
+Noble Energy (NBL),NBL,2017-05-10,I,1,$31.48
+NVIDIA (NVDA),NVDA,2017-05-10,F,1,$121.29
+Walmart (WMT),WMT,2017-05-10,D,1,$76.70
+AMN Healthcare Services (AMN),AMN,2017-05-11,I,1,$38.20
+Amazon (AMZN),AMZN,2017-05-11,D,1,$947.62
+Burlington Stores (BURL),BURL,2017-05-11,D,1,$102.94
+Walt Disney (DIS),DIS,2017-05-11,D,1,$109.58
+Domino's Pizza (DPZ),DPZ,2017-05-11,D,1,$195.38
+Electronic Arts (EA),EA,2017-05-11,D,1,$108.58
+Foot Locker (FL),FL,2017-05-11,D,1,$75.81
+Macy's (M),M,2017-05-11,D,5,$24.35
+Ollie's Bargain Outlet (OLLI),OLLI,2017-05-11,D,1,$39.75
+Dave and Busters (PLAY),PLAY,2017-05-11,D,1,$66.39
+Six Flags (SIX),SIX,2017-05-11,D,1,$62.63
+TJX Companies (TJX),TJX,2017-05-11,D,1,$79.47
+Unilever (UL),UL,2017-05-11,I,1,$52.81
+Whole Foods Markets (WFM),WFM,2017-05-11,F,4,$37.03
+Zebra Technologies (ZBRA),ZBRA,2017-05-11,I,1,$99.10
+Apple (AAPL),AAPL,2017-05-12,D,1,$156.10
+Applied Materials (AMAT),AMAT,2017-05-12,D,1,$43.44
+Amazon (AMZN),AMZN,2017-05-12,D,1,$961.35
+Alibaba (BABA),BABA,2017-05-12,D,1,$120.34
+Campbell Soup (CPB),CPB,2017-05-12,D,4,$57.22
+Salesforce (CRM),CRM,2017-05-12,D,1,$89.04
+Cisco Systems (CSCO),CSCO,2017-05-12,D,2,$33.45
+Tableau Software (DATA),DATA,2017-05-12,I,1,$60.72
+Deere & Company (DE),DE,2017-05-12,D,1,$113.11
+Meta (FB),FB,2017-05-12,D,1,$150.33
+Foot Locker (FL),FL,2017-05-12,D,1,$74.88
+Alphabet (GOOGL),GOOGL,2017-05-12,D,1,$955.14
+Home Depot (HD),HD,2017-05-12,D,1,$156.92
+Honeywell (HON),HON,2017-05-12,D,2,$131.49
+Masimo (MASI),MASI,2017-05-12,I,1,$84.83
+Netflix (NFLX),NFLX,2017-05-12,D,1,$160.81
+Children's Place (PLCE),PLCE,2017-05-12,D,1,$122.00
+Pentair (PNR),PNR,2017-05-12,I,1,$64.64
+Rexnord (RXN),RXN,2017-05-12,D,4,$22.98
+Snap (SNAP),SNAP,2017-05-12,D,4,$19.14
+Stanley Black & Decker (SWK),SWK,2017-05-12,D,1,$136.99
+Target (TGT),TGT,2017-05-12,D,4,$55.80
+TJX Companies (TJX),TJX,2017-05-12,D,1,$77.31
+Trivago (TRVG),TRVG,2017-05-12,D,4,$17.83
+Walmart (WMT),WMT,2017-05-12,D,1,$75.71
+Caterpillar (CAT),CAT,2017-05-15,D,2,$102.42
+Cummins (CMI),CMI,2017-05-15,D,2,$156.60
+Domino's Pizza (DPZ),DPZ,2017-05-15,D,1,$196.52
+EPR Properties (EPR),EPR,2017-05-15,I,1,$70.38
+FedEx (FDX),FDX,2017-05-15,D,1,$194.76
+FireEye (FEYE),FEYE,2017-05-15,D,1,$15.90
+Alphabet (GOOGL),GOOGL,2017-05-15,D,1,$959.22
+Home Depot (HD),HD,2017-05-15,D,4,$157.33
+JC Penney (JCP),JCP,2017-05-15,F,2,$4.34
+Kohl's (KSS),KSS,2017-05-15,F,1,$36.97
+Macy's (M),M,2017-05-15,F,2,$23.21
+Magellan Midstream Partne (MMP),MMP,2017-05-15,I,1,$74.36
+NVIDIA (NVDA),NVDA,2017-05-15,D,1,$134.31
+Proofpoint (PFPT),PFPT,2017-05-15,D,1,$86.05
+Target (TGT),TGT,2017-05-15,D,4,$55.35
+Zoetis (ZTS),ZTS,2017-05-15,I,1,$60.00
+Advanced Micro Devices (AMD),AMD,2017-05-16,D,1,$12.75
+Amazon (AMZN),AMZN,2017-05-16,D,1,$966.07
+Home Depot (HD),HD,2017-05-16,D,1,$158.26
+Qualcomm (QCOM),QCOM,2017-05-16,F,1,$55.95
+Taylor Morrison Homes (TMHC),TMHC,2017-05-16,I,1,$23.50
+Apple (AAPL),AAPL,2017-05-17,F,1,$150.25
+Amazon (AMZN),AMZN,2017-05-17,D,1,$944.76
+Dexcom (DXCM),DXCM,2017-05-17,I,1,$68.05
+Panera Bread (PNRA),PNRA,2017-05-17,D,2,$312.87
+Starbucks (SBUX),SBUX,2017-05-17,F,1,$59.73
+Stanley Black & Decker (SWK),SWK,2017-05-17,F,1,$134.44
+TRI Pointe Homes (TPH),TPH,2017-05-17,I,1,$12.33
+Apple (AAPL),AAPL,2017-05-18,D,1,$152.54
+Salesforce (CRM),CRM,2017-05-18,I,1,$87.75
+Alphabet (GOOGL),GOOGL,2017-05-18,D,1,$950.50
+Incyte (INCY),INCY,2017-05-18,D,1,$128.80
+U.S. Concrete (USCR),USCR,2017-05-18,I,1,$66.90
+Walmart (WMT),WMT,2017-05-18,F,1,$77.54
+Agilent Technologies (A),A,2017-05-19,D,2,$56.13
+AutoZone (AZO),AZO,2017-05-19,D,2,$673.65
+Best Buy (BBY),BBY,2017-05-19,D,2,$51.33
+Big Lots (BIG),BIG,2017-05-19,D,2,$47.50
+Burlington Stores (BURL),BURL,2017-05-19,D,1,$94.74
+Costco (COST),COST,2017-05-19,D,1,$171.64
+Lowe's (LOW),LOW,2017-05-19,D,1,$84.59
+Medtronic (MDT),MDT,2017-05-19,D,1,$83.23
+Ollie's Bargain Outlet (OLLI),OLLI,2017-05-19,D,1,$40.45
+PVH Corp (PVH),PVH,2017-05-19,D,1,$100.41
+Red Robin Gourmet Burgers (RRGB),RRGB,2017-05-19,D,2,$72.95
+Tiffany & Co (TIF),TIF,2017-05-19,D,1,$92.92
+Toll Brothers (TOL),TOL,2017-05-19,D,1,$37.84
+Take-Two Interactive (TTWO),TTWO,2017-05-19,D,1,$67.58
+Ulta Beauty (ULTA),ULTA,2017-05-19,D,1,$294.08
+Versum Materials (VSM),VSM,2017-05-19,F,1,$30.35
+Xilinx (XLNX),XLNX,2017-05-19,D,1,$66.67
+Apple (AAPL),AAPL,2017-05-22,D,1,$153.99
+Adobe Systems (ADBE),ADBE,2017-05-22,D,1,$138.86
+Autodesk (ADSK),ADSK,2017-05-22,D,1,$113.36
+American Express (AXP),AXP,2017-05-22,D,5,$76.98
+Capital One Financial (COF),COF,2017-05-22,F,5,$79.63
+CyrusOne (CONE),CONE,2017-05-22,I,1,$55.77
+Salesforce (CRM),CRM,2017-05-22,D,1,$88.94
+Diageo (DEO),DEO,2017-05-22,F,1,$121.22
+Discover Financial Servic (DFS),DFS,2017-05-22,F,5,$59.71
+Domino's Pizza (DPZ),DPZ,2017-05-22,D,1,$198.82
+Ford Motor (F),F,2017-05-22,F,2,$11.10
+Qualcomm (QCOM),QCOM,2017-05-22,D,1,$59.28
+Red Hat (RHT),RHT,2017-05-22,D,1,$87.90
+Constellation Brands (STZ),STZ,2017-05-22,D,1,$184.14
+Synchrony Financial (SYF),SYF,2017-05-22,F,5,$26.91
+Workday (WDAY),WDAY,2017-05-22,D,1,$99.49
+Activision Blizzard (ATVI),ATVI,2017-05-23,F,1,$57.80
+AutoZone (AZO),AZO,2017-05-23,D,4,$581.40
+Alibaba (BABA),BABA,2017-05-23,F,1,$122.93
+Baidu.com (BIDU),BIDU,2017-05-23,D,4,$191.80
+Electronic Arts (EA),EA,2017-05-23,F,1,$109.01
+Alphabet (GOOGL),GOOGL,2017-05-23,F,1,$970.55
+Intel (INTC),INTC,2017-05-23,D,1,$35.86
+JetBlue Airways (JBLU),JBLU,2017-05-23,D,2,$22.08
+JD.com (JD),JD,2017-05-23,D,4,$40.72
+Schneider National (SNDR),SNDR,2017-05-23,I,1,$19.08
+Take-Two Interactive (TTWO),TTWO,2017-05-23,F,1,$72.83
+Weibo (WB),WB,2017-05-23,D,4,$76.98
+Caterpillar (CAT),CAT,2017-05-24,D,2,$103.95
+Grubhub (GRUB),GRUB,2017-05-24,I,1,$42.83
+Home Depot (HD),HD,2017-05-24,D,1,$155.00
+JPMorgan Chase (JPM),JPM,2017-05-24,D,2,$85.71
+Lowe's (LOW),LOW,2017-05-24,D,4,$79.85
+PVH Corp (PVH),PVH,2017-05-24,I,1,$102.04
+Take-Two Interactive (TTWO),TTWO,2017-05-24,I,1,$77.73
+Best Buy (BBY),BBY,2017-05-25,D,1,$61.25
+Burlington Stores (BURL),BURL,2017-05-25,D,1,$98.62
+Costco (COST),COST,2017-05-25,D,1,$174.73
+Dollar Tree (DLTR),DLTR,2017-05-25,D,1,$78.80
+HP (HPQ),HPQ,2017-05-25,F,1,$18.37
+Lockheed Martin (LMT),LMT,2017-05-25,D,1,$282.06
+New Relic (NEWR),NEWR,2017-05-25,I,1,$44.00
+Netflix (NFLX),NFLX,2017-05-25,D,1,$163.05
+Northrop Grumman (NOC),NOC,2017-05-25,D,1,$256.52
+NVIDIA (NVDA),NVDA,2017-05-25,D,1,$138.26
+Raytheon (RTN),RTN,2017-05-25,D,1,$163.11
+Take-Two Interactive (TTWO),TTWO,2017-05-25,D,1,$78.53
+Autodesk (ADSK),ADSK,2017-05-30,F,1,$113.16
+Amazon (AMZN),AMZN,2017-05-30,D,1,$996.70
+CSX (CSX),CSX,2017-05-30,D,2,$54.22
+Alphabet (GOOGL),GOOGL,2017-05-30,D,2,$996.17
+Southwest Airlines (LUV),LUV,2017-05-30,D,1,$59.48
+Philip Morris Internation (PM),PM,2017-05-30,F,1,$119.95
+Tesla (TSLA),TSLA,2017-05-30,D,2,$335.10
+Boeing (BA),BA,2017-05-31,D,1,$187.63
+Carnival (CCL),CCL,2017-05-31,D,1,$64.07
+CSX (CSX),CSX,2017-05-31,D,1,$54.17
+Consolidated Edison (ED),ED,2017-05-31,I,1,$82.79
+Hasbro (HAS),HAS,2017-05-31,D,1,$105.26
+HP (HPQ),HPQ,2017-05-31,I,1,$18.76
+Mastercard (MA),MA,2017-05-31,D,1,$122.88
+3M (MMM),MMM,2017-05-31,D,1,$204.47
+PayPal (PYPL),PYPL,2017-05-31,D,1,$52.21
+Ulta Beauty (ULTA),ULTA,2017-05-31,F,1,$304.84
+Deere & Company (DE),DE,2017-06-01,D,1,$124.70
+Dollar General (DG),DG,2017-06-01,D,1,$78.19
+Now (DNOW),DNOW,2017-06-01,I,1,$16.81
+FedEx (FDX),FDX,2017-06-01,D,1,$198.36
+Home Depot (HD),HD,2017-06-01,D,1,$155.15
+Kohl's (KSS),KSS,2017-06-01,D,1,$39.43
+MGM Resorts (MGM),MGM,2017-06-01,D,1,$32.26
+Palo Alto Networks (PANW),PANW,2017-06-01,D,1,$138.99
+Pinnacle Foods (PF),PF,2017-06-01,D,1,$66.17
+Tech Data (TECD),TECD,2017-06-01,D,1,$103.07
+United Parcel Service (UPS),UPS,2017-06-01,D,1,$107.66
+Veeva Systems (VEEV),VEEV,2017-06-01,I,1,$64.87
+Workday (WDAY),WDAY,2017-06-01,I,1,$101.50
+Wells Fargo (WFC),WFC,2017-06-01,D,4,$52.08
+Wynn Resorts (WYNN),WYNN,2017-06-01,D,1,$133.59
+Brown-Forman (BF.B),BF.B,2017-06-02,D,2,$52.54
+Dow (DOW),DOW,2017-06-02,I,1,$63.05
+Exact Sciences (EXAS),EXAS,2017-06-02,I,1,$38.31
+HD Supply (HDS),HDS,2017-06-02,D,2,$41.47
+Lululemon Athletica (LULU),LULU,2017-06-02,F,2,$54.29
+Vail Resorts (MTN),MTN,2017-06-02,D,1,$215.36
+Nutanix (NTNX),NTNX,2017-06-02,I,1,$18.58
+Dave and Busters (PLAY),PLAY,2017-06-02,D,1,$68.64
+JM Smucker (SJM),SJM,2017-06-02,D,2,$130.51
+Constellation Brands (STZ),STZ,2017-06-02,D,1,$184.77
+Thor Industries (THO),THO,2017-06-02,D,4,$93.64
+Apple (AAPL),AAPL,2017-06-06,D,1,$154.45
+e.l.f. Beauty (ELF),ELF,2017-06-06,I,1,$26.59
+Lululemon Athletica (LULU),LULU,2017-06-06,D,2,$52.05
+Macy's (M),M,2017-06-06,D,5,$21.90
+Palo Alto Networks (PANW),PANW,2017-06-06,I,1,$139.14
+PVH Corp (PVH),PVH,2017-06-06,D,1,$103.65
+Adobe Systems (ADBE),ADBE,2017-06-07,D,1,$143.62
+Autodesk (ADSK),ADSK,2017-06-07,D,1,$111.17
+Activision Blizzard (ATVI),ATVI,2017-06-07,D,1,$60.53
+Broadcom (AVGO),AVGO,2017-06-07,D,1,$254.28
+Bluebird Bio (BLUE),BLUE,2017-06-07,D,2,$109.15
+Celgene (CELG),CELG,2017-06-07,D,1,$117.57
+Comcast (CMCSA),CMCSA,2017-06-07,D,1,$41.89
+General Dynamics (GD),GD,2017-06-07,D,1,$198.87
+Incyte (INCY),INCY,2017-06-07,D,1,$119.15
+Intuit (INTU),INTU,2017-06-07,F,1,$141.97
+Intuitive Surgical (ISRG),ISRG,2017-06-07,F,1,$932.00
+Johnson & Johnson (JNJ),JNJ,2017-06-07,D,1,$130.75
+Juno Therapeutics (JUNO),JUNO,2017-06-07,D,4,$23.73
+Loxo Oncology (LOXO),LOXO,2017-06-07,D,2,$71.97
+Lam Research (LRCX),LRCX,2017-06-07,D,1,$162.30
+Mastercard (MA),MA,2017-06-07,D,1,$125.19
+McDonald's (MCD),MCD,2017-06-07,D,1,$151.94
+Microsoft (MSFT),MSFT,2017-06-07,D,1,$72.39
+NVIDIA (NVDA),NVDA,2017-06-07,D,1,$149.12
+Roche (RHHBY),RHHBY,2017-06-07,D,4,$32.09
+Visa (V),V,2017-06-07,D,1,$96.09
+Apple (AAPL),AAPL,2017-06-08,D,1,$154.99
+Chipotle Mexican Grill (CMG),CMG,2017-06-08,D,1,$459.69
+Salesforce (CRM),CRM,2017-06-08,D,1,$91.25
+Deckers Brands (DECK),DECK,2017-06-08,D,4,$69.26
+Express Scripts (ESRX),ESRX,2017-06-08,D,5,$60.36
+IAC Interactive (IAC),IAC,2017-06-08,F,1,$106.30
+Inovio Pharmaceuticals (INO),INO,2017-06-08,I,1,$8.19
+Intuitive Surgical (ISRG),ISRG,2017-06-08,D,1,$929.85
+Nordstrom (JWN),JWN,2017-06-08,D,2,$44.63
+Netflix (NFLX),NFLX,2017-06-08,D,1,$165.88
+NVIDIA (NVDA),NVDA,2017-06-08,D,1,$159.94
+Chicago Bridge & Iron (CBI),CBI,2017-06-09,F,5,$16.16
+CoreSite Realty (COR),COR,2017-06-09,I,1,$106.42
+Corning (GLW),GLW,2017-06-09,D,1,$28.95
+H&R Block (HRB),HRB,2017-06-09,D,2,$26.19
+Idexx Laboratories (IDXX),IDXX,2017-06-09,F,1,$164.56
+Kroger (KR),KR,2017-06-09,D,1,$30.78
+NVIDIA (NVDA),NVDA,2017-06-09,F,1,$149.60
+Apple (AAPL),AAPL,2017-06-12,D,1,$145.42
+Adobe Systems (ADBE),ADBE,2017-06-12,D,1,$137.25
+Meta (FB),FB,2017-06-12,D,1,$148.44
+General Electric (GE),GE,2017-06-12,F,2,$28.94
+Alphabet (GOOGL),GOOGL,2017-06-12,D,1,$961.81
+Lam Research (LRCX),LRCX,2017-06-12,D,1,$154.51
+NVIDIA (NVDA),NVDA,2017-06-12,D,1,$149.97
+Universal Display (OLED),OLED,2017-06-12,F,1,$116.95
+Ollie's Bargain Outlet (OLLI),OLLI,2017-06-12,I,1,$41.50
+Pool Corp (POOL),POOL,2017-06-12,F,1,$119.96
+CSX (CSX),CSX,2017-06-13,F,1,$53.87
+Emerson Electric (EMR),EMR,2017-06-13,F,1,$60.84
+Home Depot (HD),HD,2017-06-13,D,2,$153.99
+Honeywell (HON),HON,2017-06-13,D,1,$134.39
+Johnson & Johnson (JNJ),JNJ,2017-06-13,D,1,$132.02
+Mastercard (MA),MA,2017-06-13,D,2,$122.32
+3M (MMM),MMM,2017-06-13,D,1,$209.11
+Procter & Gamble (PG),PG,2017-06-13,D,1,$88.06
+Scotts Miracle-Gro (SMG),SMG,2017-06-13,D,2,$89.83
+Teekay Shipping (TK),TK,2017-06-13,F,5,$6.12
+United Technologies (UTX),UTX,2017-06-13,D,1,$120.06
+Visa (V),V,2017-06-13,D,2,$95.08
+Box (BOX),BOX,2017-06-14,I,1,$18.30
+H&R Block (HRB),HRB,2017-06-14,I,1,$29.13
+Coca-Cola (KO),KO,2017-06-14,F,2,$45.30
+Pepsico (PEP),PEP,2017-06-14,D,1,$117.37
+Buffalo Wild Wings (BWLD),BWLD,2017-06-15,D,4,$140.30
+Cheesecake Factory (CAKE),CAKE,2017-06-15,D,4,$52.41
+Alphabet (GOOGL),GOOGL,2017-06-15,D,1,$960.18
+Kroger (KR),KR,2017-06-15,F,5,$24.56
+Nike (NKE),NKE,2017-06-15,D,4,$52.90
+Nucor (NUE),NUE,2017-06-15,D,4,$54.60
+Patterson-UTI Energy (PTEN),PTEN,2017-06-15,I,1,$19.97
+Rent-A-Center (RCII),RCII,2017-06-15,F,5,$12.12
+Accenture (ACN),ACN,2017-06-16,D,1,$127.56
+Adobe Systems (ADBE),ADBE,2017-06-16,D,1,$137.84
+Amazon (AMZN),AMZN,2017-06-16,F,1,$987.71
+Boeing (BA),BA,2017-06-16,D,2,$196.44
+Bed Bath & Beyond (BBBY),BBBY,2017-06-16,D,5,$35.33
+Blackberry (BBRY),BBRY,2017-06-16,D,5,$10.53
+Coach (COH),COH,2017-06-16,F,1,$46.23
+Costco (COST),COST,2017-06-16,D,4,$167.11
+FedEx (FDX),FDX,2017-06-16,D,2,$210.50
+General Electric (GE),GE,2017-06-16,D,2,$29.00
+Carmax (KMX),KMX,2017-06-16,D,4,$60.69
+Kroger (KR),KR,2017-06-16,D,5,$22.29
+Lennar (LEN),LEN,2017-06-16,D,1,$52.93
+Oracle (ORCL),ORCL,2017-06-16,D,2,$45.09
+Praxair (PX),PX,2017-06-16,F,1,$136.00
+SuperValu (SVU),SVU,2017-06-16,D,5,$3.22
+Target (TGT),TGT,2017-06-16,D,4,$52.61
+United Technologies (UTX),UTX,2017-06-16,D,2,$120.43
+Whole Foods Markets (WFM),WFM,2017-06-16,D,2,$42.68
+Walmart (WMT),WMT,2017-06-16,D,4,$75.24
+Apple (AAPL),AAPL,2017-06-19,D,1,$146.34
+Adobe Systems (ADBE),ADBE,2017-06-19,D,1,$140.35
+Amazon (AMZN),AMZN,2017-06-19,F,1,$995.17
+EQT Corp (EQT),EQT,2017-06-19,D,1,$53.51
+Alphabet (GOOGL),GOOGL,2017-06-19,D,1,$975.22
+Goldman Sachs (GS),GS,2017-06-19,I,1,$226.13
+Kroger (KR),KR,2017-06-19,D,5,$22.64
+Walmart (WMT),WMT,2017-06-19,D,4,$75.50
+Adobe Systems (ADBE),ADBE,2017-06-20,D,2,$140.91
+FedEx (FDX),FDX,2017-06-20,D,2,$208.95
+IBM (IBM),IBM,2017-06-20,I,1,$154.95
+Wix.com (WIX),WIX,2017-06-20,I,1,$70.75
+Adobe Systems (ADBE),ADBE,2017-06-21,I,1,$144.24
+Celgene (CELG),CELG,2017-06-21,D,1,$132.83
+Home Depot (HD),HD,2017-06-21,D,1,$156.59
+Lowe's (LOW),LOW,2017-06-21,D,1,$79.14
+ServiceNow (NOW),NOW,2017-06-21,D,1,$105.62
+NVIDIA (NVDA),NVDA,2017-06-21,D,1,$159.47
+Regeneron Pharmaceuticals (REGN),REGN,2017-06-21,D,1,$522.02
+Red Hat (RHT),RHT,2017-06-21,I,1,$98.58
+SunTrust Banks (STI),STI,2017-06-21,I,1,$55.29
+TJX Companies (TJX),TJX,2017-06-21,D,4,$69.40
+Workday (WDAY),WDAY,2017-06-21,D,1,$102.24
+Diageo (DEO),DEO,2017-06-22,F,2,$119.62
+Mondelez International (MDLZ),MDLZ,2017-06-22,I,1,$44.85
+Oracle (ORCL),ORCL,2017-06-22,F,1,$50.30
+PVH Corp (PVH),PVH,2017-06-22,D,2,$109.07
+Constellation Brands (STZ),STZ,2017-06-22,F,1,$184.11
+Walmart (WMT),WMT,2017-06-22,D,2,$75.52
+Yext (YEXT),YEXT,2017-06-22,I,2,$13.24
+Athenahealth (ATHN),ATHN,2017-06-23,F,4,$145.54
+Bed Bath & Beyond (BBBY),BBBY,2017-06-23,F,5,$29.65
+Cisco Systems (CSCO),CSCO,2017-06-23,D,4,$32.09
+Darden Restaurants (DRI),DRI,2017-06-23,D,1,$88.73
+Entergy (ETR),ETR,2017-06-23,I,1,$78.99
+Federal Realty Investment (FRT),FRT,2017-06-23,I,1,$125.05
+General Mills (GIS),GIS,2017-06-23,D,4,$55.94
+KB Home (KBH),KBH,2017-06-23,D,2,$22.41
+Micron Technology (MU),MU,2017-06-23,D,2,$31.73
+Nike (NKE),NKE,2017-06-23,D,5,$52.85
+Paychex (PAYX),PAYX,2017-06-23,D,1,$59.24
+Schnitzer Steel (SCHN),SCHN,2017-06-23,D,2,$21.60
+Constellation Brands (STZ),STZ,2017-06-23,D,1,$184.57
+Toll Brothers (TOL),TOL,2017-06-23,D,1,$39.07
+Advance Auto Parts (AAP),AAP,2017-07-05,D,5,$105.21
+Apple (AAPL),AAPL,2017-07-05,D,1,$144.09
+Adobe Systems (ADBE),ADBE,2017-07-05,D,1,$141.21
+Autodesk (ADSK),ADSK,2017-07-05,D,1,$102.60
+Amazon (AMZN),AMZN,2017-07-05,D,1,$971.40
+Activision Blizzard (ATVI),ATVI,2017-07-05,D,1,$57.16
+Broadcom (AVGO),AVGO,2017-07-05,D,1,$231.61
+AutoZone (AZO),AZO,2017-07-05,D,5,$516.83
+Electronic Arts (EA),EA,2017-07-05,D,1,$106.76
+Lam Research (LRCX),LRCX,2017-07-05,D,1,$142.53
+Micron Technology (MU),MU,2017-07-05,D,4,$30.51
+NVIDIA (NVDA),NVDA,2017-07-05,D,1,$143.05
+O'Reilly Automotive (ORLY),ORLY,2017-07-05,D,5,$178.77
+PayPal (PYPL),PYPL,2017-07-05,D,1,$54.61
+Red Hat (RHT),RHT,2017-07-05,D,1,$95.54
+Tesla (TSLA),TSLA,2017-07-05,D,4,$327.09
+Take-Two Interactive (TTWO),TTWO,2017-07-05,D,1,$73.28
+Amazon (AMZN),AMZN,2017-07-06,D,2,$965.14
+Blue Apron (APRN),APRN,2017-07-06,F,5,$8.06
+Avery Dennison (AVY),AVY,2017-07-06,F,1,$89.18
+Costco (COST),COST,2017-07-06,D,4,$157.09
+General Electric (GE),GE,2017-07-06,D,4,$26.31
+Verizon (VZ),VZ,2017-07-06,D,4,$43.52
+Amazon (AMZN),AMZN,2017-07-07,D,1,$978.76
+Brinks (BCO),BCO,2017-07-07,F,1,$66.95
+Citigroup (C),C,2017-07-07,D,1,$67.91
+Conduent (CNDT),CNDT,2017-07-07,M,4,$16.00
+Delta Air Lines (DAL),DAL,2017-07-07,D,2,$55.46
+Editas Medicine (EDIT),EDIT,2017-07-07,M,4,$17.18
+Equinix (EQIX),EQIX,2017-07-07,I,1,$423.30
+General Mills (GIS),GIS,2017-07-07,D,4,$53.63
+JPMorgan Chase (JPM),JPM,2017-07-07,D,1,$93.85
+Karyopharm Therapeutics (KPTI),KPTI,2017-07-07,M,1,$9.30
+Oracle (ORCL),ORCL,2017-07-07,D,1,$49.35
+Pepsico (PEP),PEP,2017-07-07,D,1,$115.51
+Wells Fargo (WFC),WFC,2017-07-07,D,4,$55.74
+Amazon (AMZN),AMZN,2017-07-10,F,1,$996.47
+Costco (COST),COST,2017-07-10,D,4,$151.00
+Macy's (M),M,2017-07-10,D,2,$21.08
+NovoCure (NVCR),NVCR,2017-07-10,I,1,$18.10
+Yum! Brands (YUM),YUM,2017-07-10,F,1,$73.54
+Yum China (YUMC),YUMC,2017-07-10,F,4,$37.32
+Abercrombie & Fitch (ANF),ANF,2017-07-11,D,4,$9.24
+Blue Apron (APRN),APRN,2017-07-11,D,5,$7.14
+Salesforce (CRM),CRM,2017-07-11,D,2,$88.35
+Carrizo Oil & Gas (CRZO),CRZO,2017-07-11,F,1,$16.10
+JC Penney (JCP),JCP,2017-07-11,D,4,$4.56
+Occidental Petroleum (OXY),OXY,2017-07-11,D,2,$58.94
+Red Hat (RHT),RHT,2017-07-11,D,2,$97.41
+Transocean (RIG),RIG,2017-07-11,D,5,$8.09
+Snap (SNAP),SNAP,2017-07-11,D,5,$15.47
+Constellation Brands (STZ),STZ,2017-07-11,I,1,$193.89
+Southwestern Energy (SWN),SWN,2017-07-11,D,2,$5.97
+AT&T (T),T,2017-07-11,D,4,$36.60
+T-Mobile US (TMUS),TMUS,2017-07-11,D,2,$61.23
+Ulta Beauty (ULTA),ULTA,2017-07-11,D,4,$255.98
+Verizon (VZ),VZ,2017-07-11,D,4,$42.89
+Workday (WDAY),WDAY,2017-07-11,D,2,$99.38
+Apple (AAPL),AAPL,2017-07-12,D,1,$145.74
+Boeing (BA),BA,2017-07-12,D,4,$206.44
+Caterpillar (CAT),CAT,2017-07-12,D,1,$108.96
+Rockwell Collins (COL),COL,2017-07-12,F,1,$109.03
+Delta Air Lines (DAL),DAL,2017-07-12,D,1,$55.48
+Meta (FB),FB,2017-07-12,D,1,$158.90
+Alphabet (GOOGL),GOOGL,2017-07-12,D,1,$967.66
+Home Depot (HD),HD,2017-07-12,D,1,$152.59
+Herman Miller (MLHR),MLHR,2017-07-12,I,1,$33.70
+Netflix (NFLX),NFLX,2017-07-12,D,1,$158.75
+NVIDIA (NVDA),NVDA,2017-07-12,D,1,$162.51
+PayPal (PYPL),PYPL,2017-07-12,D,1,$56.55
+Tesla (TSLA),TSLA,2017-07-12,D,2,$329.52
+Vantiv (VNTV),VNTV,2017-07-12,F,1,$63.00
+Alder BioPharmaceuticals (ALDR),ALDR,2017-07-13,F,1,$11.95
+Apache (APA),APA,2017-07-13,D,1,$48.24
+Chevron (CVX),CVX,2017-07-13,D,1,$104.13
+General Motors (GM),GM,2017-07-13,D,2,$35.86
+Home Depot (HD),HD,2017-07-13,D,1,$153.29
+Nordstrom (JWN),JWN,2017-07-13,D,4,$47.33
+Kohl's (KSS),KSS,2017-07-13,D,4,$38.93
+Macy's (M),M,2017-07-13,D,4,$22.10
+Herman Miller (MLHR),MLHR,2017-07-13,F,1,$34.35
+Occidental Petroleum (OXY),OXY,2017-07-13,D,1,$59.50
+Steelcase (SCS),SCS,2017-07-13,F,4,$13.85
+Target (TGT),TGT,2017-07-13,D,2,$53.31
+TJX Companies (TJX),TJX,2017-07-13,D,1,$69.98
+Walmart (WMT),WMT,2017-07-13,D,1,$75.05
+Aurinia Pharmaceuticals (AUPH),AUPH,2017-07-17,I,1,$7.45
+Bank of America (BAC),BAC,2017-07-17,D,4,$24.02
+BHP Billiton (BHP),BHP,2017-07-17,D,1,$39.64
+Caterpillar (CAT),CAT,2017-07-17,D,1,$108.84
+iShares MSCI Eurozone ETF (EZU),EZU,2017-07-17,D,1,$41.36
+General Electric (GE),GE,2017-07-17,D,4,$26.82
+Goldman Sachs (GS),GS,2017-07-17,D,4,$229.26
+Honeywell (HON),HON,2017-07-17,D,1,$135.26
+IBM (IBM),IBM,2017-07-17,D,2,$153.01
+Johnson & Johnson (JNJ),JNJ,2017-07-17,D,1,$132.15
+Microsoft (MSFT),MSFT,2017-07-17,D,2,$73.35
+Netflix (NFLX),NFLX,2017-07-17,D,2,$161.70
+Procter & Gamble (PG),PG,2017-07-17,D,2,$87.55
+Schlumberger (SLB),SLB,2017-07-17,D,4,$66.83
+T-Mobile US (TMUS),TMUS,2017-07-17,D,1,$61.38
+UnitedHealth Group (UNH),UNH,2017-07-17,D,1,$186.35
+Union Pacific (UNP),UNP,2017-07-17,D,2,$109.05
+Visa (V),V,2017-07-17,D,1,$96.83
+Vale (VALE),VALE,2017-07-17,D,2,$9.30
+Zimmer Biomet (ZBH),ZBH,2017-07-17,F,4,$132.61
+AbbVie (ABBV),ABBV,2017-07-18,D,1,$72.23
+Broadcom (AVGO),AVGO,2017-07-18,D,1,$250.88
+Bank of America (BAC),BAC,2017-07-18,D,1,$23.90
+The Blackstone Group (BX),BX,2017-07-18,D,1,$34.51
+Citigroup (C),C,2017-07-18,D,1,$66.89
+Meta (FB),FB,2017-07-18,D,1,$162.86
+Alphabet (GOOGL),GOOGL,2017-07-18,D,1,$986.95
+Goldman Sachs (GS),GS,2017-07-18,D,1,$223.31
+Honeywell (HON),HON,2017-07-18,D,1,$135.19
+Johnson & Johnson (JNJ),JNJ,2017-07-18,D,1,$134.46
+JPMorgan Chase (JPM),JPM,2017-07-18,D,1,$91.07
+Lockheed Martin (LMT),LMT,2017-07-18,D,1,$286.79
+Netflix (NFLX),NFLX,2017-07-18,F,1,$183.60
+NVIDIA (NVDA),NVDA,2017-07-18,D,1,$165.96
+ProLogis (PLD),PLD,2017-07-18,I,1,$60.12
+Potash (POT),POT,2017-07-18,D,1,$17.66
+UnitedHealth Group (UNH),UNH,2017-07-18,D,1,$186.85
+Exxon Mobil (XOM),XOM,2017-07-18,D,2,$80.60
+Alibaba (BABA),BABA,2017-07-19,D,1,$153.15
+Costco (COST),COST,2017-07-19,D,1,$151.24
+Discovery Communications (DISCA),DISCA,2017-07-19,F,4,$27.18
+Equifax (EFX),EFX,2017-07-19,F,1,$142.72
+Edwards Lifesciences (EW),EW,2017-07-19,I,1,$119.04
+McCormick (MKC),MKC,2017-07-19,F,4,$92.07
+Herman Miller (MLHR),MLHR,2017-07-19,D,1,$33.60
+NVIDIA (NVDA),NVDA,2017-07-19,D,1,$165.10
+Universal Display (OLED),OLED,2017-07-19,D,1,$124.30
+Portola Pharmaceuticals (PTLA),PTLA,2017-07-19,D,2,$64.98
+Abbott Laboratories (ABT),ABT,2017-07-20,D,1,$50.85
+Alibaba (BABA),BABA,2017-07-20,D,1,$152.11
+Baozun (BZUN),BZUN,2017-07-20,I,2,$29.89
+Meta (FB),FB,2017-07-20,F,1,$164.53
+Alphabet (GOOGL),GOOGL,2017-07-20,F,1,$992.19
+Home Depot (HD),HD,2017-07-20,D,4,$147.03
+Johnson & Johnson (JNJ),JNJ,2017-07-20,D,1,$136.57
+KeyCorp (KEY),KEY,2017-07-20,I,1,$18.37
+Lowe's (LOW),LOW,2017-07-20,D,4,$72.56
+Netflix (NFLX),NFLX,2017-07-20,F,1,$183.60
+UnitedHealth Group (UNH),UNH,2017-07-20,D,1,$191.50
+Walgreens Boots Alliance (WBA),WBA,2017-07-20,D,5,$79.80
+Advanced Micro Devices (AMD),AMD,2017-07-24,D,2,$14.16
+Boeing (BA),BA,2017-07-24,D,2,$212.18
+Caterpillar (CAT),CAT,2017-07-24,D,1,$108.18
+Chipotle Mexican Grill (CMG),CMG,2017-07-24,D,4,$339.98
+Carrizo Oil & Gas (CRZO),CRZO,2017-07-24,D,4,$14.94
+Dow (DOW),DOW,2017-07-24,D,1,$66.22
+Ethan Allen Interiors (ETH),ETH,2017-07-24,F,4,$30.75
+Meta (FB),FB,2017-07-24,D,1,$166.00
+Hasbro (HAS),HAS,2017-07-24,I,1,$105.00
+Intel (INTC),INTC,2017-07-24,D,2,$34.50
+Lam Research (LRCX),LRCX,2017-07-24,D,1,$164.12
+Southwest Airlines (LUV),LUV,2017-07-24,D,1,$59.81
+McDonald's (MCD),MCD,2017-07-24,D,1,$151.85
+3M (MMM),MMM,2017-07-24,D,1,$210.00
+Nucor (NUE),NUE,2017-07-24,I,1,$60.51
+PayPal (PYPL),PYPL,2017-07-24,D,1,$58.58
+RH (RH),RH,2017-07-24,F,4,$75.24
+Starbucks (SBUX),SBUX,2017-07-24,D,4,$58.02
+Schlumberger (SLB),SLB,2017-07-24,D,2,$66.42
+United Technologies (UTX),UTX,2017-07-24,D,1,$123.13
+Caterpillar (CAT),CAT,2017-07-25,D,1,$114.54
+Domino's Pizza (DPZ),DPZ,2017-07-25,D,1,$192.40
+Diamondback Energy (FANG),FANG,2017-07-25,D,1,$95.72
+General Dynamics (GD),GD,2017-07-25,F,1,$203.56
+Alphabet (GOOGL),GOOGL,2017-07-25,D,2,$969.03
+Hasbro (HAS),HAS,2017-07-25,D,1,$106.32
+McDonald's (MCD),MCD,2017-07-25,D,1,$159.07
+Magna International (MGA),MGA,2017-07-25,I,1,$48.02
+McCormick (MKC),MKC,2017-07-25,I,1,$94.81
+3M (MMM),MMM,2017-07-25,D,1,$199.39
+United Technologies (UTX),UTX,2017-07-25,D,1,$120.42
+Advanced Micro Devices (AMD),AMD,2017-07-26,D,1,$14.76
+Boeing (BA),BA,2017-07-26,D,1,$233.45
+Citigroup (C),C,2017-07-26,I,1,$67.98
+Chipotle Mexican Grill (CMG),CMG,2017-07-26,D,4,$340.60
+IBM (IBM),IBM,2017-07-26,D,4,$145.36
+McDonald's (MCD),MCD,2017-07-26,D,1,$156.51
+Norfolk Southern (NSC),NSC,2017-07-26,D,4,$116.41
+Polaris Industries (PII),PII,2017-07-26,F,5,$89.99
+AT&T (T),T,2017-07-26,D,1,$38.03
+Union Pacific (UNP),UNP,2017-07-26,D,4,$104.42
+Alphabet (GOOGL),GOOGL,2017-07-27,D,2,$952.51
+Logitech International (LOGI),LOGI,2017-07-27,I,1,$35.81
+Lam Research (LRCX),LRCX,2017-07-27,I,1,$164.76
+Netflix (NFLX),NFLX,2017-07-27,D,2,$182.68
+AT&T (T),T,2017-07-27,F,1,$39.41
+T-Mobile US (TMUS),TMUS,2017-07-27,F,2,$61.62
+United Rentals (URI),URI,2017-07-27,I,1,$120.77
+Verizon (VZ),VZ,2017-07-27,F,1,$47.81
+Baxter International (BAX),BAX,2017-07-31,F,1,$60.48
+Becton Dickinson (BDX),BDX,2017-07-31,F,1,$201.40
+Boston Scientific (BSX),BSX,2017-07-31,F,1,$26.62
+CSX (CSX),CSX,2017-07-31,D,4,$49.34
+Domino's Pizza (DPZ),DPZ,2017-07-31,I,1,$186.50
+FedEx (FDX),FDX,2017-07-31,D,4,$208.03
+Southwest Airlines (LUV),LUV,2017-07-31,D,4,$55.51
+New York Times (NYT),NYT,2017-07-31,F,2,$19.00
+Apple (AAPL),AAPL,2017-08-01,D,1,$150.05
+Broadcom (AVGO),AVGO,2017-08-01,D,2,$248.39
+Best Buy (BBY),BBY,2017-08-01,D,2,$59.48
+CBRE Group (CBRE),CBRE,2017-08-01,I,1,$37.72
+Costco (COST),COST,2017-08-01,D,2,$159.72
+Cirrus Logic (CRUS),CRUS,2017-08-01,D,2,$63.08
+Ellie Mae (ELLI),ELLI,2017-08-01,I,4,$86.75
+FedEx (FDX),FDX,2017-08-01,D,1,$206.71
+Home Depot (HD),HD,2017-08-01,D,2,$149.85
+Intel (INTC),INTC,2017-08-01,D,1,$36.35
+Kohl's (KSS),KSS,2017-08-01,D,2,$41.56
+Macy's (M),M,2017-08-01,D,2,$23.98
+3M (MMM),MMM,2017-08-01,D,1,$203.18
+Oracle (ORCL),ORCL,2017-08-01,D,1,$50.16
+Constellation Brands (STZ),STZ,2017-08-01,D,1,$194.75
+Stanley Black & Decker (SWK),SWK,2017-08-01,D,1,$139.47
+Skyworks Solutions (SWKS),SWKS,2017-08-01,D,2,$104.28
+T-Mobile US (TMUS),TMUS,2017-08-01,D,1,$63.07
+Texas Instruments (TXN),TXN,2017-08-01,D,1,$81.71
+Ulta Beauty (ULTA),ULTA,2017-08-01,D,4,$255.27
+Visa (V),V,2017-08-01,D,1,$100.87
+Verizon (VZ),VZ,2017-08-01,D,1,$48.89
+Walmart (WMT),WMT,2017-08-01,D,2,$80.50
+Apple (AAPL),AAPL,2017-08-02,D,1,$157.14
+Amazon (AMZN),AMZN,2017-08-02,D,1,$995.89
+Boeing (BA),BA,2017-08-02,D,1,$237.95
+Meta (FB),FB,2017-08-02,D,1,$169.30
+Fitbit (FIT),FIT,2017-08-02,M,5,$5.07
+Alphabet (GOOGL),GOOGL,2017-08-02,D,1,$947.64
+Groupon (GRPN),GRPN,2017-08-02,I,1,$4.23
+Idexx Laboratories (IDXX),IDXX,2017-08-02,I,1,$151.21
+McDonald's (MCD),MCD,2017-08-02,D,1,$156.59
+Netflix (NFLX),NFLX,2017-08-02,D,1,$180.74
+Synergy Pharmaceuticals (SGYP),SGYP,2017-08-02,M,4,$3.67
+Twitter (TWTR),TWTR,2017-08-02,M,4,$16.07
+UnitedHealth Group (UNH),UNH,2017-08-02,D,1,$193.00
+Apple (AAPL),AAPL,2017-08-03,D,1,$155.57
+American Express (AXP),AXP,2017-08-03,D,4,$85.54
+Boeing (BA),BA,2017-08-03,D,1,$238.25
+Caterpillar (CAT),CAT,2017-08-03,D,1,$113.56
+Clorox (CLX),CLX,2017-08-03,I,1,$134.73
+McDonald's (MCD),MCD,2017-08-03,D,1,$154.72
+Microsoft (MSFT),MSFT,2017-08-03,D,1,$72.15
+Nike (NKE),NKE,2017-08-03,D,1,$60.14
+UnitedHealth Group (UNH),UNH,2017-08-03,D,1,$194.77
+Visa (V),V,2017-08-03,D,1,$100.59
+Walmart (WMT),WMT,2017-08-03,D,1,$80.87
+Wyndham Worldwide (WYN),WYN,2017-08-03,I,1,$102.30
+Allergan (AGN),AGN,2017-08-07,I,1,$241.22
+Amazon (AMZN),AMZN,2017-08-07,D,1,$992.27
+Boeing (BA),BA,2017-08-07,D,1,$240.23
+Rockwell Collins (COL),COL,2017-08-07,D,1,$127.07
+Meta (FB),FB,2017-08-07,D,1,$171.98
+Alphabet (GOOGL),GOOGL,2017-08-07,D,1,$945.75
+Netflix (NFLX),NFLX,2017-08-07,D,1,$181.33
+NVIDIA (NVDA),NVDA,2017-08-07,D,1,$172.35
+Snap-on (SNA),SNA,2017-08-07,I,1,$154.95
+Sierra Wireless (SWIR),SWIR,2017-08-07,I,1,$24.85
+Tesla (TSLA),TSLA,2017-08-07,F,2,$355.17
+American Express (AXP),AXP,2017-08-08,D,2,$85.94
+Costco (COST),COST,2017-08-08,D,4,$157.75
+Discover Financial Servic (DFS),DFS,2017-08-08,D,5,$61.96
+Home Depot (HD),HD,2017-08-08,D,1,$153.35
+Henry Schein (HSIC),HSIC,2017-08-08,I,1,$174.02
+Intel (INTC),INTC,2017-08-08,F,1,$36.41
+Michael Kors (KORS),KORS,2017-08-08,F,1,$45.25
+Lululemon Athletica (LULU),LULU,2017-08-08,D,1,$62.53
+Mastercard (MA),MA,2017-08-08,D,1,$129.84
+Meritor (MTOR),MTOR,2017-08-08,I,1,$19.26
+Children's Place (PLCE),PLCE,2017-08-08,D,1,$118.00
+PVH Corp (PVH),PVH,2017-08-08,D,1,$124.30
+Ralph Lauren (RL),RL,2017-08-08,F,1,$88.53
+Ulta Beauty (ULTA),ULTA,2017-08-08,D,1,$250.64
+Visa (V),V,2017-08-08,D,1,$101.28
+VF Corp (VFC),VFC,2017-08-08,D,1,$62.61
+Allergan (AGN),AGN,2017-08-09,D,1,$237.97
+Amazon (AMZN),AMZN,2017-08-09,D,1,$982.01
+Boeing (BA),BA,2017-08-09,F,1,$234.31
+Clorox (CLX),CLX,2017-08-09,D,2,$134.21
+Tableau Software (DATA),DATA,2017-08-09,I,1,$69.86
+Walt Disney (DIS),DIS,2017-08-09,D,1,$102.83
+Domino's Pizza (DPZ),DPZ,2017-08-09,D,1,$193.83
+Estee Lauder (EL),EL,2017-08-09,D,1,$103.77
+General Dynamics (GD),GD,2017-08-09,D,2,$201.00
+SPDR Gold Shares (GLD),GLD,2017-08-09,D,1,$121.31
+Barrick Gold (GOLD),GOLD,2017-08-09,D,1,$95.59
+Lockheed Martin (LMT),LMT,2017-08-09,D,1,$305.22
+McCormick (MKC),MKC,2017-08-09,D,1,$95.76
+Northrop Grumman (NOC),NOC,2017-08-09,D,2,$273.10
+NVIDIA (NVDA),NVDA,2017-08-09,D,1,$172.11
+Opko Health (OPK),OPK,2017-08-09,I,1,$6.43
+Raytheon (RTN),RTN,2017-08-09,D,1,$179.30
+Constellation Brands (STZ),STZ,2017-08-09,D,1,$195.39
+Tesla (TSLA),TSLA,2017-08-09,D,2,$363.53
+Cypress Semiconductor (CY),CY,2017-08-10,I,1,$13.22
+Meta (FB),FB,2017-08-10,D,1,$167.40
+Live Nation (LYV),LYV,2017-08-10,F,1,$39.61
+Planet Fitness (PLNT),PLNT,2017-08-10,I,1,$25.13
+U.S. Concrete (USCR),USCR,2017-08-10,I,1,$75.70
+Alliance Data (ADS),ADS,2017-08-14,F,1,$222.41
+Carnival (CCL),CCL,2017-08-14,F,1,$68.03
+Micron Technology (MU),MU,2017-08-14,D,4,$29.24
+Norwegian Cruise Line (NCLH),NCLH,2017-08-14,F,1,$57.46
+NVIDIA (NVDA),NVDA,2017-08-14,D,1,$168.40
+Royal Caribbean Cruises (RCL),RCL,2017-08-14,F,1,$119.61
+Seagate Technology (STX),STX,2017-08-14,D,4,$32.55
+Apple (AAPL),AAPL,2017-08-15,D,1,$161.60
+Adobe Systems (ADBE),ADBE,2017-08-15,D,1,$150.36
+Applied Materials (AMAT),AMAT,2017-08-15,D,2,$43.88
+Amazon (AMZN),AMZN,2017-08-15,D,1,$982.74
+Blue Apron (APRN),APRN,2017-08-15,D,5,$5.65
+Clorox (CLX),CLX,2017-08-15,D,1,$136.30
+Salesforce (CRM),CRM,2017-08-15,D,1,$90.70
+CyberArk Software (CYBR),CYBR,2017-08-15,I,1,$40.37
+DuPont (DD),DD,2017-08-15,D,1,$81.58
+General Dynamics (GD),GD,2017-08-15,D,1,$199.49
+Grubhub (GRUB),GRUB,2017-08-15,F,1,$54.35
+Home Depot (HD),HD,2017-08-15,F,4,$150.17
+Lockheed Martin (LMT),LMT,2017-08-15,D,1,$306.20
+McDonald's (MCD),MCD,2017-08-15,D,1,$157.62
+Micron Technology (MU),MU,2017-08-15,D,2,$29.68
+NVIDIA (NVDA),NVDA,2017-08-15,D,1,$166.98
+Raytheon (RTN),RTN,2017-08-15,D,1,$178.22
+Snap (SNAP),SNAP,2017-08-15,D,5,$12.74
+UnitedHealth Group (UNH),UNH,2017-08-15,D,1,$194.50
+Visa (V),V,2017-08-15,D,1,$102.63
+Yelp (YELP),YELP,2017-08-15,F,1,$41.56
+Etsy (ETSY),ETSY,2017-08-16,F,1,$15.60
+Kirkland Lake (KL),KL,2017-08-16,I,1,$11.40
+Shopify (SHOP),SHOP,2017-08-16,F,2,$94.61
+Target (TGT),TGT,2017-08-16,D,1,$56.31
+TJX Companies (TJX),TJX,2017-08-16,D,1,$71.59
+Urban Outfitters (URBN),URBN,2017-08-16,D,1,$19.76
+Valeant Pharmaceuticals (VRX),VRX,2017-08-16,I,1,$14.15
+Apple (AAPL),AAPL,2017-08-17,D,1,$157.86
+Amazon (AMZN),AMZN,2017-08-17,D,1,$960.57
+Box (BOX),BOX,2017-08-17,I,1,$18.59
+Coach (COH),COH,2017-08-17,D,4,$41.00
+Cisco Systems (CSCO),CSCO,2017-08-17,D,2,$31.04
+Dicks Sporting Goods (DKS),DKS,2017-08-17,D,4,$27.74
+INSYS Therapeutics (INSY),INSY,2017-08-17,M,5,$9.28
+L Brands (LB),LB,2017-08-17,D,4,$37.55
+Macy's (M),M,2017-08-17,D,4,$19.62
+Pattern Energy (PEGI),PEGI,2017-08-17,M,1,$23.76
+Target (TGT),TGT,2017-08-17,D,1,$56.12
+2U (TWOU),TWOU,2017-08-17,M,1,$47.94
+Walmart (WMT),WMT,2017-08-17,D,2,$79.70
+Automatic Data Processing (ADP),ADP,2017-08-21,I,2,$102.89
+CyrusOne (CONE),CONE,2017-08-21,I,1,$59.59
+Foot Locker (FL),FL,2017-08-21,F,5,$31.82
+Macy's (M),M,2017-08-21,F,2,$19.53
+Apple (AAPL),AAPL,2017-08-22,D,1,$159.78
+BHP Billiton (BHP),BHP,2017-08-22,D,2,$41.41
+Cardinal Health (CAH),CAH,2017-08-22,I,1,$65.42
+Salesforce (CRM),CRM,2017-08-22,I,1,$92.95
+McDonald's (MCD),MCD,2017-08-22,D,2,$159.64
+Medtronic (MDT),MDT,2017-08-22,D,2,$81.76
+Netflix (NFLX),NFLX,2017-08-22,D,4,$169.34
+Starbucks (SBUX),SBUX,2017-08-22,D,2,$54.45
+Toll Brothers (TOL),TOL,2017-08-22,D,2,$37.27
+Align Technology (ALGN),ALGN,2017-08-23,F,1,$172.85
+Amazon (AMZN),AMZN,2017-08-23,F,4,$958.00
+Alibaba (BABA),BABA,2017-08-23,D,2,$175.80
+Lowe's (LOW),LOW,2017-08-23,D,2,$73.01
+PVH Corp (PVH),PVH,2017-08-23,I,1,$120.04
+Pioneer Natural Resources (PXD),PXD,2017-08-23,I,1,$129.71
+TJX Companies (TJX),TJX,2017-08-23,D,2,$71.59
+Walmart (WMT),WMT,2017-08-23,D,2,$79.96
+Apple (AAPL),AAPL,2017-08-24,D,2,$159.27
+Amazon (AMZN),AMZN,2017-08-24,D,2,$952.45
+Burlington Stores (BURL),BURL,2017-08-24,F,1,$86.11
+Dollar Tree (DLTR),DLTR,2017-08-24,F,1,$78.50
+EPR Properties (EPR),EPR,2017-08-24,I,1,$68.15
+Meta (FB),FB,2017-08-24,D,2,$167.74
+Alphabet (GOOGL),GOOGL,2017-08-24,D,2,$936.89
+Intuit (INTU),INTU,2017-08-24,I,1,$135.33
+Netflix (NFLX),NFLX,2017-08-24,D,2,$168.13
+PVH Corp (PVH),PVH,2017-08-24,F,1,$126.92
+Synaptics (SYNA),SYNA,2017-08-24,I,1,$39.70
+Williams-Sonoma (WSM),WSM,2017-08-24,F,1,$44.96
+Apple (AAPL),AAPL,2017-08-28,D,1,$161.47
+Amazon (AMZN),AMZN,2017-08-28,D,1,$946.02
+Broadcom (AVGO),AVGO,2017-08-28,D,1,$243.25
+CBRE Group (CBRE),CBRE,2017-08-28,D,1,$35.50
+Cirrus Logic (CRUS),CRUS,2017-08-28,D,1,$55.68
+Esperion Therapeutics (ESPR),ESPR,2017-08-28,F,5,$48.90
+Gilead Sciences (GILD),GILD,2017-08-28,D,2,$74.69
+Home Depot (HD),HD,2017-08-28,D,4,$151.39
+Lowe's (LOW),LOW,2017-08-28,D,4,$73.80
+Six Flags (SIX),SIX,2017-08-28,I,1,$51.90
+United Rentals (URI),URI,2017-08-28,D,1,$110.71
+Veeva Systems (VEEV),VEEV,2017-08-28,I,1,$57.13
+Apple (AAPL),AAPL,2017-08-29,D,1,$162.91
+AEO (AEO),AEO,2017-08-29,D,5,$12.45
+Abercrombie & Fitch (ANF),ANF,2017-08-29,D,5,$12.54
+Express (EXPR),EXPR,2017-08-29,D,5,$6.51
+Finish Line (FINL),FINL,2017-08-29,D,5,$8.50
+Johnson & Johnson (JNJ),JNJ,2017-08-29,D,1,$132.21
+Kratos Defense & Security (KTOS),KTOS,2017-08-29,D,1,$12.90
+L Brands (LB),LB,2017-08-29,D,4,$36.52
+Martin Marietta Materials (MLM),MLM,2017-08-29,D,1,$202.82
+3M (MMM),MMM,2017-08-29,D,1,$202.92
+Procter & Gamble (PG),PG,2017-08-29,D,1,$92.32
+PVH Corp (PVH),PVH,2017-08-29,D,1,$126.62
+Ross Stores (ROST),ROST,2017-08-29,D,1,$58.69
+Raytheon (RTN),RTN,2017-08-29,D,1,$182.11
+Signet Jewelers (SIG),SIG,2017-08-29,D,2,$62.77
+Del Taco Restaurants (TACO),TACO,2017-08-29,I,1,$13.90
+Target (TGT),TGT,2017-08-29,D,1,$54.55
+TJX Companies (TJX),TJX,2017-08-29,D,1,$71.49
+United Rentals (URI),URI,2017-08-29,D,1,$114.94
+Apple (AAPL),AAPL,2017-08-30,D,1,$163.35
+Celgene (CELG),CELG,2017-08-30,D,2,$134.34
+Centene (CNC),CNC,2017-08-30,I,1,$86.43
+Gilead Sciences (GILD),GILD,2017-08-30,D,2,$81.23
+Hain Celestial Group (HAIN),HAIN,2017-08-30,I,1,$39.64
+Owens Corning (OC),OC,2017-08-30,D,1,$71.76
+PVH Corp (PVH),PVH,2017-08-30,D,1,$126.04
+Tech Data (TECD),TECD,2017-08-30,D,2,$109.53
+United Rentals (URI),URI,2017-08-30,D,1,$119.19
+U.S. Concrete (USCR),USCR,2017-08-30,D,1,$81.40
+United Technologies (UTX),UTX,2017-08-30,D,2,$119.60
+Workday (WDAY),WDAY,2017-08-30,I,1,$107.54
+Weyerhaeuser (WY),WY,2017-08-30,D,1,$31.75
+Apple (AAPL),AAPL,2017-08-31,D,1,$164.00
+Analog Devices (ADI),ADI,2017-08-31,F,1,$83.67
+Autodesk (ADSK),ADSK,2017-08-31,D,1,$114.46
+Broadcom (AVGO),AVGO,2017-08-31,D,1,$252.07
+Alibaba (BABA),BABA,2017-08-31,D,1,$171.74
+Bluebird Bio (BLUE),BLUE,2017-08-31,D,1,$124.85
+Celgene (CELG),CELG,2017-08-31,D,1,$138.93
+Meta (FB),FB,2017-08-31,D,1,$171.97
+Alphabet (GOOGL),GOOGL,2017-08-31,D,1,$955.24
+Honeywell (HON),HON,2017-08-31,D,1,$138.27
+3M (MMM),MMM,2017-08-31,D,1,$204.32
+Netflix (NFLX),NFLX,2017-08-31,D,1,$174.71
+Ingevity (NGVT),NGVT,2017-08-31,I,1,$62.97
+NVIDIA (NVDA),NVDA,2017-08-31,D,1,$169.44
+UnitedHealth Group (UNH),UNH,2017-08-31,D,1,$198.90
+Visa (V),V,2017-08-31,D,1,$103.52
+Apple (AAPL),AAPL,2017-09-11,D,1,$161.50
+Amazon (AMZN),AMZN,2017-09-11,D,1,$977.96
+Broadcom (AVGO),AVGO,2017-09-11,D,1,$247.74
+DowDuPont (DWDP),DWDP,2017-09-11,F,1,$66.85
+Meta (FB),FB,2017-09-11,D,1,$173.51
+Alphabet (GOOGL),GOOGL,2017-09-11,D,1,$943.29
+Honeywell (HON),HON,2017-09-11,D,1,$139.00
+3M (MMM),MMM,2017-09-11,D,1,$209.56
+Netflix (NFLX),NFLX,2017-09-11,D,1,$181.74
+Universal Display (OLED),OLED,2017-09-11,D,1,$132.30
+Skyworks Solutions (SWKS),SWKS,2017-09-11,D,1,$107.19
+Apple (AAPL),AAPL,2017-09-12,D,1,$160.86
+Andeavor (ANDV),ANDV,2017-09-12,D,1,$103.43
+Caterpillar (CAT),CAT,2017-09-12,D,1,$120.94
+HollyFrontier (HFC),HFC,2017-09-12,D,1,$32.98
+New Relic (NEWR),NEWR,2017-09-12,I,1,$49.68
+United Technologies (UTX),UTX,2017-09-12,D,1,$109.86
+Marriott Vacations Worldw (VAC),VAC,2017-09-12,D,1,$114.20
+Valero Energy (VLO),VLO,2017-09-12,D,1,$70.21
+Ventas (VTR),VTR,2017-09-12,I,1,$68.53
+Apple (AAPL),AAPL,2017-09-13,F,1,$159.65
+Burlington Stores (BURL),BURL,2017-09-13,D,1,$90.81
+Citigroup (C),C,2017-09-13,M,1,$69.39
+Coty (COTY),COTY,2017-09-13,D,5,$17.17
+Dollar Tree (DLTR),DLTR,2017-09-13,D,1,$84.41
+Estee Lauder (EL),EL,2017-09-13,D,1,$109.66
+e.l.f. Beauty (ELF),ELF,2017-09-13,D,1,$19.81
+Gilead Sciences (GILD),GILD,2017-09-13,M,2,$83.68
+Kohl's (KSS),KSS,2017-09-13,D,1,$44.01
+Newell Brands (NWL),NWL,2017-09-13,M,4,$44.22
+Children's Place (PLCE),PLCE,2017-09-13,D,1,$114.95
+Ross Stores (ROST),ROST,2017-09-13,D,1,$61.41
+TJX Companies (TJX),TJX,2017-09-13,D,1,$73.49
+Ulta Beauty (ULTA),ULTA,2017-09-13,D,2,$226.41
+XPO Logistics (XPO),XPO,2017-09-13,I,1,$61.05
+Apple (AAPL),AAPL,2017-09-14,D,1,$158.28
+Amazon (AMZN),AMZN,2017-09-14,D,2,$992.21
+AutoNation (AN),AN,2017-09-14,D,2,$45.99
+Arconic (ARNC),ARNC,2017-09-14,D,1,$25.36
+Boeing (BA),BA,2017-09-14,D,1,$245.23
+Best Buy (BBY),BBY,2017-09-14,F,1,$58.38
+Brunswick (BC),BC,2017-09-14,I,1,$53.37
+Brixmor Property Group (BRX),BRX,2017-09-14,I,1,$19.76
+Johnson & Johnson (JNJ),JNJ,2017-09-14,D,1,$134.18
+Carmax (KMX),KMX,2017-09-14,D,2,$69.46
+Magna International (MGA),MGA,2017-09-14,D,1,$51.01
+United Technologies (UTX),UTX,2017-09-14,D,1,$113.14
+Adobe Systems (ADBE),ADBE,2017-09-15,D,1,$154.49
+AutoZone (AZO),AZO,2017-09-15,D,5,$569.89
+Bed Bath & Beyond (BBBY),BBBY,2017-09-15,D,5,$28.67
+Best Buy (BBY),BBY,2017-09-15,D,1,$58.61
+Brixmor Property Group (BRX),BRX,2017-09-15,D,2,$19.70
+Caterpillar (CAT),CAT,2017-09-15,D,2,$121.37
+Entercom Communications (ETM),ETM,2017-09-15,F,1,$10.50
+Eaton (ETN),ETN,2017-09-15,D,2,$76.91
+FedEx (FDX),FDX,2017-09-15,D,1,$214.83
+Finish Line (FINL),FINL,2017-09-15,D,5,$10.49
+General Mills (GIS),GIS,2017-09-15,D,2,$55.80
+Carmax (KMX),KMX,2017-09-15,D,2,$68.08
+Medicine Company (MDCO),MDCO,2017-09-15,D,5,$33.16
+Herman Miller (MLHR),MLHR,2017-09-15,D,1,$34.60
+Park Hotels & Resorts (PK),PK,2017-09-15,D,5,$27.49
+Redfin (RDFN),RDFN,2017-09-15,D,1,$26.53
+Rambus (RMBS),RMBS,2017-09-15,D,2,$13.38
+United Technologies (UTX),UTX,2017-09-15,D,2,$113.08
+XPO Logistics (XPO),XPO,2017-09-15,D,2,$60.83
+Equifax (EFX),EFX,2017-09-18,F,4,$94.38
+General Motors (GM),GM,2017-09-18,D,1,$38.59
+Magna International (MGA),MGA,2017-09-18,D,1,$51.76
+Northrop Grumman (NOC),NOC,2017-09-18,D,1,$275.97
+NVIDIA (NVDA),NVDA,2017-09-18,F,1,$187.55
+Teleflex (TFX),TFX,2017-09-18,F,1,$239.73
+United Rentals (URI),URI,2017-09-18,D,1,$129.43
+ZAGG (ZAGG),ZAGG,2017-09-18,I,1,$14.70
+Adobe Systems (ADBE),ADBE,2017-09-19,D,4,$156.60
+Bed Bath & Beyond (BBBY),BBBY,2017-09-19,D,5,$27.03
+Burlington Stores (BURL),BURL,2017-09-19,D,1,$89.38
+Centene (CNC),CNC,2017-09-19,I,1,$89.78
+CVS Health (CVS),CVS,2017-09-19,D,5,$83.10
+Equifax (EFX),EFX,2017-09-19,D,5,$94.87
+FedEx (FDX),FDX,2017-09-19,D,4,$216.00
+Finish Line (FINL),FINL,2017-09-19,D,5,$9.56
+Gap (GPS),GPS,2017-09-19,D,1,$27.94
+Kohl's (KSS),KSS,2017-09-19,D,1,$45.38
+Northrop Grumman (NOC),NOC,2017-09-19,D,2,$278.33
+Pitney Bowes (PBI),PBI,2017-09-19,I,1,$12.93
+Children's Place (PLCE),PLCE,2017-09-19,D,1,$111.10
+Post Holdings (POST),POST,2017-09-19,D,2,$86.36
+Ross Stores (ROST),ROST,2017-09-19,D,1,$61.15
+TJX Companies (TJX),TJX,2017-09-19,D,1,$72.83
+T-Mobile US (TMUS),TMUS,2017-09-19,D,1,$65.42
+Under Armour (UAA),UAA,2017-09-19,D,5,$16.81
+Walgreens Boots Alliance (WBA),WBA,2017-09-19,D,5,$81.21
+Wells Fargo (WFC),WFC,2017-09-19,D,4,$53.36
+Apple (AAPL),AAPL,2017-09-20,D,1,$156.07
+Bed Bath & Beyond (BBBY),BBBY,2017-09-20,D,5,$22.74
+FedEx (FDX),FDX,2017-09-20,F,1,$220.50
+General Mills (GIS),GIS,2017-09-20,D,5,$52.17
+Mimecast (MIME),MIME,2017-09-20,I,1,$28.03
+NVIDIA (NVDA),NVDA,2017-09-20,F,4,$185.84
+Apple (AAPL),AAPL,2017-09-25,D,1,$150.55
+Amazon (AMZN),AMZN,2017-09-25,D,2,$939.79
+BioTelemetry (BEAT),BEAT,2017-09-25,F,1,$31.25
+Campbell Soup (CPB),CPB,2017-09-25,D,2,$46.58
+Dollar Tree (DLTR),DLTR,2017-09-25,D,1,$84.99
+General Mills (GIS),GIS,2017-09-25,D,2,$52.27
+General Motors (GM),GM,2017-09-25,D,2,$40.30
+Alphabet (GOOGL),GOOGL,2017-09-25,D,2,$934.28
+Home Depot (HD),HD,2017-09-25,D,1,$161.10
+Jeld-Wen Holdings (JELD),JELD,2017-09-25,M,5,$34.34
+Lennar (LEN),LEN,2017-09-25,M,1,$50.53
+Netflix (NFLX),NFLX,2017-09-25,D,2,$178.55
+AT&T (T),T,2017-09-25,D,2,$39.12
+TJX Companies (TJX),TJX,2017-09-25,D,1,$73.83
+Travelers Companies (TRV),TRV,2017-09-25,M,1,$122.67
+Universal Insurance (UVE),UVE,2017-09-25,M,5,$21.70
+Veritone (VERI),VERI,2017-09-25,M,4,$58.65
+Apple (AAPL),AAPL,2017-09-26,D,1,$153.14
+Adobe Systems (ADBE),ADBE,2017-09-26,D,1,$145.40
+Carnival (CCL),CCL,2017-09-26,D,1,$65.32
+Darden Restaurants (DRI),DRI,2017-09-26,D,2,$77.71
+Equifax (EFX),EFX,2017-09-26,D,4,$106.05
+Eli Lilly (LLY),LLY,2017-09-26,F,1,$84.22
+Red Hat (RHT),RHT,2017-09-26,I,1,$110.07
+VMware (VMW),VMW,2017-09-26,I,1,$107.83
+Bank of America (BAC),BAC,2017-09-27,D,1,$25.41
+Burlington Stores (BURL),BURL,2017-09-27,D,1,$94.27
+Clorox (CLX),CLX,2017-09-27,D,4,$129.33
+FedEx (FDX),FDX,2017-09-27,D,1,$220.00
+JPMorgan Chase (JPM),JPM,2017-09-27,D,1,$95.18
+Coca-Cola (KO),KO,2017-09-27,D,4,$44.64
+Lululemon Athletica (LULU),LULU,2017-09-27,I,1,$60.13
+Micron Technology (MU),MU,2017-09-27,D,1,$37.09
+Nike (NKE),NKE,2017-09-27,D,5,$52.67
+Palo Alto Networks (PANW),PANW,2017-09-27,I,1,$139.92
+Ulta Beauty (ULTA),ULTA,2017-09-27,D,1,$227.66
+XPO Logistics (XPO),XPO,2017-09-27,D,1,$64.79
+Apple (AAPL),AAPL,2017-09-28,D,1,$153.28
+Applied Materials (AMAT),AMAT,2017-09-28,I,1,$50.62
+Centene (CNC),CNC,2017-09-28,D,1,$95.84
+Lululemon Athletica (LULU),LULU,2017-09-28,D,1,$60.27
+Wayfair (W),W,2017-09-28,F,5,$70.47
+Applied Materials (AMAT),AMAT,2017-09-29,D,1,$52.09
+Amazon (AMZN),AMZN,2017-09-29,D,1,$961.35
+Altice USA (ATUS),ATUS,2017-09-29,D,4,$27.31
+Comcast (CMCSA),CMCSA,2017-09-29,D,1,$38.48
+Costco (COST),COST,2017-09-29,D,1,$164.29
+Walt Disney (DIS),DIS,2017-09-29,D,1,$98.57
+KB Home (KBH),KBH,2017-09-29,D,1,$24.12
+Lennar (LEN),LEN,2017-09-29,D,1,$52.80
+Netflix (NFLX),NFLX,2017-09-29,D,1,$181.35
+Paychex (PAYX),PAYX,2017-09-29,D,1,$59.96
+Pennsylvania Real Estate  (PEI),PEI,2017-09-29,I,1,$10.49
+Pepsico (PEP),PEP,2017-09-29,D,1,$111.43
+Roku (ROKU),ROKU,2017-09-29,F,4,$26.54
+Constellation Brands (STZ),STZ,2017-09-29,D,1,$199.45
+Yum! Brands (YUM),YUM,2017-09-29,D,2,$73.61
+Yum China (YUMC),YUMC,2017-09-29,D,1,$39.97
+Accenture (ACN),ACN,2017-10-02,F,1,$135.44
+Albemarle (ALB),ALB,2017-10-02,D,2,$136.62
+Applied Materials (AMAT),AMAT,2017-10-02,D,1,$52.08
+Boeing (BA),BA,2017-10-02,D,1,$255.99
+Baxter International (BAX),BAX,2017-10-02,D,1,$63.16
+BlackRock (BLK),BLK,2017-10-02,D,1,$449.95
+CF Industries (CF),CF,2017-10-02,D,2,$35.40
+Walt Disney (DIS),DIS,2017-10-02,D,2,$99.86
+Dollar Tree (DLTR),DLTR,2017-10-02,D,1,$86.47
+FMC Corp (FMC),FMC,2017-10-02,D,1,$88.85
+General Motors (GM),GM,2017-10-02,D,1,$42.15
+Gap (GPS),GPS,2017-10-02,D,1,$29.50
+Hain Celestial Group (HAIN),HAIN,2017-10-02,I,1,$41.80
+JPMorgan Chase (JPM),JPM,2017-10-02,D,1,$96.84
+Michael Kors (KORS),KORS,2017-10-02,D,4,$48.17
+L-3 Communications (LLL),LLL,2017-10-02,D,2,$191.55
+Lam Research (LRCX),LRCX,2017-10-02,D,1,$185.95
+ServiceNow (NOW),NOW,2017-10-02,D,1,$116.80
+NRG Energy (NRG),NRG,2017-10-02,D,2,$25.58
+Procter & Gamble (PG),PG,2017-10-02,D,2,$91.77
+Stanley Black & Decker (SWK),SWK,2017-10-02,D,1,$154.53
+United Rentals (URI),URI,2017-10-02,D,1,$139.20
+United Technologies (UTX),UTX,2017-10-02,D,1,$117.58
+BioTelemetry (BEAT),BEAT,2017-10-03,I,1,$33.85
+Delta Air Lines (DAL),DAL,2017-10-03,D,2,$51.25
+General Motors (GM),GM,2017-10-03,D,2,$43.45
+Home Depot (HD),HD,2017-10-03,D,2,$165.17
+Lennar (LEN),LEN,2017-10-03,D,2,$55.35
+Paychex (PAYX),PAYX,2017-10-03,I,1,$61.99
+Sherwin-Williams (SHW),SHW,2017-10-03,D,2,$374.37
+Tesla (TSLA),TSLA,2017-10-03,D,2,$348.14
+Wells Fargo (WFC),WFC,2017-10-03,F,5,$55.58
+Boeing (BA),BA,2017-10-04,D,4,$255.76
+Bank of America (BAC),BAC,2017-10-04,D,4,$25.71
+Caterpillar (CAT),CAT,2017-10-04,D,4,$126.74
+Cummins (CMI),CMI,2017-10-04,D,4,$171.75
+DowDuPont (DWDP),DWDP,2017-10-04,D,4,$70.45
+Dexcom (DXCM),DXCM,2017-10-04,F,2,$48.10
+Equifax (EFX),EFX,2017-10-04,D,5,$111.93
+IBM (IBM),IBM,2017-10-04,D,4,$146.48
+Johnson & Johnson (JNJ),JNJ,2017-10-04,D,4,$132.89
+JPMorgan Chase (JPM),JPM,2017-10-04,D,4,$96.36
+3M (MMM),MMM,2017-10-04,D,4,$216.52
+ServiceNow (NOW),NOW,2017-10-04,D,4,$118.06
+Starbucks (SBUX),SBUX,2017-10-04,D,4,$53.93
+Tyson Foods (TSN),TSN,2017-10-04,F,1,$71.64
+United Technologies (UTX),UTX,2017-10-04,D,4,$117.63
+Workday (WDAY),WDAY,2017-10-04,D,4,$105.26
+Apple (AAPL),AAPL,2017-10-05,D,1,$155.39
+American Express (AXP),AXP,2017-10-05,D,1,$91.16
+Boeing (BA),BA,2017-10-05,D,1,$258.89
+Caterpillar (CAT),CAT,2017-10-05,D,1,$126.40
+Clorox (CLX),CLX,2017-10-05,I,1,$128.96
+Chevron (CVX),CVX,2017-10-05,D,1,$118.58
+Goldman Sachs (GS),GS,2017-10-05,D,1,$246.06
+Home Depot (HD),HD,2017-10-05,D,1,$166.12
+Microsoft (MSFT),MSFT,2017-10-05,D,1,$75.97
+Sherwin-Williams (SHW),SHW,2017-10-05,F,2,$379.90
+Constellation Brands (STZ),STZ,2017-10-05,I,1,$209.25
+UnitedHealth Group (UNH),UNH,2017-10-05,D,1,$197.90
+Visa (V),V,2017-10-05,D,1,$106.24
+Bank of America (BAC),BAC,2017-10-06,D,1,$26.21
+Citigroup (C),C,2017-10-06,D,1,$75.64
+Costco (COST),COST,2017-10-06,F,4,$157.09
+Domino's Pizza (DPZ),DPZ,2017-10-06,D,1,$205.39
+JPMorgan Chase (JPM),JPM,2017-10-06,D,1,$96.92
+Kroger (KR),KR,2017-10-06,D,4,$20.63
+Procter & Gamble (PG),PG,2017-10-06,D,4,$92.33
+Switch (SWCH),SWCH,2017-10-06,F,4,$20.84
+Tech Data (TECD),TECD,2017-10-06,D,1,$92.47
+Marriott Vacations Worldw (VAC),VAC,2017-10-06,I,1,$127.04
+Workday (WDAY),WDAY,2017-10-06,D,1,$110.23
+Western Digital (WDC),WDC,2017-10-06,D,2,$83.85
+Wells Fargo (WFC),WFC,2017-10-06,D,4,$55.58
+Walmart (WMT),WMT,2017-10-06,D,2,$79.00
+Broadcom (AVGO),AVGO,2017-10-10,D,2,$245.99
+Bank of America (BAC),BAC,2017-10-10,D,1,$25.93
+Citigroup (C),C,2017-10-10,D,1,$75.18
+General Electric (GE),GE,2017-10-10,D,4,$23.36
+Honeywell (HON),HON,2017-10-10,D,2,$143.31
+Intel (INTC),INTC,2017-10-10,D,1,$39.65
+JPMorgan Chase (JPM),JPM,2017-10-10,D,1,$97.13
+NVIDIA (NVDA),NVDA,2017-10-10,D,1,$188.93
+Procter & Gamble (PG),PG,2017-10-10,D,1,$91.62
+Qualcomm (QCOM),QCOM,2017-10-10,D,2,$53.87
+Smith & Nephew (SNN),SNN,2017-10-10,D,2,$37.81
+Tellurian (TELL),TELL,2017-10-10,I,1,$11.20
+Workday (WDAY),WDAY,2017-10-10,I,1,$108.31
+Colgate-Palmolive (CL),CL,2017-10-11,D,1,$74.73
+Columbia Sportswear (COLM),COLM,2017-10-11,D,4,$60.41
+Johnson & Johnson (JNJ),JNJ,2017-10-11,D,1,$136.65
+Kroger (KR),KR,2017-10-11,D,2,$20.78
+McDonald's (MCD),MCD,2017-10-11,D,1,$163.15
+Nike (NKE),NKE,2017-10-11,D,4,$51.03
+PayPal (PYPL),PYPL,2017-10-11,D,2,$67.78
+Seattle Genetics (SGEN),SGEN,2017-10-11,I,1,$61.47
+Under Armour (UAA),UAA,2017-10-11,D,4,$16.52
+VF Corp (VFC),VFC,2017-10-11,D,2,$64.35
+Venator Materials (VNTR),VNTR,2017-10-11,F,1,$24.00
+Walmart (WMT),WMT,2017-10-11,F,1,$85.73
+Clorox (CLX),CLX,2017-10-12,D,1,$130.73
+Domino's Pizza (DPZ),DPZ,2017-10-12,I,1,$201.03
+Estee Lauder (EL),EL,2017-10-12,D,1,$109.49
+FedEx (FDX),FDX,2017-10-12,D,2,$225.06
+J. Jill (JILL),JILL,2017-10-12,D,5,$4.86
+JPMorgan Chase (JPM),JPM,2017-10-12,D,2,$95.99
+LKQ Corp (LKQ),LKQ,2017-10-12,F,1,$37.17
+Micron Technology (MU),MU,2017-10-12,D,1,$40.58
+Procter & Gamble (PG),PG,2017-10-12,D,4,$92.15
+Unilever (UL),UL,2017-10-12,D,1,$59.35
+Ulta Beauty (ULTA),ULTA,2017-10-12,D,4,$190.16
+Apple (AAPL),AAPL,2017-10-13,D,1,$156.99
+Athenex (ATNX),ATNX,2017-10-13,M,2,$17.43
+American Express (AXP),AXP,2017-10-13,D,4,$92.86
+Eros International (EROS),EROS,2017-10-13,M,5,$14.75
+Extreme Networks (EXTR),EXTR,2017-10-13,M,5,$12.14
+Meta (FB),FB,2017-10-13,D,1,$173.74
+General Electric (GE),GE,2017-10-13,D,5,$22.98
+Goldman Sachs (GS),GS,2017-10-13,D,1,$238.53
+Honeywell (HON),HON,2017-10-13,D,2,$143.37
+HP (HPQ),HPQ,2017-10-13,I,1,$21.71
+IBM (IBM),IBM,2017-10-13,D,4,$147.10
+Johnson & Johnson (JNJ),JNJ,2017-10-13,D,1,$136.43
+Lam Research (LRCX),LRCX,2017-10-13,D,1,$189.90
+Mastercard (MA),MA,2017-10-13,D,1,$147.34
+Morgan Stanley (MS),MS,2017-10-13,D,1,$48.30
+Netflix (NFLX),NFLX,2017-10-13,D,1,$199.49
+Procter & Gamble (PG),PG,2017-10-13,D,2,$93.04
+PayPal (PYPL),PYPL,2017-10-13,D,1,$68.66
+Schlumberger (SLB),SLB,2017-10-13,D,2,$67.17
+Texas Instruments (TXN),TXN,2017-10-13,F,1,$93.59
+United Continental (UAL),UAL,2017-10-13,D,1,$67.57
+UnitedHealth Group (UNH),UNH,2017-10-13,D,4,$192.52
+United Rentals (URI),URI,2017-10-13,D,1,$144.21
+Visa (V),V,2017-10-13,D,1,$108.66
+Verizon (VZ),VZ,2017-10-13,D,4,$47.86
+Apple (AAPL),AAPL,2017-10-16,D,1,$159.88
+Autodesk (ADSK),ADSK,2017-10-16,D,1,$119.20
+Citigroup (C),C,2017-10-16,D,1,$71.77
+Caterpillar (CAT),CAT,2017-10-16,D,1,$131.47
+CoreSite Realty (COR),COR,2017-10-16,D,1,$111.76
+Cintas (CTAS),CTAS,2017-10-16,F,1,$151.22
+Eaton (ETN),ETN,2017-10-16,D,1,$79.23
+FedEx (FDX),FDX,2017-10-16,D,1,$221.35
+First Horizon National (FHN),FHN,2017-10-16,I,1,$19.27
+General Motors (GM),GM,2017-10-16,F,1,$45.76
+Nordstrom (JWN),JWN,2017-10-16,D,4,$40.40
+3M (MMM),MMM,2017-10-16,D,1,$218.72
+Netflix (NFLX),NFLX,2017-10-16,D,1,$202.68
+Pepsico (PEP),PEP,2017-10-16,D,1,$113.57
+Red Hat (RHT),RHT,2017-10-16,D,1,$120.89
+Ulta Beauty (ULTA),ULTA,2017-10-16,D,4,$193.70
+Wells Fargo (WFC),WFC,2017-10-16,D,2,$53.80
+XPO Logistics (XPO),XPO,2017-10-16,D,1,$66.74
+General Mills (GIS),GIS,2017-10-17,D,5,$51.70
+General Motors (GM),GM,2017-10-17,D,1,$45.02
+Johnson & Johnson (JNJ),JNJ,2017-10-17,D,1,$140.79
+JPMorgan Chase (JPM),JPM,2017-10-17,D,1,$97.62
+Kraft Heinz (KHC),KHC,2017-10-17,D,5,$77.54
+Morgan Stanley (MS),MS,2017-10-17,D,1,$49.12
+Netflix (NFLX),NFLX,2017-10-17,F,1,$199.48
+RH (RH),RH,2017-10-17,D,1,$78.82
+JM Smucker (SJM),SJM,2017-10-17,D,5,$104.65
+Constellation Brands (STZ),STZ,2017-10-17,D,1,$213.64
+T-Mobile US (TMUS),TMUS,2017-10-17,D,1,$60.94
+Tesla (TSLA),TSLA,2017-10-17,D,2,$355.75
+UnitedHealth Group (UNH),UNH,2017-10-17,D,1,$203.89
+Amazon (AMZN),AMZN,2017-10-18,D,1,$997.00
+BioMarin (BMRN),BMRN,2017-10-18,I,1,$88.62
+Centene (CNC),CNC,2017-10-18,D,1,$93.54
+Meta (FB),FB,2017-10-18,D,1,$176.03
+IBM (IBM),IBM,2017-10-18,I,1,$159.53
+Johnson & Johnson (JNJ),JNJ,2017-10-18,F,1,$140.68
+JPMorgan Chase (JPM),JPM,2017-10-18,D,1,$97.99
+Lockheed Martin (LMT),LMT,2017-10-18,D,1,$315.57
+Merck (MRK),MRK,2017-10-18,D,1,$63.51
+Netflix (NFLX),NFLX,2017-10-18,D,1,$195.54
+Northrop Grumman (NOC),NOC,2017-10-18,D,1,$292.00
+Raytheon (RTN),RTN,2017-10-18,D,1,$187.23
+UnitedHealth Group (UNH),UNH,2017-10-18,D,1,$205.23
+Lam Research (LRCX),LRCX,2017-10-19,D,1,$200.98
+Skyworks Solutions (SWKS),SWKS,2017-10-19,I,1,$103.32
+Winnebago Industries (WGO),WGO,2017-10-19,I,1,$45.85
+AbbVie (ABBV),ABBV,2017-10-20,D,1,$96.10
+Amazon (AMZN),AMZN,2017-10-20,D,1,$982.91
+Arconic (ARNC),ARNC,2017-10-20,D,4,$27.17
+Boeing (BA),BA,2017-10-20,D,1,$264.75
+Bristol-Myers Squibb (BMY),BMY,2017-10-20,D,1,$64.42
+Caterpillar (CAT),CAT,2017-10-20,D,1,$131.36
+Colgate-Palmolive (CL),CL,2017-10-20,D,2,$72.32
+Chipotle Mexican Grill (CMG),CMG,2017-10-20,D,4,$324.76
+Comtech Telecommunication (CMTL),CMTL,2017-10-20,M,4,$21.40
+Chevron (CVX),CVX,2017-10-20,D,4,$118.64
+Dicks Sporting Goods (DKS),DKS,2017-10-20,D,5,$26.67
+Callaway Golf (ELY),ELY,2017-10-20,D,2,$14.39
+EPR Properties (EPR),EPR,2017-10-20,D,1,$70.44
+General Electric (GE),GE,2017-10-20,F,4,$23.83
+General Motors (GM),GM,2017-10-20,D,1,$45.61
+Acushnet Holdings (GOLF),GOLF,2017-10-20,D,4,$18.31
+Honeywell (HON),HON,2017-10-20,F,1,$145.35
+Intel (INTC),INTC,2017-10-20,D,1,$40.43
+Kimberly-Clark (KMB),KMB,2017-10-20,D,4,$113.44
+Coca-Cola (KO),KO,2017-10-20,D,4,$46.38
+Lumentum Holdings (LITE),LITE,2017-10-20,M,4,$55.95
+Lam Research (LRCX),LRCX,2017-10-20,M,1,$205.34
+McDonald's (MCD),MCD,2017-10-20,D,2,$166.30
+3M (MMM),MMM,2017-10-20,D,1,$221.32
+Merck (MRK),MRK,2017-10-20,D,4,$63.88
+Microsoft (MSFT),MSFT,2017-10-20,D,1,$78.81
+Nike (NKE),NKE,2017-10-20,D,4,$53.06
+PayPal (PYPL),PYPL,2017-10-20,D,1,$70.97
+Raytheon (RTN),RTN,2017-10-20,D,1,$188.90
+Stanley Black & Decker (SWK),SWK,2017-10-20,D,1,$160.12
+United Technologies (UTX),UTX,2017-10-20,D,1,$120.93
+Visa (V),V,2017-10-20,D,2,$107.55
+Walgreens Boots Alliance (WBA),WBA,2017-10-20,D,5,$68.06
+Exxon Mobil (XOM),XOM,2017-10-20,D,4,$83.11
+Agenus (AGEN),AGEN,2017-10-23,I,1,$4.26
+Danaher (DHR),DHR,2017-10-23,D,2,$90.47
+General Electric (GE),GE,2017-10-23,D,4,$22.32
+Hasbro (HAS),HAS,2017-10-23,I,1,$89.75
+Illinois Tool Works (ITW),ITW,2017-10-23,D,2,$155.51
+Procter & Gamble (PG),PG,2017-10-23,D,4,$87.30
+PVH Corp (PVH),PVH,2017-10-23,D,2,$129.68
+Schlumberger (SLB),SLB,2017-10-23,F,1,$61.91
+Seagate Technology (STX),STX,2017-10-23,D,2,$39.35
+United Continental (UAL),UAL,2017-10-23,D,4,$59.10
+Unilever (UL),UL,2017-10-23,D,4,$54.28
+VF Corp (VFC),VFC,2017-10-23,D,2,$69.95
+Caterpillar (CAT),CAT,2017-10-24,D,1,$138.24
+Fitbit (FIT),FIT,2017-10-24,F,4,$6.06
+GoPro (GPRO),GPRO,2017-10-24,F,2,$9.40
+3M (MMM),MMM,2017-10-24,D,1,$234.65
+Stanley Black & Decker (SWK),SWK,2017-10-24,D,1,$165.74
+Advanced Micro Devices (AMD),AMD,2017-10-25,D,4,$12.33
+Chipotle Mexican Grill (CMG),CMG,2017-10-25,D,4,$277.01
+Intel (INTC),INTC,2017-10-25,D,2,$40.78
+Logitech International (LOGI),LOGI,2017-10-25,I,1,$34.10
+McDonald's (MCD),MCD,2017-10-25,D,1,$163.58
+MongoDB (MDB),MDB,2017-10-25,F,1,$31.00
+NVIDIA (NVDA),NVDA,2017-10-25,D,2,$193.66
+Stanley Black & Decker (SWK),SWK,2017-10-25,F,1,$163.53
+AT&T (T),T,2017-10-25,D,1,$33.49
+Texas Instruments (TXN),TXN,2017-10-25,D,1,$95.82
+UnitedHealth Group (UNH),UNH,2017-10-25,D,1,$207.56
+Visa (V),V,2017-10-25,D,1,$109.49
+American Electric Power (AEP),AEP,2017-10-26,I,1,$73.76
+Amazon (AMZN),AMZN,2017-10-26,D,2,$972.43
+Briggs & Stratton (BGG),BGG,2017-10-26,I,1,$25.69
+Bristol-Myers Squibb (BMY),BMY,2017-10-26,D,4,$60.95
+Caterpillar (CAT),CAT,2017-10-26,D,1,$136.94
+Celgene (CELG),CELG,2017-10-26,D,4,$99.99
+Alphabet (GOOGL),GOOGL,2017-10-26,D,2,$991.42
+Grubhub (GRUB),GRUB,2017-10-26,I,1,$59.04
+Hershey Foods (HSY),HSY,2017-10-26,D,4,$102.87
+3M (MMM),MMM,2017-10-26,D,1,$232.94
+Microsoft (MSFT),MSFT,2017-10-26,D,2,$78.76
+Norfolk Southern (NSC),NSC,2017-10-26,D,1,$133.25
+Twitter (TWTR),TWTR,2017-10-26,D,2,$20.31
+Union Pacific (UNP),UNP,2017-10-26,D,1,$116.47
+Apple (AAPL),AAPL,2017-10-27,D,1,$163.05
+Allergan (AGN),AGN,2017-10-27,D,2,$178.82
+Activision Blizzard (ATVI),ATVI,2017-10-27,D,1,$64.14
+Alibaba (BABA),BABA,2017-10-27,D,1,$176.15
+CBRE Group (CBRE),CBRE,2017-10-27,D,1,$39.37
+Clorox (CLX),CLX,2017-10-27,D,1,$127.03
+Meta (FB),FB,2017-10-27,D,1,$177.88
+Intel (INTC),INTC,2017-10-27,F,1,$44.40
+Kellogg (K),K,2017-10-27,D,4,$60.26
+Kraft Heinz (KHC),KHC,2017-10-27,D,4,$77.30
+Coca-Cola (KO),KO,2017-10-27,F,2,$46.07
+Mastercard (MA),MA,2017-10-27,D,1,$148.52
+MindBody (MB),MB,2017-10-27,I,1,$32.65
+Mondelez International (MDLZ),MDLZ,2017-10-27,D,4,$40.68
+Microsoft (MSFT),MSFT,2017-10-27,F,1,$83.81
+Pfizer (PFE),PFE,2017-10-27,D,4,$35.60
+Starbucks (SBUX),SBUX,2017-10-27,D,4,$54.88
+Under Armour (UAA),UAA,2017-10-27,D,2,$16.04
+Waste Management (WM),WM,2017-10-27,I,1,$82.31
+Apple (AAPL),AAPL,2017-10-30,D,1,$166.72
+Boeing (BA),BA,2017-10-30,D,1,$259.25
+Caterpillar (CAT),CAT,2017-10-30,D,1,$136.49
+Columbia Sportswear (COLM),COLM,2017-10-30,I,1,$63.59
+JC Penney (JCP),JCP,2017-10-30,D,4,$2.87
+Kimberly-Clark (KMB),KMB,2017-10-30,D,4,$111.27
+Macy's (M),M,2017-10-30,D,4,$18.84
+Tractor Supply (TSCO),TSCO,2017-10-30,I,1,$60.49
+Walgreens Boots Alliance (WBA),WBA,2017-10-30,D,4,$66.26
+Apple (AAPL),AAPL,2017-10-31,D,1,$169.04
+Adobe Systems (ADBE),ADBE,2017-10-31,D,1,$175.16
+Autodesk (ADSK),ADSK,2017-10-31,D,1,$124.96
+American Tower (AMT),AMT,2017-10-31,I,1,$143.67
+Ansys (ANSS),ANSS,2017-10-31,D,1,$136.71
+Mondelez International (MDLZ),MDLZ,2017-10-31,D,2,$41.43
+PTC (PTC),PTC,2017-10-31,D,1,$66.45
+Shutterstock (SSTK),SSTK,2017-10-31,I,1,$38.99
+Under Armour (UAA),UAA,2017-10-31,D,2,$12.52
+Vistra Energy (VST),VST,2017-10-31,I,1,$19.44
+Allergan (AGN),AGN,2017-11-01,I,1,$184.58
+Cypress Semiconductor (CY),CY,2017-11-01,I,1,$15.57
+Kellogg (K),K,2017-11-01,F,4,$63.01
+Tyson Foods (TSN),TSN,2017-11-01,I,1,$73.31
+Apple (AAPL),AAPL,2017-11-02,D,1,$168.11
+Dominion Energy (D),D,2017-11-02,I,1,$80.84
+Meta (FB),FB,2017-11-02,D,1,$178.92
+Federal Realty Investment (FRT),FRT,2017-11-02,I,1,$128.10
+Global Payments (GPN),GPN,2017-11-02,F,1,$102.81
+Mastercard (MA),MA,2017-11-02,D,1,$148.25
+PayPal (PYPL),PYPL,2017-11-02,D,1,$72.25
+Tesla (TSLA),TSLA,2017-11-02,D,1,$299.26
+Visa (V),V,2017-11-02,D,1,$110.98
+Activision Blizzard (ATVI),ATVI,2017-11-03,F,1,$63.20
+CVS Health (CVS),CVS,2017-11-03,D,4,$69.25
+Walt Disney (DIS),DIS,2017-11-03,D,2,$98.64
+DowDuPont (DWDP),DWDP,2017-11-03,D,1,$71.16
+Emerson Electric (EMR),EMR,2017-11-03,D,2,$64.10
+FibroGen (FGEN),FGEN,2017-11-03,M,4,$55.75
+FMC Corp (FMC),FMC,2017-11-03,D,1,$91.11
+Honeywell (HON),HON,2017-11-03,D,1,$144.97
+Integrated Device Technol (IDTI),IDTI,2017-11-03,I,1,$31.30
+International Flavors and (IFF),IFF,2017-11-03,D,1,$148.31
+JC Penney (JCP),JCP,2017-11-03,D,5,$2.37
+Nordstrom (JWN),JWN,2017-11-03,D,4,$38.50
+Michael Kors (KORS),KORS,2017-11-03,D,4,$47.62
+Kohl's (KSS),KSS,2017-11-03,D,5,$42.03
+Macy's (M),M,2017-11-03,D,5,$18.36
+Marriott International (MAR),MAR,2017-11-03,D,1,$121.55
+MannKind (MNKD),MNKD,2017-11-03,M,5,$3.26
+NVIDIA (NVDA),NVDA,2017-11-03,D,1,$208.69
+Starbucks (SBUX),SBUX,2017-11-03,F,4,$56.03
+Skyworks Solutions (SWKS),SWKS,2017-11-03,D,1,$113.19
+Take-Two Interactive (TTWO),TTWO,2017-11-03,D,1,$108.93
+Valeant Pharmaceuticals (VRX),VRX,2017-11-03,D,2,$11.49
+Broadcom (AVGO),AVGO,2017-11-06,D,2,$277.52
+Boeing (BA),BA,2017-11-06,D,1,$264.07
+Caterpillar (CAT),CAT,2017-11-06,D,1,$137.71
+Salesforce (CRM),CRM,2017-11-06,I,1,$102.42
+Deere & Company (DE),DE,2017-11-06,D,1,$135.31
+Walt Disney (DIS),DIS,2017-11-06,D,2,$100.64
+Honeywell (HON),HON,2017-11-06,D,1,$145.60
+Manitowoc (MTW),MTW,2017-11-06,D,1,$10.16
+PayPal (PYPL),PYPL,2017-11-06,I,1,$74.74
+T-Mobile US (TMUS),TMUS,2017-11-06,D,1,$55.54
+United Technologies (UTX),UTX,2017-11-06,D,1,$120.39
+Adobe Systems (ADBE),ADBE,2017-11-07,I,1,$180.88
+Salesforce (CRM),CRM,2017-11-07,D,2,$102.72
+Walt Disney (DIS),DIS,2017-11-07,D,2,$101.61
+Twenty-First Century Fox (FOX),FOX,2017-11-07,D,2,$27.04
+New Relic (NEWR),NEWR,2017-11-07,I,1,$50.98
+Netflix (NFLX),NFLX,2017-11-07,D,2,$195.89
+Royal Caribbean Cruises (RCL),RCL,2017-11-07,I,1,$129.23
+RH (RH),RH,2017-11-07,D,4,$83.50
+Red Robin Gourmet Burgers (RRGB),RRGB,2017-11-07,F,4,$47.70
+Wayfair (W),W,2017-11-07,D,4,$60.26
+Williams-Sonoma (WSM),WSM,2017-11-07,D,4,$47.85
+Align Technology (ALGN),ALGN,2017-11-08,D,2,$252.74
+Applied Materials (AMAT),AMAT,2017-11-08,D,2,$56.92
+Boeing (BA),BA,2017-11-08,D,2,$265.57
+CBOE Holdings (CBOE),CBOE,2017-11-08,D,2,$113.42
+Lam Research (LRCX),LRCX,2017-11-08,D,2,$211.24
+Micron Technology (MU),MU,2017-11-08,D,2,$44.09
+NRG Energy (NRG),NRG,2017-11-08,D,2,$28.02
+NVIDIA (NVDA),NVDA,2017-11-08,D,2,$209.16
+PayPal (PYPL),PYPL,2017-11-08,D,2,$74.77
+Snap (SNAP),SNAP,2017-11-08,F,5,$12.91
+Take-Two Interactive (TTWO),TTWO,2017-11-08,I,1,$117.65
+United Rentals (URI),URI,2017-11-08,D,2,$148.74
+Zebra Technologies (ZBRA),ZBRA,2017-11-08,I,1,$106.61
+Apple (AAPL),AAPL,2017-11-09,D,1,$175.88
+Clorox (CLX),CLX,2017-11-09,D,2,$130.68
+CyberArk Software (CYBR),CYBR,2017-11-09,D,1,$44.21
+Goldman Sachs (GS),GS,2017-11-09,D,1,$240.79
+Home Depot (HD),HD,2017-11-09,D,1,$163.27
+Johnson & Johnson (JNJ),JNJ,2017-11-09,I,1,$140.35
+JPMorgan Chase (JPM),JPM,2017-11-09,D,1,$97.63
+L-3 Communications (LLL),LLL,2017-11-09,D,1,$184.76
+Southwest Airlines (LUV),LUV,2017-11-09,D,1,$53.46
+Mimecast (MIME),MIME,2017-11-09,D,1,$30.75
+Nucor (NUE),NUE,2017-11-09,D,1,$56.52
+Palo Alto Networks (PANW),PANW,2017-11-09,D,2,$139.00
+Pepsico (PEP),PEP,2017-11-09,D,1,$111.48
+Proofpoint (PFPT),PFPT,2017-11-09,D,1,$88.30
+Polaris Industries (PII),PII,2017-11-09,D,2,$116.59
+Transocean (RIG),RIG,2017-11-09,D,2,$11.52
+Science Applications Inte (SAIC),SAIC,2017-11-09,D,1,$68.68
+Verizon (VZ),VZ,2017-11-09,D,2,$45.07
+Broadcom (AVGO),AVGO,2017-11-13,D,1,$265.01
+Buffalo Wild Wings (BWLD),BWLD,2017-11-13,D,2,$117.25
+DCT Industrial Trust (DCT),DCT,2017-11-13,I,1,$60.72
+Dollar General (DG),DG,2017-11-13,F,1,$83.55
+Dollar Tree (DLTR),DLTR,2017-11-13,F,1,$93.69
+General Electric (GE),GE,2017-11-13,D,4,$19.02
+Hasbro (HAS),HAS,2017-11-13,D,1,$96.83
+International Flavors and (IFF),IFF,2017-11-13,I,1,$149.72
+JC Penney (JCP),JCP,2017-11-13,D,4,$2.95
+Macy's (M),M,2017-11-13,D,4,$19.33
+Tyson Foods (TSN),TSN,2017-11-13,D,1,$75.59
+Abbott Laboratories (ABT),ABT,2017-11-14,D,2,$55.01
+Costco (COST),COST,2017-11-14,D,2,$171.44
+General Electric (GE),GE,2017-11-14,F,5,$17.90
+Honeywell (HON),HON,2017-11-14,D,2,$147.32
+Norwegian Cruise Line (NCLH),NCLH,2017-11-14,I,1,$55.10
+Oil Services Holder (OIH),OIH,2017-11-14,D,2,$24.32
+Regeneron Pharmaceuticals (REGN),REGN,2017-11-14,I,1,$384.80
+Starbucks (SBUX),SBUX,2017-11-14,D,2,$56.93
+Wells Fargo (WFC),WFC,2017-11-14,D,2,$54.04
+ConAgra Foods (CAG),CAG,2017-11-15,D,1,$35.18
+Cisco Systems (CSCO),CSCO,2017-11-15,D,1,$34.11
+Walt Disney (DIS),DIS,2017-11-15,D,1,$103.69
+Estee Lauder (EL),EL,2017-11-15,D,1,$124.61
+Home Depot (HD),HD,2017-11-15,D,1,$165.47
+IBM (IBM),IBM,2017-11-15,D,2,$147.10
+Procter & Gamble (PG),PG,2017-11-15,D,1,$88.23
+Schlumberger (SLB),SLB,2017-11-15,D,1,$61.55
+Block (SQ),SQ,2017-11-15,I,1,$40.66
+Target (TGT),TGT,2017-11-15,D,1,$54.16
+Tyson Foods (TSN),TSN,2017-11-15,D,1,$76.21
+Welbilt (WBT),WBT,2017-11-15,I,1,$21.30
+Abbott Laboratories (ABT),ABT,2017-11-16,F,1,$55.54
+Cisco Systems (CSCO),CSCO,2017-11-16,F,1,$35.88
+Dexcom (DXCM),DXCM,2017-11-16,I,1,$53.02
+McDonald's (MCD),MCD,2017-11-16,F,1,$168.09
+NVIDIA (NVDA),NVDA,2017-11-16,F,1,$211.61
+PPG Industries (PPG),PPG,2017-11-16,I,1,$114.01
+Walmart (WMT),WMT,2017-11-16,F,1,$99.62
+Agilent Technologies (A),A,2017-11-17,D,1,$68.79
+Abbott Laboratories (ABT),ABT,2017-11-17,D,1,$55.56
+Analog Devices (ADI),ADI,2017-11-17,D,1,$90.42
+AGCO (AGCO),AGCO,2017-11-17,D,1,$66.66
+Applied Materials (AMAT),AMAT,2017-11-17,I,1,$56.49
+Burlington Stores (BURL),BURL,2017-11-17,D,4,$104.73
+Salesforce (CRM),CRM,2017-11-17,D,1,$107.58
+CVS Health (CVS),CVS,2017-11-17,D,4,$70.68
+Deere & Company (DE),DE,2017-11-17,D,4,$135.77
+Dollar Tree (DLTR),DLTR,2017-11-17,D,1,$94.61
+GameStop (GME),GME,2017-11-17,D,5,$16.31
+Canada Goose (GOOS),GOOS,2017-11-17,D,2,$26.38
+Hewlett Packard Enterpris (HPE),HPE,2017-11-17,D,4,$13.68
+HP (HPQ),HPQ,2017-11-17,D,1,$21.75
+Intuit (INTU),INTU,2017-11-17,D,1,$156.55
+Medtronic (MDT),MDT,2017-11-17,D,4,$79.49
+Owens Corning (OC),OC,2017-11-17,I,1,$85.63
+Palo Alto Networks (PANW),PANW,2017-11-17,D,4,$142.72
+Urban Outfitters (URBN),URBN,2017-11-17,D,4,$27.90
+Walgreens Boots Alliance (WBA),WBA,2017-11-17,D,4,$71.25
+Apple (AAPL),AAPL,2017-11-20,D,1,$169.98
+Adobe Systems (ADBE),ADBE,2017-11-20,D,1,$182.34
+Align Technology (ALGN),ALGN,2017-11-20,D,1,$255.51
+Arista Networks (ANET),ANET,2017-11-20,D,1,$241.83
+Boeing (BA),BA,2017-11-20,D,1,$264.63
+Alibaba (BABA),BABA,2017-11-20,D,1,$188.00
+CyberArk Software (CYBR),CYBR,2017-11-20,I,1,$45.86
+Home Depot (HD),HD,2017-11-20,D,1,$170.45
+Intuitive Surgical (ISRG),ISRG,2017-11-20,F,1,$393.03
+Lam Research (LRCX),LRCX,2017-11-20,D,1,$215.10
+3M (MMM),MMM,2017-11-20,D,1,$231.49
+Netflix (NFLX),NFLX,2017-11-20,F,1,$194.10
+NVIDIA (NVDA),NVDA,2017-11-20,D,1,$214.08
+Ollie's Bargain Outlet (OLLI),OLLI,2017-11-20,F,1,$46.65
+PayPal (PYPL),PYPL,2017-11-20,D,1,$76.01
+Block (SQ),SQ,2017-11-20,D,1,$45.21
+VMware (VMW),VMW,2017-11-20,D,1,$124.06
+Walmart (WMT),WMT,2017-11-20,D,1,$97.48
+Apple (AAPL),AAPL,2017-11-21,D,2,$173.14
+Brunswick (BC),BC,2017-11-21,I,1,$52.50
+CBRL Group (CBRL),CBRL,2017-11-21,D,4,$150.79
+Campbell Soup (CPB),CPB,2017-11-21,D,4,$45.84
+Meta (FB),FB,2017-11-21,D,2,$181.86
+Floor & Decor (FND),FND,2017-11-21,F,1,$39.41
+General Mills (GIS),GIS,2017-11-21,D,2,$53.52
+McDonald's (MCD),MCD,2017-11-21,D,2,$168.30
+Marvell Technology (MRVL),MRVL,2017-11-21,I,1,$23.28
+Netflix (NFLX),NFLX,2017-11-21,D,1,$196.23
+Block (SQ),SQ,2017-11-21,D,1,$48.06
+Tesla (TSLA),TSLA,2017-11-21,D,1,$317.81
+Wendy's (WEN),WEN,2017-11-21,D,2,$14.11
+Apple (AAPL),AAPL,2017-11-28,D,1,$173.07
+Allergan (AGN),AGN,2017-11-28,F,1,$171.92
+Broadcom (AVGO),AVGO,2017-11-28,D,1,$277.40
+Buffalo Wild Wings (BWLD),BWLD,2017-11-28,D,2,$155.60
+General Electric (GE),GE,2017-11-28,D,2,$18.41
+GameStop (GME),GME,2017-11-28,D,2,$19.02
+Macy's (M),M,2017-11-28,F,1,$22.17
+Palo Alto Networks (PANW),PANW,2017-11-28,I,1,$149.10
+Children's Place (PLCE),PLCE,2017-11-28,D,2,$135.50
+Block (SQ),SQ,2017-11-28,F,4,$42.55
+Skyworks Solutions (SWKS),SWKS,2017-11-28,D,1,$107.55
+Tech Data (TECD),TECD,2017-11-28,D,1,$102.76
+Thor Industries (THO),THO,2017-11-28,I,1,$154.37
+Western Digital (WDC),WDC,2017-11-28,D,2,$86.89
+Wells Fargo (WFC),WFC,2017-11-28,D,2,$55.57
+CBRE Group (CBRE),CBRE,2017-11-29,I,1,$42.99
+Meta (FB),FB,2017-11-29,D,4,$175.13
+Netflix (NFLX),NFLX,2017-11-29,D,4,$188.15
+PVH Corp (PVH),PVH,2017-11-29,I,1,$137.14
+Stitch Fix (SFIX),SFIX,2017-11-29,F,5,$22.26
+Thor Industries (THO),THO,2017-11-29,D,1,$155.25
+Albemarle (ALB),ALB,2017-11-30,F,1,$134.32
+Bank of America (BAC),BAC,2017-11-30,F,1,$28.17
+Costco (COST),COST,2017-11-30,D,2,$184.43
+FMC Corp (FMC),FMC,2017-11-30,F,1,$94.40
+General Electric (GE),GE,2017-11-30,D,4,$18.29
+General Motors (GM),GM,2017-11-30,D,2,$43.09
+Idexx Laboratories (IDXX),IDXX,2017-11-30,I,1,$156.41
+Kroger (KR),KR,2017-11-30,D,2,$25.86
+PPG Industries (PPG),PPG,2017-11-30,F,1,$116.85
+Tesla (TSLA),TSLA,2017-11-30,D,2,$308.85
+Autodesk (ADSK),ADSK,2017-12-01,D,4,$107.06
+Broadcom (AVGO),AVGO,2017-12-01,D,1,$271.56
+AutoZone (AZO),AZO,2017-12-01,D,1,$678.40
+Dollar General (DG),DG,2017-12-01,D,2,$87.98
+Dollar Tree (DLTR),DLTR,2017-12-01,D,1,$103.01
+GW Pharmaceuticals (GWPH),GWPH,2017-12-01,D,2,$122.95
+Home Depot (HD),HD,2017-12-01,D,1,$180.42
+Henry Schein (HSIC),HSIC,2017-12-01,I,1,$70.66
+Lululemon Athletica (LULU),LULU,2017-12-01,D,1,$67.22
+MGP Ingredients (MGPI),MGPI,2017-12-01,F,4,$74.91
+Nutanix (NTNX),NTNX,2017-12-01,D,2,$36.06
+Dave and Busters (PLAY),PLAY,2017-12-01,D,4,$52.93
+Toll Brothers (TOL),TOL,2017-12-01,D,1,$49.67
+Ulta Beauty (ULTA),ULTA,2017-12-01,D,2,$212.58
+VMware (VMW),VMW,2017-12-01,D,2,$124.44
+Array BioPharma (ARRY),ARRY,2017-12-04,M,1,$10.78
+Barnes Group (B),B,2017-12-04,M,1,$64.60
+Costco (COST),COST,2017-12-04,D,2,$189.56
+CVS Health (CVS),CVS,2017-12-04,D,1,$71.69
+Walt Disney (DIS),DIS,2017-12-04,D,2,$110.22
+Home Depot (HD),HD,2017-12-04,D,2,$184.90
+Kroger (KR),KR,2017-12-04,D,2,$26.88
+PBF Energy (PBF),PBF,2017-12-04,M,4,$32.59
+SuperValu (SVU),SVU,2017-12-04,D,2,$18.99
+Western Digital (WDC),WDC,2017-12-04,D,2,$77.11
+Yext (YEXT),YEXT,2017-12-04,I,1,$12.80
+Apple (AAPL),AAPL,2017-12-05,D,1,$169.64
+Alteryx (AYX),AYX,2017-12-05,I,1,$25.63
+CyrusOne (CONE),CONE,2017-12-05,I,1,$58.51
+Meta (FB),FB,2017-12-05,D,1,$172.83
+Netflix (NFLX),NFLX,2017-12-05,D,1,$184.21
+Autodesk (ADSK),ADSK,2017-12-06,F,4,$106.92
+U.S. Concrete (USCR),USCR,2017-12-06,I,1,$81.60
+Apple (AAPL),AAPL,2017-12-07,D,1,$169.32
+Boeing (BA),BA,2017-12-07,I,1,$281.97
+Salesforce (CRM),CRM,2017-12-07,D,1,$104.07
+Meta (FB),FB,2017-12-07,D,1,$180.14
+Home Depot (HD),HD,2017-12-07,D,1,$182.00
+Netflix (NFLX),NFLX,2017-12-07,D,1,$185.20
+Adobe Systems (ADBE),ADBE,2017-12-08,D,1,$173.57
+Centene (CNC),CNC,2017-12-08,D,1,$101.34
+Costco (COST),COST,2017-12-08,D,1,$188.07
+Cree (CREE),CREE,2017-12-08,F,1,$34.77
+Danaher (DHR),DHR,2017-12-08,D,1,$93.18
+3M (MMM),MMM,2017-12-08,D,1,$238.13
+Oracle (ORCL),ORCL,2017-12-08,D,4,$49.60
+TRI Pointe Homes (TPH),TPH,2017-12-08,I,1,$17.56
+Advance Auto Parts (AAP),AAP,2017-12-11,D,1,$100.85
+Acadia Pharmaceuticals (ACAD),ACAD,2017-12-11,F,1,$29.97
+AutoZone (AZO),AZO,2017-12-11,D,1,$708.61
+Boeing (BA),BA,2017-12-11,D,1,$283.16
+O'Reilly Automotive (ORLY),ORLY,2017-12-11,D,1,$247.24
+American Electric Power (AEP),AEP,2017-12-12,D,2,$76.02
+Boeing (BA),BA,2017-12-12,D,1,$289.94
+Caterpillar (CAT),CAT,2017-12-12,D,1,$143.42
+Clorox (CLX),CLX,2017-12-12,D,2,$145.15
+Walt Disney (DIS),DIS,2017-12-12,D,1,$107.43
+Consolidated Edison (ED),ED,2017-12-12,D,2,$88.09
+Emerson Electric (EMR),EMR,2017-12-12,D,1,$66.67
+Honeywell (HON),HON,2017-12-12,D,1,$153.74
+3M (MMM),MMM,2017-12-12,D,1,$236.58
+Pepsico (PEP),PEP,2017-12-12,D,1,$117.40
+United Technologies (UTX),UTX,2017-12-12,D,1,$123.48
+VMware (VMW),VMW,2017-12-12,I,1,$120.04
+Valeant Pharmaceuticals (VRX),VRX,2017-12-12,D,1,$21.87
+Verizon (VZ),VZ,2017-12-12,D,2,$53.19
+Walt Disney (DIS),DIS,2017-12-13,D,1,$107.61
+Intel (INTC),INTC,2017-12-13,D,2,$43.34
+Microsoft (MSFT),MSFT,2017-12-13,D,2,$85.35
+Manitowoc (MTW),MTW,2017-12-13,F,1,$39.59
+NVIDIA (NVDA),NVDA,2017-12-13,D,2,$186.18
+JM Smucker (SJM),SJM,2017-12-13,F,4,$118.15
+Welbilt (WBT),WBT,2017-12-13,F,1,$22.19
+AeroVironment (AVAV),AVAV,2017-12-14,I,1,$54.50
+Danaher (DHR),DHR,2017-12-14,D,1,$92.85
+Walt Disney (DIS),DIS,2017-12-14,D,1,$110.57
+Twenty-First Century Fox (FOXA),FOXA,2017-12-14,D,1,$34.88
+Home Depot (HD),HD,2017-12-14,D,1,$182.13
+3M (MMM),MMM,2017-12-14,D,1,$238.08
+Nutanix (NTNX),NTNX,2017-12-14,I,1,$35.45
+Synaptics (SYNA),SYNA,2017-12-14,I,1,$40.78
+VMware (VMW),VMW,2017-12-14,D,1,$121.25
+Accenture (ACN),ACN,2017-12-15,D,4,$152.66
+Applied Materials (AMAT),AMAT,2017-12-15,D,1,$52.54
+Alibaba (BABA),BABA,2017-12-15,D,1,$173.55
+Bed Bath & Beyond (BBBY),BBBY,2017-12-15,D,4,$22.62
+The Blackstone Group (BX),BX,2017-12-15,D,1,$31.41
+ConAgra Foods (CAG),CAG,2017-12-15,D,1,$37.76
+Carnival (CCL),CCL,2017-12-15,D,1,$65.95
+Centene (CNC),CNC,2017-12-15,I,1,$94.86
+Columbia Sportswear (COLM),COLM,2017-12-15,F,1,$70.11
+Cintas (CTAS),CTAS,2017-12-15,D,1,$158.00
+Darden Restaurants (DRI),DRI,2017-12-15,D,1,$88.41
+FedEx (FDX),FDX,2017-12-15,D,1,$240.05
+Finish Line (FINL),FINL,2017-12-15,D,2,$12.13
+General Mills (GIS),GIS,2017-12-15,D,4,$56.89
+Canada Goose (GOOS),GOOS,2017-12-15,F,2,$26.45
+Carmax (KMX),KMX,2017-12-15,D,1,$67.73
+Micron Technology (MU),MU,2017-12-15,D,2,$42.40
+Nike (NKE),NKE,2017-12-15,D,2,$64.79
+Red Hat (RHT),RHT,2017-12-15,D,1,$128.78
+B&G Foods (BGS),BGS,2017-12-18,D,1,$35.30
+ConAgra Foods (CAG),CAG,2017-12-18,F,1,$37.77
+Caterpillar (CAT),CAT,2017-12-18,D,1,$149.77
+Campbell Soup (CPB),CPB,2017-12-18,D,1,$49.66
+Deere & Company (DE),DE,2017-12-18,D,1,$154.04
+Honeywell (HON),HON,2017-12-18,D,1,$154.59
+Hershey Foods (HSY),HSY,2017-12-18,D,4,$114.26
+Ollie's Bargain Outlet (OLLI),OLLI,2017-12-18,I,1,$52.50
+Pinnacle Foods (PF),PF,2017-12-18,D,1,$57.49
+Procter & Gamble (PG),PG,2017-12-18,D,1,$91.88
+Twitter (TWTR),TWTR,2017-12-18,D,2,$24.68
+United Rentals (URI),URI,2017-12-18,I,1,$168.57
+Apple (AAPL),AAPL,2017-12-19,D,1,$174.54
+Caterpillar (CAT),CAT,2017-12-19,D,2,$150.91
+Meta (FB),FB,2017-12-19,D,1,$179.51
+Home Depot (HD),HD,2017-12-19,D,2,$185.98
+MarketAxess (MKTX),MKTX,2017-12-19,I,1,$202.10
+Netflix (NFLX),NFLX,2017-12-19,D,4,$187.02
+Norfolk Southern (NSC),NSC,2017-12-19,D,2,$143.72
+NVIDIA (NVDA),NVDA,2017-12-19,D,1,$196.11
+Penumbra (PEN),PEN,2017-12-19,F,1,$94.40
+Apple (AAPL),AAPL,2017-12-20,D,1,$174.35
+Citigroup (C),C,2017-12-20,D,1,$74.66
+Caterpillar (CAT),CAT,2017-12-20,D,1,$154.64
+Centene (CNC),CNC,2017-12-20,D,1,$102.95
+Emerson Electric (EMR),EMR,2017-12-20,D,1,$68.96
+Expedia (EXPE),EXPE,2017-12-20,M,1,$120.01
+FedEx (FDX),FDX,2017-12-20,D,1,$251.07
+Hess (HES),HES,2017-12-20,F,2,$43.99
+Nucor (NUE),NUE,2017-12-20,D,1,$63.85
+Smart Global Holdings (SGH),SGH,2017-12-20,M,2,$31.65
+Travelport Worldwide (TVPT),TVPT,2017-12-20,M,4,$13.09
+Walmart (WMT),WMT,2017-12-20,D,1,$98.06
+Zimmer Biomet (ZBH),ZBH,2017-12-20,F,2,$121.18
+Agnico-Eagle Mines (AEM),AEM,2017-12-21,I,1,$44.54
+Ansys (ANSS),ANSS,2017-12-21,I,1,$147.23
+EPR Properties (EPR),EPR,2017-12-21,D,1,$63.11
+Federal Realty Investment (FRT),FRT,2017-12-21,D,1,$129.32
+Paychex (PAYX),PAYX,2017-12-21,I,1,$68.64
+Toll Brothers (TOL),TOL,2017-12-21,D,4,$47.47

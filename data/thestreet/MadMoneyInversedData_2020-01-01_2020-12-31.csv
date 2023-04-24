@@ -1,0 +1,3855 @@
+Company,Symbol,Date,Segment,Call,Price
+Apple (AAPL),AAPL,2020-01-03,D,1,$297.43
+AGNC Investment (AGNC),AGNC,2020-01-03,L,4,$17.73
+Advanced Micro Devices (AMD),AMD,2020-01-03,D,1,$48.60
+American Express (AXP),AXP,2020-01-03,D,1,$124.60
+Boeing (BA),BA,2020-01-03,D,4,$332.76
+Alibaba (BABA),BABA,2020-01-03,L,1,$217.00
+Bed Bath & Beyond (BBBY),BBBY,2020-01-03,D,2,$16.08
+BP (BP),BP,2020-01-03,D,1,$38.83
+Canopy Growth (CGC),CGC,2020-01-03,D,4,$19.90
+Chipotle Mexican Grill (CMG),CMG,2020-01-03,D,1,$865.13
+Costco (COST),COST,2020-01-03,D,1,$291.73
+CrowdStrike (CRWD),CRWD,2020-01-03,I,1,$50.75
+CVS Health (CVS),CVS,2020-01-03,D,1,$73.57
+Walt Disney (DIS),DIS,2020-01-03,D,1,$146.50
+Goldman Sachs (GS),GS,2020-01-03,D,1,$231.58
+Home Depot (HD),HD,2020-01-03,D,1,$218.93
+JPMorgan Chase (JPM),JPM,2020-01-03,D,1,$138.34
+KB Home (KBH),KBH,2020-01-03,D,1,$34.91
+KLA Corp (KLAC),KLAC,2020-01-03,D,1,$179.08
+Lennar (LEN),LEN,2020-01-03,D,1,$56.47
+Luckin Coffee (LK),LK,2020-01-03,L,4,$36.72
+Lam Research (LRCX),LRCX,2020-01-03,D,1,$294.69
+Microsoft (MSFT),MSFT,2020-01-03,D,1,$158.62
+Nike (NKE),NKE,2020-01-03,D,1,$101.92
+Procter & Gamble (PG),PG,2020-01-03,D,1,$122.58
+Starbucks (SBUX),SBUX,2020-01-03,L,1,$88.83
+Shake Shack (SHAK),SHAK,2020-01-03,L,2,$60.49
+Schlumberger (SLB),SLB,2020-01-03,D,1,$40.56
+Constellation Brands (STZ),STZ,2020-01-03,D,4,$189.53
+Target (TGT),TGT,2020-01-03,D,1,$124.76
+US Bancorp (USB),USB,2020-01-03,L,1,$58.51
+Visa (V),V,2020-01-03,D,1,$189.60
+ViacomCBS (VIAC),VIAC,2020-01-03,L,1,$41.45
+Walgreens Boots Alliance (WBA),WBA,2020-01-03,D,5,$59.08
+Wendy's (WEN),WEN,2020-01-03,L,1,$22.38
+Walmart (WMT),WMT,2020-01-03,D,1,$117.89
+Axon Enterprise (AAXN),AAXN,2020-01-06,I,1,$68.75
+American Electric Power (AEP),AEP,2020-01-06,D,1,$93.67
+Amarin (AMRN),AMRN,2020-01-06,L,1,$21.23
+CrowdStrike (CRWD),CRWD,2020-01-06,D,1,$55.11
+Dominion Energy (D),D,2020-01-06,D,1,$82.39
+Consolidated Edison (ED),ED,2020-01-06,D,1,$88.34
+Enphase Energy (ENPH),ENPH,2020-01-06,L,4,$29.66
+SPDR Gold Shares (GLD),GLD,2020-01-06,D,1,$147.39
+Barrick Gold (GOLD),GOLD,2020-01-06,D,1,$18.39
+Nordstrom (JWN),JWN,2020-01-06,D,1,$40.98
+Kohl's (KSS),KSS,2020-01-06,D,1,$50.06
+L3Harris Technologies (LHX),LHX,2020-01-06,D,1,$211.72
+MarketAxess (MKTX),MKTX,2020-01-06,L,1,$374.08
+Nokia (NOK),NOK,2020-01-06,L,2,$3.94
+Natera (NTRA),NTRA,2020-01-06,L,1,$33.77
+Planet Fitness (PLNT),PLNT,2020-01-06,I,1,$75.04
+Pioneer Natural Resources (PXD),PXD,2020-01-06,D,1,$158.11
+Roku (ROKU),ROKU,2020-01-06,L,2,$143.37
+Schlumberger (SLB),SLB,2020-01-06,D,1,$40.82
+Snap (SNAP),SNAP,2020-01-06,L,2,$16.78
+AT&T (T),T,2020-01-06,L,1,$39.10
+Tesla (TSLA),TSLA,2020-01-06,L,1,$451.54
+Advanced Micro Devices (AMD),AMD,2020-01-07,D,2,$48.25
+American Tower (AMT),AMT,2020-01-07,L,1,$223.68
+Alibaba (BABA),BABA,2020-01-07,L,1,$217.63
+Chewy (CHWY),CHWY,2020-01-07,L,1,$29.20
+Columbia Sportswear (COLM),COLM,2020-01-07,F,1,$100.33
+IVERIC bio (ISEE),ISEE,2020-01-07,L,2,$8.44
+Mattel (MAT),MAT,2020-01-07,L,1,$14.18
+Microchip Technology (MCHP),MCHP,2020-01-07,D,2,$110.69
+Nio (NIO),NIO,2020-01-07,L,5,$3.24
+Nike (NKE),NKE,2020-01-07,F,1,$101.78
+Pennsylvania Real Estate  (PEI),PEI,2020-01-07,L,5,$5.01
+Tesla (TSLA),TSLA,2020-01-07,F,1,$469.06
+Under Armour (UAA),UAA,2020-01-07,F,4,$20.70
+Apple (AAPL),AAPL,2020-01-08,D,1,$303.19
+Automatic Data Processing (ADP),ADP,2020-01-08,D,1,$169.71
+Apellis Pharmaceuticals (APLS),APLS,2020-01-08,L,4,$39.14
+American Express (AXP),AXP,2020-01-08,D,1,$125.54
+Alibaba (BABA),BABA,2020-01-08,L,1,$218.00
+Chewy (CHWY),CHWY,2020-01-08,D,1,$28.62
+Core Labs (CLB),CLB,2020-01-08,F,4,$40.20
+Cloudera (CLDR),CLDR,2020-01-08,L,2,$11.98
+Covetrus (CVET),CVET,2020-01-08,D,4,$13.60
+Elanco Animal Health (ELAN),ELAN,2020-01-08,D,1,$28.56
+Meta (FB),FB,2020-01-08,L,1,$215.22
+Karuna Therapeutics (KRTX),KRTX,2020-01-08,L,4,$71.37
+Lennar (LEN),LEN,2020-01-08,D,1,$57.59
+Macy's (M),M,2020-01-08,D,2,$18.10
+Cloudflare (NET),NET,2020-01-08,L,5,$17.78
+Pet IQ (PETQ),PETQ,2020-01-08,D,4,$24.35
+Pinterest (PINS),PINS,2020-01-08,L,4,$19.72
+Sea Limited (SE),SE,2020-01-08,M,5,$40.16
+Constellation Brands (STZ),STZ,2020-01-08,I,1,$190.29
+Teladoc (TDOC),TDOC,2020-01-08,L,1,$86.22
+Tesla (TSLA),TSLA,2020-01-08,D,1,$492.14
+Twitter (TWTR),TWTR,2020-01-08,L,1,$33.05
+Uber (UBER),UBER,2020-01-08,L,4,$33.93
+Veeva Systems (VEEV),VEEV,2020-01-08,L,1,$141.70
+Apple (AAPL),AAPL,2020-01-09,D,1,$309.63
+Bed Bath & Beyond (BBBY),BBBY,2020-01-09,F,1,$13.45
+Ballard Power Systems (BLDP),BLDP,2020-01-09,L,5,$8.59
+Bristol-Myers Squibb (BMY),BMY,2020-01-09,L,1,$65.45
+Canopy Growth (CGC),CGC,2020-01-09,L,2,$20.80
+CyrusOne (CONE),CONE,2020-01-09,L,1,$65.52
+Cronos Group (CRON),CRON,2020-01-09,L,5,$7.05
+EPR Properties (EPR),EPR,2020-01-09,L,1,$70.15
+Lennar (LEN),LEN,2020-01-09,D,1,$57.69
+Maxar Technologies (MAXR),MAXR,2020-01-09,L,2,$18.86
+Starbucks (SBUX),SBUX,2020-01-09,L,1,$90.53
+Teva Pharmaceuticals (TEVA),TEVA,2020-01-09,L,5,$9.02
+Toll Brothers (TOL),TOL,2020-01-09,D,1,$41.06
+Tyson Foods (TSN),TSN,2020-01-09,F,1,$89.21
+Bank of America (BAC),BAC,2020-01-10,D,2,$34.74
+CSX (CSX),CSX,2020-01-10,D,1,$73.36
+Goldman Sachs (GS),GS,2020-01-10,D,2,$242.11
+JPMorgan Chase (JPM),JPM,2020-01-10,D,2,$136.07
+Kinder Morgan (KMI),KMI,2020-01-10,L,2,$21.51
+Laredo Petroleum (LPI),LPI,2020-01-10,L,5,$2.65
+MKS Instruments (MKSI),MKSI,2020-01-10,L,1,$107.66
+Morgan Stanley (MS),MS,2020-01-10,D,2,$52.21
+Invitae (NVTA),NVTA,2020-01-10,L,1,$16.72
+Parsley Energy (PE),PE,2020-01-10,I,1,$18.13
+PPG Industries (PPG),PPG,2020-01-10,D,1,$128.09
+REGENXBIO (RGNX),RGNX,2020-01-10,L,4,$44.88
+Schlumberger (SLB),SLB,2020-01-10,D,4,$39.83
+TG Therapeutics (TGTX),TGTX,2020-01-10,L,1,$13.18
+UnitedHealth Group (UNH),UNH,2020-01-10,D,1,$295.13
+Vertex Pharmaceuticals (VRTX),VRTX,2020-01-10,L,1,$228.95
+Ventas (VTR),VTR,2020-01-10,L,4,$56.97
+Wells Fargo (WFC),WFC,2020-01-10,D,2,$52.50
+Apple (AAPL),AAPL,2020-01-13,D,1,$316.96
+Adobe Systems (ADBE),ADBE,2020-01-13,D,1,$345.63
+Beyond Meat (BYND),BYND,2020-01-13,D,1,$114.34
+Salesforce (CRM),CRM,2020-01-13,D,1,$183.85
+CVS Health (CVS),CVS,2020-01-13,I,1,$72.76
+Chevron (CVX),CVX,2020-01-13,L,2,$116.66
+First Horizon National (FHN),FHN,2020-01-13,L,1,$16.24
+GlaxoSmithKline (GSK),GSK,2020-01-13,I,1,$46.95
+IBM (IBM),IBM,2020-01-13,L,4,$136.60
+Lululemon Athletica (LULU),LULU,2020-01-13,D,1,$245.18
+NVIDIA (NVDA),NVDA,2020-01-13,D,1,$251.98
+Skyworks Solutions (SWKS),SWKS,2020-01-13,D,1,$124.51
+Tesla (TSLA),TSLA,2020-01-13,D,1,$524.86
+Zoetis (ZTS),ZTS,2020-01-13,I,1,$136.51
+AbbVie (ABBV),ABBV,2020-01-14,L,1,$88.20
+Atkore International (ATKR),ATKR,2020-01-14,L,1,$41.37
+Berkshire Hathaway (BRK.B),BRK.B,2020-01-14,L,1,$227.17
+Dollar General (DG),DG,2020-01-14,L,1,$157.98
+Dexcom (DXCM),DXCM,2020-01-14,I,1,$235.06
+LTC Properties (LTC),LTC,2020-01-14,L,5,$45.69
+Medtronic (MDT),MDT,2020-01-14,I,1,$117.04
+Park Hotels & Resorts (PK),PK,2020-01-14,L,5,$24.17
+Revance Therapeutics (RVNC),RVNC,2020-01-14,L,2,$21.74
+Sirius XM Radio (SIRI),SIRI,2020-01-14,L,2,$7.11
+AT&T (T),T,2020-01-14,L,1,$38.09
+Tandem Diabetes Care (TNDM),TNDM,2020-01-14,L,2,$67.35
+Verizon (VZ),VZ,2020-01-14,L,1,$59.04
+Axon Enterprise (AAXN),AAXN,2020-01-15,L,1,$72.70
+AbbVie (ABBV),ABBV,2020-01-15,L,1,$89.26
+Bank of America (BAC),BAC,2020-01-15,D,1,$34.67
+Bristol-Myers Squibb (BMY),BMY,2020-01-15,L,1,$66.58
+BP (BP),BP,2020-01-15,L,5,$38.71
+Beyond Meat (BYND),BYND,2020-01-15,D,4,$107.08
+CVS Health (CVS),CVS,2020-01-15,D,1,$75.27
+Emerson Electric (EMR),EMR,2020-01-15,D,1,$76.66
+FedEx (FDX),FDX,2020-01-15,D,2,$159.15
+Honeywell (HON),HON,2020-01-15,D,1,$180.73
+Microchip Technology (MCHP),MCHP,2020-01-15,L,2,$107.58
+Moderna (MRNA),MRNA,2020-01-15,I,1,$20.24
+NextEra Energy (NEE),NEE,2020-01-15,L,1,$251.58
+Pfizer (PFE),PFE,2020-01-15,L,4,$40.67
+Royal Caribbean Cruises (RCL),RCL,2020-01-15,L,1,$132.62
+Stitch Fix (SFIX),SFIX,2020-01-15,I,1,$24.65
+Tellurian (TELL),TELL,2020-01-15,D,1,$7.66
+Tesla (TSLA),TSLA,2020-01-15,D,4,$518.50
+UnitedHealth Group (UNH),UNH,2020-01-15,D,1,$296.41
+United Technologies (UTX),UTX,2020-01-15,D,1,$151.96
+Viking Therapeutics (VKTX),VKTX,2020-01-15,L,5,$7.37
+Wells Fargo (WFC),WFC,2020-01-15,D,4,$48.32
+XPO Logistics (XPO),XPO,2020-01-15,I,1,$82.82
+Adverum Biotechnologies (ADVM),ADVM,2020-01-16,L,1,$11.70
+Advanced Micro Devices (AMD),AMD,2020-01-16,D,2,$49.77
+Alibaba (BABA),BABA,2020-01-16,L,1,$223.94
+BlackRock (BLK),BLK,2020-01-16,D,1,$535.00
+GW Pharmaceuticals (GWPH),GWPH,2020-01-16,I,1,$119.12
+Inogen (INGN),INGN,2020-01-16,L,5,$51.79
+JD.com (JD),JD,2020-01-16,L,5,$39.56
+Morgan Stanley (MS),MS,2020-01-16,D,1,$56.44
+Microsoft (MSFT),MSFT,2020-01-16,I,1,$166.17
+STAG Industrial (STAG),STAG,2020-01-16,L,1,$32.33
+Tesla (TSLA),TSLA,2020-01-16,D,2,$513.49
+The Trade Desk (TTD),TTD,2020-01-16,L,1,$281.00
+Alibaba (BABA),BABA,2020-01-21,L,1,$222.26
+Box (BOX),BOX,2020-01-21,L,4,$16.27
+Beyond Meat (BYND),BYND,2020-01-21,D,2,$129.18
+Costco (COST),COST,2020-01-21,I,1,$313.26
+Logitech International (LOGI),LOGI,2020-01-21,I,1,$47.79
+Marriott International (MAR),MAR,2020-01-21,D,4,$144.37
+Morgan Stanley (MS),MS,2020-01-21,D,2,$55.92
+MagnaChip Semiconductor (MX),MX,2020-01-21,L,5,$15.33
+Nokia (NOK),NOK,2020-01-21,L,1,$4.13
+Tesla (TSLA),TSLA,2020-01-21,D,2,$547.20
+Uber (UBER),UBER,2020-01-21,D,2,$37.60
+United Natural Foods (UNFI),UNFI,2020-01-21,F,5,$7.90
+Wendy's (WEN),WEN,2020-01-21,L,1,$21.66
+Apple (AAPL),AAPL,2020-01-22,D,2,$317.70
+Broadcom (AVGO),AVGO,2020-01-22,D,2,$312.88
+Brookfield Asset Manageme (BAM),BAM,2020-01-22,L,1,$61.86
+Bruker (BRKR),BRKR,2020-01-22,D,1,$53.19
+Chimera Investment (CIM),CIM,2020-01-22,L,5,$21.22
+Danaher (DHR),DHR,2020-01-22,L,1,$163.77
+Energy Transfer (ET),ET,2020-01-22,L,5,$12.71
+IBM (IBM),IBM,2020-01-22,D,2,$143.89
+InMode (INMD),INMD,2020-01-22,D,1,$46.15
+Intuitive Surgical (ISRG),ISRG,2020-01-22,D,1,$610.24
+L Brands (LB),LB,2020-01-22,L,5,$19.98
+Las Vegas Sands (LVS),LVS,2020-01-22,D,4,$69.45
+Marriott International (MAR),MAR,2020-01-22,D,4,$144.12
+MGM Resorts (MGM),MGM,2020-01-22,D,4,$31.95
+Netflix (NFLX),NFLX,2020-01-22,D,2,$326.00
+Six Flags (SIX),SIX,2020-01-22,L,5,$37.22
+Tesla (TSLA),TSLA,2020-01-22,F,1,$569.56
+Wynn Resorts (WYNN),WYNN,2020-01-22,D,4,$140.09
+Apple (AAPL),AAPL,2020-01-23,D,2,$319.23
+Apache (APA),APA,2020-01-23,L,5,$30.27
+Broadcom (AVGO),AVGO,2020-01-23,D,2,$319.65
+Cisco Systems (CSCO),CSCO,2020-01-23,L,1,$49.00
+First Horizon National (FHN),FHN,2020-01-23,I,1,$17.02
+Grubhub (GRUB),GRUB,2020-01-23,I,1,$57.74
+IHS Markit (INFO),INFO,2020-01-23,L,1,$80.59
+Intel (INTC),INTC,2020-01-23,D,4,$63.32
+Lattice Semiconductor (LSCC),LSCC,2020-01-23,L,1,$22.48
+NVIDIA (NVDA),NVDA,2020-01-23,D,2,$252.86
+Republic Services (RSG),RSG,2020-01-23,L,1,$94.41
+Snap (SNAP),SNAP,2020-01-23,F,1,$19.25
+Western Digital (WDC),WDC,2020-01-23,D,2,$70.93
+Apple (AAPL),AAPL,2020-01-24,D,1,$318.31
+Advanced Micro Devices (AMD),AMD,2020-01-24,D,1,$50.35
+American Express (AXP),AXP,2020-01-24,L,1,$135.11
+Boeing (BA),BA,2020-01-24,D,4,$323.05
+Chevron (CVX),CVX,2020-01-24,D,4,$111.85
+D R Horton (DHI),DHI,2020-01-24,D,2,$58.51
+Everbridge (EVBG),EVBG,2020-01-24,M,2,$89.80
+Meta (FB),FB,2020-01-24,D,1,$217.94
+First Horizon National (FHN),FHN,2020-01-24,F,1,$16.55
+Goldman Sachs (GS),GS,2020-01-24,D,1,$241.92
+HCA Healthcare (HCA),HCA,2020-01-24,D,1,$143.45
+IVERIC bio (ISEE),ISEE,2020-01-24,M,5,$7.00
+L Brands (LB),LB,2020-01-24,F,4,$20.74
+Microsoft (MSFT),MSFT,2020-01-24,D,1,$165.04
+Teledyne Technologies (TDY),TDY,2020-01-24,L,1,$361.87
+United Technologies (UTX),UTX,2020-01-24,D,2,$153.19
+Western Digital (WDC),WDC,2020-01-24,D,1,$69.52
+Exxon Mobil (XOM),XOM,2020-01-24,D,4,$66.32
+AbbVie (ABBV),ABBV,2020-01-27,D,1,$84.02
+Adobe Systems (ADBE),ADBE,2020-01-27,F,1,$346.90
+Bristol-Myers Squibb (BMY),BMY,2020-01-27,D,1,$63.70
+Caterpillar (CAT),CAT,2020-01-27,D,4,$135.73
+Clorox (CLX),CLX,2020-01-27,D,1,$159.96
+Comcast (CMCSA),CMCSA,2020-01-27,D,1,$44.00
+Salesforce (CRM),CRM,2020-01-27,F,1,$180.71
+3D Systems (DDD),DDD,2020-01-27,L,5,$11.08
+Walt Disney (DIS),DIS,2020-01-27,D,1,$135.90
+EPR Properties (EPR),EPR,2020-01-27,L,1,$72.08
+HP (HPQ),HPQ,2020-01-27,L,1,$21.58
+IMAX (IMAX),IMAX,2020-01-27,L,5,$17.21
+Kinder Morgan (KMI),KMI,2020-01-27,L,2,$21.29
+Las Vegas Sands (LVS),LVS,2020-01-27,D,4,$63.27
+McCormick (MKC),MKC,2020-01-27,D,1,$172.71
+3M (MMM),MMM,2020-01-27,D,4,$175.63
+Moderna (MRNA),MRNA,2020-01-27,D,1,$22.74
+Navient (NAVI),NAVI,2020-01-27,L,4,$14.77
+Netflix (NFLX),NFLX,2020-01-27,D,1,$342.88
+Natura & Co (NTCO),NTCO,2020-01-27,L,1,$22.30
+Owens & Minor (OMI),OMI,2020-01-27,D,1,$6.58
+Starbucks (SBUX),SBUX,2020-01-27,D,4,$88.73
+Thermo Fisher Scientific (TMO),TMO,2020-01-27,D,1,$330.96
+Wells Fargo (WFC),WFC,2020-01-27,L,4,$47.10
+Wynn Resorts (WYNN),WYNN,2020-01-27,D,4,$123.89
+Yum China (YUMC),YUMC,2020-01-27,D,4,$41.92
+Zynga (ZNGA),ZNGA,2020-01-27,L,1,$5.93
+Apple (AAPL),AAPL,2020-01-28,D,1,$317.69
+Adaptive Biotechnologies (ADPT),ADPT,2020-01-28,L,4,$31.09
+Alteryx (AYX),AYX,2020-01-28,L,1,$139.41
+Discover Financial Servic (DFS),DFS,2020-01-28,L,5,$75.23
+Danaher (DHR),DHR,2020-01-28,L,1,$163.76
+Ford Motor (F),F,2020-01-28,D,4,$8.97
+General Motors (GM),GM,2020-01-28,D,4,$33.64
+iRobot (IRBT),IRBT,2020-01-28,L,5,$54.14
+Madison Square Garden (MSG),MSG,2020-01-28,F,4,$297.62
+Paycom Software (PAYC),PAYC,2020-01-28,L,1,$318.59
+Starbucks (SBUX),SBUX,2020-01-28,D,1,$88.60
+Thermo Fisher Scientific (TMO),TMO,2020-01-28,L,1,$333.26
+Tesla (TSLA),TSLA,2020-01-28,F,1,$566.90
+United Technologies (UTX),UTX,2020-01-28,F,1,$152.86
+Apple (AAPL),AAPL,2020-01-29,F,1,$324.34
+Advanced Micro Devices (AMD),AMD,2020-01-29,D,1,$47.51
+Amarin (AMRN),AMRN,2020-01-29,L,1,$19.31
+Boeing (BA),BA,2020-01-29,D,2,$322.02
+CVS Health (CVS),CVS,2020-01-29,L,1,$70.55
+General Electric (GE),GE,2020-01-29,D,1,$12.94
+LyondellBasell Industries (LYB),LYB,2020-01-29,L,1,$83.85
+McDonald's (MCD),MCD,2020-01-29,D,1,$214.44
+Penn National Gaming (PENN),PENN,2020-01-29,I,1,$29.02
+Rite Aid (RAD),RAD,2020-01-29,L,5,$11.99
+Roku (ROKU),ROKU,2020-01-29,D,2,$128.88
+Starbucks (SBUX),SBUX,2020-01-29,D,1,$86.72
+Sprouts Farmers Market (SFM),SFM,2020-01-29,L,5,$15.71
+Shopify (SHOP),SHOP,2020-01-29,D,1,$471.67
+Silicon Laboratories (SLAB),SLAB,2020-01-29,L,5,$102.76
+Stryker (SYK),SYK,2020-01-29,I,1,$210.68
+AT&T (T),T,2020-01-29,L,1,$37.05
+Twitter (TWTR),TWTR,2020-01-29,L,4,$33.63
+AbbVie (ABBV),ABBV,2020-01-30,F,1,$81.78
+Bristol-Myers Squibb (BMY),BMY,2020-01-30,F,1,$63.81
+Clean Harbors (CLH),CLH,2020-01-30,L,1,$85.38
+Costco (COST),COST,2020-01-30,L,1,$309.47
+Dominion Energy (D),D,2020-01-30,L,4,$86.48
+Meta (FB),FB,2020-01-30,D,4,$209.53
+Independent Bank Group (IBTX),IBTX,2020-01-30,I,1,$54.22
+Nordstrom (JWN),JWN,2020-01-30,L,5,$38.67
+Mondelez International (MDLZ),MDLZ,2020-01-30,D,1,$58.80
+Microsoft (MSFT),MSFT,2020-01-30,D,1,$172.78
+Netflix (NFLX),NFLX,2020-01-30,D,2,$347.74
+Renewable Energy Group (REGI),REGI,2020-01-30,L,2,$26.00
+Southern Company (SO),SO,2020-01-30,L,4,$70.85
+Texas Capital BancShares (TCBI),TCBI,2020-01-30,I,1,$55.42
+Tesla (TSLA),TSLA,2020-01-30,F,1,$640.81
+UnitedHealth Group (UNH),UNH,2020-01-30,L,1,$280.98
+United Parcel Service (UPS),UPS,2020-01-30,D,2,$108.00
+Vertex Pharmaceuticals (VRTX),VRTX,2020-01-30,L,1,$230.31
+AbbVie (ABBV),ABBV,2020-01-31,D,1,$81.02
+Bristol-Myers Squibb (BMY),BMY,2020-01-31,D,1,$62.95
+Clorox (CLX),CLX,2020-01-31,D,1,$157.31
+Walt Disney (DIS),DIS,2020-01-31,D,4,$138.31
+eBay (EBAY),EBAY,2020-01-31,L,5,$33.56
+Estee Lauder (EL),EL,2020-01-31,D,4,$195.16
+Emerson Electric (EMR),EMR,2020-01-31,D,2,$71.63
+Great Lakes Dredge & Dock (GLDD),GLDD,2020-01-31,L,1,$10.47
+General Motors (GM),GM,2020-01-31,D,4,$33.39
+Grubhub (GRUB),GRUB,2020-01-31,D,1,$54.15
+Inseego (INSG),INSG,2020-01-31,L,4,$6.71
+Luckin Coffee (LK),LK,2020-01-31,L,5,$32.49
+Merck (MRK),MRK,2020-01-31,D,2,$85.44
+Anaplan (PLAN),PLAN,2020-01-31,L,1,$57.59
+Peloton (PTON),PTON,2020-01-31,L,2,$32.36
+Royal Caribbean Cruises (RCL),RCL,2020-01-31,D,5,$117.08
+JM Smucker (SJM),SJM,2020-01-31,D,1,$103.61
+Block (SQ),SQ,2020-01-31,D,1,$74.69
+Tesla (TSLA),TSLA,2020-01-31,D,1,$650.57
+Exxon Mobil (XOM),XOM,2020-01-31,D,5,$62.12
+Yum China (YUMC),YUMC,2020-01-31,D,5,$43.07
+Apple (AAPL),AAPL,2020-02-03,D,1,$308.66
+Enphase Energy (ENPH),ENPH,2020-02-03,L,2,$32.92
+Morgan Stanley (MS),MS,2020-02-03,L,1,$52.60
+Micron Technology (MU),MU,2020-02-03,L,1,$53.78
+Okta (OKTA),OKTA,2020-02-03,L,1,$129.35
+Avita Medical (RCEL),RCEL,2020-02-03,L,1,$9.13
+Roku (ROKU),ROKU,2020-02-03,F,1,$127.50
+Simon Property Group (SPG),SPG,2020-02-03,L,1,$132.80
+STORE Capital (STOR),STOR,2020-02-03,L,5,$39.43
+Tesla (TSLA),TSLA,2020-02-03,F,1,$780.00
+The Trade Desk (TTD),TTD,2020-02-03,F,1,$274.02
+Wingstop (WING),WING,2020-02-03,L,1,$92.22
+Exxon Mobil (XOM),XOM,2020-02-03,F,5,$60.73
+Zoom Video Communications (ZM),ZM,2020-02-03,I,1,$87.66
+AbbVie (ABBV),ABBV,2020-02-04,L,1,$84.36
+Aimmune Therapeutics (AIMT),AIMT,2020-02-04,L,4,$29.37
+Clorox (CLX),CLX,2020-02-04,D,1,$163.62
+Chipotle Mexican Grill (CMG),CMG,2020-02-04,I,1,$884.82
+Centene (CNC),CNC,2020-02-04,I,1,$61.97
+CEL-SCI (CVM),CVM,2020-02-04,L,1,$14.46
+CVS Health (CVS),CVS,2020-02-04,L,2,$67.88
+1-800-Flowers (FLWS),FLWS,2020-02-04,L,2,$15.73
+Lockheed Martin (LMT),LMT,2020-02-04,L,1,$430.78
+Nike (NKE),NKE,2020-02-04,D,1,$101.38
+Ralph Lauren (RL),RL,2020-02-04,D,1,$123.68
+Virgin Galactic (SPCE),SPCE,2020-02-04,L,4,$19.69
+Teladoc (TDOC),TDOC,2020-02-04,L,1,$107.15
+Tesla (TSLA),TSLA,2020-02-04,D,1,$887.06
+Wynn Resorts (WYNN),WYNN,2020-02-04,D,1,$132.70
+Bill.com (BILL),BILL,2020-02-05,L,1,$49.64
+Builders FirstSource (BLDR),BLDR,2020-02-05,L,1,$26.10
+Boot Barn (BOOT),BOOT,2020-02-05,I,1,$38.10
+Berkshire Hathaway (BRK.B),BRK.B,2020-02-05,L,1,$228.65
+Clorox (CLX),CLX,2020-02-05,I,1,$165.34
+CVS Health (CVS),CVS,2020-02-05,L,1,$70.54
+Iridium Communications (IRDM),IRDM,2020-02-05,L,1,$28.41
+Oracle (ORCL),ORCL,2020-02-05,L,4,$54.74
+Teladoc (TDOC),TDOC,2020-02-05,I,1,$107.06
+Tesla (TSLA),TSLA,2020-02-05,F,1,$734.70
+Tyson Foods (TSN),TSN,2020-02-05,L,1,$84.11
+Walgreens Boots Alliance (WBA),WBA,2020-02-05,L,5,$52.98
+Crown Castle (CCI),CCI,2020-02-06,L,1,$150.50
+CIGNA (CI),CI,2020-02-06,I,1,$211.86
+Clorox (CLX),CLX,2020-02-06,D,1,$165.07
+ConocoPhillips (COP),COP,2020-02-06,L,2,$58.41
+Evergy (EVRG),EVRG,2020-02-06,F,1,$71.32
+Iron Mountain (IRM),IRM,2020-02-06,L,1,$31.93
+McCormick (MKC),MKC,2020-02-06,I,1,$162.12
+Nio (NIO),NIO,2020-02-06,L,5,$4.08
+Nucor (NUE),NUE,2020-02-06,L,4,$49.05
+STMicroelectronics (STM),STM,2020-02-06,L,1,$29.94
+Tandem Diabetes Care (TNDM),TNDM,2020-02-06,L,1,$75.00
+Yum China (YUMC),YUMC,2020-02-06,D,4,$43.73
+Abiomed (ABMD),ABMD,2020-02-07,L,5,$186.91
+Allergan (AGN),AGN,2020-02-07,D,1,$197.05
+Applied Materials (AMAT),AMAT,2020-02-07,D,2,$61.71
+Cisco Systems (CSCO),CSCO,2020-02-07,D,4,$47.97
+Casper Sleep (CSPR),CSPR,2020-02-07,F,5,$11.05
+CenturyLink (CTL),CTL,2020-02-07,L,5,$14.53
+CVS Health (CVS),CVS,2020-02-07,D,1,$71.56
+Dexcom (DXCM),DXCM,2020-02-07,D,1,$240.22
+Edwards Lifesciences (EW),EW,2020-02-07,L,1,$232.41
+Expedia (EXPE),EXPE,2020-02-07,D,5,$110.09
+General Electric (GE),GE,2020-02-07,L,1,$12.83
+Barrick Gold (GOLD),GOLD,2020-02-07,D,2,$18.19
+Gray Television (GTN),GTN,2020-02-07,L,2,$21.44
+Hasbro (HAS),HAS,2020-02-07,D,4,$99.74
+Kraft Heinz (KHC),KHC,2020-02-07,D,4,$29.54
+Lyft (LYFT),LYFT,2020-02-07,D,1,$49.92
+NVIDIA (NVDA),NVDA,2020-02-07,D,1,$251.59
+Pepsico (PEP),PEP,2020-02-07,D,1,$145.37
+Pinterest (PINS),PINS,2020-02-07,F,1,$25.20
+Restaurant Brands (QSR),QSR,2020-02-07,D,4,$63.86
+Shopify (SHOP),SHOP,2020-02-07,D,1,$478.69
+Synaptics (SYNA),SYNA,2020-02-07,I,1,$84.53
+Taylor Morrison Homes (TMHC),TMHC,2020-02-07,I,1,$26.20
+Tesla (TSLA),TSLA,2020-02-07,L,1,$748.07
+Under Armour (UAA),UAA,2020-02-07,D,4,$20.25
+Uber (UBER),UBER,2020-02-07,F,1,$40.63
+Vivint Smart Home (VVNT),VVNT,2020-02-07,L,5,$14.16
+Wendy's (WEN),WEN,2020-02-07,D,1,$21.94
+Waste Management (WM),WM,2020-02-07,D,4,$123.91
+XPO Logistics (XPO),XPO,2020-02-07,D,1,$93.21
+Adobe Systems (ADBE),ADBE,2020-02-10,D,1,$370.00
+Advanced Micro Devices (AMD),AMD,2020-02-10,D,1,$52.26
+Alteryx (AYX),AYX,2020-02-10,D,1,$142.94
+BP (BP),BP,2020-02-10,F,5,$36.19
+Anheuser-Busch InBev (BUD),BUD,2020-02-10,L,2,$74.59
+Callon Petroleum (CPE),CPE,2020-02-10,L,5,$2.81
+Chevron (CVX),CVX,2020-02-10,F,5,$109.79
+Generac Holdings (GNRC),GNRC,2020-02-10,L,1,$109.30
+Mine Safety Appliances (MSA),MSA,2020-02-10,L,1,$140.20
+Microsoft (MSFT),MSFT,2020-02-10,D,1,$188.70
+New Relic (NEWR),NEWR,2020-02-10,D,5,$61.07
+ServiceNow (NOW),NOW,2020-02-10,D,1,$342.77
+NVIDIA (NVDA),NVDA,2020-02-10,D,1,$262.97
+Okta (OKTA),OKTA,2020-02-10,D,1,$135.76
+Ollie's Bargain Outlet (OLLI),OLLI,2020-02-10,L,4,$48.94
+Raytheon (RTN),RTN,2020-02-10,L,1,$230.57
+Constellation Brands (STZ),STZ,2020-02-10,L,1,$200.07
+Take-Two Interactive (TTWO),TTWO,2020-02-10,I,1,$111.00
+Uber (UBER),UBER,2020-02-10,F,1,$40.01
+Workday (WDAY),WDAY,2020-02-10,D,1,$194.86
+Exxon Mobil (XOM),XOM,2020-02-10,F,5,$59.96
+Yum! Brands (YUM),YUM,2020-02-10,L,4,$102.87
+Agilent Technologies (A),A,2020-02-11,L,1,$85.09
+Amkor Technology (AMKR),AMKR,2020-02-11,L,2,$13.24
+Caterpillar (CAT),CAT,2020-02-11,D,2,$136.19
+Carnival (CCL),CCL,2020-02-11,L,5,$42.95
+Clorox (CLX),CLX,2020-02-11,D,4,$164.76
+Columbia Sportswear (COLM),COLM,2020-02-11,I,1,$90.44
+Charles River Labs (CRL),CRL,2020-02-11,I,1,$173.32
+Meta (FB),FB,2020-02-11,L,1,$207.19
+Marriott International (MAR),MAR,2020-02-11,D,2,$147.19
+Annaly Capital (NLY),NLY,2020-02-11,L,5,$9.99
+PPG Industries (PPG),PPG,2020-02-11,D,2,$121.95
+Royal Caribbean Cruises (RCL),RCL,2020-02-11,D,2,$113.06
+Simon Property Group (SPG),SPG,2020-02-11,F,2,$142.08
+VMware (VMW),VMW,2020-02-11,L,1,$156.19
+Wynn Resorts (WYNN),WYNN,2020-02-11,D,2,$131.99
+Alibaba (BABA),BABA,2020-02-12,L,1,$224.31
+Columbia Sportswear (COLM),COLM,2020-02-12,D,1,$91.71
+CRISPR Therapeutics (CRSP),CRSP,2020-02-12,L,2,$57.75
+Casper Sleep (CSPR),CSPR,2020-02-12,F,5,$10.39
+Diebold Nixdorf (DBD),DBD,2020-02-12,L,5,$8.89
+Enterprise Products Partn (EPD),EPD,2020-02-12,L,5,$26.50
+Canada Goose (GOOS),GOOS,2020-02-12,F,4,$32.36
+iQIYI (IQ),IQ,2020-02-12,L,5,$27.07
+JD.com (JD),JD,2020-02-12,L,5,$41.64
+Shopify (SHOP),SHOP,2020-02-12,I,1,$531.25
+Signet Jewelers (SIG),SIG,2020-02-12,I,1,$26.93
+Virgin Galactic (SPCE),SPCE,2020-02-12,L,5,$23.08
+AT&T (T),T,2020-02-12,L,1,$38.04
+Align Technology (ALGN),ALGN,2020-02-13,L,4,$272.97
+Caterpillar (CAT),CAT,2020-02-13,D,5,$139.72
+Cardlytics (CDLX),CDLX,2020-02-13,F,4,$93.07
+Cisco Systems (CSCO),CSCO,2020-02-13,D,4,$47.32
+LCI Industries (LCII),LCII,2020-02-13,L,5,$114.62
+Ollie's Bargain Outlet (OLLI),OLLI,2020-02-13,F,1,$54.35
+OneMain Holdings (OMF),OMF,2020-02-13,L,5,$46.99
+Pepsico (PEP),PEP,2020-02-13,F,1,$146.47
+Ring Central (RING),RING,2020-02-13,I,1,$23.26
+Shopify (SHOP),SHOP,2020-02-13,D,1,$532.97
+Tesla (TSLA),TSLA,2020-02-13,D,1,$804.00
+Veeva Systems (VEEV),VEEV,2020-02-13,L,1,$153.95
+Exxon Mobil (XOM),XOM,2020-02-13,L,5,$60.93
+AbbVie (ABBV),ABBV,2020-02-14,L,1,$94.05
+Analog Devices (ADI),ADI,2020-02-14,D,1,$117.65
+American Electric Power (AEP),AEP,2020-02-14,D,1,$103.76
+Alteryx (AYX),AYX,2020-02-14,D,1,$158.00
+Alibaba (BABA),BABA,2020-02-14,L,1,$219.63
+Blackberry (BB),BB,2020-02-14,L,5,$5.83
+Bausch Health (BHC),BHC,2020-02-14,D,1,$27.74
+Bristol-Myers Squibb (BMY),BMY,2020-02-14,L,1,$66.38
+Colgate-Palmolive (CL),CL,2020-02-14,F,1,$76.69
+Dominion Energy (D),D,2020-02-14,I,1,$87.46
+Domino's Pizza (DPZ),DPZ,2020-02-14,D,2,$291.60
+Consolidated Edison (ED),ED,2020-02-14,D,1,$94.30
+Elanco Animal Health (ELAN),ELAN,2020-02-14,D,1,$30.98
+Energy Transfer (ET),ET,2020-02-14,D,5,$12.72
+Gilead Sciences (GILD),GILD,2020-02-14,L,5,$67.56
+Home Depot (HD),HD,2020-02-14,L,1,$245.03
+InMode (INMD),INMD,2020-02-14,L,1,$43.96
+KeyCorp (KEY),KEY,2020-02-14,L,1,$19.73
+Mattel (MAT),MAT,2020-02-14,I,1,$13.95
+Medtronic (MDT),MDT,2020-02-14,D,1,$117.33
+Microsoft (MSFT),MSFT,2020-02-14,D,1,$185.35
+Norwegian Cruise Line (NCLH),NCLH,2020-02-14,D,5,$52.46
+NVIDIA (NVDA),NVDA,2020-02-14,D,1,$289.79
+Pioneer Natural Resources (PXD),PXD,2020-02-14,D,5,$139.23
+RingCentral (RNG),RNG,2020-02-14,D,1,$242.39
+SolarEdge Technologies (SEDG),SEDG,2020-02-14,L,2,$111.21
+ViacomCBS (VIAC),VIAC,2020-02-14,D,1,$34.98
+Ventas (VTR),VTR,2020-02-14,D,2,$59.75
+Walmart (WMT),WMT,2020-02-14,D,1,$117.89
+ZScaler (ZS),ZS,2020-02-14,D,1,$62.11
+Apple (AAPL),AAPL,2020-02-18,D,2,$319.00
+Chemours (CC),CC,2020-02-18,L,5,$18.56
+Cherry Hill Mortgage Inve (CHMI),CHMI,2020-02-18,L,5,$16.09
+Clorox (CLX),CLX,2020-02-18,F,1,$164.82
+DuPont (DD),DD,2020-02-18,L,1,$53.44
+Emerson Electric (EMR),EMR,2020-02-18,D,4,$71.44
+LM Ericsson (ERIC),ERIC,2020-02-18,L,5,$8.99
+Gilead Sciences (GILD),GILD,2020-02-18,F,1,$67.01
+Leidos (LDOS),LDOS,2020-02-18,L,1,$123.22
+LivePerson (LPSN),LPSN,2020-02-18,I,1,$32.64
+Cloudflare (NET),NET,2020-02-18,I,1,$17.50
+Sony (SNE),SNE,2020-02-18,L,1,$66.64
+Teladoc (TDOC),TDOC,2020-02-18,F,1,$117.24
+Tesla (TSLA),TSLA,2020-02-18,D,2,$858.40
+Walmart (WMT),WMT,2020-02-18,D,2,$119.63
+Zoom Video Communications (ZM),ZM,2020-02-18,F,1,$96.39
+Arista Networks (ANET),ANET,2020-02-19,L,4,$225.02
+American Express (AXP),AXP,2020-02-19,D,1,$136.93
+Brown & Brown (BRO),BRO,2020-02-19,L,1,$48.46
+Enphase Energy (ENPH),ENPH,2020-02-19,D,4,$57.22
+Everbridge (EVBG),EVBG,2020-02-19,I,1,$104.21
+Freshpet (FRPT),FRPT,2020-02-19,L,1,$76.43
+Lam Research (LRCX),LRCX,2020-02-19,L,1,$333.85
+Mastercard (MA),MA,2020-02-19,D,1,$344.56
+Plug Power (PLUG),PLUG,2020-02-19,D,4,$5.72
+PayPal (PYPL),PYPL,2020-02-19,D,1,$123.91
+SmileDirectClub (SDC),SDC,2020-02-19,L,5,$12.37
+SolarEdge Technologies (SEDG),SEDG,2020-02-19,D,1,$127.82
+Virgin Galactic (SPCE),SPCE,2020-02-19,D,4,$37.35
+Block (SQ),SQ,2020-02-19,D,1,$85.24
+Tesla (TSLA),TSLA,2020-02-19,D,2,$917.42
+Visa (V),V,2020-02-19,D,1,$213.31
+Wingstop (WING),WING,2020-02-19,I,1,$98.75
+Domino's Pizza (DPZ),DPZ,2020-02-20,I,1,$373.16
+Franco-Nevada (FNV),FNV,2020-02-20,L,4,$116.16
+General Motors (GM),GM,2020-02-20,L,5,$35.29
+Barrick Gold (GOLD),GOLD,2020-02-20,L,1,$20.77
+Intelsat (I),I,2020-02-20,L,4,$4.54
+Morgan Stanley (MS),MS,2020-02-20,D,1,$53.75
+Norwegian Cruise Line (NCLH),NCLH,2020-02-20,D,5,$48.51
+Okta (OKTA),OKTA,2020-02-20,L,1,$138.55
+Procter & Gamble (PG),PG,2020-02-20,D,4,$126.58
+ViacomCBS (VIAC),VIAC,2020-02-20,D,5,$29.29
+Vertex Pharmaceuticals (VRTX),VRTX,2020-02-20,F,1,$245.10
+Aecom Technology (ACM),ACM,2020-02-21,L,4,$51.92
+Best Buy (BBY),BBY,2020-02-21,D,1,$90.26
+Cree (CREE),CREE,2020-02-21,L,5,$47.39
+Salesforce (CRM),CRM,2020-02-21,D,1,$189.50
+Dell (DELL),DELL,2020-02-21,D,1,$51.72
+EPR Properties (EPR),EPR,2020-02-21,L,1,$68.23
+Etsy (ETSY),ETSY,2020-02-21,D,1,$53.70
+Meta (FB),FB,2020-02-21,D,2,$210.18
+Foot Locker (FL),FL,2020-02-21,D,5,$38.84
+Home Depot (HD),HD,2020-02-21,D,1,$245.34
+HP (HPQ),HPQ,2020-02-21,D,2,$22.70
+Macy's (M),M,2020-02-21,D,5,$16.23
+Marriott International (MAR),MAR,2020-02-21,D,5,$143.24
+NortonLifeLock (NLOK),NLOK,2020-02-21,F,1,$20.47
+Proofpoint (PFPT),PFPT,2020-02-21,I,1,$123.90
+Pinterest (PINS),PINS,2020-02-21,D,1,$22.48
+Transocean (RIG),RIG,2020-02-21,L,5,$4.16
+Roku (ROKU),ROKU,2020-02-21,L,1,$119.38
+Snap (SNAP),SNAP,2020-02-21,D,1,$16.70
+Virgin Galactic (SPCE),SPCE,2020-02-21,D,5,$33.87
+Block (SQ),SQ,2020-02-21,D,2,$83.49
+TJX Companies (TJX),TJX,2020-02-21,D,1,$63.31
+Toll Brothers (TOL),TOL,2020-02-21,D,1,$47.84
+The Trade Desk (TTD),TTD,2020-02-21,D,1,$301.90
+Twitter (TWTR),TWTR,2020-02-21,D,2,$38.31
+Ventas (VTR),VTR,2020-02-21,L,1,$62.99
+Wayfair (W),W,2020-02-21,D,5,$80.14
+Workday (WDAY),WDAY,2020-02-21,D,1,$183.86
+Apple (AAPL),AAPL,2020-02-24,D,2,$298.18
+American Electric Power (AEP),AEP,2020-02-24,L,1,$100.04
+CBRL Group (CBRL),CBRL,2020-02-24,L,1,$166.03
+Dominion Energy (D),D,2020-02-24,D,1,$89.80
+Deluxe (DLX),DLX,2020-02-24,I,1,$38.49
+Consolidated Edison (ED),ED,2020-02-24,D,1,$88.89
+Five9 (FIVN),FIVN,2020-02-24,I,1,$72.29
+Gilead Sciences (GILD),GILD,2020-02-24,D,1,$72.90
+SPDR Gold Shares (GLD),GLD,2020-02-24,D,1,$156.09
+Barrick Gold (GOLD),GOLD,2020-02-24,D,1,$22.03
+IBM (IBM),IBM,2020-02-24,L,2,$146.43
+Johnson & Johnson (JNJ),JNJ,2020-02-24,D,1,$145.91
+Kirkland Lake (KL),KL,2020-02-24,D,2,$36.80
+Coca-Cola (KO),KO,2020-02-24,D,1,$58.65
+Mondelez International (MDLZ),MDLZ,2020-02-24,D,1,$57.74
+PG&E (PCG),PCG,2020-02-24,L,5,$17.25
+Stamps.com (STMP),STMP,2020-02-24,L,5,$155.58
+Texas Roadhouse (TXRH),TXRH,2020-02-24,L,1,$68.67
+Axon Enterprise (AAXN),AAXN,2020-02-25,L,1,$79.51
+American Electric Power (AEP),AEP,2020-02-25,D,1,$98.17
+Amcor (AMCR),AMCR,2020-02-25,L,1,$9.67
+Activision Blizzard (ATVI),ATVI,2020-02-25,D,4,$59.51
+Caterpillar (CAT),CAT,2020-02-25,F,5,$129.00
+Salesforce (CRM),CRM,2020-02-25,I,1,$181.27
+Dominion Energy (D),D,2020-02-25,D,1,$87.79
+Esperion Therapeutics (ESPR),ESPR,2020-02-25,L,4,$59.91
+Energy Transfer (ET),ET,2020-02-25,L,5,$11.22
+Gilead Sciences (GILD),GILD,2020-02-25,D,1,$70.10
+Inseego (INSG),INSG,2020-02-25,L,4,$7.68
+Intel (INTC),INTC,2020-02-25,F,5,$59.73
+Mastercard (MA),MA,2020-02-25,I,1,$302.89
+Moderna (MRNA),MRNA,2020-02-25,D,1,$23.76
+Match Group (MTCH),MTCH,2020-02-25,L,5,$67.75
+Wex (WEX),WEX,2020-02-25,I,1,$207.34
+Zoom Video Communications (ZM),ZM,2020-02-25,D,1,$107.08
+Adobe Systems (ADBE),ADBE,2020-02-27,D,1,$337.52
+Boeing (BA),BA,2020-02-27,L,2,$287.76
+Cardtronics (CATM),CATM,2020-02-27,L,4,$37.01
+Etsy (ETSY),ETSY,2020-02-27,I,1,$57.92
+Southwest Airlines (LUV),LUV,2020-02-27,F,4,$46.63
+McKesson (MCK),MCK,2020-02-27,L,5,$147.71
+Moderna (MRNA),MRNA,2020-02-27,D,1,$26.16
+NVIDIA (NVDA),NVDA,2020-02-27,D,1,$252.60
+Ring Central (RING),RING,2020-02-27,D,1,$23.15
+Shopify (SHOP),SHOP,2020-02-27,D,1,$438.37
+Block (SQ),SQ,2020-02-27,D,1,$79.31
+Teladoc (TDOC),TDOC,2020-02-27,D,1,$135.15
+The Trade Desk (TTD),TTD,2020-02-27,I,1,$250.01
+Workday (WDAY),WDAY,2020-02-27,I,1,$171.20
+Xilinx (XLNX),XLNX,2020-02-27,L,4,$79.49
+Zoom Video Communications (ZM),ZM,2020-02-27,D,1,$113.55
+Abbott Laboratories (ABT),ABT,2020-02-28,D,1,$77.03
+Aimmune Therapeutics (AIMT),AIMT,2020-02-28,L,4,$23.81
+Advanced Micro Devices (AMD),AMD,2020-02-28,D,1,$45.48
+Baxter International (BAX),BAX,2020-02-28,L,2,$83.47
+Berkshire Hathaway (BRK.B),BRK.B,2020-02-28,L,1,$206.34
+Clean Harbors (CLH),CLH,2020-02-28,I,1,$69.52
+Costco (COST),COST,2020-02-28,D,1,$281.14
+Campbell Soup (CPB),CPB,2020-02-28,D,1,$45.12
+Chevron (CVX),CVX,2020-02-28,D,5,$93.34
+Dollar Tree (DLTR),DLTR,2020-02-28,D,1,$83.03
+Barrick Gold (GOLD),GOLD,2020-02-28,D,1,$19.04
+Hannon Armstrong (HASI),HASI,2020-02-28,I,1,$33.95
+Coca-Cola (KO),KO,2020-02-28,D,1,$53.49
+Kohl's (KSS),KSS,2020-02-28,D,4,$39.15
+Macquarie Infrastructure (MIC),MIC,2020-02-28,L,2,$39.25
+Moderna (MRNA),MRNA,2020-02-28,D,1,$25.93
+Okta (OKTA),OKTA,2020-02-28,D,1,$128.06
+Parsons (PSN),PSN,2020-02-28,L,1,$39.09
+Ross Stores (ROST),ROST,2020-02-28,D,1,$108.78
+Schrodinger (SDGR),SDGR,2020-02-28,L,1,$46.38
+Shopify (SHOP),SHOP,2020-02-28,D,1,$463.31
+Splunk (SPLK),SPLK,2020-02-28,D,1,$147.33
+AT&T (T),T,2020-02-28,D,1,$35.22
+Teladoc (TDOC),TDOC,2020-02-28,D,1,$124.96
+Atlassian (TEAM),TEAM,2020-02-28,I,1,$144.96
+Verizon (VZ),VZ,2020-02-28,D,1,$54.16
+Exxon Mobil (XOM),XOM,2020-02-28,D,5,$51.44
+Zoom Video Communications (ZM),ZM,2020-02-28,D,1,$105.00
+Beyond Meat (BYND),BYND,2020-03-02,I,1,$96.10
+Caterpillar (CAT),CAT,2020-03-02,D,4,$127.60
+Chewy (CHWY),CHWY,2020-03-02,L,1,$28.93
+Cisco Systems (CSCO),CSCO,2020-03-02,D,4,$41.17
+Chevron (CVX),CVX,2020-03-02,D,5,$96.59
+DocuSign (DOCU),DOCU,2020-03-02,L,1,$87.96
+Dow (DOW),DOW,2020-03-02,D,5,$41.42
+IBM (IBM),IBM,2020-03-02,D,4,$134.30
+3M (MMM),MMM,2020-03-02,D,4,$153.02
+Occidental Petroleum (OXY),OXY,2020-03-02,L,5,$32.95
+Pegasystems (PEGA),PEGA,2020-03-02,I,1,$90.44
+Penn National Gaming (PENN),PENN,2020-03-02,L,4,$28.22
+Pfizer (PFE),PFE,2020-03-02,D,1,$34.88
+Sirius XM Radio (SIRI),SIRI,2020-03-02,L,1,$6.55
+Tyson Foods (TSN),TSN,2020-03-02,L,4,$70.54
+Twitter (TWTR),TWTR,2020-03-02,F,1,$35.82
+Verizon (VZ),VZ,2020-03-02,D,1,$57.32
+Walgreens Boots Alliance (WBA),WBA,2020-03-02,D,4,$48.11
+Waste Management (WM),WM,2020-03-02,L,1,$117.03
+Exxon Mobil (XOM),XOM,2020-03-02,D,5,$53.88
+AbbVie (ABBV),ABBV,2020-03-03,D,1,$87.57
+Albemarle (ALB),ALB,2020-03-03,L,4,$82.79
+Amarin (AMRN),AMRN,2020-03-03,L,1,$15.54
+Ball Corp (BLL),BLL,2020-03-03,L,1,$76.15
+Chevron (CVX),CVX,2020-03-03,I,2,$94.39
+Enterprise Products Partn (EPD),EPD,2020-03-03,L,4,$24.02
+Exact Sciences (EXAS),EXAS,2020-03-03,L,4,$71.61
+Global Blood Therapeutics (GBT),GBT,2020-03-03,L,1,$61.29
+SPDR Gold Shares (GLD),GLD,2020-03-03,D,1,$153.89
+Barrick Gold (GOLD),GOLD,2020-03-03,D,1,$20.62
+Livongo Health (LVGO),LVGO,2020-03-03,I,1,$24.29
+Medtronic (MDT),MDT,2020-03-03,D,1,$100.40
+Netflix (NFLX),NFLX,2020-03-03,D,1,$368.77
+Zoom Video Communications (ZM),ZM,2020-03-03,D,1,$117.47
+American Tower (AMT),AMT,2020-03-04,L,1,$251.66
+Alibaba (BABA),BABA,2020-03-04,L,1,$211.96
+Dollar Tree (DLTR),DLTR,2020-03-04,I,1,$78.91
+Eaton (ETN),ETN,2020-03-04,L,1,$98.12
+Barrick Gold (GOLD),GOLD,2020-03-04,I,1,$20.55
+Inovio Pharmaceuticals (INO),INO,2020-03-04,L,4,$8.03
+JD.com (JD),JD,2020-03-04,L,5,$43.91
+Luckin Coffee (LK),LK,2020-03-04,L,4,$40.73
+Starbucks (SBUX),SBUX,2020-03-04,L,1,$79.67
+Zendesk (ZEN),ZEN,2020-03-04,I,1,$73.23
+American Electric Power (AEP),AEP,2020-03-05,I,1,$98.79
+Burlington Stores (BURL),BURL,2020-03-05,D,1,$218.46
+CVS Health (CVS),CVS,2020-03-05,D,1,$64.36
+Dollar General (DG),DG,2020-03-05,D,1,$157.48
+Dollar Tree (DLTR),DLTR,2020-03-05,D,2,$77.99
+Daqo New Energy (DQ),DQ,2020-03-05,L,5,$61.67
+Franco-Nevada (FNV),FNV,2020-03-05,L,1,$120.61
+Generac Holdings (GNRC),GNRC,2020-03-05,I,1,$116.51
+Kroger (KR),KR,2020-03-05,D,2,$33.47
+Kohl's (KSS),KSS,2020-03-05,D,4,$34.14
+Macy's (M),M,2020-03-05,D,4,$11.58
+MSCI (MSCI),MSCI,2020-03-05,L,1,$300.89
+ServiceNow (NOW),NOW,2020-03-05,L,1,$329.33
+Nutanix (NTNX),NTNX,2020-03-05,L,4,$21.64
+Sangamo Therapeutics (SGMO),SGMO,2020-03-05,I,1,$8.53
+ShockWave Medical (SWAV),SWAV,2020-03-05,L,1,$39.70
+United Technologies (UTX),UTX,2020-03-05,L,4,$126.44
+Walgreens Boots Alliance (WBA),WBA,2020-03-05,D,4,$48.78
+Walmart (WMT),WMT,2020-03-05,D,1,$115.92
+Apple (AAPL),AAPL,2020-03-09,D,2,$266.17
+American Express (AXP),AXP,2020-03-09,D,5,$98.29
+Boeing (BA),BA,2020-03-09,D,5,$227.17
+Anheuser-Busch InBev (BUD),BUD,2020-03-09,L,5,$48.30
+Caterpillar (CAT),CAT,2020-03-09,D,4,$104.07
+Canopy Growth (CGC),CGC,2020-03-09,L,5,$13.22
+Cisco Systems (CSCO),CSCO,2020-03-09,D,4,$37.96
+Chevron (CVX),CVX,2020-03-09,D,5,$81.53
+Cypress Semiconductor (CY),CY,2020-03-09,L,5,$15.28
+Dow (DOW),DOW,2020-03-09,D,5,$34.31
+Iron Mountain (IRM),IRM,2020-03-09,L,1,$29.55
+Coca-Cola (KO),KO,2020-03-09,D,1,$52.23
+3M (MMM),MMM,2020-03-09,D,4,$144.06
+Occidental Petroleum (OXY),OXY,2020-03-09,F,5,$12.51
+Service Corp (SCI),SCI,2020-03-09,L,1,$49.59
+Stamps.com (STMP),STMP,2020-03-09,L,5,$115.02
+Tesla (TSLA),TSLA,2020-03-09,D,1,$608.00
+Exxon Mobil (XOM),XOM,2020-03-09,D,5,$41.86
+AbbVie (ABBV),ABBV,2020-03-10,D,1,$87.53
+Adobe Systems (ADBE),ADBE,2020-03-10,D,1,$332.38
+American Electric Power (AEP),AEP,2020-03-10,D,1,$94.72
+Aimmune Therapeutics (AIMT),AIMT,2020-03-10,L,1,$19.37
+Advanced Micro Devices (AMD),AMD,2020-03-10,D,2,$45.38
+Dominion Energy (D),D,2020-03-10,D,1,$83.22
+Dexcom (DXCM),DXCM,2020-03-10,I,1,$279.18
+Energy Transfer (ET),ET,2020-03-10,L,5,$7.63
+Goldman Sachs (GS),GS,2020-03-10,D,1,$184.35
+Home Depot (HD),HD,2020-03-10,D,1,$225.70
+IBM (IBM),IBM,2020-03-10,D,2,$124.77
+Intel (INTC),INTC,2020-03-10,D,5,$53.98
+Johnson & Johnson (JNJ),JNJ,2020-03-10,D,1,$141.64
+McDonald's (MCD),MCD,2020-03-10,D,5,$199.86
+Merck (MRK),MRK,2020-03-10,D,4,$82.02
+Microsoft (MSFT),MSFT,2020-03-10,D,1,$160.92
+Nike (NKE),NKE,2020-03-10,D,5,$88.30
+NortonLifeLock (NLOK),NLOK,2020-03-10,L,1,$17.94
+ServiceNow (NOW),NOW,2020-03-10,D,1,$312.80
+NVIDIA (NVDA),NVDA,2020-03-10,D,1,$261.08
+Uber (UBER),UBER,2020-03-10,L,4,$28.97
+YPF (YPF),YPF,2020-03-10,L,5,$6.08
+AMN Healthcare Services (AMN),AMN,2020-03-11,L,1,$68.34
+BP (BP),BP,2020-03-11,L,5,$24.66
+Coupa Software (COUP),COUP,2020-03-11,L,2,$120.87
+Walt Disney (DIS),DIS,2020-03-11,D,4,$105.51
+Oneok (OKE),OKE,2020-03-11,L,4,$35.94
+Pfizer (PFE),PFE,2020-03-11,D,1,$32.17
+Procter & Gamble (PG),PG,2020-03-11,D,4,$111.59
+Schrodinger (SDGR),SDGR,2020-03-11,F,1,$35.52
+SS&C Technologies (SSNC),SSNC,2020-03-11,I,1,$46.06
+Travelers Companies (TRV),TRV,2020-03-11,D,5,$112.60
+UnitedHealth Group (UNH),UNH,2020-03-11,D,2,$277.78
+United Technologies (UTX),UTX,2020-03-11,D,5,$107.51
+Visa (V),V,2020-03-11,D,4,$172.95
+Verizon (VZ),VZ,2020-03-11,D,1,$54.83
+Walgreens Boots Alliance (WBA),WBA,2020-03-11,D,5,$46.07
+Walmart (WMT),WMT,2020-03-11,D,4,$114.43
+Zoetis (ZTS),ZTS,2020-03-11,L,1,$130.27
+AbbVie (ABBV),ABBV,2020-03-12,D,1,$78.61
+Cardlytics (CDLX),CDLX,2020-03-12,L,4,$43.48
+Dominion Energy (D),D,2020-03-12,D,1,$71.51
+Qualcomm (QCOM),QCOM,2020-03-12,D,1,$67.02
+AT&T (T),T,2020-03-12,D,4,$31.94
+The Trade Desk (TTD),TTD,2020-03-12,L,1,$192.65
+Twilio (TWLO),TWLO,2020-03-12,L,4,$78.34
+United Parcel Service (UPS),UPS,2020-03-12,D,1,$86.17
+Verizon (VZ),VZ,2020-03-12,D,1,$51.20
+Wells Fargo (WFC),WFC,2020-03-12,D,1,$29.65
+Yext (YEXT),YEXT,2020-03-12,I,1,$11.88
+Allstate (ALL),ALL,2020-03-16,L,5,$84.98
+CareTrust REIT (CTRE),CTRE,2020-03-16,L,5,$10.02
+CVS Health (CVS),CVS,2020-03-16,I,2,$54.24
+Dow (DOW),DOW,2020-03-16,I,2,$22.00
+IAC Interactive (IAC),IAC,2020-03-16,L,1,$149.75
+Inovio Pharmaceuticals (INO),INO,2020-03-16,L,1,$6.13
+Orange (ORAN),ORAN,2020-03-16,L,5,$10.25
+Shopify (SHOP),SHOP,2020-03-16,L,1,$322.29
+Thermo Fisher Scientific (TMO),TMO,2020-03-16,I,2,$279.35
+Verizon (VZ),VZ,2020-03-16,L,1,$50.99
+Waste Management (WM),WM,2020-03-16,L,1,$99.89
+Alcoa (AA),AA,2020-03-17,L,5,$7.00
+Meta (FB),FB,2020-03-17,I,1,$149.42
+Nucor (NUE),NUE,2020-03-17,L,1,$30.99
+Regeneron Pharmaceuticals (REGN),REGN,2020-03-17,I,1,$491.69
+Block (SQ ),SQ ,2020-03-17,L,1,$44.73
+American Electric Power (AEP),AEP,2020-03-18,L,1,$88.28
+The Blackstone Group (BX),BX,2020-03-18,L,2,$40.76
+Dominion Energy (D),D,2020-03-18,L,1,$80.26
+Darden Restaurants (DRI),DRI,2020-03-18,F,5,$34.16
+Brinker International (EAT),EAT,2020-03-18,F,5,$7.62
+Consolidated Edison (ED),ED,2020-03-18,L,1,$92.20
+Hormel Foods (HRL),HRL,2020-03-18,I,1,$48.27
+IdaCorp (IDA),IDA,2020-03-18,L,4,$91.91
+Logitech International (LOGI),LOGI,2020-03-18,I,1,$37.96
+K12 (LRN),LRN,2020-03-18,L,5,$16.55
+Southwest Airlines (LUV),LUV,2020-03-18,L,1,$35.15
+Principal Financial Group (PFG),PFG,2020-03-18,L,1,$27.21
+Starbucks (SBUX),SBUX,2020-03-18,I,1,$56.33
+Uber (UBER),UBER,2020-03-18,L,4,$14.82
+Zoom Video Communications (ZM),ZM,2020-03-18,L,1,$118.71
+Costco (COST),COST,2020-03-19,D,1,$305.22
+CrowdStrike (CRWD),CRWD,2020-03-19,D,1,$41.74
+DocuSign (DOCU),DOCU,2020-03-19,D,1,$75.88
+Dexcom (DXCM),DXCM,2020-03-19,L,1,$206.24
+Enterprise Products Partn (EPD),EPD,2020-03-19,L,5,$14.52
+Hormel Foods (HRL),HRL,2020-03-19,L,1,$47.22
+InMode (INMD),INMD,2020-03-19,L,1,$17.83
+Netflix (NFLX),NFLX,2020-03-19,D,1,$332.03
+Okta (OKTA),OKTA,2020-03-19,D,1,$113.95
+Qualcomm (QCOM),QCOM,2020-03-19,D,1,$65.00
+Snap (SNAP),SNAP,2020-03-19,L,1,$9.47
+Tandem Diabetes Care (TNDM),TNDM,2020-03-19,L,2,$51.31
+Twitter (TWTR),TWTR,2020-03-19,L,1,$24.13
+US Foods (USFD),USFD,2020-03-19,L,4,$12.67
+VMware (VMW),VMW,2020-03-19,I,1,$100.19
+Verizon (VZ),VZ,2020-03-19,I,1,$53.62
+Walmart (WMT),WMT,2020-03-19,D,1,$119.45
+Zoom Video Communications (ZM),ZM,2020-03-19,D,1,$123.77
+ZScaler (ZS),ZS,2020-03-19,I,1,$51.81
+Abbott Laboratories (ABT),ABT,2020-03-20,L,1,$68.00
+AMN Healthcare Services (AMN),AMN,2020-03-20,I,1,$62.75
+Co-Diagnostics (CODX),CODX,2020-03-20,L,5,$10.45
+CrowdStrike (CRWD),CRWD,2020-03-20,I,1,$49.01
+Lululemon Athletica (LULU),LULU,2020-03-20,D,4,$165.01
+Micron Technology (MU),MU,2020-03-20,D,4,$36.11
+Nike (NKE),NKE,2020-03-20,D,4,$67.45
+Annaly Capital (NLY),NLY,2020-03-20,L,5,$5.31
+Paychex (PAYX),PAYX,2020-03-20,D,4,$51.97
+Rockwell Automation (ROK),ROK,2020-03-20,L,1,$126.79
+Constellation Brands (STZ),STZ,2020-03-20,L,4,$119.70
+Del Taco Restaurants (TACO),TACO,2020-03-20,L,4,$2.62
+Delta Air Lines (DAL),DAL,2020-03-24,L,5,$26.89
+DineEquity (DIN),DIN,2020-03-24,L,4,$25.13
+Iron Mountain (IRM),IRM,2020-03-24,L,1,$24.00
+Johnson & Johnson (JNJ),JNJ,2020-03-24,L,1,$119.18
+L Brands (LB),LB,2020-03-24,L,5,$12.75
+Owens & Minor (OMI),OMI,2020-03-24,L,1,$5.74
+Skyworks Solutions (SWKS),SWKS,2020-03-24,I,1,$87.29
+Williams-Sonoma (WSM),WSM,2020-03-24,L,2,$42.49
+Apple (AAPL),AAPL,2020-03-25,D,1,$245.52
+Clorox (CLX),CLX,2020-03-25,L,1,$165.66
+CrowdStrike (CRWD),CRWD,2020-03-25,D,1,$55.78
+Dominion Energy (D),D,2020-03-25,L,1,$67.34
+Intercontinental Exchange (ICE),ICE,2020-03-25,L,1,$74.52
+Johnson & Johnson (JNJ),JNJ,2020-03-25,D,1,$119.40
+Medtronic (MDT),MDT,2020-03-25,L,1,$86.82
+Nike (NKE),NKE,2020-03-25,D,1,$79.01
+Paychex (PAYX),PAYX,2020-03-25,I,1,$60.08
+Teladoc (TDOC),TDOC,2020-03-25,D,1,$142.11
+Western Digital (WDC),WDC,2020-03-25,I,1,$41.63
+Zoom Video Communications (ZM),ZM,2020-03-25,D,1,$138.11
+Adobe Systems (ADBE),ADBE,2020-03-26,D,1,$322.67
+Alibaba (BABA),BABA,2020-03-26,D,1,$195.32
+Blackberry (BB),BB,2020-03-26,L,5,$3.93
+Cheesecake Factory (CAKE),CAKE,2020-03-26,D,4,$19.66
+CrowdStrike (CRWD),CRWD,2020-03-26,D,1,$58.64
+Ford Motor (F),F,2020-03-26,D,4,$5.25
+Meta (FB),FB,2020-03-26,D,1,$163.34
+Inovio Pharmaceuticals (INO),INO,2020-03-26,L,2,$7.15
+Intuitive Surgical (ISRG),ISRG,2020-03-26,L,1,$501.47
+Macy's (M),M,2020-03-26,D,4,$5.94
+Merck (MRK),MRK,2020-03-26,L,1,$73.53
+Marvell Technology (MRVL),MRVL,2020-03-26,D,1,$23.18
+Microsoft (MSFT),MSFT,2020-03-26,D,1,$156.11
+Micron Technology (MU),MU,2020-03-26,D,1,$44.79
+ServiceNow (NOW),NOW,2020-03-26,D,1,$294.73
+NVIDIA (NVDA),NVDA,2020-03-26,D,1,$257.24
+Penn National Gaming (PENN),PENN,2020-03-26,L,2,$13.26
+Pfizer (PFE),PFE,2020-03-26,L,1,$31.75
+Qualcomm (QCOM),QCOM,2020-03-26,D,1,$68.98
+Simon Property Group (SPG),SPG,2020-03-26,L,4,$62.10
+Veeva Systems (VEEV),VEEV,2020-03-26,I,1,$147.09
+Western Digital (WDC),WDC,2020-03-26,D,1,$44.29
+Zoom Video Communications (ZM),ZM,2020-03-26,D,1,$141.15
+Chewy (CHWY),CHWY,2020-03-27,D,1,$36.16
+CVS Health (CVS),CVS,2020-03-27,D,1,$58.60
+Enterprise Products Partn (EPD),EPD,2020-03-27,D,4,$13.95
+International Paper (IP),IP,2020-03-27,L,1,$30.62
+Carmax (KMX),KMX,2020-03-27,D,4,$58.93
+Lockheed Martin (LMT),LMT,2020-03-27,L,1,$348.38
+Live Nation (LYV),LYV,2020-03-27,L,5,$47.15
+McCormick (MKC),MKC,2020-03-27,D,1,$132.29
+Micron Technology (MU),MU,2020-03-27,I,1,$43.48
+Owens & Minor (OMI),OMI,2020-03-27,I,1,$5.51
+PVH Corp (PVH),PVH,2020-03-27,D,2,$38.00
+Regeneron Pharmaceuticals (REGN),REGN,2020-03-27,D,1,$449.52
+RH (RH),RH,2020-03-27,D,4,$110.93
+Sanofi (SNY),SNY,2020-03-27,I,1,$42.44
+Block (SQ),SQ,2020-03-27,L,4,$53.34
+Constellation Brands (STZ),STZ,2020-03-27,D,4,$144.88
+United Natural Foods (UNFI),UNFI,2020-03-27,L,1,$8.41
+Walgreens Boots Alliance (WBA),WBA,2020-03-27,D,5,$44.00
+Abbott Laboratories (ABT),ABT,2020-03-30,I,1,$79.34
+Advanced Micro Devices (AMD),AMD,2020-03-30,D,1,$47.86
+Caesars Entertainment (CZR),CZR,2020-03-30,L,5,$6.42
+General Dynamics (GD),GD,2020-03-30,L,5,$133.60
+HP (HPQ),HPQ,2020-03-30,L,1,$17.84
+Henry Schein (HSIC),HSIC,2020-03-30,L,5,$52.09
+L3Harris Technologies (LHX),LHX,2020-03-30,L,1,$181.96
+Logitech International (LOGI),LOGI,2020-03-30,D,1,$43.58
+Microsoft (MSFT),MSFT,2020-03-30,F,1,$160.23
+Vail Resorts (MTN),MTN,2020-03-30,L,5,$148.96
+Micron Technology (MU),MU,2020-03-30,D,1,$44.52
+Cloudflare (NET),NET,2020-03-30,I,1,$23.89
+NVIDIA (NVDA),NVDA,2020-03-30,D,1,$265.59
+Omnicom Group (OMC),OMC,2020-03-30,L,1,$54.92
+SAP AG (SAP),SAP,2020-03-30,I,1,$112.90
+Tilray (TLRY),TLRY,2020-03-30,L,5,$6.61
+Xerox (XRX),XRX,2020-03-30,L,5,$17.95
+Zoom Video Communications (ZM),ZM,2020-03-30,D,1,$150.88
+Abbott Laboratories (ABT),ABT,2020-03-31,D,1,$78.91
+American Electric Power (AEP),AEP,2020-03-31,D,1,$79.98
+AGCO (AGCO),AGCO,2020-03-31,I,1,$47.25
+Boeing (BA),BA,2020-03-31,D,2,$149.14
+ConAgra Foods (CAG),CAG,2020-03-31,I,1,$29.34
+Costco (COST),COST,2020-03-31,D,2,$285.13
+Dominion Energy (D),D,2020-03-31,D,1,$72.19
+Walt Disney (DIS),DIS,2020-03-31,D,2,$96.60
+Consolidated Edison (ED),ED,2020-03-31,D,1,$78.00
+Johnson & Johnson (JNJ),JNJ,2020-03-31,D,1,$131.13
+Nucor (NUE),NUE,2020-03-31,L,4,$36.02
+Palo Alto Networks (PANW),PANW,2020-03-31,I,1,$163.96
+Planet Fitness (PLNT),PLNT,2020-03-31,L,4,$48.70
+Peloton (PTON),PTON,2020-03-31,L,2,$26.55
+SolarEdge Technologies (SEDG),SEDG,2020-03-31,L,2,$81.88
+Southern Company (SO),SO,2020-03-31,D,1,$54.14
+Teladoc (TDOC),TDOC,2020-03-31,D,1,$155.01
+TJX Companies (TJX),TJX,2020-03-31,D,2,$47.81
+Zoom Video Communications (ZM),ZM,2020-03-31,D,1,$146.12
+Apache (APA),APA,2020-04-01,L,5,$4.02
+Chewy (CHWY),CHWY,2020-04-01,L,1,$35.98
+Cisco Systems (CSCO),CSCO,2020-04-01,I,1,$38.33
+Citrix Systems (CTXS),CTXS,2020-04-01,D,1,$139.14
+Chevron (CVX),CVX,2020-04-01,L,2,$68.56
+Digital Realty Trust (DLR),DLR,2020-04-01,D,1,$134.48
+Dunkin Brands (DNKN),DNKN,2020-04-01,L,5,$51.25
+First Horizon National (FHN),FHN,2020-04-01,L,1,$7.43
+Gilead Sciences (GILD),GILD,2020-04-01,D,1,$72.51
+Idexx Laboratories (IDXX),IDXX,2020-04-01,L,2,$230.66
+Marathon Oil (MRO),MRO,2020-04-01,L,5,$3.12
+Norwegian Cruise Line (NCLH),NCLH,2020-04-01,D,5,$9.55
+Noble (NE),NE,2020-04-01,D,5,$0.22
+Netflix (NFLX),NFLX,2020-04-01,D,1,$364.08
+Procter & Gamble (PG),PG,2020-04-01,L,1,$109.33
+PVH Corp (PVH),PVH,2020-04-01,I,1,$32.63
+Royal Caribbean Cruises (RCL),RCL,2020-04-01,D,5,$25.77
+Regeneron Pharmaceuticals (REGN),REGN,2020-04-01,D,1,$496.65
+ResMed (RMD),RMD,2020-04-01,I,1,$142.29
+Virgin Galactic (SPCE),SPCE,2020-04-01,L,2,$13.30
+Tesla (TSLA),TSLA,2020-04-01,L,1,$481.56
+AbbVie (ABBV),ABBV,2020-04-02,L,1,$75.13
+Chipotle Mexican Grill (CMG),CMG,2020-04-02,I,1,$630.16
+Domino's Pizza (DPZ),DPZ,2020-04-02,L,1,$333.45
+General Electric (GE),GE,2020-04-02,I,1,$6.90
+Kinder Morgan (KMI),KMI,2020-04-02,L,5,$13.45
+McCormick (MKC),MKC,2020-04-02,D,1,$145.21
+Okta (OKTA),OKTA,2020-04-02,I,1,$115.99
+Pepsico (PEP),PEP,2020-04-02,D,1,$123.86
+RingCentral (RNG),RNG,2020-04-02,I,1,$220.03
+Zoom Video Communications (ZM),ZM,2020-04-02,D,1,$121.93
+AbbVie (ABBV),ABBV,2020-04-03,D,4,$73.37
+Alteryx (AYX),AYX,2020-04-03,L,1,$81.74
+Delta Air Lines (DAL),DAL,2020-04-03,L,5,$22.48
+Johnson & Johnson (JNJ),JNJ,2020-04-03,D,4,$134.17
+Coca-Cola (KO),KO,2020-04-03,D,4,$43.83
+Levi Strauss (LEVI),LEVI,2020-04-03,D,4,$9.51
+McCormick (MKC),MKC,2020-04-03,D,1,$146.88
+Marvell Technology (MRVL),MRVL,2020-04-03,L,1,$22.43
+Nokia (NOK),NOK,2020-04-03,L,5,$2.97
+Invitae (NVTA),NVTA,2020-04-03,L,5,$12.62
+Realty Income (O),O,2020-04-03,L,5,$43.60
+Okta (OKTA),OKTA,2020-04-03,L,1,$118.94
+Raytheon (RTN),RTN,2020-04-03,D,4,$116.96
+Constellation Brands (STZ),STZ,2020-04-03,I,1,$132.17
+Switch (SWCH),SWCH,2020-04-03,L,1,$14.56
+WD-40 (WDFC),WDFC,2020-04-03,D,4,$170.51
+Zebra Technologies (ZBRA),ZBRA,2020-04-03,I,1,$178.08
+Alexandria Real Estate Eq (ARE),ARE,2020-04-06,D,1,$137.68
+Brookfield Infrastructure (BIP),BIP,2020-04-06,L,5,$37.47
+ConAgra Foods (CAG),CAG,2020-04-06,D,1,$31.30
+Crown Castle (CCI),CCI,2020-04-06,D,1,$148.75
+Chewy (CHWY),CHWY,2020-04-06,D,1,$33.22
+Chipotle Mexican Grill (CMG),CMG,2020-04-06,D,1,$689.99
+CoreSite Realty (COR),COR,2020-04-06,D,1,$115.89
+Quest Diagnostics (DGX),DGX,2020-04-06,L,4,$78.69
+Domino's Pizza (DPZ),DPZ,2020-04-06,D,1,$338.52
+Equinix (EQIX),EQIX,2020-04-06,D,1,$652.22
+General Mills (GIS),GIS,2020-04-06,D,1,$57.70
+Hormel Foods (HRL),HRL,2020-04-06,D,1,$48.55
+New Residential Investmen (NRZ),NRZ,2020-04-06,L,5,$3.43
+Pepsico (PEP),PEP,2020-04-06,D,1,$131.16
+Prudential (PRU),PRU,2020-04-06,L,5,$49.14
+Starwood Property Trust (STWD),STWD,2020-04-06,L,5,$10.67
+Constellation Brands (STZ),STZ,2020-04-06,D,1,$142.26
+T-Mobile US (TMUS),TMUS,2020-04-06,D,1,$86.09
+Verizon (VZ),VZ,2020-04-06,D,1,$56.70
+Western Digital (WDC),WDC,2020-04-06,D,1,$43.31
+Zoom Video Communications (ZM),ZM,2020-04-06,I,1,$122.94
+Boeing (BA),BA,2020-04-07,L,1,$141.58
+Boyd Gaming (BYD),BYD,2020-04-07,L,5,$12.68
+Caterpillar (CAT),CAT,2020-04-07,L,1,$121.92
+CBRL Group (CBRL),CBRL,2020-04-07,L,1,$77.17
+Enphase Energy (ENPH),ENPH,2020-04-07,L,1,$35.04
+Fluor (FLR),FLR,2020-04-07,L,5,$6.75
+Hexcel (HXL),HXL,2020-04-07,L,5,$34.01
+IBM (IBM),IBM,2020-04-07,L,2,$114.94
+Penn National Gaming (PENN),PENN,2020-04-07,L,1,$11.03
+Dave and Busters (PLAY),PLAY,2020-04-07,L,5,$11.99
+ProLogis (PLD),PLD,2020-04-07,I,1,$80.95
+Apple (AAPL),AAPL,2020-04-08,D,1,$266.07
+Broadcom (AVGO),AVGO,2020-04-08,D,1,$261.10
+Biohaven Pharmaceuticals (BHVN),BHVN,2020-04-08,I,1,$33.75
+Bristol-Myers Squibb (BMY),BMY,2020-04-08,L,1,$58.25
+Caterpillar (CAT),CAT,2020-04-08,L,1,$127.40
+Costco (COST),COST,2020-04-08,D,1,$305.97
+Salesforce (CRM),CRM,2020-04-08,I,1,$151.12
+Domino's Pizza (DPZ),DPZ,2020-04-08,D,1,$343.83
+Darden Restaurants (DRI),DRI,2020-04-08,D,1,$63.57
+Brinker International (EAT),EAT,2020-04-08,L,4,$14.71
+Estee Lauder (EL),EL,2020-04-08,D,1,$165.73
+FedEx (FDX),FDX,2020-04-08,D,1,$125.54
+LPL Financial (LPLA),LPLA,2020-04-08,L,1,$54.45
+Lyft (LYFT),LYFT,2020-04-08,L,2,$29.64
+Nordic American Tanker (NAT),NAT,2020-04-08,L,4,$3.50
+Nike (NKE),NKE,2020-04-08,D,1,$85.30
+NVIDIA (NVDA),NVDA,2020-04-08,D,1,$266.95
+Ollie's Bargain Outlet (OLLI),OLLI,2020-04-08,D,1,$53.25
+Perrigo (PRGO),PRGO,2020-04-08,I,1,$48.85
+Skyworks Solutions (SWKS),SWKS,2020-04-08,D,1,$93.00
+Target (TGT),TGT,2020-04-08,D,1,$104.63
+TJX Companies (TJX),TJX,2020-04-08,D,1,$49.11
+Uber (UBER),UBER,2020-04-08,L,1,$26.94
+United Parcel Service (UPS),UPS,2020-04-08,D,1,$98.79
+U.S. Concrete (USCR),USCR,2020-04-08,L,4,$18.00
+Vertex Pharmaceuticals (VRTX),VRTX,2020-04-08,L,1,$249.66
+Wingstop (WING),WING,2020-04-08,D,1,$96.42
+Walmart (WMT),WMT,2020-04-08,D,1,$121.84
+Yelp (YELP),YELP,2020-04-08,L,2,$21.64
+Abbott Laboratories (ABT),ABT,2020-04-09,D,1,$86.04
+Apache (APA),APA,2020-04-09,L,5,$8.20
+Bank of America (BAC),BAC,2020-04-09,D,1,$24.86
+Box (BOX),BOX,2020-04-09,I,1,$15.43
+Citigroup (C),C,2020-04-09,D,1,$47.41
+Calithera Biosciences (CALA),CALA,2020-04-09,L,1,$6.26
+Capital One Financial (COF),COF,2020-04-09,L,2,$60.11
+Chevron (CVX),CVX,2020-04-09,L,1,$84.31
+Domo (DOMO),DOMO,2020-04-09,I,1,$11.72
+EOG Resources (EOG),EOG,2020-04-09,L,2,$44.82
+Diamondback Energy (FANG),FANG,2020-04-09,L,2,$34.86
+Granite Point Mortgage Tr (GPMT),GPMT,2020-04-09,L,5,$5.62
+Goldman Sachs (GS),GS,2020-04-09,D,1,$184.26
+Intuitive Surgical (ISRG),ISRG,2020-04-09,D,4,$503.79
+Johnson & Johnson (JNJ),JNJ,2020-04-09,D,4,$141.23
+JPMorgan Chase (JPM),JPM,2020-04-09,D,1,$102.76
+Polaris Industries (PII),PII,2020-04-09,L,1,$56.00
+Plug Power (PLUG),PLUG,2020-04-09,L,5,$3.82
+Schlumberger (SLB),SLB,2020-04-09,D,5,$16.47
+Stryker (SYK),SYK,2020-04-09,L,5,$182.72
+Tesla (TSLA),TSLA,2020-04-09,L,1,$573.00
+Wells Fargo (WFC),WFC,2020-04-09,D,1,$33.20
+Exxon Mobil (XOM),XOM,2020-04-09,L,5,$43.13
+Abbott Laboratories (ABT),ABT,2020-04-13,F,1,$85.85
+Bright Horizons Family So (BFAM),BFAM,2020-04-13,L,5,$116.59
+Blueprint Medicines (BPMC),BPMC,2020-04-13,L,2,$63.91
+DineEquity (DIN),DIN,2020-04-13,L,5,$32.90
+Enterprise Products Partn (EPD),EPD,2020-04-13,L,4,$16.73
+Iron Mountain (IRM),IRM,2020-04-13,L,2,$26.24
+Levi Strauss (LEVI),LEVI,2020-04-13,I,1,$13.83
+MGM Resorts (MGM),MGM,2020-04-13,L,5,$13.91
+Penn National Gaming (PENN),PENN,2020-04-13,L,1,$14.08
+Raytheon Technologies (RTX),RTX,2020-04-13,L,1,$61.83
+Starbucks (SBUX),SBUX,2020-04-13,L,1,$71.76
+Targa Resources (TRGP),TRGP,2020-04-13,L,5,$8.55
+Alcoa (AA),AA,2020-04-14,L,5,$7.72
+Carnival (CCL),CCL,2020-04-14,L,5,$12.51
+GlaxoSmithKline (GSK),GSK,2020-04-14,I,1,$40.38
+L3Harris Technologies (LHX),LHX,2020-04-14,D,2,$197.00
+Lockheed Martin (LMT),LMT,2020-04-14,D,2,$380.03
+Livongo Health (LVGO),LVGO,2020-04-14,L,1,$37.45
+Northrop Grumman (NOC),NOC,2020-04-14,D,4,$348.79
+Oneok (OKE),OKE,2020-04-14,L,4,$30.47
+Pinterest (PINS),PINS,2020-04-14,L,2,$17.24
+Raytheon Technologies (RTX),RTX,2020-04-14,D,1,$65.07
+SunPower (SPWR),SPWR,2020-04-14,L,5,$6.67
+Tesla (TSLA),TSLA,2020-04-14,L,1,$709.89
+Xerox (XRX),XRX,2020-04-14,L,5,$19.00
+Advanced Micro Devices (AMD),AMD,2020-04-15,D,1,$54.99
+Amarin (AMRN),AMRN,2020-04-15,L,4,$6.32
+American Tower (AMT),AMT,2020-04-15,D,1,$247.49
+Activision Blizzard (ATVI),ATVI,2020-04-15,D,1,$65.71
+Alibaba (BABA),BABA,2020-04-15,D,1,$208.17
+Continental Resources (CLR),CLR,2020-04-15,L,5,$10.49
+Costco (COST),COST,2020-04-15,D,1,$310.27
+CrowdStrike (CRWD),CRWD,2020-04-15,D,1,$61.82
+Carvana (CVNA),CVNA,2020-04-15,I,1,$71.34
+Dollar General (DG),DG,2020-04-15,D,1,$176.11
+Domino's Pizza (DPZ),DPZ,2020-04-15,D,1,$354.62
+Johnson & Johnson (JNJ),JNJ,2020-04-15,D,1,$147.66
+McCormick (MKC),MKC,2020-04-15,D,1,$152.56
+Norwegian Cruise Line (NCLH),NCLH,2020-04-15,L,5,$12.08
+Netflix (NFLX),NFLX,2020-04-15,D,1,$426.75
+NVIDIA (NVDA),NVDA,2020-04-15,D,1,$280.84
+Okta (OKTA),OKTA,2020-04-15,D,1,$142.47
+Parsley Energy (PE),PE,2020-04-15,I,2,$6.72
+Pepsico (PEP),PEP,2020-04-15,D,1,$135.03
+Procter & Gamble (PG),PG,2020-04-15,D,1,$121.22
+ProLogis (PLD),PLD,2020-04-15,D,1,$86.54
+Roku (ROKU),ROKU,2020-04-15,D,1,$113.00
+STORE Capital (STOR),STOR,2020-04-15,L,5,$17.02
+Constellation Brands (STZ),STZ,2020-04-15,D,1,$162.36
+Tesla (TSLA),TSLA,2020-04-15,D,1,$729.83
+Taiwan Semiconductor (TSM),TSM,2020-04-15,L,2,$49.66
+Workday (WDAY),WDAY,2020-04-15,L,2,$146.07
+Yext (YEXT),YEXT,2020-04-15,L,1,$11.84
+ZScaler (ZS),ZS,2020-04-15,D,1,$69.96
+Agilent Technologies (A),A,2020-04-16,I,1,$78.75
+Chubb (CB),CB,2020-04-16,I,1,$111.95
+Delta Air Lines (DAL),DAL,2020-04-16,L,4,$22.78
+Dycom Industries (DY),DY,2020-04-16,L,1,$25.88
+Emerson Electric (EMR),EMR,2020-04-16,L,1,$47.37
+Diamondback Energy (FANG),FANG,2020-04-16,L,5,$28.03
+Morgan Stanley (MS),MS,2020-04-16,D,2,$38.36
+Nucor (NUE),NUE,2020-04-16,L,4,$35.51
+Tesla (TSLA),TSLA,2020-04-16,D,1,$745.21
+Wells Fargo (WFC),WFC,2020-04-16,D,5,$26.89
+Anheuser-Busch InBev (BUD),BUD,2020-04-20,L,5,$44.59
+Clorox (CLX),CLX,2020-04-20,L,1,$192.43
+Chipotle Mexican Grill (CMG),CMG,2020-04-20,L,1,$808.73
+Diamond Eagle Acquisition (DEAC),DEAC,2020-04-20,L,5,$17.57
+IBM (IBM),IBM,2020-04-20,I,1,$120.41
+Revolve Group (RVLV),RVLV,2020-04-20,L,4,$11.94
+Shopify (SHOP),SHOP,2020-04-20,D,2,$629.90
+Constellation Brands (STZ),STZ,2020-04-20,L,1,$156.62
+Winnebago Industries (WGO),WGO,2020-04-20,L,1,$35.01
+American Airlines (AAL),AAL,2020-04-21,D,4,$11.00
+Abbott Laboratories (ABT),ABT,2020-04-21,L,1,$94.05
+Broadcom (AVGO),AVGO,2020-04-21,L,1,$247.65
+Boeing (BA),BA,2020-04-21,D,2,$136.33
+Bed Bath & Beyond (BBBY),BBBY,2020-04-21,L,4,$4.53
+Carnival (CCL),CCL,2020-04-21,D,5,$11.84
+DataDog (DDOG),DDOG,2020-04-21,L,1,$40.00
+Dover (DOV),DOV,2020-04-21,L,2,$84.51
+Dow (DOW),DOW,2020-04-21,L,4,$30.88
+Ford Motor (F),F,2020-04-21,D,4,$4.77
+General Electric (GE),GE,2020-04-21,D,2,$6.48
+Inovio Pharmaceuticals (INO),INO,2020-04-21,D,1,$9.90
+Inseego (INSG),INSG,2020-04-21,I,1,$11.31
+Laboratory Corp. of Ameri (LH),LH,2020-04-21,L,2,$148.18
+Microsoft (MSFT),MSFT,2020-04-21,D,1,$167.82
+New Mountain Finance (NMFC),NMFC,2020-04-21,L,5,$6.94
+Dave and Busters (PLAY),PLAY,2020-04-21,L,5,$11.57
+Tesla (TSLA),TSLA,2020-04-21,D,1,$686.72
+Take-Two Interactive (TTWO),TTWO,2020-04-21,L,1,$125.73
+World Wrestling Entertain (WWE),WWE,2020-04-21,L,5,$39.53
+Brown & Brown (BRO),BRO,2020-04-22,L,4,$35.70
+Chubb (CB),CB,2020-04-22,L,1,$106.22
+Chipotle Mexican Grill (CMG),CMG,2020-04-22,D,1,$882.26
+Costco (COST),COST,2020-04-22,D,1,$309.42
+Digital Realty Trust (DLR),DLR,2020-04-22,I,1,$149.18
+Home Depot (HD),HD,2020-04-22,D,1,$204.17
+Lowe's (LOW),LOW,2020-04-22,D,1,$94.95
+MarketAxess (MKTX),MKTX,2020-04-22,I,1,$424.24
+Netflix (NFLX),NFLX,2020-04-22,D,1,$421.42
+Roku (ROKU),ROKU,2020-04-22,L,1,$122.19
+Snap (SNAP),SNAP,2020-04-22,D,1,$17.01
+Target (TGT),TGT,2020-04-22,D,1,$106.84
+T. Rowe Price (TROW),TROW,2020-04-22,L,1,$100.63
+Texas Instruments (TXN),TXN,2020-04-22,D,1,$111.98
+United Continental (UAL),UAL,2020-04-22,L,2,$25.88
+Walmart (WMT),WMT,2020-04-22,D,1,$131.59
+Builders FirstSource (BLDR),BLDR,2020-04-23,L,5,$13.96
+Crown Castle (CCI),CCI,2020-04-23,L,1,$160.55
+Clorox (CLX),CLX,2020-04-23,D,1,$189.92
+Dollar General (DG),DG,2020-04-23,D,1,$176.50
+Dow (DOW),DOW,2020-04-23,L,5,$32.56
+Domino's Pizza (DPZ),DPZ,2020-04-23,I,1,$369.64
+Home Depot (HD),HD,2020-04-23,D,1,$202.32
+IBM (IBM),IBM,2020-04-23,D,2,$121.35
+Inovio Pharmaceuticals (INO),INO,2020-04-23,I,1,$12.03
+Kimberly-Clark (KMB),KMB,2020-04-23,D,1,$140.36
+Lululemon Athletica (LULU),LULU,2020-04-23,L,1,$211.64
+Marvell Technology (MRVL),MRVL,2020-04-23,L,1,$26.42
+Netflix (NFLX),NFLX,2020-04-23,D,1,$426.70
+Raytheon Technologies (RTX),RTX,2020-04-23,L,1,$63.29
+Target (TGT),TGT,2020-04-23,D,1,$103.86
+UnitedHealth Group (UNH),UNH,2020-04-23,F,1,$285.33
+Union Pacific (UNP),UNP,2020-04-23,D,2,$152.29
+Walmart (WMT),WMT,2020-04-23,D,1,$128.53
+Zoom Video Communications (ZM),ZM,2020-04-23,D,1,$169.09
+Apple (AAPL),AAPL,2020-04-24,D,1,$282.97
+Advanced Micro Devices (AMD),AMD,2020-04-24,D,1,$56.18
+Carrier Global (CARR),CARR,2020-04-24,L,5,$16.25
+Caterpillar (CAT),CAT,2020-04-24,D,4,$114.04
+Colgate-Palmolive (CL),CL,2020-04-24,D,1,$71.40
+Clorox (CLX),CLX,2020-04-24,D,1,$190.65
+Estee Lauder (EL),EL,2020-04-24,D,2,$166.31
+Meta (FB),FB,2020-04-24,D,4,$190.07
+General Electric (GE),GE,2020-04-24,D,4,$6.26
+Gilead Sciences (GILD),GILD,2020-04-24,D,4,$79.64
+Home Depot (HD),HD,2020-04-24,L,1,$212.18
+Honeywell (HON),HON,2020-04-24,D,4,$135.52
+IHS Markit (INFO),INFO,2020-04-24,L,1,$65.60
+Kraft Heinz (KHC),KHC,2020-04-24,D,2,$29.23
+3M (MMM),MMM,2020-04-24,D,4,$147.00
+Merck (MRK),MRK,2020-04-24,D,2,$81.43
+Microsoft (MSFT),MSFT,2020-04-24,D,1,$174.55
+Nordic American Tanker (NAT),NAT,2020-04-24,I,1,$5.85
+Cloudflare (NET),NET,2020-04-24,L,4,$23.28
+NXP Semiconductors (NXPI),NXPI,2020-04-24,D,2,$94.43
+Penn National Gaming (PENN),PENN,2020-04-24,L,1,$14.10
+Pepsico (PEP),PEP,2020-04-24,D,1,$134.36
+Pfizer (PFE),PFE,2020-04-24,D,2,$37.38
+Republic Services (RSG),RSG,2020-04-24,L,4,$76.10
+Starbucks (SBUX),SBUX,2020-04-24,D,2,$75.58
+Sherwin-Williams (SHW),SHW,2020-04-24,L,1,$506.06
+Six Flags (SIX),SIX,2020-04-24,L,5,$16.00
+Stanley Black & Decker (SWK),SWK,2020-04-24,L,4,$107.74
+Target (TGT),TGT,2020-04-24,D,2,$107.82
+Waste Management (WM),WM,2020-04-24,L,1,$98.48
+Advanced Micro Devices (NVDA),NVDA,2020-04-26,I,1,$56.49
+Apple (AAPL),AAPL,2020-04-27,D,1,$283.17
+Abbott Laboratories (ABT),ABT,2020-04-27,D,1,$94.95
+Archer-Daniels-Midland (ADM),ADM,2020-04-27,L,5,$36.54
+American Tower (AMT),AMT,2020-04-27,D,1,$250.22
+Activision Blizzard (ATVI),ATVI,2020-04-27,D,1,$67.06
+BioCryst Pharmaceuticals (BCRX),BCRX,2020-04-27,L,4,$3.55
+Beyond Meat (BYND),BYND,2020-04-27,D,1,$99.63
+ConAgra Foods (CAG),CAG,2020-04-27,D,1,$34.60
+Chewy (CHWY),CHWY,2020-04-27,D,1,$46.18
+Clorox (CLX),CLX,2020-04-27,D,1,$189.05
+Chipotle Mexican Grill (CMG),CMG,2020-04-27,D,1,$883.07
+Centene (CNC),CNC,2020-04-27,D,1,$70.82
+Costco (COST),COST,2020-04-27,D,1,$308.78
+Citrix Systems (CTXS),CTXS,2020-04-27,D,1,$147.48
+Dominion Energy (D),D,2020-04-27,D,1,$78.52
+Domino's Pizza (DPZ),DPZ,2020-04-27,D,1,$362.03
+Equinix (EQIX),EQIX,2020-04-27,D,1,$702.00
+Barrick Gold (GOLD),GOLD,2020-04-27,D,1,$26.93
+Gap (GPS),GPS,2020-04-27,D,5,$7.79
+Hanesbrands (HBI),HBI,2020-04-27,D,4,$9.18
+Home Depot (HD),HD,2020-04-27,D,1,$217.76
+InMode (INMD),INMD,2020-04-27,L,4,$24.06
+Inovio Pharmaceuticals (INO),INO,2020-04-27,D,1,$13.70
+Johnson & Johnson (JNJ),JNJ,2020-04-27,D,1,$154.29
+Nordstrom (JWN),JWN,2020-04-27,D,5,$20.27
+Kimberly-Clark (KMB),KMB,2020-04-27,D,1,$140.36
+Kohl's (KSS),KSS,2020-04-27,D,5,$18.60
+L Brands (LB),LB,2020-04-27,D,5,$11.50
+Logitech International (LOGI),LOGI,2020-04-27,D,1,$48.10
+Live Nation (LYV),LYV,2020-04-27,D,5,$42.01
+Medtronic (MDT),MDT,2020-04-27,L,1,$100.76
+MGM Resorts (MGM),MGM,2020-04-27,D,5,$15.23
+McCormick (MKC),MKC,2020-04-27,D,1,$156.87
+MarketAxess (MKTX),MKTX,2020-04-27,D,1,$441.59
+Nordic American Tanker (NAT),NAT,2020-04-27,L,1,$7.20
+Netflix (NFLX),NFLX,2020-04-27,D,1,$421.38
+NVIDIA (NVDA),NVDA,2020-04-27,D,1,$297.08
+Pepsico (PEP),PEP,2020-04-27,D,1,$134.46
+PVH Corp (PVH),PVH,2020-04-27,D,4,$47.64
+Roku (ROKU),ROKU,2020-04-27,D,1,$128.63
+Boston Beer (SAM),SAM,2020-04-27,D,1,$457.10
+Shopify (SHOP),SHOP,2020-04-27,D,1,$628.58
+Simon Property Group (SPG),SPG,2020-04-27,D,1,$57.19
+Block (SQ),SQ,2020-04-27,D,1,$63.55
+Scorpio Tankers (STNG),STNG,2020-04-27,L,1,$26.64
+Tapestry (TPR),TPR,2020-04-27,D,5,$15.05
+Take-Two Interactive (TTWO),TTWO,2020-04-27,D,1,$125.93
+Verizon (VZ),VZ,2020-04-27,D,1,$57.81
+Slack (WORK),WORK,2020-04-27,L,1,$27.31
+Wynn Resorts (WYNN),WYNN,2020-04-27,D,2,$82.77
+Zoom Video Communications (ZM),ZM,2020-04-27,D,1,$164.60
+ZScaler (ZS),ZS,2020-04-27,D,1,$70.47
+American Airlines (AAL),AAL,2020-04-28,L,5,$11.26
+Chemed (CHE),CHE,2020-04-28,L,5,$437.16
+Centene (CNC),CNC,2020-04-28,I,1,$67.17
+D R Horton (DHI),DHI,2020-04-28,D,2,$46.93
+Dynatrace (DT),DT,2020-04-28,L,1,$28.49
+General Motors (GM),GM,2020-04-28,L,4,$22.18
+Health Catalyst (HCAT),HCAT,2020-04-28,L,4,$25.40
+Helmerich & Payne (HP),HP,2020-04-28,L,5,$18.98
+Nucor (NUE),NUE,2020-04-28,I,1,$40.49
+Prudential (PRU),PRU,2020-04-28,L,4,$60.65
+Spirit AeroSystems (SPR),SPR,2020-04-28,L,4,$20.50
+Veeva Systems (VEEV),VEEV,2020-04-28,L,1,$182.74
+Wendy's (WEN),WEN,2020-04-28,F,1,$19.79
+Automatic Data Processing (ADP),ADP,2020-04-29,I,1,$145.84
+Advanced Micro Devices (AMD),AMD,2020-04-29,D,1,$53.66
+Boeing (BA),BA,2020-04-29,D,2,$139.00
+BP (BP),BP,2020-04-29,L,5,$25.43
+Cerus (CERS),CERS,2020-04-29,L,2,$6.14
+Campbell Soup (CPB),CPB,2020-04-29,I,1,$50.18
+Chevron (CVX),CVX,2020-04-29,L,2,$94.62
+General Electric (GE),GE,2020-04-29,D,4,$6.58
+Gilead Sciences (GILD),GILD,2020-04-29,D,1,$83.14
+RH (RH),RH,2020-04-29,L,1,$154.82
+Starbucks (SBUX),SBUX,2020-04-29,D,2,$76.86
+TJX Companies (TJX),TJX,2020-04-29,L,1,$51.54
+WestRock (WRK),WRK,2020-04-29,L,2,$34.15
+Yum! Brands (YUM),YUM,2020-04-29,I,1,$87.46
+Apple (AAPL),AAPL,2020-04-30,D,1,$293.80
+Align Technology (ALGN),ALGN,2020-04-30,I,1,$214.85
+CBRL Group (CBRL),CBRL,2020-04-30,L,1,$97.40
+Costco (COST),COST,2020-04-30,L,1,$303.00
+Exelixis (EXEL),EXEL,2020-04-30,L,1,$24.70
+Franco-Nevada (FNV),FNV,2020-04-30,L,2,$132.21
+Gilead Sciences (GILD),GILD,2020-04-30,D,2,$84.00
+Home Depot (HD),HD,2020-04-30,L,1,$219.83
+Juniper Networks (JNPR),JNPR,2020-04-30,I,1,$21.60
+Children's Place (PLCE),PLCE,2020-04-30,L,5,$29.56
+Royal Dutch Shell (RDS.A),RDS.A,2020-04-30,L,5,$33.13
+Reynolds Consumer Product (REYN),REYN,2020-04-30,F,1,$32.43
+Raytheon Technologies (RTX),RTX,2020-04-30,L,1,$64.81
+Target (TGT),TGT,2020-04-30,L,1,$109.74
+United Parcel Service (UPS),UPS,2020-04-30,L,1,$94.66
+Walmart (WMT),WMT,2020-04-30,L,1,$121.55
+Apple (AAPL),AAPL,2020-05-01,D,1,$289.07
+Advanced Micro Devices (AMD),AMD,2020-05-01,D,1,$49.88
+The Blackstone Group (BX),BX,2020-05-01,L,4,$50.42
+Chimera Investment (CIM),CIM,2020-05-01,L,5,$7.69
+Clorox (CLX),CLX,2020-05-01,I,1,$192.71
+Copart (CPRT),CPRT,2020-05-01,L,2,$78.55
+CVS Health (CVS),CVS,2020-05-01,D,1,$59.70
+Walt Disney (DIS),DIS,2020-05-01,D,4,$105.50
+Estee Lauder (EL),EL,2020-05-01,I,1,$172.54
+Eldorado Resorts (ERI),ERI,2020-05-01,L,5,$18.84
+Fortune Brands Home & Sec (FBHS),FBHS,2020-05-01,L,1,$51.50
+Floor & Decor (FND),FND,2020-05-01,L,5,$41.93
+General Motors (GM),GM,2020-05-01,D,5,$20.90
+Moderna (MRNA),MRNA,2020-05-01,D,1,$47.93
+Occidental Petroleum (OXY),OXY,2020-05-01,D,5,$15.24
+Regeneron Pharmaceuticals (REGN),REGN,2020-05-01,D,1,$525.50
+Seattle Genetics (SGEN),SGEN,2020-05-01,I,1,$145.64
+Shake Shack (SHAK),SHAK,2020-05-01,L,4,$51.70
+Shopify (SHOP),SHOP,2020-05-01,D,1,$613.64
+Virgin Galactic (SPCE),SPCE,2020-05-01,L,2,$17.92
+Skyworks Solutions (SWKS),SWKS,2020-05-01,D,1,$98.83
+Tyson Foods (TSN),TSN,2020-05-01,D,4,$60.01
+Twilio (TWLO),TWLO,2020-05-01,L,4,$107.98
+Ventas (VTR),VTR,2020-05-01,D,4,$30.33
+Waste Management (WM),WM,2020-05-01,D,4,$98.21
+Advanced Micro Devices (AMD),AMD,2020-05-04,L,1,$52.56
+Alexandria Real Estate Eq (ARE),ARE,2020-05-04,I,1,$149.58
+American Express (AXP),AXP,2020-05-04,L,5,$86.38
+Alibaba (BABA),BABA,2020-05-04,L,1,$191.15
+Baidu.com (BIDU),BIDU,2020-05-04,L,4,$94.76
+Emergent BioSolutions (EBS),EBS,2020-05-04,I,1,$79.50
+Intel (INTC),INTC,2020-05-04,L,4,$57.99
+Mastercard (MA),MA,2020-05-04,L,1,$269.26
+Meredith Corp (MDP),MDP,2020-05-04,L,5,$12.87
+Nokia (NOK),NOK,2020-05-04,L,5,$3.55
+the Rubicon Project (RUBI),RUBI,2020-05-04,L,4,$6.40
+SunPower (SPWR),SPWR,2020-05-04,L,4,$7.12
+Skyworks Solutions (SWKS),SWKS,2020-05-04,L,1,$99.62
+Tesla (TSLA),TSLA,2020-05-04,L,1,$761.19
+Tyson Foods (TSN),TSN,2020-05-04,D,5,$55.32
+The Trade Desk (TTD),TTD,2020-05-04,L,1,$290.52
+Visa (V),V,2020-05-04,L,2,$176.15
+Weyerhaeuser (WY),WY,2020-05-04,D,5,$17.78
+Zoom Video Communications (ZM),ZM,2020-05-04,D,1,$143.44
+Apple (AAPL),AAPL,2020-05-05,D,1,$297.56
+AbbVie (ABBV),ABBV,2020-05-05,D,2,$85.37
+Activision Blizzard (ATVI),ATVI,2020-05-05,D,1,$68.53
+Chegg (CHGG),CHGG,2020-05-05,I,1,$57.92
+CoStar Group (CSGP),CSGP,2020-05-05,L,5,$641.17
+Carvana (CVNA),CVNA,2020-05-05,L,1,$86.00
+Chevron (CVX),CVX,2020-05-05,D,2,$92.89
+Walt Disney (DIS),DIS,2020-05-05,D,4,$101.06
+Dexcom (DXCM),DXCM,2020-05-05,L,1,$364.28
+Everbridge (EVBG),EVBG,2020-05-05,I,1,$112.86
+JPMorgan Chase (JPM),JPM,2020-05-05,L,1,$92.00
+LPL Financial (LPLA),LPLA,2020-05-05,L,5,$62.17
+Mastercard (MA),MA,2020-05-05,L,1,$273.98
+Masimo (MASI),MASI,2020-05-05,I,1,$234.00
+Regeneron Pharmaceuticals (REGN),REGN,2020-05-05,D,1,$574.37
+Scorpio Tankers (STNG),STNG,2020-05-05,L,5,$21.25
+Skyworks Solutions (SWKS),SWKS,2020-05-05,D,1,$104.71
+Tandem Diabetes Care (TNDM),TNDM,2020-05-05,L,2,$84.79
+Apache (APA),APA,2020-05-06,L,5,$11.61
+Beyond Meat (BYND),BYND,2020-05-06,I,1,$126.21
+CrowdStrike (CRWD),CRWD,2020-05-06,L,1,$72.44
+CVS Health (CVS),CVS,2020-05-06,I,1,$60.41
+Camping World (CWH),CWH,2020-05-06,L,2,$10.39
+Meta (FB),FB,2020-05-06,F,1,$208.47
+General Dynamics (GD),GD,2020-05-06,L,2,$121.73
+Hasbro (HAS),HAS,2020-05-06,D,2,$65.89
+Lam Research (LRCX),LRCX,2020-05-06,L,4,$244.56
+Mattel (MAT),MAT,2020-05-06,I,4,$8.49
+New York Times (NYT),NYT,2020-05-06,D,2,$34.81
+Okta (OKTA),OKTA,2020-05-06,L,1,$164.43
+Pinterest (PINS),PINS,2020-05-06,D,5,$17.72
+Snap (SNAP),SNAP,2020-05-06,D,5,$17.33
+Twitter (TWTR),TWTR,2020-05-06,D,5,$27.68
+United Natural Foods (UNFI),UNFI,2020-05-06,L,5,$10.78
+Winnebago Industries (WGO),WGO,2020-05-06,L,2,$44.69
+Waste Management (WM),WM,2020-05-06,I,2,$96.80
+Beyond Meat (BYND),BYND,2020-05-07,F,1,$122.66
+CytoSorbents (CTSO),CTSO,2020-05-07,L,1,$10.36
+EPR Properties (EPR),EPR,2020-05-07,L,5,$25.62
+Etsy (ETSY),ETSY,2020-05-07,I,1,$76.59
+Moderna (MRNA),MRNA,2020-05-07,D,1,$53.19
+Omnicom Group (OMC),OMC,2020-05-07,L,1,$53.63
+Block (SQ),SQ,2020-05-07,I,1,$74.62
+Wells Fargo (WFC),WFC,2020-05-07,L,5,$25.23
+American Electric Power (AEP),AEP,2020-05-11,I,1,$79.17
+Beyond Meat (BYND),BYND,2020-05-11,D,1,$130.82
+Cerus (CERS),CERS,2020-05-11,L,1,$5.46
+Chipotle Mexican Grill (CMG),CMG,2020-05-11,D,1,$933.93
+Costco (COST),COST,2020-05-11,D,1,$310.33
+Coupa Software (COUP),COUP,2020-05-11,D,1,$209.31
+Cisco Systems (CSCO),CSCO,2020-05-11,L,2,$43.32
+Domino's Pizza (DPZ),DPZ,2020-05-11,D,1,$377.49
+Dexcom (DXCM),DXCM,2020-05-11,D,1,$421.36
+Everbridge (EVBG),EVBG,2020-05-11,D,1,$155.10
+HMS Holdings (HMSY),HMSY,2020-05-11,L,1,$28.49
+LivePerson (LPSN),LPSN,2020-05-11,I,1,$34.67
+Livongo Health (LVGO),LVGO,2020-05-11,D,1,$53.59
+Masimo (MASI),MASI,2020-05-11,D,1,$250.39
+Moderna (MRNA),MRNA,2020-05-11,D,1,$66.90
+Mirati Therapeutics (MRTX),MRTX,2020-05-11,L,1,$105.59
+Cloudflare (NET),NET,2020-05-11,D,1,$28.12
+Peloton (PTON),PTON,2020-05-11,D,1,$42.80
+Block (SQ),SQ,2020-05-11,D,1,$74.90
+Target (TGT),TGT,2020-05-11,D,1,$120.18
+Uber (UBER),UBER,2020-05-11,L,2,$31.64
+Upwork (UPWK),UPWK,2020-05-11,I,1,$10.51
+Vertex Pharmaceuticals (VRTX),VRTX,2020-05-11,L,1,$285.28
+Walmart (WMT),WMT,2020-05-11,D,1,$123.67
+WestRock (WRK),WRK,2020-05-11,L,5,$25.97
+Braskem (BAK),BAK,2020-05-12,L,5,$7.11
+Chipotle Mexican Grill (CMG),CMG,2020-05-12,D,1,$929.85
+Costco (COST),COST,2020-05-12,D,1,$304.84
+Delphi Automotive (DLPH),DLPH,2020-05-12,L,5,$11.44
+Dow (DOW),DOW,2020-05-12,L,4,$33.79
+Domino's Pizza (DPZ),DPZ,2020-05-12,D,1,$377.94
+Fiverr International (FVRR),FVRR,2020-05-12,L,5,$54.56
+Home Depot (HD),HD,2020-05-12,D,1,$232.90
+Inseego (INSG),INSG,2020-05-12,L,2,$10.62
+Logitech International (LOGI),LOGI,2020-05-12,I,1,$51.86
+Lowe's (LOW),LOW,2020-05-12,D,1,$111.24
+Novavax (NVAX),NVAX,2020-05-12,I,1,$39.82
+Sprout Social (SPT),SPT,2020-05-12,L,2,$22.61
+Target (TGT),TGT,2020-05-12,D,1,$119.39
+Uber (UBER),UBER,2020-05-12,D,2,$32.40
+VectoIQ Acquisition (VTIQ),VTIQ,2020-05-12,L,5,$27.10
+Ventas (VTR),VTR,2020-05-12,L,5,$27.76
+Walmart (WMT),WMT,2020-05-12,D,1,$123.78
+Yext (YEXT),YEXT,2020-05-12,L,1,$14.07
+Advanced Micro Devices (AMD),AMD,2020-05-13,D,1,$52.18
+Cisco Systems (CSCO),CSCO,2020-05-13,I,1,$41.95
+Chevron (CVX),CVX,2020-05-13,D,2,$88.70
+Eaton (ETN),ETN,2020-05-13,L,5,$73.87
+Hewlett Packard Enterpris (HPE),HPE,2020-05-13,L,5,$9.08
+HP (HPQ),HPQ,2020-05-13,L,2,$14.06
+Johnson & Johnson (JNJ),JNJ,2020-05-13,D,2,$147.13
+KeyCorp (KEY),KEY,2020-05-13,L,4,$9.66
+Novavax (NVAX),NVAX,2020-05-13,D,4,$40.67
+NVIDIA (NVDA),NVDA,2020-05-13,D,1,$311.20
+Public Service Enterprise (PEG),PEG,2020-05-13,I,1,$44.96
+Pfizer (PFE),PFE,2020-05-13,D,2,$37.05
+PayPal (PYPL),PYPL,2020-05-13,D,2,$143.73
+Qualcomm (QCOM),QCOM,2020-05-13,D,1,$78.00
+Revolve Group (RVLV),RVLV,2020-05-13,L,1,$14.64
+Shopify (SHOP),SHOP,2020-05-13,L,1,$754.38
+Wells Fargo (WFC),WFC,2020-05-13,D,4,$22.53
+AbbVie (ABBV),ABBV,2020-05-14,L,1,$89.94
+Alteryx (AYX),AYX,2020-05-14,I,1,$125.50
+Alibaba (BABA),BABA,2020-05-14,L,1,$201.30
+Bristol-Myers Squibb (BMY),BMY,2020-05-14,L,1,$63.77
+Cardlytics (CDLX),CDLX,2020-05-14,L,1,$51.50
+Chipotle Mexican Grill (CMG),CMG,2020-05-14,D,1,$932.18
+Costco (COST),COST,2020-05-14,D,1,$299.74
+Cisco Systems (CSCO),CSCO,2020-05-14,L,1,$43.85
+Domino's Pizza (DPZ),DPZ,2020-05-14,D,1,$376.01
+Callaway Golf (ELY),ELY,2020-05-14,L,1,$11.50
+Halozyme Therapeutics (HALO),HALO,2020-05-14,L,5,$23.78
+McDonald's (MCD),MCD,2020-05-14,D,1,$175.41
+Mercadolibre (MELI),MELI,2020-05-14,L,1,$777.27
+Martin Marietta Materials (MLM),MLM,2020-05-14,L,4,$169.01
+Planet Fitness (PLNT),PLNT,2020-05-14,I,1,$51.01
+S&P Global (SPGI),SPGI,2020-05-14,I,1,$300.12
+Spotify (SPOT),SPOT,2020-05-14,L,1,$152.07
+Target (TGT),TGT,2020-05-14,D,1,$119.94
+Ubiquiti Networks (UI),UI,2020-05-14,L,4,$173.57
+Wingstop (WING),WING,2020-05-14,D,1,$121.91
+Walmart (WMT),WMT,2020-05-14,D,1,$123.42
+Avaya (AVYA),AVYA,2020-05-15,L,1,$13.20
+Alibaba (BABA),BABA,2020-05-15,D,4,$203.68
+Best Buy (BBY),BBY,2020-05-15,D,2,$78.61
+Beyond Meat (BYND),BYND,2020-05-15,D,1,$134.16
+Caterpillar (CAT),CAT,2020-05-15,L,5,$107.92
+CyberArk Software (CYBR),CYBR,2020-05-15,L,1,$95.54
+Deere & Company (DE),DE,2020-05-15,D,4,$126.01
+DraftKings (DKNG),DKNG,2020-05-15,I,1,$29.23
+Euronav (EURN),EURN,2020-05-15,L,5,$9.81
+FireEye (FEYE),FEYE,2020-05-15,L,4,$11.33
+Foot Locker (FL),FL,2020-05-15,D,5,$25.42
+Fortinet (FTNT),FTNT,2020-05-15,L,1,$143.43
+Home Depot (HD),HD,2020-05-15,D,1,$239.33
+Inovio Pharmaceuticals (INO),INO,2020-05-15,L,1,$13.43
+Jacobs Engineering (J),J,2020-05-15,L,5,$72.11
+Kohl's (KSS),KSS,2020-05-15,D,5,$17.54
+Lowe's (LOW),LOW,2020-05-15,D,1,$113.78
+Medtronic (MDT),MDT,2020-05-15,D,2,$93.89
+Shopify (SHOP),SHOP,2020-05-15,D,1,$767.00
+Simon Property Group (SPG),SPG,2020-05-15,L,4,$51.32
+Splunk (SPLK),SPLK,2020-05-15,D,1,$156.19
+Target (TGT),TGT,2020-05-15,D,1,$120.94
+TJX Companies (TJX),TJX,2020-05-15,D,2,$47.17
+Tesla (TSLA),TSLA,2020-05-15,D,1,$799.17
+Take-Two Interactive (TTWO),TTWO,2020-05-15,D,1,$132.54
+Wix.com (WIX),WIX,2020-05-15,I,1,$201.78
+Walmart (WMT),WMT,2020-05-15,D,1,$125.94
+Avaya (AVYA),AVYA,2020-05-18,I,1,$13.87
+Chevron (CVX),CVX,2020-05-18,L,1,$92.55
+Denny's (DENN),DENN,2020-05-18,I,1,$10.11
+Energy Transfer (ET),ET,2020-05-18,L,5,$7.81
+Mastercard (MA),MA,2020-05-18,L,4,$289.90
+Moderna (MRNA),MRNA,2020-05-18,D,2,$80.00
+Penske Automotive Group (PAG),PAG,2020-05-18,L,1,$33.65
+Qorvo (QRVO),QRVO,2020-05-18,L,2,$99.04
+RingCentral (RNG),RNG,2020-05-18,L,1,$263.06
+Seattle Genetics (SGEN),SGEN,2020-05-18,L,1,$158.95
+Virtu Financial (VIRT),VIRT,2020-05-18,L,1,$22.61
+Exxon Mobil (XOM),XOM,2020-05-18,L,4,$45.34
+Apple (AAPL),AAPL,2020-05-19,D,1,$313.14
+Aptiv (APTV),APTV,2020-05-19,L,5,$70.00
+Athersys (ATHX),ATHX,2020-05-19,L,1,$2.98
+Credit Acceptance (CACC),CACC,2020-05-19,L,5,$343.36
+Dropbox (DBX),DBX,2020-05-19,L,1,$21.75
+Walt Disney (DIS),DIS,2020-05-19,L,2,$114.37
+Domo (DOMO),DOMO,2020-05-19,L,1,$24.17
+Elastic (ESTC),ESTC,2020-05-19,L,4,$73.91
+Meta (FB),FB,2020-05-19,D,1,$216.88
+Five9 (FIVN),FIVN,2020-05-19,I,1,$103.80
+MGM Resorts (MGM),MGM,2020-05-19,L,4,$15.16
+Netflix (NFLX),NFLX,2020-05-19,D,1,$451.04
+Ping Identity (PING),PING,2020-05-19,I,1,$24.45
+Dave and Busters (PLAY),PLAY,2020-05-19,L,5,$11.22
+Ventas (VTR),VTR,2020-05-19,L,5,$32.43
+Walmart (WMT),WMT,2020-05-19,D,2,$124.95
+Wynn Resorts (WYNN),WYNN,2020-05-19,L,1,$82.03
+Apple (AAPL),AAPL,2020-05-20,D,1,$319.23
+Bed Bath & Beyond (BBBY),BBBY,2020-05-20,L,4,$5.95
+B&G Foods (BGS),BGS,2020-05-20,L,4,$22.34
+Box (BOX),BOX,2020-05-20,L,5,$17.84
+Citrix Systems (CTXS),CTXS,2020-05-20,L,1,$137.44
+Dropbox (DBX),DBX,2020-05-20,L,1,$22.23
+Digital Realty Trust (DLR),DLR,2020-05-20,L,1,$132.75
+Meta (FB),FB,2020-05-20,D,1,$229.97
+GW Pharmaceuticals (GWPH),GWPH,2020-05-20,L,1,$124.91
+Lowe's (LOW),LOW,2020-05-20,I,1,$116.99
+Mondelez International (MDLZ),MDLZ,2020-05-20,I,1,$49.75
+Netflix (NFLX),NFLX,2020-05-20,D,1,$447.67
+Pioneer Natural Resources (PXD),PXD,2020-05-20,L,4,$92.43
+TE Connectivity (TEL),TEL,2020-05-20,L,1,$78.35
+Verizon (VZ),VZ,2020-05-20,I,1,$54.26
+Arrowhead Pharmaceuticals (ARWR),ARWR,2020-05-21,L,2,$35.84
+Ford Motor (F),F,2020-05-21,L,5,$5.63
+Medifast (MED),MED,2020-05-21,L,1,$92.72
+Moderna (MRNA),MRNA,2020-05-21,D,2,$67.05
+Palo Alto Networks (PANW),PANW,2020-05-21,I,1,$229.50
+Sony (SNE),SNE,2020-05-21,L,1,$62.74
+Target (TGT),TGT,2020-05-21,I,1,$118.68
+Tesla (TSLA),TSLA,2020-05-21,L,1,$827.60
+Take-Two Interactive (TTWO),TTWO,2020-05-21,I,1,$138.19
+Textron (TXT),TXT,2020-05-21,L,4,$26.95
+Becton Dickinson (BDX),BDX,2020-05-26,D,4,$233.14
+Beyond Meat (BYND),BYND,2020-05-26,L,1,$132.87
+Canopy Growth (CGC),CGC,2020-05-26,L,2,$20.01
+Corteva Agriscienses (CTVA),CTVA,2020-05-26,I,1,$25.64
+Caesars Entertainment (CZR),CZR,2020-05-26,L,4,$11.39
+DataDog (DDOG),DDOG,2020-05-26,D,1,$71.00
+Intuit (INTU),INTU,2020-05-26,I,1,$282.20
+Kimberly-Clark (KMB),KMB,2020-05-26,D,4,$136.00
+NortonLifeLock (NLOK),NLOK,2020-05-26,L,2,$19.87
+Newell Brands (NWL),NWL,2020-05-26,L,5,$13.55
+Palo Alto Networks (PANW),PANW,2020-05-26,D,1,$231.17
+Penn National Gaming (PENN),PENN,2020-05-26,L,1,$29.29
+Pure Storage (PSTG),PSTG,2020-05-26,L,1,$16.85
+Roku (ROKU),ROKU,2020-05-26,D,4,$107.59
+Schrodinger (SDGR),SDGR,2020-05-26,L,1,$69.06
+Snap (SNAP),SNAP,2020-05-26,D,4,$17.41
+Splunk (SPLK),SPLK,2020-05-26,D,1,$181.15
+Target (TGT),TGT,2020-05-26,D,1,$115.12
+Wix.com (WIX),WIX,2020-05-26,D,1,$209.76
+Apple (AAPL),AAPL,2020-05-27,D,1,$318.11
+Air Lease Corporation (AL),AL,2020-05-27,I,1,$30.40
+Alibaba (BABA),BABA,2020-05-27,L,1,$201.18
+Citigroup (C),C,2020-05-27,L,2,$52.26
+Chegg (CHGG),CHGG,2020-05-27,L,1,$60.74
+Coty (COTY),COTY,2020-05-27,L,5,$4.51
+Carvana (CVNA),CVNA,2020-05-27,L,1,$96.14
+Camping World (CWH),CWH,2020-05-27,L,1,$21.60
+Meta (FB),FB,2020-05-27,D,1,$229.14
+Gladstone Commercial (GOOD),GOOD,2020-05-27,L,5,$18.20
+GSX Techedu (GSX),GSX,2020-05-27,L,5,$29.77
+HP (HPQ),HPQ,2020-05-27,I,1,$17.12
+Southwest Airlines (LUV),LUV,2020-05-27,F,1,$33.66
+Netflix (NFLX),NFLX,2020-05-27,D,1,$419.89
+Procter & Gamble (PG),PG,2020-05-27,L,1,$113.89
+Switch (SWCH),SWCH,2020-05-27,L,2,$18.85
+Thor Industries (THO),THO,2020-05-27,L,4,$88.00
+Take-Two Interactive (TTWO),TTWO,2020-05-27,F,1,$134.52
+Workday (WDAY),WDAY,2020-05-27,I,1,$170.38
+Winnebago Industries (WGO),WGO,2020-05-27,L,1,$58.55
+Waste Management (WM),WM,2020-05-27,L,1,$104.30
+Slack (WORK),WORK,2020-05-27,L,1,$32.11
+Zynga (ZNGA),ZNGA,2020-05-27,L,1,$7.99
+Advanced Micro Devices (AMD),AMD,2020-05-28,L,1,$51.74
+Amgen (AMGN),AMGN,2020-05-28,L,1,$224.13
+Aramark (ARMK),ARMK,2020-05-28,L,5,$26.80
+Bristol-Myers Squibb (BMY),BMY,2020-05-28,L,1,$59.81
+Burlington Stores (BURL),BURL,2020-05-28,D,2,$213.42
+Salesforce (CRM),CRM,2020-05-28,I,1,$181.10
+Dollar General (DG),DG,2020-05-28,D,2,$184.11
+General Electric (GE),GE,2020-05-28,L,2,$6.78
+Intel (INTC),INTC,2020-05-28,L,5,$61.70
+Merck (MRK),MRK,2020-05-28,L,1,$79.04
+Ingevity (NGVT),NGVT,2020-05-28,L,4,$53.54
+Oxford Industries (OXM),OXM,2020-05-28,L,5,$44.49
+PVH Corp (PVH),PVH,2020-05-28,L,1,$49.56
+PayPal (PYPL),PYPL,2020-05-28,I,1,$148.79
+SpartanNash (SPTN),SPTN,2020-05-28,L,1,$20.68
+Teva Pharmaceuticals (TEVA),TEVA,2020-05-28,L,5,$12.92
+Zebra Technologies (ZBRA),ZBRA,2020-05-28,I,1,$257.42
+Broadcom (AVGO),AVGO,2020-05-29,D,1,$291.27
+Anheuser-Busch InBev (BUD),BUD,2020-05-29,L,4,$46.88
+Caleres (CAL),CAL,2020-05-29,L,5,$7.17
+Cognex (CGNX),CGNX,2020-05-29,L,1,$56.74
+Campbell Soup (CPB),CPB,2020-05-29,D,2,$50.98
+CrowdStrike (CRWD),CRWD,2020-05-29,D,1,$87.81
+Chevron (CVX),CVX,2020-05-29,L,1,$91.70
+DraftKings (DKNG),DKNG,2020-05-29,L,1,$39.70
+DocuSign (DOCU),DOCU,2020-05-29,D,1,$139.74
+e.l.f. Beauty (ELF),ELF,2020-05-29,I,1,$17.14
+Frontline (FRO),FRO,2020-05-29,L,5,$9.13
+Fastly (FSLY),FSLY,2020-05-29,I,1,$43.14
+Gap (GPS),GPS,2020-05-29,D,5,$8.90
+Hercules Capital (HTGC),HTGC,2020-05-29,L,4,$11.14
+Noble Energy (NBL),NBL,2020-05-29,L,4,$8.73
+Nio (NIO),NIO,2020-05-29,L,5,$3.98
+JM Smucker (SJM),SJM,2020-05-29,D,2,$113.93
+Constellation Brands (STZ),STZ,2020-05-29,L,1,$172.70
+Tesla (TSLA),TSLA,2020-05-29,L,1,$835.00
+Slack (WORK),WORK,2020-05-29,D,1,$35.05
+Zoom Video Communications (ZM),ZM,2020-05-29,D,1,$179.48
+ZScaler (ZS),ZS,2020-05-29,I,1,$98.09
+Advanced Micro Devices (AMD),AMD,2020-06-01,L,1,$53.63
+Compugen (CGEN),CGEN,2020-06-01,L,1,$15.32
+Ciena (CIEN),CIEN,2020-06-01,L,1,$56.00
+Cloudera (CLDR),CLDR,2020-06-01,L,1,$10.96
+Clorox (CLX),CLX,2020-06-01,L,1,$204.21
+CrowdStrike (CRWD),CRWD,2020-06-01,D,1,$94.84
+DocuSign (DOCU),DOCU,2020-06-01,D,1,$147.22
+Harley Davidson (HOG),HOG,2020-06-01,L,5,$22.73
+IBM (IBM),IBM,2020-06-01,D,2,$124.89
+International Paper (IP),IP,2020-06-01,L,5,$34.73
+Lowe's (LOW),LOW,2020-06-01,D,2,$129.32
+NVIDIA (NVDA),NVDA,2020-06-01,L,1,$352.25
+Okta (OKTA),OKTA,2020-06-01,D,1,$204.78
+ON Semiconductor (ON),ON,2020-06-01,L,4,$16.78
+Starbucks (SBUX),SBUX,2020-06-01,D,2,$78.32
+Target (TGT),TGT,2020-06-01,D,2,$119.49
+Ulta Beauty (ULTA),ULTA,2020-06-01,I,1,$239.09
+Zoom Video Communications (ZM),ZM,2020-06-01,D,1,$204.15
+ZScaler (ZS),ZS,2020-06-01,D,1,$109.98
+Apple (AAPL),AAPL,2020-06-02,D,1,$323.34
+Ares Capital (ARCC),ARCC,2020-06-02,L,5,$15.44
+Arcturus Therapeutics (ARCT),ARCT,2020-06-02,L,1,$40.18
+Alteryx (AYX),AYX,2020-06-02,L,1,$143.99
+Boeing (BA),BA,2020-06-02,D,2,$153.31
+Caterpillar (CAT),CAT,2020-06-02,D,2,$123.32
+Chevron (CVX),CVX,2020-06-02,D,1,$94.69
+EOG Resources (EOG),EOG,2020-06-02,D,1,$54.81
+Diamondback Energy (FANG),FANG,2020-06-02,D,1,$45.61
+Lyft (LYFT),LYFT,2020-06-02,L,4,$31.68
+Marvell Technology (MRVL),MRVL,2020-06-02,I,1,$34.61
+Nike (NKE),NKE,2020-06-02,D,1,$100.74
+Parsley Energy (PE),PE,2020-06-02,D,1,$9.92
+Proofpoint (PFPT),PFPT,2020-06-02,I,1,$117.18
+Pioneer Natural Resources (PXD),PXD,2020-06-02,D,1,$96.16
+Qualcomm (QCOM),QCOM,2020-06-02,D,1,$84.63
+Qorvo (QRVO),QRVO,2020-06-02,D,1,$109.68
+Starbucks (SBUX),SBUX,2020-06-02,D,1,$77.78
+Skyworks Solutions (SWKS),SWKS,2020-06-02,D,1,$123.77
+Thor Industries (THO),THO,2020-06-02,F,2,$89.41
+UBS (UBS),UBS,2020-06-02,L,5,$11.12
+Wells Fargo (WFC),WFC,2020-06-02,L,1,$27.40
+Winnebago Industries (WGO),WGO,2020-06-02,F,2,$58.16
+Akamai Technologies (AKAM),AKAM,2020-06-03,L,4,$103.01
+Boeing (BA),BA,2020-06-03,D,1,$173.16
+B&G Foods (BGS),BGS,2020-06-03,I,1,$24.05
+Caterpillar (CAT),CAT,2020-06-03,D,1,$127.09
+CrowdStrike (CRWD),CRWD,2020-06-03,I,1,$98.10
+DraftKings (DKNG),DKNG,2020-06-03,D,4,$40.16
+Edwards Lifesciences (EW),EW,2020-06-03,L,1,$74.73
+Flex (FLEX),FLEX,2020-06-03,L,1,$10.86
+Microsoft (MSFT),MSFT,2020-06-03,L,1,$185.36
+Oracle (ORCL),ORCL,2020-06-03,L,4,$53.49
+Roku (ROKU),ROKU,2020-06-03,L,4,$103.96
+Virgin Galactic (SPCE),SPCE,2020-06-03,D,5,$16.39
+Stanley Black & Decker (SWK),SWK,2020-06-03,D,2,$137.95
+VectoIQ Acquisition (VTIQ),VTIQ,2020-06-03,D,5,$33.97
+Zoom Video Communications (ZM),ZM,2020-06-03,F,1,$223.87
+Bunge (BG),BG,2020-06-04,L,1,$41.30
+Costco (COST),COST,2020-06-04,D,1,$310.75
+Meta (FB),FB,2020-06-04,D,2,$226.29
+Luckin Coffee (LK),LK,2020-06-04,D,5,$4.05
+Macy's (M),M,2020-06-04,L,2,$8.21
+NXP Semiconductors (NXPI),NXPI,2020-06-04,L,1,$109.55
+Shopify (SHOP),SHOP,2020-06-04,I,1,$735.19
+JM Smucker (SJM),SJM,2020-06-04,I,1,$109.10
+VMware (VMW),VMW,2020-06-04,L,1,$148.08
+American Airlines (AAL),AAL,2020-06-08,D,4,$20.31
+Apple (AAPL),AAPL,2020-06-08,D,1,$333.46
+Biohaven Pharmaceuticals (BHVN),BHVN,2020-06-08,L,1,$69.76
+Cisco Systems (CSCO),CSCO,2020-06-08,D,1,$48.13
+Meta (FB),FB,2020-06-08,D,1,$231.40
+First Horizon National (FHN),FHN,2020-06-08,L,1,$12.09
+HSBC Holdings (HSBC),HSBC,2020-06-08,L,2,$26.67
+Intel (INTC),INTC,2020-06-08,D,1,$63.67
+Lumentum Holdings (LITE),LITE,2020-06-08,L,1,$78.15
+Microsoft (MSFT),MSFT,2020-06-08,D,1,$188.36
+Norwegian Cruise Line (NCLH),NCLH,2020-06-08,D,4,$26.86
+NVIDIA (NVDA),NVDA,2020-06-08,D,1,$352.20
+Ping Identity (PING),PING,2020-06-08,L,1,$29.87
+PayPal (PYPL),PYPL,2020-06-08,D,1,$156.09
+Banco Santander (SAN),SAN,2020-06-08,L,1,$2.90
+Sorrento Therapeutics (SRNE),SRNE,2020-06-08,I,1,$4.72
+Thor Industries (THO),THO,2020-06-08,I,1,$111.14
+Tesla (TSLA),TSLA,2020-06-08,D,1,$949.92
+Take-Two Interactive (TTWO),TTWO,2020-06-08,L,1,$134.80
+Zynga (ZNGA),ZNGA,2020-06-08,L,4,$9.15
+Apple (AAPL),AAPL,2020-06-09,D,1,$343.99
+Axon Enterprise (AAXN),AAXN,2020-06-09,L,1,$100.27
+Agenus (AGEN),AGEN,2020-06-09,L,4,$3.77
+Advanced Micro Devices (AMD),AMD,2020-06-09,D,1,$56.39
+Chewy (CHWY),CHWY,2020-06-09,I,1,$51.51
+DocuSign (DOCU),DOCU,2020-06-09,I,1,$141.92
+Meta (FB),FB,2020-06-09,D,1,$238.67
+G-III Apparel Group (GIII),GIII,2020-06-09,L,1,$17.28
+General Mills (GIS),GIS,2020-06-09,L,1,$62.82
+Hertz Global Holdings (HTZ),HTZ,2020-06-09,F,5,$4.18
+Marriott International (MAR),MAR,2020-06-09,L,4,$107.32
+NVIDIA (NVDA),NVDA,2020-06-09,D,1,$361.84
+Penn National Gaming (PENN),PENN,2020-06-09,L,1,$32.50
+Stitch Fix (SFIX),SFIX,2020-06-09,I,1,$23.55
+Seattle Genetics (SGEN),SGEN,2020-06-09,L,1,$148.94
+TEGNA (TGNA),TGNA,2020-06-09,L,5,$12.34
+Zuora (ZUO),ZUO,2020-06-09,L,1,$12.42
+Carnival (CCL),CCL,2020-06-10,D,5,$20.59
+Cerus (CERS),CERS,2020-06-10,I,1,$6.66
+Chegg (CHGG),CHGG,2020-06-10,D,1,$58.84
+CrowdStrike (CRWD),CRWD,2020-06-10,L,1,$97.22
+CyberArk Software (CYBR),CYBR,2020-06-10,L,4,$103.61
+Delta Air Lines (DAL),DAL,2020-06-10,D,5,$31.64
+DocuSign (DOCU),DOCU,2020-06-10,D,1,$148.05
+Johnson & Johnson (JNJ),JNJ,2020-06-10,D,2,$147.80
+Livongo Health (LVGO),LVGO,2020-06-10,D,1,$63.87
+Cloudflare (NET),NET,2020-06-10,L,1,$29.40
+Polaris Industries (PII),PII,2020-06-10,F,1,$96.19
+Royal Caribbean Cruises (RCL),RCL,2020-06-10,D,5,$63.59
+Triumph Group (TGI),TGI,2020-06-10,L,1,$10.75
+Take-Two Interactive (TTWO),TTWO,2020-06-10,L,1,$137.31
+Marriott Vacations Worldw (VAC),VAC,2020-06-10,I,1,$94.59
+Viavi Solutions (VIAV),VIAV,2020-06-10,L,1,$13.18
+World Wrestling Entertain (WWE),WWE,2020-06-10,L,4,$46.70
+Zoom Video Communications (ZM),ZM,2020-06-10,D,1,$221.02
+Apple (AAPL),AAPL,2020-06-11,D,1,$335.90
+Adobe Systems (ADBE),ADBE,2020-06-11,I,1,$387.67
+Broadcom (AVGO),AVGO,2020-06-11,D,1,$293.75
+Costco (COST),COST,2020-06-11,D,1,$300.83
+Home Depot (HD),HD,2020-06-11,D,1,$239.47
+Howard Hughes (HHC),HHC,2020-06-11,L,5,$56.90
+Leidos (LDOS),LDOS,2020-06-11,L,4,$100.37
+L3Harris Technologies (LHX),LHX,2020-06-11,I,1,$196.51
+Pepsico (PEP),PEP,2020-06-11,D,1,$127.84
+PVH Corp (PVH),PVH,2020-06-11,I,1,$52.72
+Raytheon Technologies (RTX),RTX,2020-06-11,L,1,$62.85
+Smith & Wesson Brands (SWBI),SWBI,2020-06-11,L,4,$17.27
+Adobe Systems (ADBE),ADBE,2020-06-12,F,1,$406.54
+American States Water (AWR),AWR,2020-06-12,L,1,$76.49
+AstraZeneca (AZN),AZN,2020-06-12,L,1,$51.47
+Alibaba (BABA),BABA,2020-06-12,L,1,$217.64
+Cardinal Health (CAH),CAH,2020-06-12,L,5,$52.89
+Chegg (CHGG),CHGG,2020-06-12,F,1,$56.90
+Centene (CNC),CNC,2020-06-12,I,1,$61.94
+Salesforce (CRM),CRM,2020-06-12,F,1,$175.11
+Chevron (CVX),CVX,2020-06-12,L,1,$92.39
+DXC Technology (DXC),DXC,2020-06-12,L,5,$16.27
+EOG Resources (EOG),EOG,2020-06-12,L,1,$52.57
+Jabil (JBL),JBL,2020-06-12,D,1,$30.80
+Carmax (KMX),KMX,2020-06-12,D,1,$89.98
+Kroger (KR),KR,2020-06-12,D,4,$32.26
+Lennar (LEN),LEN,2020-06-12,D,2,$59.25
+Parsley Energy (PE),PE,2020-06-12,L,1,$10.93
+Sony (SNE),SNE,2020-06-12,L,1,$68.29
+Tesla (TSLA),TSLA,2020-06-12,D,1,$935.28
+VMware (VMW),VMW,2020-06-12,F,1,$135.85
+Exxon Mobil (XOM),XOM,2020-06-12,L,4,$47.17
+Zuora (ZUO),ZUO,2020-06-12,I,1,$12.42
+Aurora Cannabis (ACB),ACB,2020-06-15,L,5,$13.25
+American Tower (AMT),AMT,2020-06-15,L,4,$262.49
+Canopy Growth (CGC),CGC,2020-06-15,L,2,$16.75
+Campbell Soup (CPB),CPB,2020-06-15,I,1,$48.38
+Fuelcell Energy (FCEL),FCEL,2020-06-15,L,5,$2.54
+Hertz Global Holdings (HTZ),HTZ,2020-06-15,F,5,$1.88
+Newmont Goldcorp (NEM),NEM,2020-06-15,I,1,$56.85
+Virgin Galactic (SPCE),SPCE,2020-06-15,L,5,$15.32
+Skyworks Solutions (SWKS),SWKS,2020-06-15,L,1,$127.24
+Targa Resources (TRGP),TRGP,2020-06-15,L,5,$21.96
+Alamos Gold (AGI),AGI,2020-06-16,L,5,$7.65
+Caterpillar (CAT),CAT,2020-06-16,D,4,$130.11
+Canopy Growth (CGC),CGC,2020-06-16,I,2,$17.80
+Costco (COST),COST,2020-06-16,F,2,$301.36
+Coty (COTY),COTY,2020-06-16,L,5,$5.04
+Estee Lauder (EL),EL,2020-06-16,L,1,$196.20
+Callaway Golf (ELY),ELY,2020-06-16,L,1,$16.43
+Energy Transfer (ET),ET,2020-06-16,L,5,$8.25
+Barrick Gold (GOLD),GOLD,2020-06-16,L,1,$24.38
+McDonald's (MCD),MCD,2020-06-16,I,1,$190.32
+Martin Marietta Materials (MLM),MLM,2020-06-16,D,2,$214.13
+Newmont Goldcorp (NEM),NEM,2020-06-16,L,1,$55.95
+Nokia (NOK),NOK,2020-06-16,L,1,$4.34
+Nucor (NUE),NUE,2020-06-16,D,1,$44.59
+Pinterest (PINS),PINS,2020-06-16,L,1,$22.20
+U.S. Concrete (USCR),USCR,2020-06-16,D,4,$28.33
+Vulcan Materials (VMC),VMC,2020-06-16,D,4,$123.15
+Yeti Holdings (YETI),YETI,2020-06-16,L,1,$37.10
+Beyond Meat (BYND),BYND,2020-06-17,D,1,$156.34
+ConAgra Foods (CAG),CAG,2020-06-17,D,1,$34.30
+Clorox (CLX),CLX,2020-06-17,D,1,$212.00
+Camping World (CWH),CWH,2020-06-17,D,1,$25.34
+DraftKings (DKNG),DKNG,2020-06-17,L,4,$40.72
+Cedar Fair (FUN),FUN,2020-06-17,L,1,$34.59
+Home Depot (HD),HD,2020-06-17,D,1,$250.85
+Lowe's (LOW),LOW,2020-06-17,D,1,$135.65
+Masco (MAS),MAS,2020-06-17,D,1,$48.38
+Netflix (NFLX),NFLX,2020-06-17,D,1,$447.77
+Novavax (NVAX),NVAX,2020-06-17,L,4,$55.41
+NVIDIA (NVDA),NVDA,2020-06-17,L,1,$369.44
+Old Republic Internationa (ORI),ORI,2020-06-17,L,1,$16.51
+Quidel (QDEL),QDEL,2020-06-17,L,4,$207.17
+Royalty Pharma (RPRX),RPRX,2020-06-17,F,1,$48.61
+Six Flags (SIX),SIX,2020-06-17,L,5,$23.59
+STMicroelectronics (STM),STM,2020-06-17,L,1,$26.97
+Stanley Black & Decker (SWK),SWK,2020-06-17,D,1,$135.31
+Thor Industries (THO),THO,2020-06-17,D,1,$114.03
+Take-Two Interactive (TTWO),TTWO,2020-06-17,D,1,$138.92
+Union Pacific (UNP),UNP,2020-06-17,I,1,$171.17
+AMC Entertainment (AMC),AMC,2020-06-18,I,1,$5.63
+Clorox (CLX),CLX,2020-06-18,D,1,$214.59
+CoStar Group (CSGP),CSGP,2020-06-18,L,5,$701.18
+Carvana (CVNA),CVNA,2020-06-18,D,1,$122.98
+General Electric (GE),GE,2020-06-18,L,4,$7.28
+Goldman Sachs (GS),GS,2020-06-18,L,1,$203.84
+Goodyear Tire & Rubber (GT),GT,2020-06-18,L,5,$8.60
+Carmax (KMX),KMX,2020-06-18,D,1,$97.91
+Kroger (KR),KR,2020-06-18,D,1,$31.81
+McCormick (MKC),MKC,2020-06-18,D,1,$173.88
+Netflix (NFLX),NFLX,2020-06-18,D,1,$449.87
+Nucor (NUE),NUE,2020-06-18,D,1,$43.52
+Palo Alto Networks (PANW),PANW,2020-06-18,D,1,$230.33
+U.S. Auto Parts Network (PRTS),PRTS,2020-06-18,L,4,$8.78
+Peloton (PTON),PTON,2020-06-18,D,1,$51.08
+PayPal (PYPL),PYPL,2020-06-18,D,1,$168.05
+Roku (ROKU),ROKU,2020-06-18,D,1,$127.79
+Shopify (SHOP),SHOP,2020-06-18,D,1,$863.56
+Block (SQ),SQ,2020-06-18,D,1,$98.27
+Upwork (UPWK),UPWK,2020-06-18,L,1,$12.44
+VMware (VMW),VMW,2020-06-18,I,1,$143.43
+Westlake Chemical (WLK),WLK,2020-06-18,D,1,$53.82
+Zillow (Z),Z,2020-06-18,L,1,$61.34
+Zoom Video Communications (ZM),ZM,2020-06-18,D,1,$241.57
+Apple (AAPL),AAPL,2020-06-22,D,1,$358.87
+Adobe Systems (ADBE),ADBE,2020-06-22,D,1,$438.64
+Activision Blizzard (ATVI),ATVI,2020-06-22,D,1,$76.12
+Alibaba (BABA),BABA,2020-06-22,L,1,$221.41
+Caterpillar (CAT),CAT,2020-06-22,L,4,$125.79
+Cerus (CERS),CERS,2020-06-22,L,1,$6.55
+Check Point Software (CHKP),CHKP,2020-06-22,I,1,$106.51
+Clorox (CLX),CLX,2020-06-22,D,1,$216.90
+Campbell Soup (CPB),CPB,2020-06-22,D,1,$49.81
+Walt Disney (DIS),DIS,2020-06-22,D,1,$115.92
+Freeport-McMoRan (FCX),FCX,2020-06-22,D,2,$10.79
+Home Depot (HD),HD,2020-06-22,D,1,$249.16
+Nike (NKE),NKE,2020-06-22,D,2,$99.51
+ServiceNow (NOW),NOW,2020-06-22,D,1,$402.82
+Regeneron Pharmaceuticals (REGN),REGN,2020-06-22,D,1,$628.48
+Sunrun (RUN),RUN,2020-06-22,L,5,$19.97
+Shopify (SHOP),SHOP,2020-06-22,D,1,$904.81
+Spotify (SPOT),SPOT,2020-06-22,F,1,$236.06
+Tesla (TSLA),TSLA,2020-06-22,L,1,$994.32
+Unum Group (UNM),UNM,2020-06-22,L,5,$16.41
+Yandex (YNDX),YNDX,2020-06-22,L,1,$46.94
+Zoom Video Communications (ZM),ZM,2020-06-22,D,1,$251.27
+Apple (AAPL),AAPL,2020-06-23,D,1,$366.53
+Agenus (AGEN),AGEN,2020-06-23,L,4,$4.15
+Alaska Air Group (ALK),ALK,2020-06-23,L,2,$36.83
+AstraZeneca (AZN),AZN,2020-06-23,L,1,$54.25
+Eldorado Resorts (ERI),ERI,2020-06-23,L,5,$44.00
+Halliburton (HAL),HAL,2020-06-23,L,5,$13.00
+Inseego (INSG),INSG,2020-06-23,L,1,$10.48
+Lands End (LE),LE,2020-06-23,I,1,$9.40
+Southwest Airlines (LUV),LUV,2020-06-23,L,1,$34.75
+Moderna (MRNA),MRNA,2020-06-23,D,2,$62.94
+Penn National Gaming (PENN),PENN,2020-06-23,L,1,$36.82
+Spirit Airlines (SAVE),SAVE,2020-06-23,D,2,$18.78
+Snap (SNAP),SNAP,2020-06-23,D,2,$23.67
+Taiwan Semiconductor (TSM),TSM,2020-06-23,L,1,$56.76
+Apple (AAPL),AAPL,2020-06-24,D,1,$360.06
+Apple (AAPL),AAPL,2020-06-24,D,1,$360.06
+DraftKings (DKNG),DKNG,2020-06-24,F,5,$37.56
+Meta (FB),FB,2020-06-24,D,1,$234.02
+GoPro (GPRO),GPRO,2020-06-24,D,4,$4.64
+H&R Block (HRB),HRB,2020-06-24,L,5,$14.86
+Intuit (INTU),INTU,2020-06-24,L,1,$286.13
+Southwest Airlines (LUV),LUV,2020-06-24,D,2,$32.25
+MGM Resorts (MGM),MGM,2020-06-24,D,4,$16.93
+Moderna (MRNA),MRNA,2020-06-24,D,4,$64.84
+Marathon Oil (MRO),MRO,2020-06-24,D,4,$5.79
+Microsoft (MSFT),MSFT,2020-06-24,D,1,$197.84
+Norwegian Cruise Line (NCLH),NCLH,2020-06-24,D,4,$15.80
+Nikola (NKLA),NKLA,2020-06-24,F,5,$74.19
+Parsley Energy (PE),PE,2020-06-24,D,2,$10.56
+Penn National Gaming (PENN),PENN,2020-06-24,D,2,$33.38
+Royal Caribbean Cruises (RCL),RCL,2020-06-24,D,4,$48.24
+Spirit Airlines (SAVE),SAVE,2020-06-24,D,4,$16.92
+Snap (SNAP),SNAP,2020-06-24,D,4,$23.63
+Tesla (TSLA),TSLA,2020-06-24,D,1,$960.85
+Ulta Beauty (ULTA),ULTA,2020-06-24,L,1,$200.00
+Marriott Vacations Worldw (VAC),VAC,2020-06-24,L,1,$81.03
+ZoomInfo Technologies (ZI),ZI,2020-06-24,L,1,$50.98
+American Airlines (AAL),AAL,2020-06-25,L,4,$13.17
+Apple (AAPL),AAPL,2020-06-25,D,1,$364.84
+Amyris (AMRS),AMRS,2020-06-25,L,1,$4.04
+Brunswick (BC),BC,2020-06-25,I,1,$63.97
+Clorox (CLX),CLX,2020-06-25,D,1,$214.92
+Salesforce (CRM),CRM,2020-06-25,I,1,$188.34
+Etsy (ETSY),ETSY,2020-06-25,D,1,$101.28
+General Electric (GE),GE,2020-06-25,L,2,$6.68
+Southwest Airlines (LUV),LUV,2020-06-25,L,1,$32.97
+McCormick (MKC),MKC,2020-06-25,D,1,$178.54
+Shopify (SHOP),SHOP,2020-06-25,D,1,$916.32
+Winnebago Industries (WGO),WGO,2020-06-25,I,1,$68.42
+Yeti Holdings (YETI),YETI,2020-06-25,L,1,$42.96
+Zoom Video Communications (ZM),ZM,2020-06-25,D,1,$259.51
+ZScaler (ZS),ZS,2020-06-25,D,1,$111.61
+Advanced Micro Devices (AMD),AMD,2020-06-29,D,1,$50.28
+Boeing (BA),BA,2020-06-29,D,2,$194.49
+The Blackstone Group (BX),BX,2020-06-29,D,5,$55.81
+Crown Castle (CCI),CCI,2020-06-29,D,1,$162.30
+Centene (CNC),CNC,2020-06-29,D,1,$62.59
+Costco (COST),COST,2020-06-29,D,1,$301.59
+Discover Financial Servic (DFS),DFS,2020-06-29,L,5,$49.32
+Dollar General (DG),DG,2020-06-29,D,1,$190.02
+Meta (FB),FB,2020-06-29,D,2,$220.64
+Fastly (FSLY),FSLY,2020-06-29,D,1,$78.15
+General Electric (GE),GE,2020-06-29,D,2,$6.80
+Gap (GPS),GPS,2020-06-29,L,4,$12.51
+GlaxoSmithKline (GSK),GSK,2020-06-29,D,5,$40.75
+Honeywell (HON),HON,2020-06-29,I,1,$143.24
+Inovio Pharmaceuticals (INO),INO,2020-06-29,L,2,$31.69
+Kellogg (K),K,2020-06-29,D,5,$65.08
+Lockheed Martin (LMT),LMT,2020-06-29,L,1,$367.50
+Southwest Airlines (LUV),LUV,2020-06-29,D,2,$35.04
+Newmont Goldcorp (NEM),NEM,2020-06-29,D,1,$59.54
+Nike (NKE),NKE,2020-06-29,D,2,$95.87
+PayPal (PYPL),PYPL,2020-06-29,L,1,$168.35
+Restaurant Brands (QSR),QSR,2020-06-29,I,1,$55.25
+Block (SQ),SQ,2020-06-29,L,1,$103.68
+TJX Companies (TJX),TJX,2020-06-29,D,1,$50.77
+UnitedHealth Group (UNH),UNH,2020-06-29,D,1,$289.76
+Union Pacific (UNP),UNP,2020-06-29,L,1,$165.51
+Verizon (VZ),VZ,2020-06-29,D,1,$54.69
+Wells Fargo (WFC),WFC,2020-06-29,D,4,$25.70
+Weis Market (WMK),WMK,2020-06-29,L,2,$50.00
+Walmart (WMT),WMT,2020-06-29,D,1,$119.06
+Apple (AAPL),AAPL,2020-06-30,D,1,$364.80
+Adobe Systems (ADBE),ADBE,2020-06-30,D,1,$435.31
+Berkshire Hathaway (BRK.B),BRK.B,2020-06-30,L,2,$178.51
+Anheuser-Busch InBev (BUD),BUD,2020-06-30,L,5,$49.30
+Beyond Meat (BYND),BYND,2020-06-30,L,1,$133.98
+ConAgra Foods (CAG),CAG,2020-06-30,I,1,$35.17
+Crown Castle (CCI),CCI,2020-06-30,I,1,$167.35
+Etsy (ETSY),ETSY,2020-06-30,D,1,$106.23
+Ford Motor (F),F,2020-06-30,L,5,$6.08
+Fastly (FSLY),FSLY,2020-06-30,D,1,$85.13
+Inseego (INSG),INSG,2020-06-30,L,2,$11.60
+Lululemon Athletica (LULU),LULU,2020-06-30,D,1,$312.01
+Marvell Technology (MRVL),MRVL,2020-06-30,L,1,$35.06
+Netflix (NFLX),NFLX,2020-06-30,D,1,$455.04
+Nokia (NOK),NOK,2020-06-30,L,1,$4.40
+NVIDIA (NVDA),NVDA,2020-06-30,D,1,$379.91
+Pepsico (PEP),PEP,2020-06-30,L,1,$132.26
+PayPal (PYPL),PYPL,2020-06-30,D,1,$174.23
+Regeneron Pharmaceuticals (REGN),REGN,2020-06-30,D,1,$623.65
+Shopify (SHOP),SHOP,2020-06-30,D,1,$949.20
+Sirius XM Radio (SIRI),SIRI,2020-06-30,L,1,$5.87
+Constellation Brands (STZ),STZ,2020-06-30,L,2,$174.95
+Skyworks Solutions (SWKS),SWKS,2020-06-30,L,1,$127.86
+Twilio (TWLO),TWLO,2020-06-30,D,1,$219.42
+Vaxart (VXRT),VXRT,2020-06-30,L,4,$8.85
+Wix.com (WIX),WIX,2020-06-30,D,1,$256.22
+Zoom Video Communications (ZM),ZM,2020-06-30,D,1,$253.54
+BlackRock (BLK),BLK,2020-07-01,L,1,$544.32
+Calithera Biosciences (CALA),CALA,2020-07-01,L,1,$5.24
+EverQuote (EVER),EVER,2020-07-01,L,1,$59.51
+Meta (FB),FB,2020-07-01,D,1,$237.55
+FedEx (FDX),FDX,2020-07-01,D,1,$156.66
+General Mills (GIS),GIS,2020-07-01,I,1,$60.43
+Moderna (MRNA),MRNA,2020-07-01,L,4,$61.59
+Marvell Technology (MRVL),MRVL,2020-07-01,L,4,$34.37
+Micron Technology (MU),MU,2020-07-01,L,1,$49.70
+Nio (NIO),NIO,2020-07-01,D,5,$7.91
+Pfizer (PFE),PFE,2020-07-01,D,1,$33.74
+Tortoise Acquisition (SHLL),SHLL,2020-07-01,D,5,$25.18
+Constellation Brands (STZ),STZ,2020-07-01,I,1,$185.88
+Wix.com (WIX),WIX,2020-07-01,D,1,$265.77
+Workhorse Group (WKHS),WKHS,2020-07-01,D,5,$19.18
+Williams-Sonoma (WSM),WSM,2020-07-01,I,1,$84.82
+Accenture (ACN),ACN,2020-07-02,F,1,$215.72
+Archer-Daniels-Midland (ADM),ADM,2020-07-02,L,5,$39.56
+AGCO (AGCO),AGCO,2020-07-02,L,1,$54.65
+American Tower (AMT),AMT,2020-07-02,L,5,$264.21
+Angi (ANGI),ANGI,2020-07-02,L,1,$13.43
+Bed Bath & Beyond (BBBY),BBBY,2020-07-02,D,4,$10.81
+Crown Castle (CCI),CCI,2020-07-02,L,1,$170.72
+Greendot (GDOT),GDOT,2020-07-02,L,2,$49.53
+Inovio Pharmaceuticals (INO),INO,2020-07-02,F,5,$21.45
+Levi Strauss (LEVI),LEVI,2020-07-02,D,2,$13.35
+Novavax (NVAX),NVAX,2020-07-02,F,5,$81.64
+Paychex (PAYX),PAYX,2020-07-02,D,2,$76.59
+PayPal (PYPL),PYPL,2020-07-02,L,1,$177.21
+Starbucks (SBUX),SBUX,2020-07-02,L,1,$73.78
+Block (SQ),SQ,2020-07-02,L,1,$113.39
+Starwood Property Trust (STWD),STWD,2020-07-02,L,5,$14.50
+Vroom (VRM),VRM,2020-07-02,L,1,$54.30
+Walgreens Boots Alliance (WBA),WBA,2020-07-02,D,4,$41.98
+WPX Energy (WPX),WPX,2020-07-02,L,5,$6.08
+American Airlines (AAL),AAL,2020-07-13,D,1,$11.63
+Ameresco (AMRC),AMRC,2020-07-13,L,1,$28.29
+Bank of America (BAC),BAC,2020-07-13,D,2,$24.19
+Bristol-Myers Squibb (BMY),BMY,2020-07-13,L,1,$57.75
+Citigroup (C),C,2020-07-13,D,4,$52.20
+Crown Castle (CCI),CCI,2020-07-13,F,1,$166.91
+Delta Air Lines (DAL),DAL,2020-07-13,D,4,$26.82
+Domino's Pizza (DPZ),DPZ,2020-07-13,D,1,$401.38
+First Horizon National (FHN),FHN,2020-07-13,D,1,$8.90
+Goldman Sachs (GS),GS,2020-07-13,D,1,$208.88
+GlaxoSmithKline (GSK),GSK,2020-07-13,L,5,$40.07
+Johnson & Johnson (JNJ),JNJ,2020-07-13,D,1,$145.21
+JPMorgan Chase (JPM),JPM,2020-07-13,D,2,$97.65
+Nordstrom (JWN),JWN,2020-07-13,L,5,$15.35
+Livongo Health (LVGO),LVGO,2020-07-13,F,1,$97.38
+Morgan Stanley (MS),MS,2020-07-13,D,2,$50.22
+Netflix (NFLX),NFLX,2020-07-13,F,1,$525.50
+Rite Aid (RAD),RAD,2020-07-13,L,5,$14.92
+Target (TGT),TGT,2020-07-13,L,1,$118.73
+UnitedHealth Group (UNH),UNH,2020-07-13,D,2,$299.71
+Wells Fargo (WFC),WFC,2020-07-13,D,4,$25.41
+Workhorse Group (WKHS),WKHS,2020-07-13,L,2,$15.44
+Walmart (WMT),WMT,2020-07-13,L,1,$129.52
+World Wrestling Entertain (WWE),WWE,2020-07-13,L,5,$44.48
+Zoom Video Communications (ZM),ZM,2020-07-13,L,1,$260.30
+American Airlines (AAL),AAL,2020-07-14,D,5,$11.57
+Chubb (CB),CB,2020-07-14,L,2,$130.74
+Clorox (CLX),CLX,2020-07-14,D,2,$230.52
+Costco (COST),COST,2020-07-14,D,2,$328.00
+CyberArk Software (CYBR),CYBR,2020-07-14,L,1,$107.54
+Dominion Energy (D),D,2020-07-14,L,1,$73.92
+Everi (EVRI),EVRI,2020-07-14,D,2,$5.47
+Ford Motor (F),F,2020-07-14,D,5,$6.36
+Meta (FB),FB,2020-07-14,L,4,$239.73
+General Electric (GE),GE,2020-07-14,D,5,$6.88
+Gap (GPS),GPS,2020-07-14,L,5,$11.15
+Livongo Health (LVGO),LVGO,2020-07-14,I,1,$101.18
+Mastercard (MA),MA,2020-07-14,D,2,$298.95
+McCormick (MKC),MKC,2020-07-14,D,2,$189.42
+Moderna (MRNA),MRNA,2020-07-14,L,2,$75.04
+Ncino (NCNO),NCNO,2020-07-14,D,2,$91.59
+Paychex (PAYX),PAYX,2020-07-14,I,1,$71.87
+Penn National Gaming (PENN),PENN,2020-07-14,L,1,$29.14
+Snap (SNAP),SNAP,2020-07-14,L,1,$23.74
+Sorrento Therapeutics (SRNE),SRNE,2020-07-14,L,4,$7.94
+VMware (VMW),VMW,2020-07-14,L,1,$138.25
+Walmart (WMT),WMT,2020-07-14,D,2,$132.01
+American Airlines (AAL),AAL,2020-07-15,D,4,$13.44
+Biohaven Pharmaceuticals (BHVN),BHVN,2020-07-15,I,1,$76.39
+Boston Scientific (BSX),BSX,2020-07-15,L,1,$36.70
+Beyond Meat (BYND),BYND,2020-07-15,L,1,$131.75
+CrowdStrike (CRWD),CRWD,2020-07-15,L,2,$103.15
+DataDog (DDOG),DDOG,2020-07-15,L,1,$88.48
+Edwards Lifesciences (EW),EW,2020-07-15,L,1,$72.47
+Goldman Sachs (GS),GS,2020-07-15,F,1,$216.90
+Lemonade (LMND),LMND,2020-07-15,F,4,$74.17
+Livongo Health (LVGO),LVGO,2020-07-15,D,1,$108.31
+Medtronic (MDT),MDT,2020-07-15,L,1,$97.16
+PayPal (PYPL),PYPL,2020-07-15,D,2,$172.06
+Scorpio Tankers (STNG),STNG,2020-07-15,L,4,$12.99
+Visa (V),V,2020-07-15,D,2,$196.55
+Abbott Laboratories (ABT),ABT,2020-07-16,D,1,$96.40
+Boeing (BA),BA,2020-07-16,L,2,$178.70
+Salesforce (CRM),CRM,2020-07-16,D,1,$185.51
+CrowdStrike (CRWD),CRWD,2020-07-16,L,1,$101.06
+Domino's Pizza (DPZ),DPZ,2020-07-16,I,1,$407.52
+Meta (FB),FB,2020-07-16,D,1,$240.93
+FireEye (FEYE),FEYE,2020-07-16,L,4,$12.77
+Barrick Gold (GOLD),GOLD,2020-07-16,I,1,$26.69
+Johnson & Johnson (JNJ),JNJ,2020-07-16,D,1,$149.25
+Coca-Cola (KO),KO,2020-07-16,L,1,$46.15
+Morgan Stanley (MS),MS,2020-07-16,D,1,$52.64
+Ingevity (NGVT),NGVT,2020-07-16,L,1,$57.95
+Palo Alto Networks (PANW),PANW,2020-07-16,L,1,$237.38
+Pepsico (PEP),PEP,2020-07-16,D,1,$133.88
+Teladoc (TDOC),TDOC,2020-07-16,L,4,$218.56
+Wex (WEX),WEX,2020-07-16,L,1,$163.60
+ZScaler (ZS),ZS,2020-07-16,L,1,$117.15
+American Airlines (AAL),AAL,2020-07-17,D,4,$11.91
+Abbott Laboratories (ABT),ABT,2020-07-17,F,1,$99.25
+American Express (AXP),AXP,2020-07-17,D,4,$95.18
+AstraZeneca (AZN),AZN,2020-07-17,D,1,$61.10
+Best Buy (BBY),BBY,2020-07-17,D,1,$87.96
+Big Lots (BIG),BIG,2020-07-17,L,2,$36.13
+CSX (CSX),CSX,2020-07-17,D,1,$72.16
+CyberArk Software (CYBR),CYBR,2020-07-17,I,1,$109.08
+Deere & Company (DE),DE,2020-07-17,D,1,$176.51
+Danaher (DHR),DHR,2020-07-17,F,1,$190.95
+DraftKings (DKNG),DKNG,2020-07-17,L,1,$35.36
+Home Depot (HD),HD,2020-07-17,D,1,$260.38
+Honeywell (HON),HON,2020-07-17,F,1,$155.00
+Innovative Industrial Pro (IIPR),IIPR,2020-07-17,L,1,$93.95
+Intel (INTC),INTC,2020-07-17,D,4,$60.00
+Jumia Technologies (JMIA),JMIA,2020-07-17,L,5,$7.63
+Coca-Cola (KO),KO,2020-07-17,D,4,$46.82
+Lockheed Martin (LMT),LMT,2020-07-17,D,1,$368.50
+Lowe's (LOW),LOW,2020-07-17,D,1,$144.39
+Southwest Airlines (LUV),LUV,2020-07-17,D,1,$34.13
+Masco (MAS),MAS,2020-07-17,D,1,$53.31
+Microsoft (MSFT),MSFT,2020-07-17,D,1,$202.88
+Nutanix (NTNX),NTNX,2020-07-17,I,1,$22.06
+PPG Industries (PPG),PPG,2020-07-17,D,1,$111.88
+Boston Beer (SAM),SAM,2020-07-17,D,1,$643.58
+Scotts Miracle-Gro (SMG),SMG,2020-07-17,D,1,$144.22
+Snap (SNAP),SNAP,2020-07-17,D,4,$24.54
+Stanley Black & Decker (SWK),SWK,2020-07-17,D,1,$153.36
+Teradyne (TER),TER,2020-07-17,L,1,$86.42
+Thermo Fisher Scientific (TMO),TMO,2020-07-17,F,1,$395.40
+Tractor Supply (TSCO),TSCO,2020-07-17,D,1,$140.77
+Texas Instruments (TXN),TXN,2020-07-17,D,4,$133.89
+Union Pacific (UNP),UNP,2020-07-17,D,1,$181.25
+Vulcan Materials (VMC),VMC,2020-07-17,D,1,$124.95
+Verizon (VZ),VZ,2020-07-17,D,1,$56.30
+Waste Management (WM),WM,2020-07-17,D,1,$108.70
+Alibaba (BABA),BABA,2020-07-20,L,1,$254.81
+Bank of America (BAC),BAC,2020-07-20,D,4,$23.58
+Anheuser-Busch InBev (BUD),BUD,2020-07-20,L,5,$53.58
+Citigroup (C),C,2020-07-20,D,4,$50.14
+Fastly (FSLY),FSLY,2020-07-20,L,1,$84.85
+Goldman Sachs (GS),GS,2020-07-20,D,1,$211.71
+JPMorgan Chase (JPM),JPM,2020-07-20,D,4,$97.30
+Kingsoft Cloud Holdings (KC),KC,2020-07-20,L,5,$35.54
+Morgan Stanley (MS),MS,2020-07-20,D,1,$51.86
+Newell Brands (NWL),NWL,2020-07-20,F,1,$16.07
+Opko Health (OPK),OPK,2020-07-20,I,1,$4.94
+Palo Alto Networks (PANW),PANW,2020-07-20,D,1,$251.60
+Pool Corp (POOL),POOL,2020-07-20,F,1,$301.35
+Boston Beer (SAM),SAM,2020-07-20,L,1,$650.79
+Virgin Galactic (SPCE),SPCE,2020-07-20,L,2,$22.98
+Sorrento Therapeutics (SRNE),SRNE,2020-07-20,I,1,$8.36
+Tractor Supply (TSCO),TSCO,2020-07-20,F,1,$144.69
+United States Steel (X),X,2020-07-20,L,4,$7.58
+Yeti Holdings (YETI),YETI,2020-07-20,F,1,$45.05
+ZoomInfo Technologies (ZI),ZI,2020-07-20,L,1,$42.48
+Zoom Video Communications (ZM),ZM,2020-07-20,D,1,$268.58
+Apple (AAPL),AAPL,2020-07-21,D,1,$388.00
+CommScope (COMM),COMM,2020-07-21,L,5,$8.98
+Walt Disney (DIS),DIS,2020-07-21,D,2,$118.62
+Everi (EVRI),EVRI,2020-07-21,L,1,$5.78
+Meta (FB),FB,2020-07-21,D,1,$241.75
+Hanesbrands (HBI),HBI,2020-07-21,L,1,$13.88
+Logitech International (LOGI),LOGI,2020-07-21,I,1,$70.41
+Microsoft (MSFT),MSFT,2020-07-21,D,1,$208.75
+Okta (OKTA),OKTA,2020-07-21,I,1,$211.31
+PVH Corp (PVH),PVH,2020-07-21,D,2,$49.02
+Starbucks (SBUX),SBUX,2020-07-21,D,2,$75.44
+VF Corp (VFC),VFC,2020-07-21,D,2,$59.67
+Walgreens Boots Alliance (WBA),WBA,2020-07-21,L,1,$40.41
+Autodesk (ADSK),ADSK,2020-07-22,L,1,$240.74
+Chevron (CVX),CVX,2020-07-22,L,1,$91.04
+DuPont (DD),DD,2020-07-22,L,1,$54.43
+Danaher (DHR),DHR,2020-07-22,L,1,$195.61
+Emergent BioSolutions (EBS),EBS,2020-07-22,L,1,$93.98
+First Horizon National (FHN),FHN,2020-07-22,I,1,$9.29
+Illumina (ILMN),ILMN,2020-07-22,L,1,$391.71
+Kinder Morgan (KMI),KMI,2020-07-22,L,5,$14.89
+Medallia (MDLA),MDLA,2020-07-22,I,2,$29.91
+Nikola (NKLA),NKLA,2020-07-22,L,5,$36.57
+Olin (OLN),OLN,2020-07-22,L,5,$12.05
+Parsley Energy (PE),PE,2020-07-22,L,1,$11.63
+PTC (PTC),PTC,2020-07-22,L,5,$83.83
+Pioneer Natural Resources (PXD),PXD,2020-07-22,L,1,$102.51
+Thermo Fisher Scientific (TMO),TMO,2020-07-22,L,1,$410.76
+Apple (AAPL),AAPL,2020-07-23,D,1,$371.38
+Astronics (ATRO),ATRO,2020-07-23,L,5,$9.32
+AstraZeneca (AZN),AZN,2020-07-23,D,1,$55.17
+Dish Network (DISH),DISH,2020-07-23,L,1,$33.40
+Meta (FB),FB,2020-07-23,D,1,$232.60
+Gilead Sciences (GILD),GILD,2020-07-23,D,2,$75.56
+GlaxoSmithKline (GSK),GSK,2020-07-23,D,1,$40.30
+GW Pharmaceuticals (GWPH),GWPH,2020-07-23,L,2,$129.00
+Honeywell (HON),HON,2020-07-23,L,1,$153.73
+Johnson & Johnson (JNJ),JNJ,2020-07-23,D,1,$149.61
+Eli Lilly (LLY),LLY,2020-07-23,D,2,$161.52
+Lemonade (LMND),LMND,2020-07-23,I,1,$82.16
+Moderna (MRNA),MRNA,2020-07-23,D,4,$75.33
+Microsoft (MSFT),MSFT,2020-07-23,D,1,$202.54
+Ncino (NCNO),NCNO,2020-07-23,F,1,$71.57
+Novavax (NVAX),NVAX,2020-07-23,D,2,$139.59
+Pfizer (PFE),PFE,2020-07-23,D,1,$38.41
+Regeneron Pharmaceuticals (REGN),REGN,2020-07-23,D,2,$630.31
+Raytheon Technologies (RTX),RTX,2020-07-23,L,1,$63.12
+Takeda Pharmaceutical (TAK),TAK,2020-07-23,L,1,$17.35
+The Trade Desk (TTD),TTD,2020-07-23,L,1,$424.39
+Apple (AAPL),AAPL,2020-07-27,D,1,$379.24
+Advanced Micro Devices (AMD),AMD,2020-07-27,D,1,$68.97
+American Express (AXP),AXP,2020-07-27,L,2,$95.79
+Alteryx (AYX),AYX,2020-07-27,L,1,$166.71
+AstraZeneca (AZN),AZN,2020-07-27,D,1,$56.58
+Boeing (BA),BA,2020-07-27,D,4,$170.21
+Bloomin' Brands (BLMN),BLMN,2020-07-27,L,1,$11.57
+Caterpillar (CAT),CAT,2020-07-27,D,2,$139.89
+Chevron (CVX),CVX,2020-07-27,D,1,$91.04
+Meta (FB),FB,2020-07-27,D,1,$233.50
+General Electric (GE),GE,2020-07-27,D,4,$6.71
+Intel (INTC),INTC,2020-07-27,L,4,$49.57
+Eli Lilly (LLY),LLY,2020-07-27,D,1,$160.50
+Mattel (MAT),MAT,2020-07-27,I,1,$10.86
+McDonald's (MCD),MCD,2020-07-27,D,1,$201.25
+3M (MMM),MMM,2020-07-27,D,1,$163.24
+ServiceNow (NOW),NOW,2020-07-27,D,1,$433.81
+Oneok (OKE),OKE,2020-07-27,L,5,$28.02
+Pfizer (PFE),PFE,2020-07-27,D,1,$37.54
+PayPal (PYPL),PYPL,2020-07-27,D,1,$177.98
+Raytheon Technologies (RTX),RTX,2020-07-27,D,2,$61.09
+Sunrun (RUN),RUN,2020-07-27,L,4,$42.50
+Starbucks (SBUX),SBUX,2020-07-27,D,1,$76.46
+Shopify (SHOP),SHOP,2020-07-27,D,1,$976.39
+Skyworks Solutions (SWKS),SWKS,2020-07-27,I,1,$136.69
+AT&T (T),T,2020-07-27,L,4,$29.29
+TransMedics Group (TMDX),TMDX,2020-07-27,L,1,$17.43
+Verizon (VZ),VZ,2020-07-27,L,1,$56.87
+Exxon Mobil (XOM),XOM,2020-07-27,D,4,$44.07
+Brunswick (BC),BC,2020-07-28,D,1,$69.30
+Chewy (CHWY),CHWY,2020-07-28,L,1,$46.32
+CIGNA (CI),CI,2020-07-28,L,1,$175.75
+Centene (CNC),CNC,2020-07-28,I,1,$64.23
+CommScope (COMM),COMM,2020-07-28,L,5,$8.51
+CVS Health (CVS),CVS,2020-07-28,L,4,$63.27
+Camping World (CWH),CWH,2020-07-28,D,1,$36.45
+IBM (IBM),IBM,2020-07-28,L,1,$124.47
+Lockheed Martin (LMT),LMT,2020-07-28,L,1,$386.66
+Mattel (MAT),MAT,2020-07-28,D,1,$11.32
+Otis Worldwide (OTIS),OTIS,2020-07-28,I,1,$60.28
+Polaris Industries (PII),PII,2020-07-28,D,1,$105.26
+Sherwin-Williams (SHW),SHW,2020-07-28,D,1,$633.55
+Scotts Miracle-Gro (SMG),SMG,2020-07-28,D,1,$145.43
+Thor Industries (THO),THO,2020-07-28,D,1,$115.90
+Tractor Supply (TSCO),TSCO,2020-07-28,D,1,$143.07
+Wayfair (W),W,2020-07-28,D,1,$227.00
+Slack (WORK),WORK,2020-07-28,L,1,$28.75
+Apple (AAPL),AAPL,2020-07-29,D,1,$380.16
+Aphria (APHA),APHA,2020-07-29,I,1,$4.85
+Alibaba (BABA),BABA,2020-07-29,L,1,$252.45
+BioCryst Pharmaceuticals (BCRX),BCRX,2020-07-29,L,5,$4.22
+Dexcom (DXCM),DXCM,2020-07-29,I,1,$427.08
+Meta (FB),FB,2020-07-29,D,1,$233.29
+GTT Communications (GTT),GTT,2020-07-29,L,5,$6.87
+HCA Healthcare (HCA),HCA,2020-07-29,L,1,$129.78
+Jumia Technologies (JMIA),JMIA,2020-07-29,L,5,$11.37
+Lumber Liquidators (LL),LL,2020-07-29,L,1,$22.73
+Eli Lilly (LLY),LLY,2020-07-29,L,1,$161.75
+Martin Marietta Materials (MLM),MLM,2020-07-29,I,1,$214.13
+Marvell Technology (MRVL),MRVL,2020-07-29,L,1,$35.11
+Microsoft (MSFT),MSFT,2020-07-29,D,1,$204.06
+Nio (NIO),NIO,2020-07-29,L,5,$12.70
+Qorvo (QRVO),QRVO,2020-07-29,L,1,$115.28
+Regeneron Pharmaceuticals (REGN),REGN,2020-07-29,L,1,$632.16
+Skyworks Solutions (SWKS),SWKS,2020-07-29,L,1,$136.45
+Apple (AAPL),AAPL,2020-07-30,F,1,$384.76
+Blink Charging (BLNK),BLNK,2020-07-30,L,5,$12.49
+Collier Creek (CCH),CCH,2020-07-30,I,1,$13.58
+Dynatrace (DT),DT,2020-07-30,L,1,$42.37
+Meta (FB),FB,2020-07-30,F,1,$234.50
+Keurig Dr Pepper (KDP),KDP,2020-07-30,I,1,$30.77
+Rosetta Stone (RST),RST,2020-07-30,L,1,$25.94
+Taylor Morrison Homes (TMHC),TMHC,2020-07-30,I,1,$23.91
+Vaxart (VXRT),VXRT,2020-07-30,L,5,$9.92
+Alexion Pharmaceuticals (ALXN),ALXN,2020-08-03,L,4,$104.85
+Becton Dickinson (BDX),BDX,2020-08-03,L,1,$283.68
+Chegg (CHGG),CHGG,2020-08-03,D,1,$85.93
+Chewy (CHWY),CHWY,2020-08-03,D,1,$56.84
+Clorox (CLX),CLX,2020-08-03,I,1,$231.96
+Emergent BioSolutions (EBS),EBS,2020-08-03,D,1,$118.00
+eHealth (EHTH),EHTH,2020-08-03,L,1,$67.59
+Etsy (ETSY),ETSY,2020-08-03,D,1,$126.62
+Fastly (FSLY),FSLY,2020-08-03,D,1,$111.66
+Acushnet Holdings (GOLF),GOLF,2020-08-03,L,1,$38.72
+Livongo Health (LVGO),LVGO,2020-08-03,D,1,$136.63
+Microsoft (MSFT),MSFT,2020-08-03,D,1,$216.54
+Pinterest (PINS),PINS,2020-08-03,I,1,$36.08
+Peloton (PTON),PTON,2020-08-03,D,1,$72.68
+Sorrento Therapeutics (SRNE),SRNE,2020-08-03,L,1,$9.77
+Atlassian (TEAM),TEAM,2020-08-03,I,1,$177.95
+Vale (VALE),VALE,2020-08-03,L,4,$11.42
+Slack (WORK),WORK,2020-08-03,D,2,$30.50
+Zoom Video Communications (ZM),ZM,2020-08-03,D,1,$268.00
+Advanced Micro Devices (AMD),AMD,2020-08-04,D,1,$85.04
+B&G Foods (BGS),BGS,2020-08-04,I,1,$29.51
+BP (BP),BP,2020-08-04,D,4,$23.74
+Clorox (CLX),CLX,2020-08-04,F,1,$237.74
+Costco (COST),COST,2020-08-04,D,1,$339.79
+Salesforce (CRM),CRM,2020-08-04,L,1,$201.41
+Dropbox (DBX),DBX,2020-08-04,L,5,$23.23
+Etsy (ETSY),ETSY,2020-08-04,D,1,$129.80
+Home Depot (HD),HD,2020-08-04,D,1,$267.87
+Intel (INTC),INTC,2020-08-04,D,4,$49.13
+Kellogg (K),K,2020-08-04,L,1,$69.71
+Nio (NIO),NIO,2020-08-04,D,5,$13.64
+Nikola (NKLA),NKLA,2020-08-04,D,5,$38.84
+ServiceNow (NOW),NOW,2020-08-04,L,1,$438.15
+PayPal (PYPL),PYPL,2020-08-04,D,1,$197.33
+Smartsheet (SMAR),SMAR,2020-08-04,L,5,$47.85
+Sorrento Therapeutics (SRNE),SRNE,2020-08-04,D,4,$12.84
+Target (TGT),TGT,2020-08-04,D,1,$130.45
+Uber (UBER),UBER,2020-08-04,L,2,$32.68
+Walmart (WMT),WMT,2020-08-04,D,1,$131.64
+American Airlines (AAL),AAL,2020-08-05,L,2,$12.56
+Beyond Meat (BYND),BYND,2020-08-05,I,1,$132.69
+DuPont (DD),DD,2020-08-05,D,1,$54.73
+Walt Disney (DIS),DIS,2020-08-05,D,1,$127.61
+Emerson Electric (EMR),EMR,2020-08-05,D,1,$64.69
+Lumentum Holdings (LITE),LITE,2020-08-05,L,4,$94.14
+Southwest Airlines (LUV),LUV,2020-08-05,L,1,$32.72
+Livongo Health (LVGO),LVGO,2020-08-05,F,1,$128.06
+Mastercard (MA),MA,2020-08-05,D,1,$328.00
+3M (MMM),MMM,2020-08-05,D,1,$155.35
+Nike (NKE),NKE,2020-08-05,D,1,$100.94
+Nucor (NUE),NUE,2020-08-05,D,1,$43.48
+PPG Industries (PPG),PPG,2020-08-05,D,1,$111.66
+PVH Corp (PVH),PVH,2020-08-05,D,1,$51.18
+Regeneron Pharmaceuticals (REGN),REGN,2020-08-05,F,1,$624.52
+Ralph Lauren (RL),RL,2020-08-05,D,1,$68.51
+Royalty Pharma (RPRX),RPRX,2020-08-05,L,1,$41.93
+Southern Company (SO),SO,2020-08-05,L,5,$53.40
+Sempra Energy (SRE),SRE,2020-08-05,I,1,$127.03
+Sarepta Therapeutics (SRPT),SRPT,2020-08-05,L,1,$158.89
+Teladoc (TDOC),TDOC,2020-08-05,F,1,$202.01
+TJX Companies (TJX),TJX,2020-08-05,L,1,$53.54
+Union Pacific (UNP),UNP,2020-08-05,D,1,$177.47
+Vertex Pharmaceuticals (VRTX),VRTX,2020-08-05,L,1,$273.23
+Wendy's (WEN),WEN,2020-08-05,F,1,$22.39
+Xilinx (XLNX),XLNX,2020-08-05,I,1,$107.57
+Alcoa (AA),AA,2020-08-06,L,5,$14.90
+Apple (AAPL),AAPL,2020-08-06,D,1,$455.61
+AGCO (AGCO),AGCO,2020-08-06,L,1,$68.30
+Andersons (ANDE),ANDE,2020-08-06,L,4,$17.00
+Ball Corp (BLL),BLL,2020-08-06,L,1,$74.44
+Salesforce (CRM),CRM,2020-08-06,D,1,$207.79
+Deere & Company (DE),DE,2020-08-06,L,1,$181.26
+Walt Disney (DIS),DIS,2020-08-06,D,1,$130.82
+Elanco Animal Health (ELAN),ELAN,2020-08-06,L,1,$24.44
+Etsy (ETSY),ETSY,2020-08-06,I,1,$130.66
+Meta (FB),FB,2020-08-06,D,1,$265.28
+Microsoft (MSFT),MSFT,2020-08-06,D,1,$216.35
+Papa Johns Pizza (PZZA),PZZA,2020-08-06,I,1,$97.53
+Virgin Galactic (SPCE),SPCE,2020-08-06,L,2,$19.34
+Verizon (VZ),VZ,2020-08-06,I,1,$57.83
+Alteryx (AYX),AYX,2020-08-10,L,4,$109.23
+Bed Bath & Beyond (BBBY),BBBY,2020-08-10,D,4,$12.66
+Digi International Inc (DGII),DGII,2020-08-10,L,2,$13.82
+Evolent Health (EVH),EVH,2020-08-10,L,4,$13.16
+Foot Locker (FL),FL,2020-08-10,D,2,$29.63
+Home Depot (HD),HD,2020-08-10,D,4,$274.73
+Inseego (INSG),INSG,2020-08-10,I,1,$12.79
+L3Harris Technologies (LHX),LHX,2020-08-10,L,1,$179.18
+Lockheed Martin (LMT),LMT,2020-08-10,L,1,$389.26
+Marriott International (MAR),MAR,2020-08-10,D,2,$97.13
+Novavax (NVAX),NVAX,2020-08-10,F,4,$178.51
+Royal Caribbean Cruises (RCL),RCL,2020-08-10,D,2,$57.31
+SailPoint Technologies (SAIL),SAIL,2020-08-10,I,1,$36.02
+Sorrento Therapeutics (SRNE),SRNE,2020-08-10,F,4,$18.82
+Take-Two Interactive (TTWO),TTWO,2020-08-10,I,1,$174.73
+Beyond Meat (BYND),BYND,2020-08-11,L,1,$125.50
+Salesforce (CRM),CRM,2020-08-11,D,2,$191.99
+Camping World (CWH),CWH,2020-08-11,L,1,$32.06
+DuPont (DD),DD,2020-08-11,D,1,$57.30
+Domino's Pizza (DPZ),DPZ,2020-08-11,L,1,$388.65
+Federal Realty Investment (FRT),FRT,2020-08-11,I,1,$82.18
+GrowGeneration (GRWG),GRWG,2020-08-11,L,4,$8.61
+Honeywell (HON),HON,2020-08-11,D,1,$160.28
+Owens & Minor (OMI),OMI,2020-08-11,I,1,$14.82
+Qualcomm (QCOM),QCOM,2020-08-11,L,4,$108.83
+Rapid7 (RPD),RPD,2020-08-11,L,1,$57.01
+Twilio (TWLO),TWLO,2020-08-11,L,1,$244.49
+Zoom Video Communications (ZM),ZM,2020-08-11,D,4,$231.04
+Apple (AAPL),AAPL,2020-08-12,D,1,$452.04
+Cisco Systems (CSCO),CSCO,2020-08-12,I,1,$48.10
+Emergent BioSolutions (EBS),EBS,2020-08-12,I,1,$129.57
+eXp World (EXPI),EXPI,2020-08-12,L,1,$30.91
+FLIR Systems (FLIR),FLIR,2020-08-12,L,1,$36.55
+j2 Global Communications (JCOM),JCOM,2020-08-12,I,1,$70.56
+Kandi Technologies (KNDI),KNDI,2020-08-12,L,5,$8.68
+Polaris Industries (PII),PII,2020-08-12,L,1,$107.16
+ServiceMaster (SERV),SERV,2020-08-12,L,1,$41.41
+Trinseo (TSE),TSE,2020-08-12,L,5,$26.97
+ZoomInfo Technologies (ZI),ZI,2020-08-12,L,1,$38.53
+Axcelis Technologies (ACLS),ACLS,2020-08-13,L,1,$26.31
+Azek Company (AZEK),AZEK,2020-08-13,I,1,$35.56
+Eventbrite (EB),EB,2020-08-13,L,4,$9.91
+Five9 (FIVN),FIVN,2020-08-13,I,1,$119.45
+FleetCor Technologies (FLT),FLT,2020-08-13,L,4,$234.63
+Opko Health (OPK),OPK,2020-08-13,L,1,$4.86
+PayPal (PYPL),PYPL,2020-08-13,I,1,$193.07
+Tupperware (TUP),TUP,2020-08-13,L,4,$13.66
+KE Holdings (BEKE),BEKE,2020-08-17,F,5,$38.72
+Builders FirstSource (BLDR),BLDR,2020-08-17,L,1,$30.02
+Danaher (DHR),DHR,2020-08-17,D,1,$205.57
+Domino's Pizza (DPZ),DPZ,2020-08-17,D,1,$409.39
+GrowGeneration (GRWG),GRWG,2020-08-17,I,1,$16.16
+Home Depot (HD),HD,2020-08-17,D,1,$288.24
+Lowe's (LOW),LOW,2020-08-17,D,1,$158.41
+Ping Identity (PING),PING,2020-08-17,L,4,$33.22
+PerkinElmer (PKI),PKI,2020-08-17,I,1,$119.67
+Royalty Pharma (RPRX),RPRX,2020-08-17,L,1,$45.95
+Thermo Fisher Scientific (TMO),TMO,2020-08-17,D,1,$416.80
+Vertex Pharmaceuticals (VRTX),VRTX,2020-08-17,L,1,$273.84
+Wingstop (WING),WING,2020-08-17,D,1,$157.41
+Walmart (WMT),WMT,2020-08-17,D,1,$135.60
+Apple (AAPL),AAPL,2020-08-18,D,1,$462.25
+Advanced Micro Devices (AMD),AMD,2020-08-18,D,1,$81.66
+Amarin (AMRN),AMRN,2020-08-18,L,5,$6.84
+CBRL Group (CBRL),CBRL,2020-08-18,L,5,$117.56
+Cadence Systems (CDNS),CDNS,2020-08-18,D,1,$109.15
+Celsius Holdings (CELH),CELH,2020-08-18,L,1,$23.07
+Columbia Sportswear (COLM),COLM,2020-08-18,I,1,$80.66
+D R Horton (DHI),DHI,2020-08-18,L,1,$73.54
+Darden Restaurants (DRI),DRI,2020-08-18,L,1,$82.83
+Brinker International (EAT),EAT,2020-08-18,L,1,$37.72
+eHealth (EHTH),EHTH,2020-08-18,I,1,$76.28
+EQT Corp (EQT),EQT,2020-08-18,L,5,$16.53
+GrowGeneration (GRWG),GRWG,2020-08-18,F,1,$17.67
+KLA Corp (KLAC),KLAC,2020-08-18,D,1,$211.76
+Livongo Health (LVGO),LVGO,2020-08-18,L,1,$136.01
+ServiceNow (NOW),NOW,2020-08-18,D,1,$437.58
+NVIDIA (NVDA),NVDA,2020-08-18,D,1,$490.43
+PayPal (PYPL),PYPL,2020-08-18,D,1,$194.57
+Qorvo (QRVO),QRVO,2020-08-18,D,1,$132.61
+WestRock (WRK),WRK,2020-08-18,L,5,$29.10
+Apple (AAPL),AAPL,2020-08-19,D,2,$462.83
+Analog Devices (ADI),ADI,2020-08-19,I,1,$118.15
+Aphria (APHA),APHA,2020-08-19,L,4,$4.63
+Activision Blizzard (ATVI),ATVI,2020-08-19,L,1,$81.98
+Chewy (CHWY),CHWY,2020-08-19,L,1,$56.22
+Home Depot (HD),HD,2020-08-19,D,1,$282.86
+At Home Group (HOME),HOME,2020-08-19,I,1,$18.66
+Linde (LIN),LIN,2020-08-19,I,1,$247.24
+Lowe's (LOW),LOW,2020-08-19,D,1,$158.28
+Livongo Health (LVGO),LVGO,2020-08-19,L,1,$135.74
+Microsoft (MSFT),MSFT,2020-08-19,D,2,$209.70
+1Life Healthcare (ONEM),ONEM,2020-08-19,L,4,$29.67
+PetMed Express (PETS),PETS,2020-08-19,L,1,$33.48
+SmileDirectClub (SDC),SDC,2020-08-19,L,5,$7.97
+Sonos (SONO),SONO,2020-08-19,L,2,$14.27
+Spotify (SPOT),SPOT,2020-08-19,L,1,$261.72
+Switch (SWCH),SWCH,2020-08-19,L,1,$17.12
+Target (TGT),TGT,2020-08-19,D,1,$154.22
+Tyson Foods (TSN),TSN,2020-08-19,L,5,$63.48
+2U (TWOU),TWOU,2020-08-19,L,5,$39.32
+Walmart (WMT),WMT,2020-08-19,D,1,$132.41
+American Airlines (AAL),AAL,2020-08-20,D,4,$12.50
+Apple (AAPL),AAPL,2020-08-20,D,1,$473.10
+Akamai Technologies (AKAM),AKAM,2020-08-20,I,1,$110.35
+Boeing (BA),BA,2020-08-20,L,2,$169.58
+Bank of America (BAC),BAC,2020-08-20,L,4,$25.10
+BJ's Wholesale Club (BJ),BJ,2020-08-20,L,2,$44.46
+Costco (COST),COST,2020-08-20,L,1,$340.87
+Ford Motor (F),F,2020-08-20,D,4,$6.84
+General Motors (GM),GM,2020-08-20,D,4,$28.83
+At Home Group (HOME),HOME,2020-08-20,D,1,$19.24
+Neurocrine Biosciences (NBIX),NBIX,2020-08-20,L,5,$113.49
+Norwegian Cruise Line (NCLH),NCLH,2020-08-20,D,4,$15.58
+Nike (NKE),NKE,2020-08-20,L,1,$108.01
+NVIDIA (NVDA),NVDA,2020-08-20,F,1,$485.64
+Ooma (OOMA),OOMA,2020-08-20,L,5,$17.18
+Occidental Petroleum (OXY),OXY,2020-08-20,D,4,$13.40
+Ping Identity (PING),PING,2020-08-20,I,1,$34.21
+Under Armour (UA),UA,2020-08-20,L,4,$8.79
+Zoom Video Communications (ZM),ZM,2020-08-20,D,1,$290.69
+Apple (AAPL),AAPL,2020-08-24,F,1,$503.43
+Estee Lauder (EL),EL,2020-08-24,L,1,$212.57
+Fiserv (FISV),FISV,2020-08-24,I,1,$96.22
+Gilead Sciences (GILD),GILD,2020-08-24,L,5,$66.08
+Barrick Gold (GOLD),GOLD,2020-08-24,L,1,$28.97
+Huntington Ingalls (HII),HII,2020-08-24,L,4,$162.18
+International Flavors and (IFF),IFF,2020-08-24,L,1,$122.89
+Karyopharm Therapeutics (KPTI),KPTI,2020-08-24,L,1,$14.19
+Linde (LIN),LIN,2020-08-24,L,1,$248.91
+Lockheed Martin (LMT),LMT,2020-08-24,L,1,$395.04
+Opko Health (OPK),OPK,2020-08-24,I,1,$4.74
+Palo Alto Networks (PANW),PANW,2020-08-24,I,1,$267.07
+Plug Power (PLUG),PLUG,2020-08-24,L,2,$12.34
+Regeneron Pharmaceuticals (REGN),REGN,2020-08-24,L,1,$594.77
+Raytheon Technologies (RTX),RTX,2020-08-24,L,1,$61.88
+Axon Enterprise (AAXN),AAXN,2020-08-25,L,1,$85.23
+Amgen (AMGN),AMGN,2020-08-25,F,1,$248.22
+Salesforce (CRM),CRM,2020-08-25,I,1,$216.05
+Chevron (CVX),CVX,2020-08-25,L,2,$86.13
+General Electric (GE),GE,2020-08-25,L,1,$6.59
+Hilton Hotels (HLT),HLT,2020-08-25,D,2,$88.44
+Honeywell (HON),HON,2020-08-25,F,1,$164.53
+Hormel Foods (HRL),HRL,2020-08-25,I,1,$51.54
+Southwest Airlines (LUV),LUV,2020-08-25,D,2,$37.06
+Marathon Petroleum (MPC),MPC,2020-08-25,L,1,$36.45
+Norwegian Cruise Line (NCLH),NCLH,2020-08-25,D,2,$16.75
+Pfizer (PFE),PFE,2020-08-25,D,4,$38.41
+Peloton (PTON),PTON,2020-08-25,L,5,$66.45
+Raytheon Technologies (RTX),RTX,2020-08-25,D,4,$60.95
+Scotts Miracle-Gro (SMG),SMG,2020-08-25,L,1,$174.89
+Exxon Mobil (XOM),XOM,2020-08-25,D,5,$40.88
+Apple (AAPL),AAPL,2020-08-26,D,2,$506.09
+Best Buy (BBY),BBY,2020-08-26,D,1,$112.31
+Churchill Capital (CCX),CCX,2020-08-26,L,4,$10.52
+Costco (COST),COST,2020-08-26,D,1,$344.27
+Salesforce (CRM),CRM,2020-08-26,D,2,$272.32
+Dicks Sporting Goods (DKS),DKS,2020-08-26,D,1,$53.99
+Meta (FB),FB,2020-08-26,D,2,$303.91
+GrowGeneration (GRWG),GRWG,2020-08-26,L,1,$14.05
+Home Depot (HD),HD,2020-08-26,D,1,$291.93
+Inseego (INSG),INSG,2020-08-26,L,1,$10.86
+Intuit (INTU),INTU,2020-08-26,I,1,$342.34
+Nordstrom (JWN),JWN,2020-08-26,D,5,$14.69
+Kohl's (KSS),KSS,2020-08-26,D,5,$20.71
+L Brands (LB),LB,2020-08-26,D,5,$30.76
+Landcadia Holdings (LCA),LCA,2020-08-26,L,1,$16.12
+Lowe's (LOW),LOW,2020-08-26,D,1,$170.39
+3M (MMM),MMM,2020-08-26,I,1,$163.90
+Oneok (OKE),OKE,2020-08-26,L,5,$26.56
+Royal Dutch Shell (RDS.A),RDS.A,2020-08-26,L,5,$30.03
+Target (TGT),TGT,2020-08-26,D,1,$152.71
+TJX Companies (TJX),TJX,2020-08-26,D,4,$53.26
+Urban Outfitters (URBN),URBN,2020-08-26,D,1,$25.25
+Walmart (WMT),WMT,2020-08-26,D,1,$130.70
+Abbott Laboratories (ABT),ABT,2020-08-27,F,1,$111.29
+Centene (CNC),CNC,2020-08-27,L,2,$60.49
+Cisco Systems (CSCO),CSCO,2020-08-27,L,2,$42.29
+Energy Transfer (ET),ET,2020-08-27,L,5,$6.53
+Generac Holdings (GNRC),GNRC,2020-08-27,L,1,$186.65
+HP (HPQ),HPQ,2020-08-27,I,1,$18.70
+Splunk (SPLK),SPLK,2020-08-27,I,1,$215.39
+Switch (SWCH),SWCH,2020-08-27,L,1,$16.99
+Atlassian (TEAM),TEAM,2020-08-27,D,2,$188.31
+Workday (WDAY),WDAY,2020-08-27,I,1,$216.63
+Williams-Sonoma (WSM),WSM,2020-08-27,I,1,$91.13
+Centene (CNC),CNC,2020-09-08,D,4,$57.16
+CrowdStrike (CRWD),CRWD,2020-09-08,I,1,$125.63
+Camping World (CWH),CWH,2020-09-08,L,1,$33.54
+eHealth (EHTH),EHTH,2020-09-08,L,4,$66.32
+Enviva Partners (EVA),EVA,2020-09-08,L,2,$38.77
+1-800-Flowers (FLWS),FLWS,2020-09-08,L,4,$24.16
+Fastly (FSLY),FSLY,2020-09-08,D,2,$81.08
+Gilead Sciences (GILD),GILD,2020-09-08,D,4,$64.14
+Johnson & Johnson (JNJ),JNJ,2020-09-08,D,4,$147.26
+Eli Lilly (LLY),LLY,2020-09-08,D,4,$149.31
+Livongo Health (LVGO),LVGO,2020-09-08,D,2,$123.10
+Peloton (PTON),PTON,2020-09-08,D,2,$85.60
+Block (SQ),SQ,2020-09-08,D,2,$139.11
+Twitter (TWTR),TWTR,2020-09-08,I,1,$38.19
+Zoom Video Communications (ZM),ZM,2020-09-08,D,2,$350.88
+Apple (AAPL),AAPL,2020-09-09,D,1,$117.32
+Albertsons (ACI),ACI,2020-09-09,L,2,$13.88
+Adobe Systems (ADBE),ADBE,2020-09-09,D,2,$479.46
+Advanced Micro Devices (AMD),AMD,2020-09-09,D,1,$81.91
+Broadcom (AVGO),AVGO,2020-09-09,D,1,$360.03
+Bristol-Myers Squibb (BMY),BMY,2020-09-09,D,1,$59.08
+Costco (COST),COST,2020-09-09,D,1,$346.43
+CrowdStrike (CRWD),CRWD,2020-09-09,D,1,$128.18
+DuPont (DD),DD,2020-09-09,D,1,$57.93
+LivePerson (LPSN),LPSN,2020-09-09,L,1,$52.05
+Lululemon Athletica (LULU),LULU,2020-09-09,D,1,$323.93
+Microsoft (MSFT),MSFT,2020-09-09,D,1,$211.29
+Micron Technology (MU ),MU ,2020-09-09,L,1,$45.15
+ServiceNow (NOW),NOW,2020-09-09,D,1,$458.20
+NVIDIA (NVDA),NVDA,2020-09-09,D,1,$508.60
+Qorvo (QRVO),QRVO,2020-09-09,D,1,$122.71
+RH (RH),RH,2020-09-09,D,1,$321.08
+Rocket Companies (RKT),RKT,2020-09-09,L,1,$23.39
+Shopify (SHOP),SHOP,2020-09-09,D,1,$949.31
+Sorrento Therapeutics (SRNE),SRNE,2020-09-09,L,4,$6.41
+Skyworks Solutions (SWKS),SWKS,2020-09-09,D,1,$137.61
+Ulta Beauty (ULTA),ULTA,2020-09-09,I,1,$235.40
+Wix.com (WIX),WIX,2020-09-09,D,1,$262.28
+Zoom Video Communications (ZM),ZM,2020-09-09,D,1,$389.65
+CrowdStrike (CRWD),CRWD,2020-09-10,L,1,$129.35
+FireEye (FEYE),FEYE,2020-09-10,L,4,$12.69
+Marvell Technology (MRVL),MRVL,2020-09-10,L,1,$38.51
+Ncino (NCNO),NCNO,2020-09-10,I,1,$84.20
+ON Semiconductor (ON),ON,2020-09-10,L,5,$21.52
+Palo Alto Networks (PANW),PANW,2020-09-10,L,1,$236.96
+Qorvo (QRVO),QRVO,2020-09-10,L,1,$121.46
+RH (RH),RH,2020-09-10,I,1,$385.46
+Sage Therapeutics (SAGE),SAGE,2020-09-10,I,1,$54.25
+Skyworks Solutions (SWKS),SWKS,2020-09-10,L,1,$135.23
+ZScaler (ZS),ZS,2020-09-10,L,1,$132.61
+Adobe Systems (ADBE),ADBE,2020-09-11,D,1,$471.35
+Alliance Data (ADS),ADS,2020-09-11,M,5,$45.25
+Applied Materials (AMAT),AMAT,2020-09-11,L,2,$55.00
+The Blackstone Group (BX),BX,2020-09-11,L,1,$51.47
+Camping World (CWH),CWH,2020-09-11,D,1,$34.44
+Deere & Company (DE),DE,2020-09-11,D,1,$215.96
+Walt Disney (DIS),DIS,2020-09-11,L,1,$131.75
+FedEx (FDX),FDX,2020-09-11,D,1,$232.79
+Horizon Pharmaceuticals (HZNP),HZNP,2020-09-11,L,5,$70.54
+Kraft Heinz (KHC),KHC,2020-09-11,D,4,$31.71
+Lennar (LEN),LEN,2020-09-11,D,1,$77.48
+Lam Research (LRCX),LRCX,2020-09-11,L,1,$293.99
+Herman Miller (MLHR),MLHR,2020-09-11,D,1,$22.69
+Moog (MOG.A),MOG.A,2020-09-11,M,1,$59.80
+Mosaic (MOS),MOS,2020-09-11,D,4,$18.31
+Moderna (MRNA),MRNA,2020-09-11,D,2,$59.34
+Nikola (NKLA),NKLA,2020-09-11,F,5,$32.13
+OptimizeRx (OPRX),OPRX,2020-09-11,L,4,$18.12
+Osmotica Pharmaceuticals (OSMT),OSMT,2020-09-11,M,5,$4.96
+Pfizer (PFE),PFE,2020-09-11,D,1,$36.07
+Purple Innovation (PRPL),PRPL,2020-09-11,L,5,$23.57
+Peloton (PTON),PTON,2020-09-11,D,2,$84.04
+Apple (AAPL),AAPL,2020-09-14,F,1,$115.36
+Columbia Financial (CLBK),CLBK,2020-09-14,L,5,$11.24
+Costco (COST),COST,2020-09-14,D,1,$342.92
+Cintas (CTAS),CTAS,2020-09-14,L,1,$327.81
+CVS Health (CVS),CVS,2020-09-14,L,2,$57.97
+First Horizon National (FHN),FHN,2020-09-14,L,4,$9.79
+Gilead Sciences (GILD),GILD,2020-09-14,D,1,$66.34
+GoHealth (GOCO),GOCO,2020-09-14,L,4,$12.84
+GW Pharmaceuticals (GWPH),GWPH,2020-09-14,I,1,$106.89
+Home Depot (HD),HD,2020-09-14,D,1,$280.65
+At Home Group (HOME),HOME,2020-09-14,L,1,$16.15
+Marriott International (MAR),MAR,2020-09-14,D,1,$104.68
+Norwegian Cruise Line (NCLH),NCLH,2020-09-14,D,1,$17.79
+NVIDIA (NVDA),NVDA,2020-09-14,D,1,$514.89
+Penn National Gaming (PENN),PENN,2020-09-14,D,1,$65.54
+PVH Corp (PVH),PVH,2020-09-14,D,1,$71.40
+Tortoise Acquisition (SHLL),SHLL,2020-09-14,L,5,$43.25
+TJX Companies (TJX),TJX,2020-09-14,D,1,$55.47
+Tapestry (TPR),TPR,2020-09-14,D,1,$17.52
+Tesla (TSLA),TSLA,2020-09-14,F,1,$419.62
+Yum! Brands (YUM),YUM,2020-09-14,D,1,$92.87
+Adobe Systems (ADBE),ADBE,2020-09-15,D,1,$497.67
+Alibaba (BABA),BABA,2020-09-15,L,1,$277.96
+Buckle (BKE),BKE,2020-09-15,L,5,$21.30
+Citigroup (C),C,2020-09-15,D,4,$44.81
+Caterpillar (CAT),CAT,2020-09-15,D,1,$148.60
+D R Horton (DHI),DHI,2020-09-15,D,1,$71.77
+FedEx (FDX),FDX,2020-09-15,D,1,$236.67
+First Horizon National (FHN),FHN,2020-09-15,D,4,$9.65
+GoPro (GPRO),GPRO,2020-09-15,L,5,$3.89
+Jumia Technologies (JMIA),JMIA,2020-09-15,L,4,$7.83
+Eastman Kodak (KODK),KODK,2020-09-15,L,5,$6.23
+Lennar (LEN),LEN,2020-09-15,I,1,$75.90
+Altria (MO),MO,2020-09-15,L,5,$42.78
+PVH Corp (PVH),PVH,2020-09-15,L,1,$70.93
+RH (RH),RH,2020-09-15,D,1,$374.24
+Ralph Lauren (RL),RL,2020-09-15,L,1,$80.62
+Rackspace Technology (RXT),RXT,2020-09-15,L,5,$18.40
+Union Pacific (UNP),UNP,2020-09-15,I,1,$202.37
+Wells Fargo (WFC),WFC,2020-09-15,D,4,$24.88
+Workhorse Group (WKHS),WKHS,2020-09-15,L,5,$25.35
+Exxon Mobil (XOM),XOM,2020-09-15,D,5,$36.27
+Zynga (ZNGA),ZNGA,2020-09-15,L,2,$8.52
+Alteryx (AYX),AYX,2020-09-16,L,2,$108.49
+Box (BOX),BOX,2020-09-16,I,1,$18.05
+Campbell Soup (CPB),CPB,2020-09-16,I,1,$45.26
+Chevron (CVX),CVX,2020-09-16,L,1,$78.56
+FedEx (FDX),FDX,2020-09-16,D,1,$250.30
+JFrog (FROG),FROG,2020-09-16,F,4,$64.79
+General Electric (GE),GE,2020-09-16,D,2,$6.75
+Honeywell (HON),HON,2020-09-16,D,1,$170.00
+Lennar (LEN),LEN,2020-09-16,D,1,$78.89
+Lululemon Athletica (LULU),LULU,2020-09-16,D,1,$309.99
+3M (MMM),MMM,2020-09-16,D,1,$169.51
+Nordic American Tanker (NAT),NAT,2020-09-16,L,5,$3.91
+Parsley Energy (PE),PE,2020-09-16,L,1,$10.15
+Snowflake (SNOW),SNOW,2020-09-16,F,4,$253.93
+Tapestry (TPR),TPR,2020-09-16,D,2,$18.10
+Uber (UBER),UBER,2020-09-16,L,1,$37.66
+Zoom Video Communications (ZM),ZM,2020-09-16,L,1,$408.17
+Abbott Laboratories (ABT),ABT,2020-09-17,L,1,$106.66
+American Electric Power (AEP),AEP,2020-09-17,L,1,$80.04
+Amwell (AMWL),AMWL,2020-09-17,F,2,$23.07
+Box (BOX),BOX,2020-09-17,D,1,$17.80
+Clorox (CLX),CLX,2020-09-17,L,2,$206.85
+Campbell Soup (CPB),CPB,2020-09-17,D,1,$45.59
+Consolidated Edison (ED),ED,2020-09-17,L,1,$75.93
+LM Ericsson (ERIC),ERIC,2020-09-17,L,5,$11.03
+Freeport-McMoRan (FCX),FCX,2020-09-17,L,2,$17.03
+Fulgent Genetics (FLGT),FLGT,2020-09-17,L,1,$31.72
+Hannon Armstrong (HASI),HASI,2020-09-17,L,5,$39.39
+Lennar (LEN),LEN,2020-09-17,D,1,$78.14
+Herman Miller (MLHR),MLHR,2020-09-17,D,1,$34.55
+Marvell Technology (MRVL),MRVL,2020-09-17,L,1,$38.71
+NextEra Energy (NEE),NEE,2020-09-17,L,1,$279.52
+Penn National Gaming (PENN),PENN,2020-09-17,F,1,$73.00
+Proofpoint (PFPT),PFPT,2020-09-17,I,1,$103.19
+Peloton (PTON),PTON,2020-09-17,L,4,$85.20
+Splunk (SPLK),SPLK,2020-09-17,L,1,$177.68
+Thermo Fisher Scientific (TMO),TMO,2020-09-17,L,1,$432.93
+The Trade Desk (TTD),TTD,2020-09-17,L,4,$428.77
+Vale (VALE),VALE,2020-09-17,L,4,$11.88
+Accenture (ACN),ACN,2020-09-18,D,1,$236.18
+CBRL Group (CBRL),CBRL,2020-09-18,L,5,$118.28
+Costco (COST),COST,2020-09-18,D,1,$335.96
+3D Systems (DDD),DDD,2020-09-18,L,4,$5.32
+Darden Restaurants (DRI),DRI,2020-09-18,D,1,$89.97
+Freeport-McMoRan (FCX),FCX,2020-09-18,F,1,$17.00
+FedEx (FDX),FDX,2020-09-18,D,2,$242.78
+General Mills (GIS),GIS,2020-09-18,D,1,$57.32
+Jabil (JBL),JBL,2020-09-18,D,1,$33.42
+KB Home (KBH),KBH,2020-09-18,D,1,$38.99
+Carmax (KMX),KMX,2020-09-18,D,1,$103.07
+Nike (NKE),NKE,2020-09-18,D,1,$114.66
+Nokia (NOK),NOK,2020-09-18,L,5,$4.09
+Plug Power (PLUG),PLUG,2020-09-18,L,1,$13.56
+Splunk (SPLK),SPLK,2020-09-18,I,1,$174.89
+Unity Software (U),U,2020-09-18,F,4,$68.35
+Zebra Technologies (ZBRA),ZBRA,2020-09-18,L,1,$256.15
+Albertsons (ACI),ACI,2020-09-21,I,1,$13.66
+Arrowhead Pharmaceuticals (ARWR),ARWR,2020-09-21,L,1,$41.71
+Ciena (CIEN),CIEN,2020-09-21,L,5,$40.59
+Coty (COTY),COTY,2020-09-21,L,5,$3.02
+Campbell Soup (CPB),CPB,2020-09-21,D,1,$46.07
+Caesars Entertainment (CZR),CZR,2020-09-21,L,5,$54.43
+DocuSign (DOCU),DOCU,2020-09-21,D,1,$205.02
+DiamondPeak Holding (DPHC),DPHC,2020-09-21,L,4,$31.40
+The GEO Group (GEO),GEO,2020-09-21,L,5,$10.75
+Coca-Cola (KO),KO,2020-09-21,I,1,$49.09
+Eli Lilly (LLY),LLY,2020-09-21,I,1,$151.18
+Marcus (MCS),MCS,2020-09-21,L,5,$9.35
+Netflix (NFLX),NFLX,2020-09-21,D,1,$487.35
+Oracle (ORCL),ORCL,2020-09-21,D,1,$60.82
+Peloton (PTON),PTON,2020-09-21,D,1,$94.80
+Republic Services (RSG),RSG,2020-09-21,L,1,$94.04
+Shopify (SHOP),SHOP,2020-09-21,D,1,$927.89
+Block (SQ),SQ,2020-09-21,D,1,$151.12
+Smith & Wesson Brands (SWBI),SWBI,2020-09-21,L,2,$15.22
+Walmart (WMT),WMT,2020-09-21,D,1,$137.07
+Carvana (CVNA),CVNA,2020-09-22,D,1,$226.83
+DocuSign (DOCU),DOCU,2020-09-22,D,1,$212.13
+Darden Restaurants (DRI),DRI,2020-09-22,D,1,$89.98
+eBay (EBAY),EBAY,2020-09-22,L,1,$50.92
+e.l.f. Beauty (ELF),ELF,2020-09-22,I,1,$19.12
+First Solar (FSLR),FSLR,2020-09-22,L,5,$61.55
+Fastly (FSLY),FSLY,2020-09-22,L,1,$94.31
+Kratos Defense & Security (KTOS),KTOS,2020-09-22,L,1,$18.87
+Lululemon Athletica (LULU),LULU,2020-09-22,D,1,$313.60
+Macy's (M),M,2020-09-22,I,1,$6.27
+ArcelorMittal (MT),MT,2020-09-22,L,5,$12.43
+Nike (NKE),NKE,2020-09-22,D,1,$116.87
+Nikola (NKLA),NKLA,2020-09-22,F,5,$28.51
+Okta (OKTA),OKTA,2020-09-22,D,1,$211.86
+Palo Alto Networks (PANW),PANW,2020-09-22,D,1,$246.50
+Ralph Lauren (RL),RL,2020-09-22,D,1,$75.04
+Sirius XM Radio (SIRI),SIRI,2020-09-22,L,2,$5.13
+Zoom Video Communications (ZM),ZM,2020-09-22,D,1,$492.60
+ZScaler (ZS),ZS,2020-09-22,D,1,$137.99
+Apple (AAPL),AAPL,2020-09-23,D,1,$107.12
+Beyond Meat (BYND),BYND,2020-09-23,L,1,$150.57
+Chegg (CHGG),CHGG,2020-09-23,L,1,$69.95
+Chewy (CHWY),CHWY,2020-09-23,L,1,$54.99
+GoodRX (GDRX),GDRX,2020-09-23,F,1,$50.50
+General Mills (GIS),GIS,2020-09-23,D,1,$57.72
+Inseego (INSG),INSG,2020-09-23,L,1,$10.68
+Johnson & Johnson (JNJ),JNJ,2020-09-23,D,1,$144.44
+Coca-Cola (KO),KO,2020-09-23,D,1,$48.21
+LyondellBasell Industries (LYB),LYB,2020-09-23,L,1,$69.99
+MetLife (MET),MET,2020-09-23,L,4,$36.09
+Magna International (MGA),MGA,2020-09-23,L,1,$44.19
+Microsoft (MSFT),MSFT,2020-09-23,D,1,$200.59
+Nike (NKE),NKE,2020-09-23,F,1,$127.11
+Pepsico (PEP),PEP,2020-09-23,D,1,$131.00
+Anaplan (PLAN),PLAN,2020-09-23,I,1,$59.84
+Tesla (TSLA),TSLA,2020-09-23,F,1,$380.36
+Boeing (BA),BA,2020-09-25,L,2,$156.03
+Bed Bath & Beyond (BBBY),BBBY,2020-09-25,D,4,$14.53
+Brunswick (BC),BC,2020-09-25,I,1,$58.81
+ConAgra Foods (CAG),CAG,2020-09-25,D,4,$35.12
+Costco (COST),COST,2020-09-25,F,1,$342.58
+Danaher (DHR),DHR,2020-09-25,L,1,$207.16
+8x8 (EGHT),EGHT,2020-09-25,F,5,$15.28
+General Electric (GE),GE,2020-09-25,L,4,$6.11
+Illumina (ILMN),ILMN,2020-09-25,L,5,$299.89
+Micron Technology (MU),MU,2020-09-25,D,4,$49.14
+Nikola (NKLA),NKLA,2020-09-25,D,5,$19.46
+Pepsico (PEP),PEP,2020-09-25,D,2,$133.55
+Ping Identity (PING),PING,2020-09-25,L,1,$30.24
+RedHill Biopharma (RDHL),RDHL,2020-09-25,L,4,$10.09
+Rocket Companies (RKT),RKT,2020-09-25,L,5,$20.52
+Royalty Pharma (RPRX),RPRX,2020-09-25,L,1,$40.07
+Spartan Energy Acquisitio (SPAQ),SPAQ,2020-09-25,F,5,$13.75
+Constellation Brands (STZ),STZ,2020-09-25,D,2,$181.82
+Thor Industries (THO),THO,2020-09-25,D,1,$93.21
+Thermo Fisher Scientific (TMO),TMO,2020-09-25,L,1,$422.29
+Walgreens Boots Alliance (WBA),WBA,2020-09-25,L,5,$35.43
+AutoNation (AN),AN,2020-10-05,D,2,$59.47
+Bed Bath & Beyond (BBBY),BBBY,2020-10-05,D,1,$20.49
+Best Buy (BBY),BBY,2020-10-05,D,1,$116.07
+Bristol-Myers Squibb (BMY),BMY,2020-10-05,I,1,$59.20
+Costco (COST),COST,2020-10-05,D,1,$358.58
+Ford Motor (F),F,2020-10-05,D,1,$7.02
+Home Depot (HD),HD,2020-10-05,D,1,$282.10
+Carmax (KMX),KMX,2020-10-05,D,2,$97.91
+Lowe's (LOW),LOW,2020-10-05,D,1,$168.54
+Regeneron Pharmaceuticals (REGN),REGN,2020-10-05,D,2,$605.08
+Target (TGT),TGT,2020-10-05,D,1,$161.49
+Walmart (WMT),WMT,2020-10-05,D,1,$141.80
+Slack (WORK),WORK,2020-10-05,I,1,$28.28
+AutoNation (AN),AN,2020-10-06,D,1,$59.03
+Blink Charging (BLNK),BLNK,2020-10-06,L,5,$10.80
+ConAgra Foods (CAG),CAG,2020-10-06,D,1,$36.85
+Costco (COST),COST,2020-10-06,D,1,$358.35
+Carvana (CVNA),CVNA,2020-10-06,D,1,$214.65
+Darden Restaurants (DRI),DRI,2020-10-06,D,1,$101.25
+Ford Motor (F),F,2020-10-06,D,1,$6.98
+GoodRX (GDRX),GDRX,2020-10-06,L,4,$57.16
+Generac Holdings (GNRC),GNRC,2020-10-06,I,1,$207.37
+Barrick Gold (GOLD),GOLD,2020-10-06,L,1,$27.06
+Home Depot (HD),HD,2020-10-06,D,1,$276.47
+Johnson & Johnson (JNJ),JNJ,2020-10-06,D,1,$146.26
+Lowe's (LOW),LOW,2020-10-06,D,1,$164.99
+Cloudflare (NET),NET,2020-10-06,I,1,$42.23
+Paychex (PAYX),PAYX,2020-10-06,I,1,$79.43
+Pepsico (PEP),PEP,2020-10-06,D,1,$135.70
+Peloton (PTON),PTON,2020-10-06,D,1,$111.31
+RadNet (RDNT),RDNT,2020-10-06,L,4,$15.69
+Regeneron Pharmaceuticals (REGN),REGN,2020-10-06,D,1,$581.64
+Sea Limited (SE),SE,2020-10-06,L,4,$163.44
+Target (TGT),TGT,2020-10-06,D,1,$158.41
+Walmart (WMT),WMT,2020-10-06,D,1,$140.63
+Apple (AAPL),AAPL,2020-10-07,F,1,$115.08
+Alteryx (AYX),AYX,2020-10-07,L,1,$143.68
+Exact Sciences (EXAS),EXAS,2020-10-07,I,1,$108.43
+Meta (FB),FB,2020-10-07,F,1,$258.12
+Barrick Gold (GOLD),GOLD,2020-10-07,L,1,$26.95
+Kinross Gold (KGC),KGC,2020-10-07,L,4,$8.43
+Levi Strauss (LEVI),LEVI,2020-10-07,I,1,$15.49
+K12 (LRN),LRN,2020-10-07,L,1,$29.83
+Sunrun (RUN),RUN,2020-10-07,L,1,$78.05
+Tanger Factory Outlet Cen (SKT),SKT,2020-10-07,L,5,$6.37
+WW International (WW),WW,2020-10-07,L,5,$22.69
+Akamai Technologies (AKAM),AKAM,2020-10-08,L,1,$111.08
+Boeing (BA),BA,2020-10-08,L,1,$168.00
+Best Buy (BBY),BBY,2020-10-08,D,1,$114.92
+Salesforce (CRM),CRM,2020-10-08,D,1,$260.22
+CRISPR Therapeutics (CRSP),CRSP,2020-10-08,L,1,$95.39
+Chevron (CVX),CVX,2020-10-08,D,2,$75.22
+Domino's Pizza (DPZ),DPZ,2020-10-08,I,1,$401.01
+Home Depot (HD),HD,2020-10-08,D,1,$284.52
+Lennar (LEN),LEN,2020-10-08,D,1,$84.01
+Levi Strauss (LEVI),LEVI,2020-10-08,D,1,$15.56
+Limelight Networks (LLNW),LLNW,2020-10-08,L,5,$5.92
+McDonald's (MCD),MCD,2020-10-08,D,1,$225.80
+Herman Miller (MLHR),MLHR,2020-10-08,D,1,$31.70
+Marvell Technology (MRVL),MRVL,2020-10-08,I,1,$42.75
+Netflix (NFLX),NFLX,2020-10-08,D,1,$531.79
+Nikola (NKLA),NKLA,2020-10-08,D,5,$25.00
+Norfolk Southern (NSC),NSC,2020-10-08,D,1,$216.39
+Parsley Energy (PE),PE,2020-10-08,D,2,$10.28
+Roku (ROKU),ROKU,2020-10-08,D,1,$223.84
+Spartan Energy Acquisitio (SPAQ),SPAQ,2020-10-08,F,4,$13.94
+Virgin Galactic (SPCE),SPCE,2020-10-08,L,5,$22.09
+Stanley Black & Decker (SWK),SWK,2020-10-08,D,1,$173.59
+Toll Brothers (TOL),TOL,2020-10-08,D,1,$49.23
+Tesla (TSLA),TSLA,2020-10-08,D,1,$425.92
+Union Pacific (UNP),UNP,2020-10-08,D,1,$203.78
+Wendy's (WEN),WEN,2020-10-08,D,1,$23.79
+Zoom Video Communications (ZM),ZM,2020-10-08,D,1,$478.55
+Advanced Micro Devices (AMD),AMD,2020-10-09,D,1,$83.10
+Bank of America (BAC),BAC,2020-10-09,D,2,$25.36
+Citigroup (C),C,2020-10-09,D,2,$44.93
+Costco (COST),COST,2020-10-09,D,1,$369.46
+Elanco Animal Health (ELAN),ELAN,2020-10-09,L,1,$33.10
+Equinix (EQIX),EQIX,2020-10-09,L,1,$829.35
+Etsy (ETSY),ETSY,2020-10-09,D,1,$146.67
+FedEx (FDX),FDX,2020-10-09,D,1,$271.55
+Guardant Health (GH),GH,2020-10-09,L,1,$108.19
+Illumina (ILMN),ILMN,2020-10-09,L,1,$339.04
+Johnson & Johnson (JNJ),JNJ,2020-10-09,D,2,$150.97
+JPMorgan Chase (JPM),JPM,2020-10-09,D,2,$101.20
+Levi Strauss (LEVI),LEVI,2020-10-09,D,1,$15.21
+Linde (LIN),LIN,2020-10-09,F,1,$239.94
+Lululemon Athletica (LULU),LULU,2020-10-09,D,1,$346.46
+Morgan Stanley (MS),MS,2020-10-09,D,1,$48.83
+Ncino (NCNO),NCNO,2020-10-09,L,1,$79.86
+Nokia (NOK),NOK,2020-10-09,L,5,$4.03
+Okta (OKTA),OKTA,2020-10-09,I,1,$236.45
+Plug Power (PLUG),PLUG,2020-10-09,F,1,$18.43
+Peloton (PTON),PTON,2020-10-09,D,1,$123.02
+Roku (ROKU),ROKU,2020-10-09,D,1,$223.95
+AT&T (T),T,2020-10-09,L,5,$28.32
+Thor Industries (THO),THO,2020-10-09,D,1,$96.59
+Trane Technologies (TT),TT,2020-10-09,L,1,$129.12
+Take-Two Interactive (TTWO),TTWO,2020-10-09,D,1,$161.64
+United Parcel Service (UPS),UPS,2020-10-09,D,1,$174.69
+VF Corp (VFC),VFC,2020-10-09,D,4,$77.61
+Verizon (VZ),VZ,2020-10-09,L,1,$59.33
+Walgreens Boots Alliance (WBA),WBA,2020-10-09,D,2,$36.34
+Wells Fargo (WFC),WFC,2020-10-09,D,4,$25.30
+Zoom Video Communications (ZM),ZM,2020-10-09,D,1,$492.41
+Apple (AAPL),AAPL,2020-10-12,D,1,$124.40
+AEO (AEO),AEO,2020-10-12,F,1,$15.01
+AGCO (AGCO),AGCO,2020-10-12,D,1,$80.61
+CBRL Group (CBRL),CBRL,2020-10-12,L,2,$117.77
+Corteva Agriscienses (CTVA),CTVA,2020-10-12,D,1,$33.59
+Deere & Company (DE),DE,2020-10-12,D,1,$236.52
+EOG Resources (EOG),EOG,2020-10-12,L,2,$38.21
+Energy Transfer (ET),ET,2020-10-12,L,5,$6.05
+Ford Motor (F),F,2020-10-12,D,1,$7.67
+Meta (FB),FB,2020-10-12,D,2,$275.75
+General Electric (GE),GE,2020-10-12,D,2,$6.83
+Gap (GPS),GPS,2020-10-12,F,1,$19.28
+JinkoSolar (JKS),JKS,2020-10-12,L,5,$59.40
+L Brands (LB),LB,2020-10-12,F,1,$32.05
+Mosaic (MOS),MOS,2020-10-12,D,1,$19.34
+Pepsico (PEP),PEP,2020-10-12,D,1,$142.13
+Papa Johns Pizza (PZZA),PZZA,2020-10-12,L,1,$80.14
+SmileDirectClub (SDC),SDC,2020-10-12,L,1,$12.51
+Sports Entertainment Acqu (SEAH.U),SEAH.U,2020-10-12,I,1,$10.17
+Twitter (TWTR),TWTR,2020-10-12,D,1,$48.25
+Wingstop (WING),WING,2020-10-12,L,2,$131.95
+Apple (AAPL),AAPL,2020-10-13,D,1,$121.10
+Citigroup (C),C,2020-10-13,D,4,$43.68
+Carnival (CCL),CCL,2020-10-13,F,2,$14.03
+Celsius Holdings (CELH),CELH,2020-10-13,I,1,$22.88
+Danaher (DHR),DHR,2020-10-13,L,1,$225.62
+DocuSign (DOCU),DOCU,2020-10-13,D,1,$238.21
+Inseego (INSG),INSG,2020-10-13,L,1,$10.26
+JPMorgan Chase (JPM),JPM,2020-10-13,D,4,$100.78
+Norwegian Cruise Line (NCLH),NCLH,2020-10-13,F,4,$16.59
+NVIDIA (NVDA),NVDA,2020-10-13,L,1,$569.93
+Owens & Minor (OMI),OMI,2020-10-13,L,1,$25.62
+Pure Storage (PSTG),PSTG,2020-10-13,L,5,$18.30
+Peloton (PTON),PTON,2020-10-13,D,1,$130.97
+PayPal (PYPL),PYPL,2020-10-13,D,1,$207.74
+Quidel (QDEL),QDEL,2020-10-13,L,2,$274.70
+Royal Caribbean Cruises (RCL),RCL,2020-10-13,F,2,$60.61
+Roku (ROKU),ROKU,2020-10-13,D,1,$238.58
+Block (SQ),SQ,2020-10-13,D,1,$190.47
+Thermo Fisher Scientific (TMO),TMO,2020-10-13,L,1,$467.53
+Vertiv (VRT),VRT,2020-10-13,L,1,$17.93
+Apple (AAPL),AAPL,2020-10-14,D,2,$121.19
+Broadcom (AVGO),AVGO,2020-10-14,D,2,$380.30
+Boeing (BA),BA,2020-10-14,D,2,$163.24
+Walt Disney (DIS),DIS,2020-10-14,D,2,$126.59
+DraftKings (DKNG),DKNG,2020-10-14,L,2,$47.56
+Fastly (FSLY),FSLY,2020-10-14,F,1,$123.18
+Goldman Sachs (GS),GS,2020-10-14,D,2,$211.23
+GW Pharmaceuticals (GWPH),GWPH,2020-10-14,L,2,$96.59
+IBM (IBM),IBM,2020-10-14,L,1,$125.94
+Mastercard (MA),MA,2020-10-14,D,2,$342.70
+Medtronic (MDT),MDT,2020-10-14,I,1,$107.56
+Microsoft (MSFT),MSFT,2020-10-14,D,2,$220.86
+Nike (NKE),NKE,2020-10-14,D,2,$127.66
+NVIDIA (NVDA),NVDA,2020-10-14,D,2,$563.81
+Starbucks (SBUX),SBUX,2020-10-14,D,2,$89.31
+Snowflake (SNOW),SNOW,2020-10-14,L,2,$243.18
+TJX Companies (TJX),TJX,2020-10-14,L,4,$57.41
+VMware (VMW),VMW,2020-10-14,I,1,$155.66
+Zix (ZIXI),ZIXI,2020-10-14,L,4,$6.65
+Bank of America (BAC),BAC,2020-10-15,D,2,$24.15
+Citigroup (C),C,2020-10-15,D,5,$43.61
+Crown Castle (CCI),CCI,2020-10-15,L,1,$168.14
+Darden Restaurants (DRI),DRI,2020-10-15,D,1,$100.13
+Goldman Sachs (GS),GS,2020-10-15,F,1,$208.60
+Hyliion (HYLN),HYLN,2020-10-15,F,2,$28.27
+JPMorgan Chase (JPM),JPM,2020-10-15,D,2,$101.72
+Lennar (LEN),LEN,2020-10-15,D,1,$84.68
+McDonald's (MCD),MCD,2020-10-15,D,1,$229.64
+Morgan Stanley (MS),MS,2020-10-15,F,1,$51.33
+Nio (NIO),NIO,2020-10-15,L,4,$28.07
+Peloton (PTON),PTON,2020-10-15,D,1,$136.43
+Sunrun (RUN),RUN,2020-10-15,L,1,$64.21
+SolarEdge Technologies (SEDG),SEDG,2020-10-15,L,1,$302.50
+Sorrento Therapeutics (SRNE),SRNE,2020-10-15,I,2,$10.39
+Wells Fargo (WFC),WFC,2020-10-15,D,5,$22.95
+WestRock (WRK),WRK,2020-10-15,D,1,$39.64
+Zoom Video Communications (ZM),ZM,2020-10-15,D,1,$536.40
+Albireo Pharma (ALBO),ALBO,2020-10-19,L,2,$34.31
+Amwell (AMWL),AMWL,2020-10-19,D,4,$34.88
+Bruker (BRKR),BRKR,2020-10-19,L,4,$41.89
+Caterpillar (CAT),CAT,2020-10-19,D,2,$167.53
+Cloudera (CLDR),CLDR,2020-10-19,L,5,$10.40
+Salesforce (CRM),CRM,2020-10-19,L,1,$255.01
+CrowdStrike (CRWD),CRWD,2020-10-19,D,1,$144.66
+DataDog (DDOG),DDOG,2020-10-19,D,1,$111.66
+Deere & Company (DE),DE,2020-10-19,D,2,$238.17
+Danaher (DHR),DHR,2020-10-19,L,1,$223.83
+Emerson Electric (EMR),EMR,2020-10-19,D,2,$69.96
+Shift4 Payments (FOUR),FOUR,2020-10-19,F,4,$57.76
+Barrick Gold (GOLD),GOLD,2020-10-19,L,1,$27.02
+Ingersoll-Rand (IR),IR,2020-10-19,D,1,$36.60
+Lemonade (LMND),LMND,2020-10-19,D,4,$58.95
+Ncino (NCNO),NCNO,2020-10-19,D,4,$79.89
+Netflix (NFLX),NFLX,2020-10-19,D,1,$530.72
+Nano-X Imaging (NNOX),NNOX,2020-10-19,F,4,$33.20
+Nucor (NUE),NUE,2020-10-19,D,1,$48.97
+Okta (OKTA),OKTA,2020-10-19,D,1,$242.09
+Peloton (PTON),PTON,2020-10-19,D,1,$133.01
+PayPal (PYPL),PYPL,2020-10-19,D,1,$200.06
+Roku (ROKU),ROKU,2020-10-19,D,1,$222.14
+Snowflake (SNOW),SNOW,2020-10-19,D,1,$246.78
+Block (SQ),SQ,2020-10-19,D,1,$186.96
+Teva Pharmaceuticals (TEVA),TEVA,2020-10-19,L,5,$9.29
+Thermo Fisher Scientific (TMO),TMO,2020-10-19,L,1,$461.29
+Tesla (TSLA),TSLA,2020-10-19,D,1,$430.83
+Zoom Video Communications (ZM),ZM,2020-10-19,D,1,$568.34
+Zuora (ZUO),ZUO,2020-10-19,L,4,$10.90
+Apple (AAPL),AAPL,2020-10-20,D,1,$117.51
+Caterpillar (CAT),CAT,2020-10-20,D,1,$168.99
+Canopy Growth (CGC),CGC,2020-10-20,D,2,$18.88
+Colgate-Palmolive (CL),CL,2020-10-20,D,2,$79.83
+Clorox (CLX),CLX,2020-10-20,D,4,$210.61
+Emerson Electric (EMR),EMR,2020-10-20,D,1,$70.00
+FireEye (FEYE),FEYE,2020-10-20,L,4,$14.00
+First Solar (FSLR),FSLR,2020-10-20,D,1,$84.30
+Generac Holdings (GNRC),GNRC,2020-10-20,D,1,$211.87
+Barrick Gold (GOLD),GOLD,2020-10-20,L,1,$27.07
+GrowGeneration (GRWG),GRWG,2020-10-20,D,2,$18.00
+Innovative Industrial Pro (IIPR),IIPR,2020-10-20,D,2,$128.66
+Lithium Americas (LAC),LAC,2020-10-20,L,5,$12.52
+L Brands (LB),LB,2020-10-20,F,1,$33.06
+Logitech International (LOGI),LOGI,2020-10-20,I,1,$92.64
+Livent (LTHM),LTHM,2020-10-20,L,5,$10.39
+Martin Marietta Materials (MLM),MLM,2020-10-20,D,4,$257.09
+3M (MMM),MMM,2020-10-20,D,1,$170.95
+Nike (NKE),NKE,2020-10-20,D,1,$128.49
+Annaly Capital (NLY),NLY,2020-10-20,L,5,$7.18
+Palo Alto Networks (PANW),PANW,2020-10-20,L,1,$239.28
+Procter & Gamble (PG),PG,2020-10-20,D,2,$142.48
+Sinclair Broadcast Group (SBGI),SBGI,2020-10-20,L,4,$18.99
+Starbucks (SBUX),SBUX,2020-10-20,D,1,$88.51
+TG Therapeutics (TGTX),TGTX,2020-10-20,L,1,$28.66
+Tesla (TSLA),TSLA,2020-10-20,D,1,$421.94
+Velodyne Lidar (VLDR),VLDR,2020-10-20,L,5,$14.39
+Vulcan Materials (VMC),VMC,2020-10-20,D,4,$145.45
+Apple (AAPL),AAPL,2020-10-21,D,1,$116.87
+Adobe Systems (ADBE),ADBE,2020-10-21,D,1,$495.96
+Azek Company (AZEK),AZEK,2020-10-21,D,1,$37.27
+Boeing (BA),BA,2020-10-21,L,1,$163.86
+Costco (COST),COST,2020-10-21,D,1,$377.82
+CVS Health (CVS),CVS,2020-10-21,L,2,$59.23
+DraftKings (DKNG),DKNG,2020-10-21,L,1,$41.50
+Etsy (ETSY),ETSY,2020-10-21,D,1,$133.01
+Meta (FB),FB,2020-10-21,D,1,$278.73
+GoPro (GPRO),GPRO,2020-10-21,D,5,$6.55
+Home Depot (HD),HD,2020-10-21,D,1,$284.51
+Lithia Motors (LAD),LAD,2020-10-21,I,1,$260.09
+L3Harris Technologies (LHX),LHX,2020-10-21,L,2,$169.81
+Lockheed Martin (LMT),LMT,2020-10-21,L,1,$367.14
+Lowe's (LOW),LOW,2020-10-21,D,1,$174.50
+Manpower (MAN),MAN,2020-10-21,L,1,$71.24
+Masco (MAS),MAS,2020-10-21,D,1,$56.11
+MGP Ingredients (MGPI),MGPI,2020-10-21,L,1,$41.20
+Penn National Gaming (PENN),PENN,2020-10-21,L,1,$63.13
+Pinterest (PINS),PINS,2020-10-21,D,1,$49.38
+PPG Industries (PPG),PPG,2020-10-21,D,1,$134.03
+Pioneer Natural Resources (PXD),PXD,2020-10-21,I,1,$78.44
+PayPal (PYPL),PYPL,2020-10-21,D,1,$213.07
+Sherwin-Williams (SHW),SHW,2020-10-21,D,1,$674.07
+Snap (SNAP),SNAP,2020-10-21,D,1,$36.50
+Spartan Energy Acquisitio (SPAQ),SPAQ,2020-10-21,I,1,$12.27
+Trex (TREX),TREX,2020-10-21,D,1,$74.68
+Tesla (TSLA),TSLA,2020-10-21,D,1,$422.64
+Walgreens Boots Alliance (WBA),WBA,2020-10-21,L,2,$37.39
+WD-40 (WDFC),WDFC,2020-10-21,D,1,$234.61
+Yeti Holdings (YETI),YETI,2020-10-21,L,1,$51.29
+Adient (ADNT),ADNT,2020-10-22,D,1,$23.58
+Axalta Coating Systems (AXTA),AXTA,2020-10-22,D,1,$26.68
+Bristol-Myers Squibb (BMY),BMY,2020-10-22,L,1,$60.76
+Corsair Gaming (CRSR),CRSR,2020-10-22,L,1,$24.02
+Canadian Solar (CSIQ),CSIQ,2020-10-22,L,2,$39.90
+Estee Lauder (EL),EL,2020-10-22,L,1,$232.62
+Ford Motor (F),F,2020-10-22,D,1,$8.21
+Kensington Capital Acquis (KCAC),KCAC,2020-10-22,F,1,$13.75
+Lithia Motors (LAD),LAD,2020-10-22,D,1,$250.15
+Marvell Technology (MRVL),MRVL,2020-10-22,L,1,$41.04
+Nucor (NUE),NUE,2020-10-22,I,1,$49.90
+NVIDIA (NVDA),NVDA,2020-10-22,D,1,$534.44
+NXP Semiconductors (NXPI),NXPI,2020-10-22,D,1,$134.89
+Pfizer (PFE),PFE,2020-10-22,L,4,$37.43
+Revlon Inc (REV),REV,2020-10-22,L,5,$5.35
+Royalty Pharma (RPRX),RPRX,2020-10-22,L,4,$39.21
+Sonic Automotive (SAH),SAH,2020-10-22,D,1,$40.52
+Tesla (TSLA),TSLA,2020-10-22,F,1,$425.79
+Union Pacific (UNP),UNP,2020-10-22,L,2,$187.14
+Apple (AAPL),AAPL,2020-10-23,D,1,$115.04
+Albertsons (ACI),ACI,2020-10-23,L,4,$14.83
+Boeing (BA),BA,2020-10-23,D,1,$167.36
+Caterpillar (CAT),CAT,2020-10-23,D,2,$168.59
+Crown Castle (CCI),CCI,2020-10-23,L,1,$158.47
+Chevron (CVX),CVX,2020-10-23,D,2,$72.57
+DataDog (DDOG),DDOG,2020-10-23,D,1,$102.08
+Etsy (ETSY),ETSY,2020-10-23,D,1,$137.85
+Meta (FB),FB,2020-10-23,D,1,$284.79
+Fastly (FSLY),FSLY,2020-10-23,D,1,$76.35
+Mattel (MAT),MAT,2020-10-23,I,1,$14.16
+Merck (MRK),MRK,2020-10-23,D,1,$79.83
+Morgan Stanley (MS),MS,2020-10-23,D,1,$51.87
+Microsoft (MSFT),MSFT,2020-10-23,D,1,$216.23
+Cloudflare (NET),NET,2020-10-23,D,1,$55.82
+Nautilus (NLS),NLS,2020-10-23,L,2,$26.39
+NXP Semiconductors (NXPI),NXPI,2020-10-23,D,2,$137.18
+Otis Worldwide (OTIS),OTIS,2020-10-23,D,2,$63.45
+Pfizer (PFE),PFE,2020-10-23,D,2,$38.18
+Pinterest (PINS),PINS,2020-10-23,D,1,$53.00
+Peloton (PTON),PTON,2020-10-23,D,1,$122.53
+Block (SQ),SQ,2020-10-23,D,1,$176.77
+Sempra Energy (SRE),SRE,2020-10-23,D,1,$133.86
+StoneCo (STNE),STNE,2020-10-23,L,1,$59.00
+Stanley Black & Decker (SWK),SWK,2020-10-23,D,1,$178.01
+Teladoc (TDOC),TDOC,2020-10-23,D,1,$216.32
+The Trade Desk (TTD),TTD,2020-10-23,D,1,$619.91
+Twilio (TWLO),TWLO,2020-10-23,D,2,$306.10
+Exxon Mobil (XOM),XOM,2020-10-23,D,4,$34.16
+Zoom Video Communications (ZM),ZM,2020-10-23,D,1,$511.52
+American Airlines (AAL),AAL,2020-10-26,L,4,$11.80
+Apple (AAPL),AAPL,2020-10-26,D,1,$115.05
+American Electric Power (AEP),AEP,2020-10-26,I,1,$93.59
+Alibaba (BABA),BABA,2020-10-26,L,1,$306.87
+Focus Financial Partners (FOCS),FOCS,2020-10-26,L,4,$38.24
+Gap (GPS),GPS,2020-10-26,D,1,$20.60
+Huya (HUYA),HUYA,2020-10-26,L,5,$21.40
+JD.com (JD),JD,2020-10-26,L,1,$81.41
+Nordstrom (JWN),JWN,2020-10-26,L,2,$13.24
+Kontoor Brands (KTB),KTB,2020-10-26,D,1,$31.96
+Landcadia Holdings (LCA),LCA,2020-10-26,L,1,$11.79
+Levi Strauss (LEVI),LEVI,2020-10-26,D,1,$16.27
+Lululemon Athletica (LULU),LULU,2020-10-26,D,1,$331.60
+Southwest Airlines (LUV),LUV,2020-10-26,L,1,$41.10
+Morgan Stanley (MS),MS,2020-10-26,L,1,$50.32
+Plug Power (PLUG),PLUG,2020-10-26,I,1,$14.46
+Lordstown Motors (RIDEW),RIDEW,2020-10-26,L,2,$7.16
+Raytheon Technologies (RTX),RTX,2020-10-26,L,2,$60.81
+SAP AG (SAP),SAP,2020-10-26,D,4,$115.02
+Apple (AAPL),AAPL,2020-10-27,D,1,$116.60
+ADT (ADT),ADT,2020-10-27,L,5,$7.16
+Advanced Micro Devices (AMD),AMD,2020-10-27,D,1,$78.88
+Centene (CNC),CNC,2020-10-27,I,1,$64.14
+Exact Sciences (EXAS),EXAS,2020-10-27,D,1,$131.12
+Meta (FB),FB,2020-10-27,D,1,$283.29
+Gilead Sciences (GILD),GILD,2020-10-27,L,5,$60.01
+Harley Davidson (HOG),HOG,2020-10-27,D,2,$35.40
+Kimberly-Clark (KMB),KMB,2020-10-27,L,4,$134.76
+Microsoft (MSFT),MSFT,2020-10-27,D,1,$213.25
+Netflix (NFLX),NFLX,2020-10-27,D,2,$488.93
+Procter & Gamble (PG),PG,2020-10-27,L,1,$142.36
+Palantir Technologies (PLTR),PLTR,2020-10-27,L,1,$10.95
+Plug Power (PLUG),PLUG,2020-10-27,F,1,$14.79
+Raytheon Technologies (RTX),RTX,2020-10-27,I,1,$56.53
+Taiwan Semiconductor (TSM),TSM,2020-10-27,L,1,$86.71
+United Micro Electronics (UMC),UMC,2020-10-27,L,1,$5.74
+Slack (WORK),WORK,2020-10-27,L,2,$27.93
+West Pharmaceutical Servi (WST),WST,2020-10-27,L,5,$286.07
+Broadcom (AVGO),AVGO,2020-10-28,D,1,$347.21
+Alibaba (BABA),BABA,2020-10-28,L,1,$307.94
+Bed Bath & Beyond (BBBY),BBBY,2020-10-28,I,1,$21.10
+Clorox (CLX),CLX,2020-10-28,D,1,$209.88
+Dexcom (DXCM),DXCM,2020-10-28,L,1,$349.12
+Ford Motor (F),F,2020-10-28,D,1,$7.70
+Home Depot (HD),HD,2020-10-28,D,1,$269.72
+JD.com (JD),JD,2020-10-28,L,1,$80.08
+Lithia Motors (LAD),LAD,2020-10-28,D,1,$233.49
+L Brands (LB),LB,2020-10-28,D,1,$32.27
+Lowe's (LOW),LOW,2020-10-28,D,1,$161.42
+Masco (MAS),MAS,2020-10-28,D,1,$53.77
+Microsoft (MSFT),MSFT,2020-10-28,D,1,$202.68
+Niu Technologies (NIU),NIU,2020-10-28,L,4,$27.34
+Procter & Gamble (PG),PG,2020-10-28,D,1,$137.66
+Pinterest (PINS),PINS,2020-10-28,D,2,$49.25
+Qualcomm (QCOM),QCOM,2020-10-28,D,1,$121.58
+Quidel (QDEL),QDEL,2020-10-28,L,1,$263.79
+Thermo Fisher Scientific (TMO),TMO,2020-10-28,L,1,$476.71
+Tesla (TSLA),TSLA,2020-10-28,D,1,$406.02
+United Parcel Service (UPS),UPS,2020-10-28,I,1,$155.78
+Dexcom (DXCM),DXCM,2020-10-29,D,1,$335.29
+Callaway Golf (ELY),ELY,2020-10-29,L,1,$15.20
+Etsy (ETSY),ETSY,2020-10-29,I,1,$132.42
+Federal Realty Investment (FRT),FRT,2020-10-29,L,2,$69.31
+Fastly (FSLY),FSLY,2020-10-29,I,2,$68.38
+Eli Lilly (LLY),LLY,2020-10-29,D,1,$132.55
+LivePerson (LPSN),LPSN,2020-10-29,I,1,$57.15
+MPLX (MPLX),MPLX,2020-10-29,L,5,$17.02
+Merck (MRK),MRK,2020-10-29,D,1,$75.89
+New York Community Bancor (NYCB),NYCB,2020-10-29,L,4,$8.19
+Plug Power (PLUG),PLUG,2020-10-29,L,1,$14.81
+Simon Property Group (SPG),SPG,2020-10-29,L,2,$63.41
+UnitedHealth Group (UNH),UNH,2020-10-29,D,1,$303.68
+Voya Financial (VOYA),VOYA,2020-10-29,L,2,$48.00
+Workhorse Group (WKHS),WKHS,2020-10-29,L,5,$17.27
+Apple (AAPL),AAPL,2020-10-30,D,1,$108.86
+Advanced Micro Devices (AMD),AMD,2020-10-30,L,1,$75.29
+Brunswick (BC),BC,2020-10-30,I,1,$63.71
+CACI International (CACI),CACI,2020-10-30,L,1,$208.53
+Clorox (CLX),CLX,2020-10-30,D,2,$207.25
+Cisco Systems (CSCO),CSCO,2020-10-30,L,4,$35.90
+Estee Lauder (EL),EL,2020-10-30,D,1,$219.66
+Emerson Electric (EMR),EMR,2020-10-30,D,2,$64.79
+Eaton (ETN),ETN,2020-10-30,D,2,$103.79
+Five9 (FIVN),FIVN,2020-10-30,I,1,$151.72
+FLIR Systems (FLIR),FLIR,2020-10-30,L,1,$34.69
+Humana (HUM),HUM,2020-10-30,D,1,$399.28
+LG Homes (LGIH),LGIH,2020-10-30,L,1,$106.88
+NVIDIA (NVDA),NVDA,2020-10-30,L,1,$501.36
+Penn National Gaming (PENN),PENN,2020-10-30,L,4,$53.98
+PayPal (PYPL),PYPL,2020-10-30,D,1,$186.13
+Qualcomm (QCOM),QCOM,2020-10-30,D,2,$123.36
+Roku (ROKU),ROKU,2020-10-30,D,1,$202.40
+Skyworks Solutions (SWKS),SWKS,2020-10-30,D,2,$141.29
+Tellurian (TELL),TELL,2020-10-30,I,1,$0.96
+T-Mobile US (TMUS),TMUS,2020-10-30,D,2,$109.57
+Take-Two Interactive (TTWO),TTWO,2020-10-30,D,1,$154.92
+Unisys (UIS),UIS,2020-10-30,L,5,$13.14
+Abbott Laboratories (ABT),ABT,2020-11-02,D,2,$107.48
+Clorox (CLX),CLX,2020-11-02,I,1,$216.03
+Corsair Gaming (CRSR),CRSR,2020-11-02,F,1,$22.97
+CrowdStrike (CRWD),CRWD,2020-11-02,L,1,$124.47
+Domino's Pizza (DPZ),DPZ,2020-11-02,D,2,$376.03
+Estee Lauder (EL),EL,2020-11-02,D,2,$223.85
+FibroGen (FGEN),FGEN,2020-11-02,L,1,$39.20
+Jumia Technologies (JMIA),JMIA,2020-11-02,L,1,$16.05
+Nio (NIO),NIO,2020-11-02,L,1,$33.32
+Saber (SABR),SABR,2020-11-02,L,5,$6.68
+Snowflake (SNOW),SNOW,2020-11-02,D,2,$252.23
+Target (TGT),TGT,2020-11-02,D,2,$154.39
+Tesla (TSLA),TSLA,2020-11-02,D,2,$400.51
+Waste Management (WM),WM,2020-11-02,I,1,$110.67
+Walmart (WMT),WMT,2020-11-02,D,2,$140.40
+Big Lots (BIG),BIG,2020-11-03,L,2,$48.48
+Bristol-Myers Squibb (BMY),BMY,2020-11-03,D,1,$61.24
+Centene (CNC),CNC,2020-11-03,D,1,$64.64
+First Solar (FSLR),FSLR,2020-11-03,L,1,$87.24
+Fisker (FSR),FSR,2020-11-03,L,1,$11.65
+SPDR Gold Shares (GLD),GLD,2020-11-03,D,1,$178.92
+Barrick Gold (GOLD),GOLD,2020-11-03,D,1,$27.78
+Goldman Sachs (GS),GS,2020-11-03,D,1,$197.93
+L3Harris Technologies (LHX),LHX,2020-11-03,D,1,$178.81
+Morgan Stanley (MS),MS,2020-11-03,D,1,$51.18
+NovoCure (NVCR),NVCR,2020-11-03,L,1,$113.83
+Raytheon Technologies (RTX),RTX,2020-11-03,D,1,$57.04
+Sunrun (RUN),RUN,2020-11-03,L,4,$54.00
+Thermo Fisher Scientific (TMO),TMO,2020-11-03,I,1,$491.50
+Apple (AAPL),AAPL,2020-11-04,D,1,$114.95
+Abbott Laboratories (ABT),ABT,2020-11-04,D,1,$113.53
+Akamai Technologies (AKAM),AKAM,2020-11-04,I,1,$99.34
+Bloom Energy (BE),BE,2020-11-04,L,5,$13.80
+Bristol-Myers Squibb (BMY),BMY,2020-11-04,D,1,$65.43
+Caterpillar (CAT),CAT,2020-11-04,D,4,$155.23
+Canopy Growth (CGC),CGC,2020-11-04,I,1,$19.00
+CIGNA (CI),CI,2020-11-04,D,1,$210.62
+Centene (CNC),CNC,2020-11-04,D,1,$63.99
+Salesforce (CRM),CRM,2020-11-04,L,1,$250.74
+DraftKings (DKNG),DKNG,2020-11-04,D,1,$39.46
+DocuSign (DOCU),DOCU,2020-11-04,L,1,$236.77
+Eaton (ETN),ETN,2020-11-04,L,1,$105.90
+Meta (FB),FB,2020-11-04,D,1,$287.38
+Fluidigm (FLDM),FLDM,2020-11-04,D,1,$6.80
+Generac Holdings (GNRC),GNRC,2020-11-04,L,1,$223.50
+GrowGeneration (GRWG),GRWG,2020-11-04,D,1,$18.98
+Hologic (HOLX),HOLX,2020-11-04,D,1,$76.67
+Innovative Industrial Pro (IIPR),IIPR,2020-11-04,D,1,$133.58
+Laboratory Corp. of Ameri (LH),LH,2020-11-04,D,1,$214.42
+Lyft (LYFT),LYFT,2020-11-04,D,1,$29.19
+MGM Resorts (MGM),MGM,2020-11-04,D,1,$21.44
+Magnite (MGNI),MGNI,2020-11-04,L,5,$10.08
+Merck (MRK),MRK,2020-11-04,D,1,$80.62
+Oracle (ORCL),ORCL,2020-11-04,L,4,$56.49
+Penn National Gaming (PENN),PENN,2020-11-04,D,1,$59.73
+PerkinElmer (PKI),PKI,2020-11-04,D,1,$138.41
+Papa Johns Pizza (PZZA),PZZA,2020-11-04,I,1,$82.28
+Qualcomm (QCOM),QCOM,2020-11-04,D,1,$128.97
+Quidel (QDEL),QDEL,2020-11-04,D,1,$281.80
+AT&T (T),T,2020-11-04,L,1,$27.04
+Thermo Fisher Scientific (TMO),TMO,2020-11-04,D,1,$514.76
+Uber (UBER),UBER,2020-11-04,D,1,$40.99
+UnitedHealth Group (UNH),UNH,2020-11-04,D,1,$354.56
+Applied Materials (AMAT),AMAT,2020-11-06,D,1,$70.53
+Air Products and Chemical (APD),APD,2020-11-06,D,2,$306.72
+Alibaba (BABA),BABA,2020-11-06,L,1,$299.95
+Beyond Meat (BYND),BYND,2020-11-06,D,1,$156.86
+Chewy (CHWY),CHWY,2020-11-06,L,1,$70.32
+Clean Harbors (CLH),CLH,2020-11-06,I,1,$65.01
+Corsair Gaming (CRSR),CRSR,2020-11-06,D,1,$27.08
+CrowdStrike (CRWD),CRWD,2020-11-06,L,1,$141.79
+Cisco Systems (CSCO),CSCO,2020-11-06,D,1,$37.53
+CVS Health (CVS),CVS,2020-11-06,D,1,$64.95
+D R Horton (DHI),DHI,2020-11-06,D,2,$70.61
+Walt Disney (DIS),DIS,2020-11-06,D,4,$127.46
+First Solar (FSLR),FSLR,2020-11-06,L,1,$88.27
+Fortinet (FTNT),FTNT,2020-11-06,L,2,$117.21
+GoodRX (GDRX),GDRX,2020-11-06,D,1,$50.24
+Green Thumb Industries (GTII),GTII,2020-11-06,D,1,$0.11
+Idexx Laboratories (IDXX),IDXX,2020-11-06,L,1,$478.10
+International Flavors and (IFF),IFF,2020-11-06,D,1,$108.56
+Inovio Pharmaceuticals (INO),INO,2020-11-06,D,4,$10.53
+Lemonade (LMND),LMND,2020-11-06,D,1,$61.37
+Logitech International (LOGI),LOGI,2020-11-06,L,1,$93.94
+McDonald's (MCD),MCD,2020-11-06,D,1,$216.56
+Moneygram (MGI),MGI,2020-11-06,L,4,$5.51
+Novavax (NVAX),NVAX,2020-11-06,D,4,$89.86
+Palo Alto Networks (PANW),PANW,2020-11-06,L,1,$250.03
+Plantronics Inc (PLT),PLT,2020-11-06,L,2,$24.61
+Plug Power (PLUG),PLUG,2020-11-06,D,1,$18.86
+PayPal (PYPL),PYPL,2020-11-06,L,1,$202.73
+Rocket Companies (RKT),RKT,2020-11-06,D,2,$21.31
+Roku (ROKU),ROKU,2020-11-06,D,1,$253.36
+SolarEdge Technologies (SEDG),SEDG,2020-11-06,L,4,$237.51
+Block (SQ),SQ,2020-11-06,D,1,$198.08
+Trupanion (TRUP),TRUP,2020-11-06,L,1,$91.75
+Tesla (TSLA),TSLA,2020-11-06,L,1,$429.95
+The Trade Desk (TTD),TTD,2020-11-06,D,1,$819.34
+Take-Two Interactive (TTWO),TTWO,2020-11-06,I,1,$175.19
+Hostess Brands (TWNK),TWNK,2020-11-06,I,1,$13.53
+Workhorse Group (WKHS),WKHS,2020-11-06,L,4,$17.29
+Apple (AAPL),AAPL,2020-11-09,D,1,$116.32
+Boeing (BA),BA,2020-11-09,D,1,$179.36
+Carnival (CCL),CCL,2020-11-09,D,2,$19.25
+Chevron (CVX),CVX,2020-11-09,D,1,$79.40
+Ford Motor (F),F,2020-11-09,D,2,$8.20
+Fisker (FSR),FSR,2020-11-09,D,2,$14.34
+General Electric (GE),GE,2020-11-09,D,2,$8.72
+Hanesbrands (HBI),HBI,2020-11-09,L,5,$12.81
+L3Harris Technologies (LHX),LHX,2020-11-09,I,1,$185.85
+Norwegian Cruise Line (NCLH),NCLH,2020-11-09,D,2,$21.51
+Cloudflare (NET),NET,2020-11-09,L,5,$64.57
+Nio (NIO),NIO,2020-11-09,D,2,$44.02
+Palo Alto Networks (PANW),PANW,2020-11-09,L,1,$252.13
+Pfizer (PFE),PFE,2020-11-09,D,1,$39.20
+Polaris Industries (PII),PII,2020-11-09,I,1,$89.19
+Peloton (PTON),PTON,2020-11-09,D,2,$100.01
+Pioneer Natural Resources (PXD),PXD,2020-11-09,D,1,$88.37
+Roku (ROKU),ROKU,2020-11-09,F,1,$221.91
+Sorrento Therapeutics (SRNE),SRNE,2020-11-09,L,5,$5.76
+Tractor Supply (TSCO),TSCO,2020-11-09,L,2,$129.60
+Tesla (TSLA),TSLA,2020-11-09,D,2,$421.26
+The Trade Desk (TTD),TTD,2020-11-09,D,1,$761.37
+ViacomCBS (VIAC),VIAC,2020-11-09,L,2,$29.05
+Zoom Video Communications (ZM),ZM,2020-11-09,D,2,$413.24
+Apple (AAPL),AAPL,2020-11-10,D,1,$115.97
+AMC Entertainment (AMC),AMC,2020-11-10,L,4,$3.51
+Boeing (BA),BA,2020-11-10,D,1,$188.69
+Beyond Meat (BYND),BYND,2020-11-10,I,1,$125.01
+CarGurus (CARG),CARG,2020-11-10,L,5,$22.56
+Campbell Soup (CPB),CPB,2020-11-10,I,1,$47.29
+CSX (CSX),CSX,2020-11-10,D,1,$91.40
+Carvana (CVNA),CVNA,2020-11-10,D,1,$192.49
+D R Horton (DHI),DHI,2020-11-10,D,2,$70.88
+Etsy (ETSY),ETSY,2020-11-10,D,1,$119.43
+Ford Motor (F),F,2020-11-10,D,1,$8.38
+Meta (FB),FB,2020-11-10,D,2,$272.43
+Home Depot (HD),HD,2020-11-10,D,1,$275.57
+Honeywell (HON),HON,2020-11-10,D,1,$201.98
+Johnson & Johnson (JNJ),JNJ,2020-11-10,D,1,$148.28
+JPMorgan Chase (JPM),JPM,2020-11-10,D,1,$116.52
+Coca-Cola (KO),KO,2020-11-10,D,1,$53.98
+Lithia Motors (LAD),LAD,2020-11-10,L,1,$267.88
+3M (MMM),MMM,2020-11-10,D,1,$169.14
+Netflix (NFLX),NFLX,2020-11-10,D,4,$480.24
+Starbucks (SBUX),SBUX,2020-11-10,D,1,$93.92
+Simon Property Group (SPG),SPG,2020-11-10,D,4,$78.84
+Target (TGT),TGT,2020-11-10,D,1,$158.07
+Vista Outdoor (VSTO),VSTO,2020-11-10,L,1,$20.46
+Verizon (VZ),VZ,2020-11-10,D,1,$61.10
+Workday (WDAY),WDAY,2020-11-10,L,4,$213.90
+Yeti Holdings (YETI),YETI,2020-11-10,L,4,$55.64
+Apple (AAPL),AAPL,2020-11-11,F,1,$119.49
+Advanced Micro Devices (AMD),AMD,2020-11-11,L,1,$81.28
+Alibaba (BABA),BABA,2020-11-11,L,1,$265.65
+CVS Health (CVS),CVS,2020-11-11,L,1,$69.51
+HollyFrontier (HFC),HFC,2020-11-11,L,5,$21.30
+Idexx Laboratories (IDXX),IDXX,2020-11-11,L,1,$455.06
+Intel (INTC),INTC,2020-11-11,L,5,$46.35
+Lemonade (LMND),LMND,2020-11-11,I,1,$57.90
+Pacific Ethanol (PEIX),PEIX,2020-11-11,L,5,$5.82
+Plug Power (PLUG),PLUG,2020-11-11,L,2,$23.00
+Rocket Companies (RKT),RKT,2020-11-11,I,1,$21.06
+T-Mobile US (TMUS),TMUS,2020-11-11,L,1,$125.15
+Tesla (TSLA),TSLA,2020-11-11,L,1,$417.13
+Ulta Beauty (ULTA),ULTA,2020-11-11,I,1,$255.42
+XPeng (XPEV),XPEV,2020-11-11,L,5,$33.53
+Advanced Micro Devices (AMD),AMD,2020-11-12,L,1,$81.84
+Alteryx (AYX),AYX,2020-11-12,I,1,$113.39
+Best Buy (BBY),BBY,2020-11-12,L,2,$114.00
+The Blackstone Group (BX),BX,2020-11-12,L,1,$54.94
+Costco (COST),COST,2020-11-12,L,1,$375.71
+Salesforce (CRM),CRM,2020-11-12,L,1,$249.42
+Estee Lauder (EL),EL,2020-11-12,D,1,$249.49
+Ford Motor (F),F,2020-11-12,I,1,$8.21
+Eastman Kodak (KODK),KODK,2020-11-12,L,5,$6.73
+Nike (NKE),NKE,2020-11-12,D,1,$126.64
+Sysco (SYY),SYY,2020-11-12,I,1,$68.01
+Walmart (WMT),WMT,2020-11-12,L,1,$148.23
+Zynga (ZNGA),ZNGA,2020-11-12,L,2,$8.18
+Bill.com (BILL),BILL,2020-11-13,I,1,$95.24
+Carnival (CCL),CCL,2020-11-13,L,5,$16.01
+Foot Locker (FL),FL,2020-11-13,D,4,$37.24
+Federal Realty Investment (FRT),FRT,2020-11-13,L,1,$88.47
+Barrick Gold (GOLD),GOLD,2020-11-13,L,1,$25.89
+GrowGeneration (GRWG),GRWG,2020-11-13,I,1,$25.52
+Home Depot (HD),HD,2020-11-13,D,1,$277.17
+Kohl's (KSS),KSS,2020-11-13,D,4,$24.26
+L3Harris Technologies (LHX),LHX,2020-11-13,L,1,$194.30
+Lockheed Martin (LMT),LMT,2020-11-13,L,2,$375.14
+Lowe's (LOW),LOW,2020-11-13,D,1,$159.23
+Las Vegas Sands (LVS),LVS,2020-11-13,L,2,$58.28
+Macy's (M),M,2020-11-13,D,4,$7.36
+Macerich (MAC),MAC,2020-11-13,L,5,$8.81
+Norwegian Cruise Line (NCLH),NCLH,2020-11-13,L,1,$20.06
+Nio (NIO),NIO,2020-11-13,D,5,$44.56
+Nike (NKE),NKE,2020-11-13,D,1,$128.28
+NVIDIA (NVDA),NVDA,2020-11-13,D,1,$531.88
+Palo Alto Networks (PANW),PANW,2020-11-13,D,1,$258.70
+Simon Property Group (SPG),SPG,2020-11-13,L,1,$74.70
+Target (TGT),TGT,2020-11-13,D,1,$162.88
+TJX Companies (TJX),TJX,2020-11-13,D,2,$59.63
+Tesla (TSLA),TSLA,2020-11-13,D,1,$408.50
+Tyson Foods (TSN),TSN,2020-11-13,D,4,$62.35
+Vonage Holdings (VG),VG,2020-11-13,L,1,$12.87
+Workday (WDAY),WDAY,2020-11-13,D,2,$222.00
+Walmart (WMT),WMT,2020-11-13,D,1,$150.54
+Wynn Resorts (WYNN),WYNN,2020-11-13,L,1,$92.19
+Apple (AAPL),AAPL,2020-11-16,D,2,$120.30
+Boeing (BA),BA,2020-11-16,D,2,$202.40
+Costco (COST),COST,2020-11-16,D,1,$379.79
+Corsair Gaming (CRSR),CRSR,2020-11-16,I,1,$30.26
+CVS Health (CVS),CVS,2020-11-16,D,1,$73.47
+Walt Disney (DIS),DIS,2020-11-16,D,1,$144.67
+Darden Restaurants (DRI),DRI,2020-11-16,D,1,$110.08
+Corning (GLW),GLW,2020-11-16,D,1,$36.98
+Honeywell (HON),HON,2020-11-16,D,1,$208.59
+Icahn Enterprises (IEP),IEP,2020-11-16,L,5,$53.07
+McKesson (MCK),MCK,2020-11-16,D,1,$183.66
+Nike (NKE),NKE,2020-11-16,D,2,$130.11
+Palo Alto Networks (PANW),PANW,2020-11-16,I,1,$278.50
+Pershing Square Tontine (PSTH),PSTH,2020-11-16,L,5,$23.90
+Starbucks (SBUX),SBUX,2020-11-16,D,2,$97.78
+United Parcel Service (UPS),UPS,2020-11-16,D,1,$168.44
+ViacomCBS (VIAC),VIAC,2020-11-16,L,1,$31.90
+Whirlpool (WHR),WHR,2020-11-16,L,1,$188.60
+Applied Materials (AMAT),AMAT,2020-11-17,F,1,$74.37
+Boeing (BA),BA,2020-11-17,D,1,$210.05
+CVS Health (CVS),CVS,2020-11-17,D,2,$67.14
+Meta (FB),FB,2020-11-17,L,1,$275.00
+Home Depot (HD),HD,2020-11-17,D,2,$272.47
+Honeywell (HON),HON,2020-11-17,D,1,$205.33
+KLA Corp (KLAC),KLAC,2020-11-17,F,1,$241.84
+Li Auto (LI),LI,2020-11-17,L,2,$35.05
+Lam Research (LRCX),LRCX,2020-11-17,F,1,$431.93
+McAfee (MCFE),MCFE,2020-11-17,L,5,$17.00
+Lordstown Motors (RIDE),RIDE,2020-11-17,I,1,$24.70
+Rockwell Automation (ROK),ROK,2020-11-17,I,1,$241.32
+Snowflake (SNOW),SNOW,2020-11-17,L,2,$248.03
+Walmart (WMT),WMT,2020-11-17,D,2,$149.37
+Biohaven Pharmaceuticals (BHVN),BHVN,2020-11-18,I,1,$98.24
+Beyond Meat (BYND),BYND,2020-11-18,L,2,$134.01
+Carvana (CVNA),CVNA,2020-11-18,L,1,$224.18
+DraftKings (DKNG),DKNG,2020-11-18,L,1,$47.68
+Ford Motor (F),F,2020-11-18,D,1,$8.82
+General Electric (GE),GE,2020-11-18,D,1,$9.73
+Lithia Motors (LAD),LAD,2020-11-18,L,1,$274.11
+MGM Resorts (MGM),MGM,2020-11-18,L,4,$26.91
+Plug Power (PLUG),PLUG,2020-11-18,F,1,$23.22
+Teladoc (TDOC),TDOC,2020-11-18,I,1,$181.87
+Tattooed Chef (TTCF),TTCF,2020-11-18,L,4,$16.83
+Texas Instruments (TXN),TXN,2020-11-18,L,1,$153.55
+Vroom (VRM),VRM,2020-11-18,L,5,$35.77
+Wynn Resorts (WYNN),WYNN,2020-11-18,L,1,$95.64
+Costco (COST),COST,2020-11-19,D,1,$383.54
+Cisco Systems (CSCO),CSCO,2020-11-19,L,1,$41.17
+Frequency Therapeutics (FREQ),FREQ,2020-11-19,L,1,$24.15
+Home Depot (HD),HD,2020-11-19,D,1,$270.93
+ServiceNow (NOW),NOW,2020-11-19,D,1,$514.33
+Okta (OKTA),OKTA,2020-11-19,D,1,$232.45
+Pacific Ethanol (PEIX),PEIX,2020-11-19,L,5,$5.62
+Plug Power (PLUG),PLUG,2020-11-19,L,1,$23.79
+PayPal (PYPL),PYPL,2020-11-19,D,1,$190.90
+RingCentral (RNG),RNG,2020-11-19,D,1,$296.90
+Roku (ROKU),ROKU,2020-11-19,D,1,$255.67
+Rackspace Technology (RXT),RXT,2020-11-19,L,5,$16.17
+Block (SQ),SQ,2020-11-19,D,1,$191.66
+The Container Store (TCS),TCS,2020-11-19,I,1,$10.38
+Target (TGT),TGT,2020-11-19,D,1,$171.37
+Tesla (TSLA),TSLA,2020-11-19,D,1,$499.27
+Twilio (TWLO),TWLO,2020-11-19,D,1,$295.64
+Workday (WDAY),WDAY,2020-11-19,I,1,$230.80
+Workhorse Group (WKHS),WKHS,2020-11-19,L,1,$22.78
+Williams-Sonoma (WSM),WSM,2020-11-19,D,1,$101.04
+Analog Devices (ADI),ADI,2020-11-20,D,1,$134.88
+AEO (AEO),AEO,2020-11-20,D,1,$16.94
+Boeing (BA),BA,2020-11-20,L,1,$199.62
+Best Buy (BBY),BBY,2020-11-20,D,1,$119.14
+Bristol-Myers Squibb (BMY),BMY,2020-11-20,L,1,$61.61
+Burlington Stores (BURL),BURL,2020-11-20,D,4,$232.53
+Deere & Company (DE),DE,2020-11-20,D,1,$258.56
+Dell (DELL),DELL,2020-11-20,D,1,$68.34
+Dollar General (DG),DG,2020-11-20,D,1,$210.23
+Dicks Sporting Goods (DKS),DKS,2020-11-20,D,4,$58.51
+Dollar Tree (DLTR),DLTR,2020-11-20,D,4,$94.97
+Gap (GPS),GPS,2020-11-20,D,1,$24.37
+Hormel Foods (HRL),HRL,2020-11-20,D,1,$50.13
+Medtronic (MDT),MDT,2020-11-20,D,4,$110.16
+Norwegian Cruise Line (NCLH),NCLH,2020-11-20,L,2,$19.99
+Ncino (NCNO),NCNO,2020-11-20,L,1,$77.59
+ResMed (RMD),RMD,2020-11-20,I,1,$211.02
+Raytheon Technologies (RTX),RTX,2020-11-20,L,1,$69.76
+JM Smucker (SJM),SJM,2020-11-20,D,4,$116.23
+VMware (VMW),VMW,2020-11-20,D,1,$147.80
+Workday (WDAY),WDAY,2020-11-20,D,2,$209.40
+Williams-Sonoma (WSM),WSM,2020-11-20,I,1,$107.71
+Zebra Technologies (ZBRA),ZBRA,2020-11-20,I,1,$354.99
+Apple (AAPL),AAPL,2020-11-23,D,1,$113.85
+AMN Healthcare Services (AMN),AMN,2020-11-23,I,1,$62.05
+Boeing (BA),BA,2020-11-23,D,1,$211.53
+Ballard Power Systems (BLDP),BLDP,2020-11-23,L,4,$21.58
+Blink Charging (BLNK),BLNK,2020-11-23,L,2,$33.62
+Costco (COST),COST,2020-11-23,D,1,$381.71
+Chevron (CVX),CVX,2020-11-23,D,1,$91.03
+Walt Disney (DIS),DIS,2020-11-23,D,1,$145.98
+Federal Realty Investment (FRT),FRT,2020-11-23,D,1,$93.07
+Gap (GPS),GPS,2020-11-23,D,1,$26.06
+Honeywell (HON),HON,2020-11-23,D,1,$204.58
+L Brands (LB),LB,2020-11-23,D,1,$39.98
+Macy's (M),M,2020-11-23,D,1,$10.41
+Mastercard (MA),MA,2020-11-23,D,1,$332.04
+McKesson (MCK),MCK,2020-11-23,D,1,$173.48
+Norwegian Cruise Line (NCLH),NCLH,2020-11-23,D,1,$20.89
+NXP Semiconductors (NXPI),NXPI,2020-11-23,D,1,$155.91
+PG&E (PCG),PCG,2020-11-23,L,4,$12.70
+Pioneer Natural Resources (PXD),PXD,2020-11-23,D,1,$104.50
+Sangamo Therapeutics (SGMO),SGMO,2020-11-23,L,4,$9.99
+Tesla (TSLA),TSLA,2020-11-23,D,1,$521.85
+United Continental (UAL),UAL,2020-11-23,D,1,$40.93
+Ulta Beauty (ULTA),ULTA,2020-11-23,D,1,$282.87
+Utz Brands (UTZ),UTZ,2020-11-23,I,1,$19.55
+Visa (V),V,2020-11-23,D,1,$208.16
+Walmart (WMT),WMT,2020-11-23,D,1,$150.93
+CBAK Energy Technology (CBAT),CBAT,2020-11-24,L,4,$7.12
+Centene (CNC),CNC,2020-11-24,L,1,$63.39
+Chevron (CVX),CVX,2020-11-24,D,1,$95.62
+Dexcom (DXCM),DXCM,2020-11-24,L,1,$313.32
+General Electric (GE),GE,2020-11-24,D,1,$10.45
+HP (HPQ),HPQ,2020-11-24,I,1,$21.75
+Niu Technologies (NIU),NIU,2020-11-24,D,1,$33.10
+Nikola (NKLA),NKLA,2020-11-24,I,4,$34.50
+Pioneer Natural Resources (PXD),PXD,2020-11-24,D,1,$111.35
+Textainer Group (TGH),TGH,2020-11-24,D,1,$19.11
+Apple (AAPL),AAPL,2020-11-30,D,1,$119.05
+Cummins (CMI),CMI,2020-11-30,D,1,$231.17
+Cinemark Holdings (CNK),CNK,2020-11-30,L,4,$15.45
+Carvana (CVNA),CVNA,2020-11-30,I,1,$250.21
+Dell (DELL),DELL,2020-11-30,I,1,$69.03
+Energy Transfer (ET),ET,2020-11-30,L,5,$6.18
+Meta (FB),FB,2020-11-30,D,1,$276.97
+IHS Markit (INFO),INFO,2020-11-30,I,1,$99.46
+Johnson & Johnson (JNJ),JNJ,2020-11-30,L,2,$144.68
+Linde (LIN),LIN,2020-11-30,D,1,$256.42
+Lemonade (LMND),LMND,2020-11-30,L,1,$69.27
+Netflix (NFLX),NFLX,2020-11-30,D,1,$490.70
+Nikola (NKLA),NKLA,2020-11-30,D,4,$20.41
+Olin (OLN),OLN,2020-11-30,L,1,$21.89
+Peloton (PTON),PTON,2020-11-30,L,4,$116.35
+Rocket Companies (RKT),RKT,2020-11-30,L,4,$20.72
+S&P Global (SPGI),SPGI,2020-11-30,I,1,$351.78
+Tesla (TSLA),TSLA,2020-11-30,F,1,$567.60
+Apple (AAPL),AAPL,2020-12-01,D,1,$122.72
+Salesforce (CRM),CRM,2020-12-01,I,1,$241.35
+Meta (FB),FB,2020-12-01,D,1,$286.55
+FedEx (FDX),FDX,2020-12-01,D,1,$287.76
+Kinder Morgan (KMI),KMI,2020-12-01,L,5,$14.10
+Micron Technology (MU),MU,2020-12-01,D,1,$67.08
+Netflix (NFLX),NFLX,2020-12-01,D,1,$504.58
+Nutanix (NTNX),NTNX,2020-12-01,L,5,$27.80
+Roku (ROKU),ROKU,2020-12-01,L,1,$285.71
+Switchback Energy Acquisi (SBE),SBE,2020-12-01,F,5,$29.35
+Snap (SNAP),SNAP,2020-12-01,L,2,$44.50
+Wells Fargo (WFC),WFC,2020-12-01,L,2,$28.06
+Zoom Video Communications (ZM),ZM,2020-12-01,D,1,$406.31
+American Express (AXP),AXP,2020-12-02,D,1,$122.33
+Boeing (BA),BA,2020-12-02,D,1,$223.85
+Chevron (CVX),CVX,2020-12-02,D,1,$89.87
+Walt Disney (DIS),DIS,2020-12-02,D,1,$153.61
+Emergent BioSolutions (EBS),EBS,2020-12-02,L,1,$81.95
+GrowGeneration (GRWG),GRWG,2020-12-02,L,4,$35.43
+Interpublic Group of Comp (IPG),IPG,2020-12-02,L,1,$23.20
+Jumia Technologies (JMIA),JMIA,2020-12-02,L,4,$32.70
+PVH Corp (PVH),PVH,2020-12-02,I,1,$83.29
+Pioneer Natural Resources (PXD),PXD,2020-12-02,D,1,$101.53
+United Continental (UAL),UAL,2020-12-02,D,1,$46.73
+XPO Logistics (XPO),XPO,2020-12-02,I,1,$110.01
+Acadia Pharmaceuticals (ACAD),ACAD,2020-12-07,L,2,$53.38
+API Group (APG),APG,2020-12-07,I,1,$16.72
+Bloom Energy (BE),BE,2020-12-07,L,4,$27.63
+Cryoport (CYRX),CYRX,2020-12-07,L,5,$50.48
+Domino's Pizza (DPZ),DPZ,2020-12-07,L,1,$384.55
+1-800-Flowers (FLWS),FLWS,2020-12-07,L,5,$23.28
+Gilead Sciences (GILD),GILD,2020-12-07,L,5,$60.83
+Lennar (LEN),LEN,2020-12-07,L,1,$76.33
+Li Auto (LI),LI,2020-12-07,L,2,$31.49
+Norwegian Cruise Line (NCLH),NCLH,2020-12-07,D,2,$26.50
+Nio (NIO),NIO,2020-12-07,L,4,$45.11
+ServiceNow (NOW),NOW,2020-12-07,I,1,$533.25
+Vertiv (VRT),VRT,2020-12-07,L,1,$19.39
+Chewy (CHWY),CHWY,2020-12-08,I,1,$79.15
+Quest Diagnostics (DGX),DGX,2020-12-08,L,2,$124.09
+Etsy (ETSY),ETSY,2020-12-08,D,1,$163.97
+Hain Celestial Group (HAIN),HAIN,2020-12-08,I,1,$38.18
+Hanesbrands (HBI),HBI,2020-12-08,L,4,$14.01
+Laboratory Corp. of Ameri (LH),LH,2020-12-08,L,1,$202.10
+Netflix (NFLX),NFLX,2020-12-08,D,1,$512.66
+Okta (OKTA),OKTA,2020-12-08,D,1,$251.13
+Pacific Biosciences (PACB),PACB,2020-12-08,L,5,$22.52
+PVH Corp (PVH),PVH,2020-12-08,L,1,$91.68
+PayPal (PYPL),PYPL,2020-12-08,D,1,$216.94
+Roku (ROKU),ROKU,2020-12-08,D,1,$306.13
+Sea Limited (SE),SE,2020-12-08,L,4,$205.87
+Snowflake (SNOW),SNOW,2020-12-08,D,1,$390.00
+Tesla (TSLA),TSLA,2020-12-08,D,1,$649.88
+Zoom Video Communications (ZM),ZM,2020-12-08,D,1,$412.00
+Bill.com (BILL),BILL,2020-12-09,L,1,$132.00
+Clean Harbors (CLH),CLH,2020-12-09,L,1,$74.33
+Coupa Software (COUP),COUP,2020-12-09,L,1,$307.30
+Chevron (CVX),CVX,2020-12-09,I,1,$90.44
+DoorDash (DASH),DASH,2020-12-09,F,4,$189.51
+Dexcom (DXCM),DXCM,2020-12-09,I,1,$333.39
+Match Group (MTCH),MTCH,2020-12-09,L,1,$143.52
+Renewable Energy Group (REGI),REGI,2020-12-09,L,5,$58.39
+Schlumberger (SLB),SLB,2020-12-09,L,4,$23.37
+Airbnb (ABNB),ABNB,2020-12-10,D,2,$144.71
+AquaBounty Technologies (AQB),AQB,2020-12-10,L,2,$7.00
+Cheesecake Factory (CAKE),CAKE,2020-12-10,L,1,$38.11
+CVS Health (CVS),CVS,2020-12-10,L,1,$72.21
+DoorDash (DASH),DASH,2020-12-10,D,2,$186.00
+Walt Disney (DIS),DIS,2020-12-10,L,1,$154.69
+Edwards Lifesciences (EW),EW,2020-12-10,I,1,$86.74
+Meta (FB),FB,2020-12-10,D,2,$277.12
+fuboTV (FUBO),FUBO,2020-12-10,L,4,$28.90
+QuantumScape (QS),QS,2020-12-10,D,5,$76.61
+Stitch Fix (SFIX),SFIX,2020-12-10,I,1,$59.21
+Snowflake (SNOW),SNOW,2020-12-10,D,2,$373.28
+Tesla (TSLA),TSLA,2020-12-10,D,1,$627.07
+AbbVie (ABBV),ABBV,2020-12-11,D,1,$106.34
+Accenture (ACN),ACN,2020-12-11,D,1,$245.83
+Azek Company (AZEK),AZEK,2020-12-11,F,1,$35.06
+Alibaba (BABA),BABA,2020-12-11,L,1,$264.54
+Bristol-Myers Squibb (BMY),BMY,2020-12-11,L,1,$60.72
+Chewy (CHWY),CHWY,2020-12-11,D,1,$85.11
+Darden Restaurants (DRI),DRI,2020-12-11,D,2,$112.72
+Elanco Animal Health (ELAN),ELAN,2020-12-11,D,1,$28.65
+FedEx (FDX),FDX,2020-12-11,D,2,$289.47
+Fastly (FSLY),FSLY,2020-12-11,L,4,$95.69
+General Mills (GIS),GIS,2020-12-11,D,1,$59.32
+HP (HPQ),HPQ,2020-12-11,L,1,$23.11
+Inseego (INSG),INSG,2020-12-11,I,1,$13.76
+Jabil (JBL),JBL,2020-12-11,D,1,$39.62
+JD.com (JD),JD,2020-12-11,L,1,$82.61
+Lennar (LEN),LEN,2020-12-11,D,2,$72.76
+Herman Miller (MLHR),MLHR,2020-12-11,D,4,$38.15
+Moderna (MRNA),MRNA,2020-12-11,D,2,$156.93
+Nike (NKE),NKE,2020-12-11,D,1,$137.41
+Nano Dimension (NNDM),NNDM,2020-12-11,L,4,$6.14
+NVIDIA (NVDA),NVDA,2020-12-11,L,1,$520.53
+Rite Aid (RAD),RAD,2020-12-11,D,2,$18.46
+Tortoise Energy Infrastru (TYG),TYG,2020-12-11,L,2,$21.92
+United Continental (UAL),UAL,2020-12-11,L,2,$48.36
+Viatris (VTRS),VTRS,2020-12-11,L,4,$17.34
+Amarin (AMRN),AMRN,2020-12-14,L,2,$5.09
+Appian (APPN),APPN,2020-12-14,L,5,$144.18
+Alibaba (BABA),BABA,2020-12-14,L,1,$256.03
+Bed Bath & Beyond (BBBY),BBBY,2020-12-14,L,1,$18.87
+Chevron (CVX),CVX,2020-12-14,D,4,$89.44
+Walt Disney (DIS),DIS,2020-12-14,D,4,$169.30
+Dicks Sporting Goods (DKS),DKS,2020-12-14,L,1,$52.86
+At Home Group (HOME),HOME,2020-12-14,L,1,$15.21
+Lydall (LDL),LDL,2020-12-14,I,1,$29.47
+Las Vegas Sands (LVS),LVS,2020-12-14,D,1,$56.53
+MGM Resorts (MGM),MGM,2020-12-14,D,1,$29.51
+Norwegian Cruise Line (NCLH),NCLH,2020-12-14,D,4,$25.41
+Netflix (NFLX),NFLX,2020-12-14,D,1,$522.42
+Occidental Petroleum (OXY),OXY,2020-12-14,D,4,$19.17
+Parsley Energy (PE),PE,2020-12-14,L,5,$14.01
+Pivotal Investment (PIC),PIC,2020-12-14,L,1,$15.60
+Peloton (PTON),PTON,2020-12-14,D,1,$121.91
+Pioneer Natural Resources (PXD),PXD,2020-12-14,L,1,$113.11
+QuantumScape (QS),QS,2020-12-14,I,2,$56.10
+Sportsman's Warehouse (SPWH),SPWH,2020-12-14,L,4,$11.57
+Vaxart (VXRT),VXRT,2020-12-14,L,5,$7.72
+Wynn Resorts (WYNN),WYNN,2020-12-14,D,1,$107.54
+Exxon Mobil (XOM),XOM,2020-12-14,D,4,$42.22
+XPeng (XPEV),XPEV,2020-12-14,L,5,$47.17
+Yum! Brands (YUM),YUM,2020-12-14,L,4,$105.50
+Apple (AAPL),AAPL,2020-12-15,F,1,$127.88
+Avantor (AVTR),AVTR,2020-12-15,I,1,$27.44
+Costco (COST),COST,2020-12-15,D,1,$371.88
+Dycom Industries (DY),DY,2020-12-15,L,1,$75.74
+Greenwich LifeSciences (GLSI),GLSI,2020-12-15,L,5,$52.90
+Home Depot (HD),HD,2020-12-15,L,2,$267.98
+Lowe's (LOW),LOW,2020-12-15,L,1,$163.33
+Lululemon Athletica (LULU),LULU,2020-12-15,I,1,$356.07
+Nike (NKE),NKE,2020-12-15,D,2,$139.39
+RingCentral (RNG),RNG,2020-12-15,I,1,$353.08
+Sirius XM Radio (SIRI),SIRI,2020-12-15,L,1,$6.39
+Target (TGT),TGT,2020-12-15,D,1,$171.41
+Toyota Motor (TM),TM,2020-12-15,L,1,$152.85
+Triterras (TRIT),TRIT,2020-12-15,L,1,$12.55
+Uber (UBER),UBER,2020-12-15,L,4,$51.00
+Walmart (WMT),WMT,2020-12-15,D,1,$145.58
+Williams-Sonoma (WSM),WSM,2020-12-15,D,2,$110.45
+Advanced Micro Devices (AMD),AMD,2020-12-16,D,1,$96.85
+Broadcom (AVGO),AVGO,2020-12-16,D,1,$424.90
+Boeing (BA),BA,2020-12-16,I,1,$225.87
+Desktop Metal (DM),DM,2020-12-16,L,4,$17.13
+Ford Motor (F),F,2020-12-16,L,1,$9.04
+HCA Healthcare (HCA),HCA,2020-12-16,L,1,$161.56
+Home Depot (HD),HD,2020-12-16,D,1,$269.59
+HP (HPQ),HPQ,2020-12-16,L,1,$23.98
+Intel (INTC),INTC,2020-12-16,D,5,$51.12
+Lowe's (LOW),LOW,2020-12-16,D,1,$163.20
+Lululemon Athletica (LULU),LULU,2020-12-16,D,1,$363.10
+MP Materials (MP),MP,2020-12-16,I,1,$28.23
+Marvell Technology (MRVL),MRVL,2020-12-16,L,1,$45.31
+Micron Technology (MU),MU,2020-12-16,D,1,$72.99
+NVIDIA (NVDA),NVDA,2020-12-16,D,1,$529.70
+Okta (OKTA),OKTA,2020-12-16,I,1,$259.93
+Plug Power (PLUG),PLUG,2020-12-16,L,1,$28.46
+Party City (PRTY),PRTY,2020-12-16,L,5,$5.84
+Qualcomm (QCOM),QCOM,2020-12-16,D,1,$149.74
+Qorvo (QRVO),QRVO,2020-12-16,D,1,$159.00
+Stanley Black & Decker (SWK),SWK,2020-12-16,D,1,$179.44
+Skyworks Solutions (SWKS),SWKS,2020-12-16,D,1,$147.54
+Accenture (ACN),ACN,2020-12-17,F,1,$264.47
+Boeing (BA),BA,2020-12-17,F,1,$221.24
+Cisco Systems (CSCO),CSCO,2020-12-17,L,1,$44.82
+CVS Health (CVS),CVS,2020-12-17,L,1,$69.59
+DocuSign (DOCU),DOCU,2020-12-17,L,1,$247.00
+Home Depot (HD),HD,2020-12-17,L,1,$273.97
+At Home Group (HOME),HOME,2020-12-17,I,1,$16.47
+Kimball International (KBAL),KBAL,2020-12-17,L,4,$12.21
+Kratos Defense & Security (KTOS),KTOS,2020-12-17,L,1,$25.09
+Lennar (LEN),LEN,2020-12-17,F,1,$79.95
+Lowe's (LOW),LOW,2020-12-17,L,1,$163.54
+Southwest Airlines (LUV),LUV,2020-12-17,L,1,$46.39
+McKesson (MCK),MCK,2020-12-17,L,1,$172.91
+Spirit Airlines (SAVE),SAVE,2020-12-17,L,2,$26.57
+SiteOne Landscape Supply (SITE),SITE,2020-12-17,L,1,$150.85
+Veeva Systems (VEEV),VEEV,2020-12-17,I,1,$279.89
+Airbnb (ABNB),ABNB,2020-12-18,D,1,$157.30
+Caterpillar (CAT),CAT,2020-12-18,L,4,$180.96
+DoorDash (DASH),DASH,2020-12-18,D,2,$166.35
+Deere & Company (DE),DE,2020-12-18,L,1,$270.70
+Freeport-McMoRan (FCX),FCX,2020-12-18,L,1,$24.63
+JPMorgan Chase (JPM),JPM,2020-12-18,D,1,$119.08
+Carmax (KMX),KMX,2020-12-18,D,1,$98.25
+Luminar Technologies (LAZR),LAZR,2020-12-18,L,1,$27.62
+Moderna (MRNA),MRNA,2020-12-18,D,2,$140.23
+MasTec (MTZ),MTZ,2020-12-18,L,1,$66.08
+Cloudflare (NET),NET,2020-12-18,I,1,$83.81
+Nike (NKE),NKE,2020-12-18,D,1,$137.28
+Pfizer (PFE),PFE,2020-12-18,D,2,$37.68
+Pivotal Investment (PIC),PIC,2020-12-18,F,1,$15.32
+Snowflake (SNOW),SNOW,2020-12-18,D,1,$334.25
+Tesla (TSLA),TSLA,2020-12-18,F,1,$695.00
+Tupperware (TUP),TUP,2020-12-18,L,5,$31.46
+Velodyne Lidar (VLDR),VLDR,2020-12-18,L,1,$20.07
+Wells Fargo (WFC),WFC,2020-12-18,L,1,$29.01
+AGCO (AGCO),AGCO,2020-12-21,I,1,$103.27
+Citigroup (C),C,2020-12-21,D,1,$61.23
+Chimera Investment (CIM),CIM,2020-12-21,L,5,$10.44
+Co-Diagnostics (CODX),CODX,2020-12-21,L,4,$11.45
+Dollar General (DG),DG,2020-12-21,D,1,$210.96
+Goldman Sachs (GS),GS,2020-12-21,D,1,$256.98
+Home Depot (HD),HD,2020-12-21,D,1,$270.99
+JPMorgan Chase (JPM),JPM,2020-12-21,D,1,$123.55
+Lowe's (LOW),LOW,2020-12-21,D,1,$164.33
+Morgan Stanley (MS),MS,2020-12-21,D,1,$67.83
+Microsoft (MSFT),MSFT,2020-12-21,D,1,$222.59
+Nike (NKE),NKE,2020-12-21,D,1,$144.02
+Nucor (NUE),NUE,2020-12-21,L,1,$54.14
+ON Semiconductor (ON),ON,2020-12-21,L,1,$31.58
+Peloton (PTON),PTON,2020-12-21,D,1,$144.39
+Roku (ROKU),ROKU,2020-12-21,D,1,$354.00
+Snowflake (SNOW),SNOW,2020-12-21,D,1,$349.85
+Thor Industries (THO),THO,2020-12-21,I,1,$99.92
+Thermo Fisher Scientific (TMO),TMO,2020-12-21,L,1,$462.88
+United States Steel (X),X,2020-12-21,L,5,$17.38
+ZScaler (ZS),ZS,2020-12-21,L,1,$199.62
+Apple (AAPL),AAPL,2020-12-22,D,1,$131.88
+Salesforce (CRM),CRM,2020-12-22,L,1,$231.17
+CRISPR Therapeutics (CRSP),CRSP,2020-12-22,L,1,$170.08
+Enterprise Products Partn (EPD),EPD,2020-12-22,L,5,$20.18
+Exact Sciences (EXAS),EXAS,2020-12-22,L,1,$142.12
+General Motors (GM),GM,2020-12-22,L,1,$40.90
+Goodyear Tire & Rubber (GT),GT,2020-12-22,L,5,$10.01
+Hyliion (HYLN),HYLN,2020-12-22,L,1,$17.22
+Illumina (ILMN),ILMN,2020-12-22,L,1,$370.96
+Lockheed Martin (LMT),LMT,2020-12-22,L,1,$347.92
+The Container Store (TCS),TCS,2020-12-22,I,1,$12.04
+Tesla (TSLA),TSLA,2020-12-22,D,1,$640.34
+Twilio (TWLO),TWLO,2020-12-22,I,1,$370.75
+ContextLogic (WISH),WISH,2020-12-22,L,4,$22.19
