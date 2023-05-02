@@ -1,13 +1,21 @@
+"""
+This script fetches Mad Money's stock calls from TheStreet.com's website
+with the help of Playwright and BeautifulSoup, and saves the data to /data/thestreet/.
+"""
 from playwright.sync_api import sync_playwright
 import time
 from bs4 import BeautifulSoup
 import csv
 from datetime import date, timedelta
+from os.path import join
+
+# output path
+output_path = "../data/thestreet/"
 
 # Specify whether to inverse Cramer's calls and date range
 inverse = True
 start = "2017-01-01"
-end = "2017-12-31"
+end = "2021-12-31"
 
 # Specify whether to include Lightning Round's calls
 lightning = False
@@ -74,6 +82,7 @@ with sync_playwright() as p:
         file_name = 'MadMoneyInversedData_no_lightning_{}_{}.csv'
     else:
         file_name = 'MadMoneyData_no_lightning_{}_{}.csv'
+    file_name = join(output_path, file_name)
 
     # Save data collected to csv file
     with open(file_name.format(start, end), 'w') as csvfile:
