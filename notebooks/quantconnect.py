@@ -15,22 +15,10 @@ from io import StringIO
 CSV_PATH = "https://raw.githubusercontent.com/Edward-choi/FINA4350/main/data/backtest/cramer_top_picks_2017-2022.csv"
 
 class CramerStock(PythonData):
-    """
-    "remarC" Strategy Specification
+    """Custom Data class for Jim Cramer's Top Picks from Mad Money from 2017-2022
 
-    Period:
-    - Jan 2017 - Dec 2021
-
-    Portfolio Specifications:
-    - Rebalance weekly
-    - an equal-weighted portfolio
-    - Start of each month: buy 5 and sell 5
-    - Rank = frequency * sentiment (defined in prepare_backtest.ipynb)
-
-    Experiments:
-    - (L/S) Long bottom 5 picks, Short top 5 picks 
-    - (L) Long bottom 5 picks, Short SPY 
-    - (S) Short top 5 picks, Long SPY
+    > Date,Top5,Bottom5
+    > 2017-01-31,"['M', 'TGT', 'KSS', 'UA', 'FSLR']","['AMZN', 'BAC', 'JPM', 'AAPL', 'UNH']"
     """
 
     def __init__(self):
@@ -64,6 +52,23 @@ class CramerStock(PythonData):
         return index
 
 class CramerInversePerformance(QCAlgorithm):
+    """
+    "remarC" Strategy Specification
+
+    Period:
+    - Jan 2017 - Dec 2021
+
+    Portfolio Specifications:
+    - Rebalance weekly
+    - an equal-weighted portfolio
+    - Start of each month: buy 5 and sell 5
+    - Rank = frequency * sentiment (defined in prepare_backtest.ipynb)
+
+    Experiments:
+    - (L/S) Long bottom 5 picks, Short top 5 picks 
+    - (L) Long bottom 5 picks, Short SPY 
+    - (S) Short top 5 picks, Long SPY
+    """
 
     def __init__(self):
         self.top5 = []
