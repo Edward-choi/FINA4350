@@ -4,9 +4,14 @@ This project investigates the so-called "inverse Cramer effect," which claims th
 
 ## Data Collection
 
+`data_preparation.ipynb` extracts stock price data from Yahoo Finance. The collected data is saved to `/sources/data.csv`
+
 `fetch_madmoney.py` pulls the Mad Money stock picks from The Street website and saves them to `/data/thestreet/` by web scraping TheStreet.com using Playwright and BeautifulSoup. The data collected includes stock symbols, recommendation dates, and sentiment scores. We store the extracted information in a structured format, such as a CSV file, for further analysis.
 
-To gather relevant tweets from Jim Cramer, we use the `snscrape` library to scrape data from his Twitter account. We collect tweets containing stock symbols and their respective timestamps within a specified date range. The collected data is preprocessed, cleaned, and stored in a Pandas DataFrame for subsequent analysis. When the Twitter Search API is disabled for clients not logging in, we scrape nitter.net manually instead via `/experiments/fetch_tweets.ipynb`
+`data_preparation.ipynb` extracts tweets posted by Jim Cramer. The scraped data is 
+To gather relevant tweets from Jim Cramer, we use the `snscrape` library to scrape data from his Twitter account. We collect tweets containing stock symbols and their respective timestamps within a specified date range. The collected data is preprocessed, cleaned, and saved to `/sources/data.csv`. 
+
+When the Twitter Search API is disabled for clients not logging in, we scrape nitter.net manually instead via `/experiments/fetch_tweets.ipynb`
 
 ## Data preparation procedure
 1. `data_preparation.ipynb` extracts tweets posted by Jim Cramer. The scraped data is saved to `/sources/data.csv`

@@ -1,3 +1,10 @@
+---
+Title: Data preparation (by "Group 1")
+Date: 2023-04-16 10:00
+Category: Progress Report
+Tags: Group 1 remarC
+---
+
 # Data preparation
 
 In this blog post, we will introduce how we prepare the financial and social data using web scrapers and APIs.

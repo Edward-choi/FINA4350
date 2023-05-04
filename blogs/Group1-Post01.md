@@ -1,5 +1,5 @@
 ---
-Title: Inverse Jim Cramer (by "Group 1")
+Title: Inverse Jim Cramer Project Overview (by "Group 1")
 Date: 2023-04-12 10:00
 Category: Progress Report
 Tags: Group 1 remarC

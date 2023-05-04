@@ -38,5 +38,7 @@ Classification in sentiment analysis means assigning sentiment labels to text, s
 ### Output
 The model outputs a score representing the sentiment expressed in the text, ranging from 1 (most negative) to 5 (most positive). For example, the model outputs a score of 1 for "To me the worst quarter of the season so far is $MMM. Just dismal with a 'dry' January included", indicating that it expresses highly negative sentiment.
 
-## Conclusion
+## Conclusion and reflections
 Through this experience, we have realized the importance of the tokenization and encoding process in capturing the true meaning and context of the text. We found the nlptown/bert-base-multilingual-uncased-sentiment model to be a versatile and effective tool for analyzing sentiment in text across multiple languages. Using WordPiece tokenization and transformer-based encoding, it can accurately predict sentiment labels for input text in a variety of formats.
+
+Owing to time constraints, we were not able to fine-tune the model on our data. We believe that fine-tuning the model on our data would improve its performance, as it would learn to recognize the jargons used in financial commentary and the style of Jim Cramer.
