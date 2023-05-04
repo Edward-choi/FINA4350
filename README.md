@@ -8,6 +8,9 @@ This project investigates the so-called "inverse Cramer effect," which claims th
 
 To gather relevant tweets from Jim Cramer, we use the `snscrape` library to scrape data from his Twitter account. We collect tweets containing stock symbols and their respective timestamps within a specified date range. The collected data is preprocessed, cleaned, and stored in a Pandas DataFrame for subsequent analysis. When the Twitter Search API is disabled for clients not logging in, we scrape nitter.net manually instead via `/experiments/fetch_tweets.ipynb`
 
+## Data preparation procedure
+1. `data_preparation.ipynb` extracts tweets posted by Jim Cramer. The scraped data is saved to `/sources/data.csv`
+2. `data_preparation.ipynb` extracts finance data from Yahoo Finance. The collected data is saved to `/sources/data.csv`
 
 ## Backtesting procedure
 1. `prepare_backtest.ipynb` reads the Mad Money stock picks from `/data/thestreet/` and prepares the ranked top picks for backtesting. The prepared data is saved to `/data/backtest/`

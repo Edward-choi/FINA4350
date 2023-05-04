@@ -14,7 +14,7 @@ Overall, snscrape can be a useful tool for scraping data from social media platf
 
 ### Extract data from Twitter
 
-To scrape data from Twitter using snscrape, we first define the cashtag (symbol for a stock or cryptocurrency) we want to search for. Then, we use the TwitterSearchScraper method from snscrape to scrape tweets that contain the cashtag. Finally, we store the scraped tweets in a pandas DataFrame and export it to a csv file.
+To scrape data from Twitter using snscrape, we first define the cashtag (symbol for a stock or cryptocurrency) we want to search for. Then, we use the TwitterSearchScraper method from snscrape to scrape tweets that contain the cashtag. After removing special characters, we store the scraped tweets in a pandas DataFrame and export it to a csv file.
 
 ```
 import snscrape.modules.twitter as sntwitter
@@ -42,9 +42,12 @@ One of the advantages of yfinance is its comprehensive data coverage, which make
 
 Moreover, yfinance uses multithreading to download data in parallel, which can significantly improve performance. This allows users to download large amounts of historical stock data quickly and efficiently. Additionally, yfinance's ability to download data in parallel makes it possible to retrieve data for multiple stocks or assets at once, further improving performance.
 
-### Financial data extraction
+## Financial data extraction
 
-To extract the corresponding financial data from yfinance, we used the ticker.history method to trace back the history of a given stock symbol by passing in the start and end dates as parameters. For example, `yfinance.Ticker("MSFT").history(start="2020-01-01", end="2022-01-31")` returns us the historical data of Microsoft in the whole January in 2020, including daily trading volume and closing prices. In particular, we extract the closing prices of the stocks on the 0th day (the day when Jim Cramer post the tweet), 30th day, 90th day and 180th day. If no data is available on that day (non-trading day), we extended the request date by 1 day until the data is successfully fetched.
+To extract the corresponding financial data from yfinance, we used the ticker.history method to trace back the history of a given stock symbol by passing in the start and end dates as parameters. For example, `yfinance.Ticker("MSFT").history(start="2020-01-01", end="2022-01-31")` returns us the historical data of Microsoft in the whole January in 2020, including daily trading volume and closing prices. In particular, we extract the closing prices of the stocks on the 0th day (the day when Jim Cramer post the tweet), 30th day, 90th day and 180th day.
+
+## Difficulties
+Sometimes that the target day may be a non-trading day (public hollidays or weekends). If no data is available on that day, the API call will return an error `No data found, symbol may be delisted`. To solve this problem, we extended the request date by 1 day until the data is successfully fetched.
 
 ```
 from datetime import datetime, timedelta, date
@@ -78,3 +81,7 @@ def yfSearch(row, days):
             adj += 1
 ```
 
+## Conclusion
+Through this journet, we have learned the importance of selecting the right tools for the task at hand. We found snscrape to be a useful tool for scraping data from social media platforms, as it can help prevent rate limit errors and avoid triggering restrictions. Additionally, we found yfinance to be a convenient and efficient way to download historical stock price data, with its comprehensive data coverage and ability to download data in parallel.
+
+Through this experience, we have also encountered some difficulties, such as non-trading days and the need to extend the request date to fetch data successfully. However, we have found that these challenges can be overcome with careful planning and attention to detail.
