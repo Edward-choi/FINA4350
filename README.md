@@ -1,5 +1,8 @@
 # FINA4350
 
+## Data preparation procedure
+1. `data_preparation.ipynb` extracts tweets posted by Jim Cramer. The scraped data is saved to `/sources/data.csv`
+2. `data_preparation.ipynb` extracts finance data from Yahoo Finance. The collected data is saved to `/sources/data.csv`
 
 ## Backtesting procedure
 1. `fetch_madmoney.py` pulls the Mad Money stock picks from The Street website and saves them to `/data/thestreet/`

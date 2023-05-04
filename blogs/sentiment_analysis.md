@@ -19,6 +19,13 @@ For example, the word "unhappy" might be broken down into two subwords: "un" and
 ### Encoding
 Encoding involves converting text into numerical vectors that can be understood and processed by NLP models. Our model uses a technique called transformer-based encoding. It feeds the tokens into a deep neural network. Such a network consists of multiple layers of transformers, which are capable of processing text in a bidirectional manner, capturing the context of words in both directions. Finally, a numerical vector representing the meaning of the token based on the context of the surrounding words is outputed.
 
+nlptown/bert-base-multilingual-uncased-sentiment provides an easy way for us to encode the text in a few lines.
+
+'''
+tokenizer = AutoTokenizer.from_pretrained('nlptown/bert-base-multilingual-uncased-sentiment')
+tokens = tokenizer.encode(row['Text'], return_tensors='pt')
+'''
+
 ### Classification
 Classification in sentiment analysis means assigning sentiment labels to text, such as positive, negative, or neutral. Once the input text has been encoded, the encoded text vectors are fed into the neural network classifier. The classifier applies a set of matrix transformations and nonlinear functions to the encoded text vectors to generate a prediction of the sentiment label. Specifically, the neural network takes the sequence of encoded text vectors as input and applies a series of dense layers, followed by a final softmax layer, to generate a distribution over the possible sentiment labels.
 
@@ -26,4 +33,4 @@ Classification in sentiment analysis means assigning sentiment labels to text, s
 The model outputs a score representing the sentiment expressed in the text, ranging from 1 (most negative) to 5 (most positive). For example, the model outputs a score of 1 for "To me the worst quarter of the season so far is $MMM. Just dismal with a 'dry' January included", indicating that it expresses highly negative sentiment.
 
 ## Conclusion
-To conclude, the nlptown/bert-base-multilingual-uncased-sentiment model is a highly effective tool for sentiment analysis on text in multiple languages. It uses a transformer-based encoding technique to capture text meaning based on the context of surrounding words and a neural network classifier to predict sentiment. The model has achieved state-of-the-art performance in various NLP tasks, including sentiment analysis and text classification. Its versatility, accuracy, and efficiency make it a valuable tool for businesses and organizations seeking to understand customer sentiment and analyze text data in multiple languages.
+Through this experience, we have realized the importance of the tokenization and encoding process in capturing the true meaning and context of the text. We found the nlptown/bert-base-multilingual-uncased-sentiment model to be a versatile and effective tool for analyzing sentiment in text across multiple languages. Using WordPiece tokenization and transformer-based encoding, it can accurately predict sentiment labels for input text in a variety of formats.
