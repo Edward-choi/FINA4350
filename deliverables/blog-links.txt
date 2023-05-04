@@ -1,1 +1,9 @@
-{\rtf1}
+
+https://buehlmaier.github.io/FINA4350-student-blog-2023-01/inverse-jim-cramer-project-overview-group-1.html
+
+https://buehlmaier.github.io/FINA4350-student-blog-2023-01/data-preperation-group-1.html
+
+https://buehlmaier.github.io/FINA4350-student-blog-2023-01/sentiment-analysis-with-bert-group-1.html
+
+https://buehlmaier.github.io/FINA4350-student-blog-2023-01/navigating-the-world-of-backtesting-frameworks-a-journey-with-quantconnect-group-1.html
+
