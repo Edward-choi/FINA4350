@@ -1,3 +1,10 @@
+---
+Title: Inverse Jim Cramer (by "Group 1")
+Date: 2023-04-12 10:00
+Category: Progress Report
+Tags: Group 1 remarC
+---
+
 # Introduction
   
 In this blog, I will share with you an overview of our project and how we came up with the idea.

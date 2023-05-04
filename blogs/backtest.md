@@ -1,6 +1,11 @@
-# Navigating the World of Backtesting Frameworks: A Journey with QuantConnect
+---
+Title: Navigating the World of Backtesting Frameworks - A Journey with QuantConnect (by "Group 1")
+Date: 2023-04-24 10:00
+Category: Progress Report
+Tags: Group 1 remarC
+---
 
-## Introduction:
+## Introduction
 
 In the realm of algorithmic trading, backtesting plays a crucial role in validating a trading strategy before it is deployed in the live market. For our project, we are developing and evaluating a trading strategy based on the Inverse Cramer Effect, which exploits the negative correlation between Jim Cramer's top and bottom picks from Mad Money. However, Selecting the right backtesting framework can be a daunting task, especially with the myriad of options available in Python. 
 

@@ -1,5 +1,11 @@
-# Sentiment analysis
-In this blog post, we will introduce how we use BERt to analyse the text data collected from data_preparation.md.
+---
+Title: Sentiment Analysis with BERT (by "Group 1")
+Date: 2023-04-19 10:00
+Category: Progress Report
+Tags: Group 1 remarC
+---
+
+In this blog post, we will introduce how we use BERT to analyse the text data collected from data_preparation.md.
 
 ## BERT
 BERT (Bidirectional Encoder Representations from Transformers) is a pre-trained natural language processing (NLP) model developed by Google. It is based on the Transformer architecture, which is a neural network architecture designed to handle sequential data, such as natural language. The model is pre-trained on a large corpus of text data and can be fine-tuned on specific NLP tasks, such as sentiment analysis, question-answering, and text classification. It has achieved state-of-the-art results on many NLP benchmarks and has become a popular choice for NLP tasks.
